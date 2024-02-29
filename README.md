@@ -1,1 +1,13 @@
+A Buffer Copy without Checking Size of Input ('Classic Buffer Overflow') vulnerability exists that, when exploited, allows an attacker to cause a denial-of-service (DoS) condition.
+We are currently unaware of exploitation activity in the wild, and exploit code is not publicly available.
+Mandiant Intelligence considers this a Low-risk vulnerability due to the potential for a denial-of-service (DoS) condition.
 
+
+Cisco Systems Inc. has provided the following description: A vulnerability with the handling of MPLS traffic for Cisco NX-OS Software could allow an unauthenticated, remote attacker to cause the netstack process to unexpectedly restart, which could cause the device to stop processing network traffic or to reload. This vulnerability is due to lack of proper error checking when processing an ingress MPLS frame. An attacker could exploit this vulnerability by sending a crafted IPv6 packet that is encapsulated within an MPLS frame to an MPLS-enabled interface of the targeted device. A successful exploit could allow the attacker to cause a denial of service (DoS) condition. Note: The IPv6 packet can be generated multiple hops away from the targeted device and then encapsulated within MPLS. The DoS condition may occur when the NX-OS device processes the packet.
+
+Exploitation State
+No known
+Exploited as Zero-Day
+No
+Exploited in the Wild 
+No
