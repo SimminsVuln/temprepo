@@ -1,2 +1,32 @@
 	
 CVE-2023-32460 CVE-2023-45229 CVE-2023-45235 CVE-2023-45233 CVE-2023-45237 CVE-2023-45236 CVE-2023-33870 CVE-2023-45231 CVE-2023-45230 CVE-2023-45234 CVE-2023-45232 CVE-2023-39432 
+
+
+CVE-2024-28088
+CVSS High
+trending-graph
+CVE-2024-26621
+Linux
+CVSS 5.5
+trending-graph
+CVE-2024-0765
+CVSS High
+trending-graph
+CVE-2024-21338
+Microsoft
+CVSS 7.8 / Exploit
+trending-graph
+CVE-2023-50378
+Apache
+CVSS Medium
+trending-graph
+CVE-2024-1709
+Connectwise
+CVSS 10 / Exploit
+trending-graph
+CVE-2023-4479
+CVSS 7.3
+trending-graph
+CVE-2024-27351
+CVSS 7.5
+trending-graph
