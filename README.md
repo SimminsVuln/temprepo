@@ -1,4 +1,4 @@
-CVE-2024-20952
+[CVE-2024-20952
 CVE-2023-33850
 CVE-2024-20926
 CVE-2024-20921
@@ -14,3 +14,4 @@ CVE-2024-1222
 CVE-2023-50168
 CVE-2023-44487
 
+](https://www.youtube.com/watch?v=jst-QvJG4a4&ab_channel=SimminsSims)https://www.youtube.com/watch?v=jst-QvJG4a4&ab_channel=SimminsSims
