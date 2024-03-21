@@ -1,116 +1,59 @@
-https://thehackernews.com/2024/03/new-loop-dos-attack-impacts-hundreds-of.html
-https://docs.google.com/document/d/1KByZzrdwQhrXGPPCf9tUzERZyRzg0xOpGbWoDURZxTI/edit#heading=h.edovh0fxvs07
+Loop DoS attack may impact hundreds of thousands of systems: Here’s what you need to know.
 
+ 
 
-Broadcom Affected
-Notified:  2024-01-17 Updated: 2024-03-19
- 
-Statement Date:   January 17, 2024
-CVE-2009-3563	Unknown
-CVE-2024-1309	Unknown
-CVE-2024-2169	Affected
-Vendor Statement
- 
-Some older DSL/PON/Wifi routers has dproxy-nexgen as part of their SDK, optionally used by SDK customers. Customers of those SDKs have been provided with a patch.
-All newer SDKs, beginning with releases in 2021, have had dproxy-nexgen removed.
- 
-Cisco Affected
-Notified:  2024-01-17 Updated: 2024-03-19
- 
-Statement Date:   March 12, 2024
-CVE-2009-3563	Affected
-Vendor Statement:
-Cisco Published the following Security Advisory regarding the issue back in 2009. Advisory ID: Cisco-SA-20091208-CVE-2009-3563
+A new way of causing denial-of-service (DoS) attacks has been discovered that affects application-layer protocols that use User Datagram Protocol (UDP), potentially exposing hundreds of thousands of hosts to harm. The method, called Loop DoS attacks, involves linking servers of several protocols in a way that makes them keep talking to each other without end. UDP is inherently a connectionless protocol that does not check source IP addresses, making it easy to fake them. Therefore, when attackers create several UDP packets with a victim IP address, the target server replies to the victim (instead of the attacker), resulting in a reflected denial-of-service (DoS) attack.
 
-References:
-https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/Cisco-SA-20091208-CVE-2009-3563
-CVE-2024-1309	Not Affected
-CVE-2024-2169	Not Affected
-Vendor Statement
  
-Cisco Reviewed the disclosed vulnerabilities via PSIRT-0133586819:
-UDP-based legacy protocols (QOTD, Chargen, and Echo, Time, Daytime and Active Users) * These should be disabled by default on all Cisco products.
-DNS Using POC provided: * Cisco Umbrella will drop these packets. * Cisco Prime Network Registrar will drop these packets. * The only products using dproxy-nexgen or dproxy are Cisco RV132W and RV134W; which are end of life.
-TFTP * Currently no known products are affected.
-NTP Cisco published https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/Cisco-SA-20091208-CVE-2009-3563 regarding this vulnerability back in 2009.
+
+The newest research showed that some ways of using the UDP protocol, such as DNS, NTP, TFTP, Active Users, Daytime, Echo, Chargen, QOTD, and Time, can be exploited to create a self-sustaining attack loop. The attack connects two network services in such a way that they keep sending messages to each other endlessly, creating a lot of traffic that leads to a denial-of-service for the systems or networks involved. Once the loop is started by a trigger from the attackers, even they cannot stop the attack.
+
  
-Honeywell Affected
-Notified:  2024-01-17 Updated: 2024-03-19
+
+CISPA, the group of researchers who originally identified this weakness, says that 300,000 hosts and their networks are vulnerable to Loop DoS attacks. The researchers said that there is no proof that the attack has been used for malicious purposes yet, but the exploitation is easy. They also list several products that they have identified as being potentially vulnerable.
+
  
-Statement Date:   January 22, 2024
-CVE-2009-3563	Unknown
-CVE-2024-1309	Unknown
-CVE-2024-2169	Affected
-Vendor Statement
+
+Software affected.
+
+This list is not complete, and they invite any software developers to contact them if they think their software might be exposed to this attack.
+
  
-We are affected in out of support products.
+
+TFTP:
+
+atftpd not affected (uses random source port for responses)
+
+tftpd not affected (uses random source port for responses)
+
  
-Microsoft Affected
-Notified:  2024-01-17 Updated: 2024-03-19
+
+NTP:
+
+ntpd before version 4.2.4p8 and version 4.2.5 (CVE-2009-3563)
+
  
-Statement Date:   February 16, 2024
-CVE-2009-3563	Unknown
-CVE-2024-1309	Unknown
-CVE-2024-2169	Affected
-Vendor Statement
+
+DNS:
+
+dproxy-nexgen
+
  
-This issue has been assessed as a service impacting denial of service against WDS, but it does not result in a crash of the host system. A fix for this issue will be considered for a future version of Windows. Microsoft recommends following best security practices when deploying any service which includes restricting access at edge firewalls to any ports that do not require external access.
+
+Legacy protocols:
+
+At least the QOTD, Chargen, Echo, Time, Daytime and Active Users protocols are affected. These protocols were historically implemented as part of inetd in Linux and can be disabled in inetd.conf.
+
  
-MikroTik Affected
-Notified:  2024-01-17 Updated: 2024-03-19
+
+Vulnerabilities 
+
+Currently, these vulnerabilities are labeled as CVE-2009-3563, CVE-2024-1309, and CVE-2024-2169. Below are some vendors that researchers suspect might be affected. The researchers are still in contact with several vendors to verify if more products are involved.
+
  
-Statement Date:   January 17, 2024
-CVE-2009-3563	Unknown
-CVE-2024-1309	Unknown
-CVE-2024-2169	Affected
-Vendor Statement
- 
-Our TFTP service is affected, we have resolved the issue in 7.14beta6 version. Stable versions after 7.13.2 will include a patch for this issue.
- 
-Allegro Software Development Corporation Not Affected
-Notified:  2024-01-17 Updated: 2024-03-19
- 
-Statement Date:   January 17, 2024
-CVE-2009-3563	Unknown
-CVE-2024-1309	Unknown
-CVE-2024-2169	Not Affected
-Vendor Statement
-We have not received a statement from the vendor.
-Technicolor Not Affected
-Notified:  2024-01-17 Updated: 2024-03-19
- 
-Statement Date:   March 14, 2024
-CVE-2009-3563	Not Affected
-CVE-2024-1309	Not Affected
-CVE-2024-2169	Not Affected
-Vendor Statement
-We have not received a statement from the vendor.
-Zyxel Unknown
-Notified:  2024-01-17 Updated: 2024-03-19
- 
-CVE-2009-3563	Unknown
-CVE-2024-1309	Unknown
-CVE-2024-2169	Unknown
-Vendor Statement
-We have not received a statement from the vendor.
-CERT Addendum
- 
-The following end-of-life products are affected: ZyWALL 2, ZyWALL 2 Plus, ZyWALL 2WG, ZyWALL 5, ZyWALL 35, and ZyWALL 70
-We recommend replacing these devices, as the vendor has indicated that patches will not be provided for them.
- 
-ARRIS Unknown
-Notified:  2024-01-17 Updated: 2024-03-19
- 
-CVE-2009-3563	Unknown
-CVE-2024-1309	Unknown
-CVE-2024-2169	Unknown
-Vendor Statement
-We have not received a statement from the vendor.
-Brother USA Unknown
-Notified:  2024-01-17 Updated: 2024-03-19
- 
-CVE-2009-3563	Unknown
-CVE-2024-1309	Unknown
-CVE-2024-2169	Unknown
-Vendor Statement
-We have not received a statement from the vendor.
+
+Sources:
+
+CISPA Advisory on Application-Layer Loop DoS - Google Docs
+
+VU#417980 - Implementations of UDP-based application protocols are vulnerable to network loops (cert.org)
