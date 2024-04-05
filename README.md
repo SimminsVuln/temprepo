@@ -1,3 +1,15 @@
+Newly discovered HTTP/2 vulnerabilities called “CONTINUATION Flood” can lead to DDoS attack that crash web servers with just a single TCP connection. 
+HTTP/2 uses binary framing for data transmission; its messages include header and trailer sections serialized into blocks. The “HEADERS” frame allows HTTP headers to be sent for both requests and responses. It has a maximum size which, if exceeded, the transmission will disconnect. In this case, senders use the CONTINUATION frames to inform recipients that they are delivering more header blocks. The sender sets an “end flag” after the transmission is completed. 
+The CONTINUATION Flood vulnerabilities occur when HTTP/2 implementations are not properly check, such as without Header size limit or request timeouts, and the attacker deliberately sends an extremely long string of frames without setting an end flag. It creates an infinite stream of headers and CONTINUATION frames that the HTTP/2 server would need to parse and store in memory. The abuse leads to different level of DDoS attacks, like memory leak, memory consumption and CPU exhaustion. Following vulnerabilities are associated with the CONTINUATION Flood and notified Indication & Warning Team for review:
+•	CVE-2024-27983
+•	CVE-2024-27919
+•	CVE-2024-2758
+•	CVE-2024-2653
+•	CVE-2023-45288
+•	CVE-2024-28182
+•	CVE-2024-27316
+•	CVE-2024-31309
+•	CVE-2024-30255
 
 FYSA: HTTP/2 Vulnerabilities - Mandiant Rates all of these as Low Risk currently. Limited data available for scoring or detection. 
 
