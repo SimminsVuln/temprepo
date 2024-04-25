@@ -1,30 +1,9 @@
-The following is the powershell script for whois lookup. You can copy and paste it into a text editor and save it as a .ps1 file, or run it directly from the powershell console.
-# Define the whois API URL
-$whoisApi = "[URL]="
-# Prompt the user to enter a domain or IP address
-$domainOrIp = Read-Host "Enter a domain or IP address"
-# Validate the input
-if ($domainOrIp -match "^[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$" -or $domainOrIp -match "^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$") {
-# Append the input to the API URL
-$url = $whoisApi + $domainOrIp
-# Invoke the API and convert the JSON response to a powershell object
-$response = Invoke-RestMethod -Uri $url | ConvertFrom-Json
-# Check if the response contains an error
-if ($response.error) {
-# Display the error message
-Write-Host $response.error -ForegroundColor Red
-}
-else {
-# Display the whois information in a table
-$response | Format-Table -AutoSize
-}
-}
-else {
-# Display an invalid input message
-Write-Host "Invalid input. Please enter a valid domain or IP address." -ForegroundColor Yellow
-}
-Usage
-To use the script, you need to have powershell installed on your system. You can check the version of powershell by running the following command in the powershell console:
-$PSVersionTable.PSVersion
-The script requires powershell version 3.0 or higher, which supports the Invoke-RestMethod cmdlet. If you have an older version of powershell, you can update it from the Microsoft website.
-To run the script, you can either execute it from the powershell console, or right-click on the .ps1 file and select "Run with PowerShell". You will be prompted to enter a domain or IP address, and the script will display the whois information in a table. 
+Cisco revised an advisory that they published in October for CVE-2023-20198, Cisco IOS XE Web UI Privilege Escalation Vulnerability, informing administrators that the exploit code is now publicly available. Before, only a few attackers with access to their own code could exploit the vulnerability, but now that the code is out in the wild, more hackers with different abilities could use it. Cisco advises immediate patching.
+
+In the last part of October 2023, Cisco warned administrators of the zero-day in its IOS XE software, affecting devices with a Web User Interface (Web UI) turned on and HTTP or HTTPS server features running. This severe security flaw was being used by attackers who did not need authentication to take over the routers and switches completely.
+Horizon3.ai researchers revealed how the exploit functioned. They demonstrated that attackers could modify HTTP requests to the WSMA service in iosd—a crucial binary in Cisco’s software suite. This modification involved creating a configuration file for OpenResty, which has a vulnerability under CVE-2023-20198. 
+Attackers could use SOAP requests to WSMA to execute commands that let them access the configuration features, where they could make a user with the highest privileges (level 15). This compromise completely gives the attackers full control, which lets them put malicious implants on the devices without exploiting more vulnerabilities.
+Before, this bug was only exploited by a handful of sophisticated attackers. The situation worsened today when a security researcher who goes by W01fh4cker published a proof-of-concept (PoC) exploit code for CVE-2023-20198, making the exploit available to anyone. Now, hackers of all levels of expertise can easily take over routers and switches that are vulnerable. An increasing number of attacks threaten businesses, infrastructure providers, and government entities.
+Cisco revised its original security bulletin and offered necessary patches for IOS XE to address the vulnerability. The company has encouraged all users with possibly vulnerable configurations to update their devices right away to avoid exploitation. They also advise reviewing their device configurations and disabling the Web UI feature if it is not in use. 
+I&W is collaborating with VM to assess the potential exposure and remediate any vulnerable devices affected by this vulnerability.
+
