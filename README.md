@@ -1,1 +1,5 @@
-https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices
+Okta has experienced a huge spike of credential stuffing attacks against its identity management service users in the last month. The attacks resemble the credential stuffing activity that hit Cisco in March. The activity is said to come from TOR exit nodes, residential proxies, and other services that hide the attackers' identity. Organizations that prevent access from anonymizing proxies saw lower success rates. The attacks are not targeting a specific industry or region, but rather any opportunity. Okta shared some advice with customers and mentioned some customer accounts that were affected.  
+
+I want to point out that the previous credential stuffing attack on Cisco in March was associated with a botnet called “Brutus” which has not been connected to this recent surge of activity affecting Okta. Attackers who carry out these attacks usually use lists of previously compromised credentials and scripting tools. I would recommend keeping an eye on the details of what exactly was used here and if it’s related to Brutus botnet and the extensive activity reported a month ago. 
+
+https://sec.okta.com/blockanonymizers
