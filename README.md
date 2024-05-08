@@ -1,5 +1,11 @@
-Summary: Deep Instinct Threat Lab has discovered a targeted operation against Ukraine in which hackers are using an old zero-day vulnerability, CVE-2017-8570, as the initial vector and a custom loader for Cobalt Strike Beacon, a professional pen-testing tool designed for evaluating computer security by red teams. However, in this attack, hackers have used a cracked version with no legitimate user. They’ve exploited CVE-2017-8570, an old Microsoft Office vulnerability identified in 2017, to launch the Cobalt Strike Beacon, targeting Ukraine’s systems. They used a malicious PPSX (PowerPoint Slideshow) file disguised as an old US Army instruction manual for mine-clearing tank blades, bypassing traditional security measures and allowing them to hide the payload and complicate analysis. The file used a “script:” prefix before the HTTPS URL to hide the payload and complicate analysis. The use of the Cobalt Strike loader, a malicious, versatile toolset commonly employed in targeted attacks, suggests a sophisticated approach by the attackers. Deep Instinct’s research indicates that attackers are actively leveraging zero-day exploits, which are vulnerabilities unknown to security software vendors. This makes them particularly dangerous as traditional defences may not be able to detect and block them.
-
-Analyst comment: This sophisticated attack strategy employs an old vulnerability, illustrating a concerning trend in which attackers reuse old exploits against critical systems, potentially because of their proven effectiveness and the slow patching process. Organizations should prioritize updating and patching their software, conduct regular security audits, and enhance their threat detection capabilities to mitigate such advanced threats and protect against the reuse of old vulnerabilities.
-
-https://www.hackread.com/microsoft-office-0-day-exploited-cobalt-strike/
+CVE-2024-3661
+CVSS: 7.6
+EPSS: TBD
+POC Code: Yes, pentesting tool available for release soon via GitHub
+Active Exploitation: Not Known
+ 
+From A VM standpoint this vulnerability has no detection capability at this time, nor is it in the Qualys Detection Pipeline. I don't know how likely it will be that it gets assigned a QID because of the nature of the vulnerability. 
+ 
+Original Writeup: CVE-2024-3661: [TunnelVision - How Attackers Can Decloak Routing-Based VPNs For a Total VPN Leak — Leviathan Security Group - Penetration Testing, Security Assessment, Risk Advisory](https://www.leviathansecurity.com/blog/tunnelvision)
+ 
+Here is a good POC demo video from Leviathan: TunnelVision - CVE-2024-3661 - [Decloaking Full and Split Tunnel VPNs - Leviathan Security Group (youtube.com)](https://www.youtube.com/watch?v=ajsLmZia6UU)
