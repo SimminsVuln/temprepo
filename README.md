@@ -1,11 +1,23 @@
-CVE-2024-3661
-CVSS: 7.6
-EPSS: TBD
-POC Code: Yes, pentesting tool available for release soon via GitHub
-Active Exploitation: Not Known
- 
-From A VM standpoint this vulnerability has no detection capability at this time, nor is it in the Qualys Detection Pipeline. I don't know how likely it will be that it gets assigned a QID because of the nature of the vulnerability. 
- 
-Original Writeup: CVE-2024-3661: [TunnelVision - How Attackers Can Decloak Routing-Based VPNs For a Total VPN Leak — Leviathan Security Group - Penetration Testing, Security Assessment, Risk Advisory](https://www.leviathansecurity.com/blog/tunnelvision)
- 
-Here is a good POC demo video from Leviathan: TunnelVision - CVE-2024-3661 - [Decloaking Full and Split Tunnel VPNs - Leviathan Security Group (youtube.com)](https://www.youtube.com/watch?v=ajsLmZia6UU)
+CVE-2021-4294
+CVE-2021-26341
+CVE-2021-47099
+CVE-2022-1184
+CVE-2022-1852
+CVE-2022-3640
+CVE-2022-42895
+CVE-2022-48624
+CVE-2023-4408
+CVE-2023-5517
+CVE-2023-5679
+CVE-2023-6240
+CVE-2023-6516
+CVE-2023-49568
+CVE-2023-49569
+CVE-2023-50387
+CVE-2023-50868
+CVE-2024-1139
+CVE-2024-1488
+CVE-2024-1725
+CVE-2024-26582
+CVE-2024-26584
+CVE-2024-26586
