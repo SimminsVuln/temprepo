@@ -1,27 +1,51 @@
-
-National Vulnerability Database has provided the following description: In PHP versions 8.1.
-before 8.1.29, 8.2.
-before 8.2.20, 8.3.* before 8.3.8, when using Apache and PHP-CGI on Windows, if the system is set up to use certain code pages, Windows may use "Best-Fit" behavior to replace characters in command line given to Win32 API functions. PHP CGI module may misinterpret those characters as PHP options, which may allow a malicious user to pass options to PHP binary being run, and thus reveal the source code of scripts, run arbitrary PHP code on the server, etc.
-
-DEVCORE has provided the following workaround:
-
-An attacker could exploit this vulnerability to execute arbitrary code. An attacker would need to send a specially crafted request leveraging the %AD unicode character to bypass the escaping of special characters by the CGI handler. This vulnerability is a bypass for the fix for CVE-2012-1823.
-
-Current information suggests only PHP running on Windows is affected;
-
-Detections are in the pipeline for Qualys
-
-1. For users who cannot update PHP
-
-Attacks can be blocked through the following Rewrite rules. Please note that this rule is only a temporary mitigation mechanism for Traditional Chinese, Simplified Chinese and Japanese languages . In practice, it is still recommended to update to a repaired version or change the architecture.
-
-RewriteEngine On
-RewriteCond %{QUERY_STRING} ^%ad [NC]
-RewriteRule .? - [F,L]
-2. For XAMPP for Windows users
-
-Attacks can be blocked through the following Rewrite rules. Please note that this rule is only a temporary mitigation mechanism for Traditional Chinese, Simplified Chinese and Japanese languages . In practice, it is still recommended to update to a repaired version or change the architecture.
-
-RewriteEngine On
-RewriteCond %{QUERY_STRING} ^%ad [NC]
-RewriteRule .? - [F,L]
+CVE-2024-30080
+CVE-2024-37325
+CVE-2024-35253
+CVE-2024-35255
+CVE-2024-35254
+CVE-2024-35252
+CVE-2024-30101
+CVE-2024-30102
+CVE-2024-35263
+CVE-2024-35248
+CVE-2024-35249
+CVE-2024-30103
+CVE-2024-30104
+CVE-2024-30100
+CVE-2024-29187
+CVE-2024-30052
+CVE-2024-29060
+CVE-2024-30069
+CVE-2024-30077
+CVE-2024-30078
+CVE-2024-30082
+CVE-2024-35250
+CVE-2024-30063
+CVE-2024-30065
+CVE-2024-30066
+CVE-2024-30067
+CVE-2024-30068
+CVE-2024-30084
+CVE-2024-30086
+CVE-2024-30087
+CVE-2024-30088
+CVE-2024-30089
+CVE-2024-30090
+CVE-2024-30091
+CVE-2024-30093
+CVE-2024-30094
+CVE-2024-30095
+CVE-2024-30096
+CVE-2024-35265
+CVE-2024-30097
+CVE-2024-30099
+CVE-2024-30076
+CVE-2024-30085
+CVE-2024-30072
+CVE-2024-30074
+CVE-2024-30075
+CVE-2024-30070
+CVE-2023-50868
+CVE-2024-30062
+CVE-2024-30083
+CVE-2024-30064
