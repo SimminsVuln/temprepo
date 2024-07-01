@@ -1,17 +1,22 @@
-Description
-OSS-Sec Mailing List has provided the following description: If a client does not authenticate within LoginGraceTime seconds (120 by default, 600 in old OpenSSH versions), then sshd's SIGALRM handler is called asynchronously, but this signal handler calls various functions that are not async-signal-safe (for example, syslog()). This race condition affects sshd in its default configuration.
+CVE-2024-6387: regreSSHion SSH RACE Vulnerability
 
-Analysis
-An attacker could exploit this vulnerability to execute arbitrary code with elevated permissions. An attacker would need to win a race condition by performing a large number of malformed SSH authentication attempts. Failed attempts to exploit this vulnerability could potentially cause a denial-of-service condition.
+CVSS: 8.1
+Exploited in the Wild: Unknown
+PoC Code Publicly Available: Available, but unverified
 
+Description: If a client does not authenticate within LoginGraceTime seconds (120 by default, 600 in old OpenSSH versions), then sshd's SIGALRM handler is called asynchronously, but this signal handler calls various functions that are not async-signal-safe (for example, syslog()). This race condition affects sshd in its default configuration.
 
-CVSS v3.1 Base
-8.1 (High)
+Impact: This race condition affects sshd in its default configuration. An attacker could exploit this vulnerability to execute arbitrary code with elevated permissions. An attacker would need to win a race condition by performing many malformed SSH authentication attempts. Failed attempts to exploit this vulnerability could potentially cause a denial-of-service condition.
 
+Detection: Qualys recommends using Attack Surface Management to detect vulnerable assets that are externally facing. A QID has been released for this vulnerability under QID:42046. 
 
-If sshd cannot be updated or recompiled, this signal handler race condition can be fixed by simply setting LoginGraceTime to 0 in the configuration file. This makes sshd vulnerable to a denial of service (the exhaustion of all MaxStartups connections), but it makes it safe from the remote code execution presented in this advisory.
-
-Vendor
+Sources: 
+(1) https://
+ubuntu.com
+/security/
+CVE-2024-6387
+(2) 
+https://www.qualys.com/regresshion-cve-2024-6387/
 Product
 Version
 Canonical	Ubuntu Linux	24.04
