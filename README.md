@@ -1,27 +1,28 @@
-	• 
-CVE-2024-30103
-: Microsoft Outlook Remote Code Execution Vulnerability
-		· Released as part of June 2024 Patch Tuesday
-		· MS Claims no exploitation in the wild or POC code.
-			▪ They anticipate Exploitation is less likely but we will continue to monitor in the event of POC Code and Exploitation.
-		· Description:
-			▪ Vector: Preview Pane
-			▪ Exploitation Consequence: An attacker who successfully exploited this vulnerability could bypass Outlook registry block lists and enable the creation of malicious DLL files.
-		· Need to discuss accelerating this vulnerability due to the outlook.
-		
-	• 
-CVE-2024-30080
-: Microsoft MSMQ Remote Code Execution Vulnerability
-		· Released as part of June 2024 Patch Tuesday
-		· MS Claims no exploitation in the wild or POC code.
-			▪ They anticipate Exploitation is More likely so we will continue to monitor in the event of POC Code and Exploitation.
-		· Description:
-			▪ To exploit this vulnerability, an attacker would need to send a specially crafted malicious MSMQ packet to a MSMQ server. This could result in remote code execution on the server side.
-		· Mitigations:
-			▪ If users are unable to patch MS recommends the following mitigation:
-				The Windows message queuing service, which is a Windows component, needs to be enabled for a system to be exploitable by this vulnerability. 
-				
-				This feature can be added via the Control Panel.
-				
-				You can check to see if there is a service running named Message Queuing and TCP port 1801 is listening on the machine.
+Description
+OSS-Sec Mailing List has provided the following description: If a client does not authenticate within LoginGraceTime seconds (120 by default, 600 in old OpenSSH versions), then sshd's SIGALRM handler is called asynchronously, but this signal handler calls various functions that are not async-signal-safe (for example, syslog()). This race condition affects sshd in its default configuration.
 
+Analysis
+An attacker could exploit this vulnerability to execute arbitrary code with elevated permissions. An attacker would need to win a race condition by performing a large number of malformed SSH authentication attempts. Failed attempts to exploit this vulnerability could potentially cause a denial-of-service condition.
+
+
+CVSS v3.1 Base
+8.1 (High)
+
+
+If sshd cannot be updated or recompiled, this signal handler race condition can be fixed by simply setting LoginGraceTime to 0 in the configuration file. This makes sshd vulnerable to a denial of service (the exhaustion of all MaxStartups connections), but it makes it safe from the remote code execution presented in this advisory.
+
+Vendor
+Product
+Version
+Canonical	Ubuntu Linux	24.04
+Canonical	Ubuntu Linux	22.04 Lts
+FreeBSD	FreeBSD	14.1
+FreeBSD	FreeBSD	13.3
+FreeBSD	FreeBSD	14.0
+OpenBSD	OpenSSH	8.5p1 through prior to 9.8p1
+OpenBSD	OpenSSH	8.5p1 through 9.7p1
+Canonical	Ubuntu Linux	23.10
+Oracle	Linux	9
+OpenBSD	OpenSSH	prior to 4.4 P1
+
+https://seclists.org/oss-sec/2024/q3/2
