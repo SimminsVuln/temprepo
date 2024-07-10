@@ -1,26 +1,145 @@
-CVE-2024-20399 - Cisco NX-OS Software CLI Command Injection Vulnerability
-
-CVSS: 6.0
-EPSS: TBD
-Exploited in the Wild: Yes, Zero Day
-PoC Code publically available: Yes
-Detection Capability: Qualys QID in Development: QID 317465
-
-A vulnerability in the CLI of Cisco NX-OS Software could allow an authenticated, local attacker to execute arbitrary commands as root on the underlying operating system of an affected device.This vulnerability is due to insufficient validation of arguments that are passed to specific configuration CLI commands. An attacker could exploit this vulnerability by including crafted input as the argument of an affected configuration CLI command. A successful exploit could allow the attacker to execute arbitrary commands on the underlying operating system with the privileges of root.
-
-Cisco products if they were running a vulnerable release of Cisco NX-OS Software: Nexus 3000 Series Switches (CSCwj97009)1
-Nexus 5500 Platform Switches (CSCwj97011)
-Nexus 5600 Platform Switches (CSCwj97011)
-Nexus 6000 Series Switches (CSCwj97011)
-Nexus 7000 Series Switches (CSCwj94682)2
-Nexus 9000 Series Switches in standalone NX-OS mode (CSCwj97009)
-Note: To successfully exploit this vulnerability on a Cisco NX-OS device, an attacker must have Administrator credentials.
-
-
-An attacker could exploit this vulnerability to execute commands as root on the underlying operating system of an affected device. An attacker would need to send a CLI command with malicious values in an argument of the command.
-
-On July 1, 2024, Sygnia reported the Velvet Ant threat group exploited this vulnerability as a zero-day to install previously unknown malware on affected devices. For more information and recommended mitigations, please see Sygnia's report, "China-Nexus Threat Group ‘Velvet Ant’ Exploits Cisco Zero-Day (CVE-2024-20399) to Compromise Nexus Switch Devices – Advisory for Mitigation and Response."
-
-Sources:
-(1) https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-cmd-injection-xD9OhyOP
-(2) https://www.sygnia.co/threat-reports-and-advisories/china-nexus-threat-group-velvet-ant-exploits-cisco-0-day/
+CVE-2022-44684
+CVE-2023-24932
+CVE-2023-38545
+CVE-2024-20701
+CVE-2024-21303
+CVE-2024-21308
+CVE-2024-21317
+CVE-2024-21331
+CVE-2024-21332
+CVE-2024-21333
+CVE-2024-21335
+CVE-2024-21373
+CVE-2024-21398
+CVE-2024-21414
+CVE-2024-21415
+CVE-2024-21417
+CVE-2024-21425
+CVE-2024-21428
+CVE-2024-21449
+CVE-2024-26184
+CVE-2024-28899
+CVE-2024-28928
+CVE-2024-30013
+CVE-2024-30061
+CVE-2024-30071
+CVE-2024-30079
+CVE-2024-30081
+CVE-2024-30098
+CVE-2024-30105
+CVE-2024-32987
+CVE-2024-35256
+CVE-2024-35261
+CVE-2024-35264
+CVE-2024-35266
+CVE-2024-35267
+CVE-2024-35270
+CVE-2024-35271
+CVE-2024-35272
+CVE-2024-3596
+CVE-2024-37318
+CVE-2024-37319
+CVE-2024-37320
+CVE-2024-37321
+CVE-2024-37322
+CVE-2024-37323
+CVE-2024-37324
+CVE-2024-37326
+CVE-2024-37327
+CVE-2024-37328
+CVE-2024-37329
+CVE-2024-37330
+CVE-2024-37331
+CVE-2024-37332
+CVE-2024-37333
+CVE-2024-37334
+CVE-2024-37336
+CVE-2024-37969
+CVE-2024-37970
+CVE-2024-37971
+CVE-2024-37972
+CVE-2024-37973
+CVE-2024-37974
+CVE-2024-37975
+CVE-2024-37977
+CVE-2024-37978
+CVE-2024-37981
+CVE-2024-37984
+CVE-2024-37985
+CVE-2024-37986
+CVE-2024-37987
+CVE-2024-37988
+CVE-2024-37989
+CVE-2024-38010
+CVE-2024-38011
+CVE-2024-38013
+CVE-2024-38015
+CVE-2024-38017
+CVE-2024-38019
+CVE-2024-38020
+CVE-2024-38021
+CVE-2024-38022
+CVE-2024-38023
+CVE-2024-38024
+CVE-2024-38025
+CVE-2024-38027
+CVE-2024-38028
+CVE-2024-38030
+CVE-2024-38031
+CVE-2024-38032
+CVE-2024-38033
+CVE-2024-38034
+CVE-2024-38041
+CVE-2024-38043
+CVE-2024-38044
+CVE-2024-38047
+CVE-2024-38048
+CVE-2024-38049
+CVE-2024-38050
+CVE-2024-38051
+CVE-2024-38052
+CVE-2024-38053
+CVE-2024-38054
+CVE-2024-38055
+CVE-2024-38056
+CVE-2024-38057
+CVE-2024-38058
+CVE-2024-38059
+CVE-2024-38060
+CVE-2024-38061
+CVE-2024-38062
+CVE-2024-38064
+CVE-2024-38065
+CVE-2024-38066
+CVE-2024-38067
+CVE-2024-38068
+CVE-2024-38069
+CVE-2024-38070
+CVE-2024-38071
+CVE-2024-38072
+CVE-2024-38073
+CVE-2024-38074
+CVE-2024-38076
+CVE-2024-38077
+CVE-2024-38078
+CVE-2024-38079
+CVE-2024-38080
+CVE-2024-38081
+CVE-2024-38085
+CVE-2024-38086
+CVE-2024-38087
+CVE-2024-38088
+CVE-2024-38089
+CVE-2024-38091
+CVE-2024-38092
+CVE-2024-38094
+CVE-2024-38095
+CVE-2024-38099
+CVE-2024-38100
+CVE-2024-38101
+CVE-2024-38102
+CVE-2024-38104
+CVE-2024-38105
+CVE-2024-38112
+CVE-2024-38517
+CVE-2024-39684
