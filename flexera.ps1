@@ -6,7 +6,7 @@ $global:QueryLimit = 1500
 
 #FileName
 
-$FileName = "C:\Users\chris\Desktop\CVE_Prioritizer\Advisories.csv"
+$FileName = "[FILE PATH HERE]"
 
 function QueryData ($URL, $Header)
 
@@ -155,9 +155,9 @@ $WebServiceHeader = New-Object "System.Collections.Generic.Dictionary[[String],[
 
 $WebServiceHeader.Add("Content-Type", 'application/json')
 
-$WebServiceHeader.Add("Authorization", "Token d200c6346ca0deb5fc40fe34ec2fe18eaf4b9d72" )
+$WebServiceHeader.Add("Authorization", "Token [API TOKEN HERE]" )
  
-$CustomCollection = CallAPI  "https://api.app.secunia.com/api/advisories/?released__gte=1731795787&released__lt=1731939787" $WebServiceHeader
+$CustomCollection = CallAPI  "https://api.app.secunia.com/api/advisories/?released__gte=[UNIX TIME]&released__lt=[UNIX TIME]" $WebServiceHeader
 
 $CustomCollection | Export-Csv -path $FileName -NoTypeInformation
 
