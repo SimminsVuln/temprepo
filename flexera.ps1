@@ -6,7 +6,7 @@ $global:QueryLimit = 1500
 
 #FileName
 
-$FileName = "[FILE PATH HERE]"
+$FileName = "C:\Users\chris\OneDrive\Desktop\CustomScripts\CVE\CVE_Prioritizer\Advisories.csv"
 
 function QueryData ($URL, $Header)
 
@@ -125,7 +125,6 @@ $Data = New-Object System.Object
 
 $Data | Add-Member -MemberType NoteProperty -Name "title" -Value ($advisoryDetails.title -replace "\r\n", " ")
 
-
 $Data | Add-Member -MemberType NoteProperty -Name "cve_str_list" -Value ($advisoryDetails.cve_str_list -replace "\r\n", " ")
 
 
@@ -155,9 +154,9 @@ $WebServiceHeader = New-Object "System.Collections.Generic.Dictionary[[String],[
 
 $WebServiceHeader.Add("Content-Type", 'application/json')
 
-$WebServiceHeader.Add("Authorization", "Token [API TOKEN HERE]" )
+$WebServiceHeader.Add("Authorization", "Token d200c6346ca0deb5fc40fe34ec2fe18eaf4b9d72" )
  
-$CustomCollection = CallAPI  "https://api.app.secunia.com/api/advisories/?released__gte=[UNIX TIME]&released__lt=[UNIX TIME]" $WebServiceHeader
+$CustomCollection = CallAPI  "https://api.app.secunia.com/api/advisories/?released__gte=1732544592&released__lt=1732629315" $WebServiceHeader
 
 $CustomCollection | Export-Csv -path $FileName -NoTypeInformation
 
