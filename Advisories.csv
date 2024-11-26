@@ -1,49 +1,48 @@
-title,cve_str_list,Refs
-F5 BIG-IP Advanced Firewall Manager Denial of Service Vulnerability,CVE-2023-1667,https://my.f5.com/manage/s/article/K000148495
-F5 BIG-IP Multiple Products Denial of Service Vulnerability,CVE-2024-39778,https://my.f5.com/manage/s/article/K05710614
-IBM Db2 Big SQL on Cloud Pak for Data Information Disclosure Vulnerability,CVE-2024-35160,https://www.ibm.com/support/pages/node/7176947
-IBM FileNet Content Manager Apache UIMA XML External Entity Vulnerability,CVE-2017-15691,https://www.ibm.com/support/pages/node/7173042
-IBM FileNet Content Manager Apache UIMA XML External Entity Vulnerability,CVE-2017-15691,https://uima.apache.org/security_report#CVE-2017-15691
-IBM Power Systems Virtualization Management Interface Linux Kernel Privilege Escalation Vulnerability,CVE-2023-6531,https://www.ibm.com/support/pages/node/7176950
-IBM Semeru Runtime Multiple Vulnerabilities,CVE-2024-21208,https://www.ibm.com/support/pages/node/7176623
-IBM Semeru Runtime Multiple Vulnerabilities,CVE-2024-21217,https://www.ibm.com/support/pages/node/7176623
-IBM Semeru Runtime Multiple Vulnerabilities,CVE-2024-10917,https://www.ibm.com/support/pages/node/7176623
-IBM Semeru Runtime Multiple Vulnerabilities,CVE-2024-21208,https://github.com/eclipse-openj9/openj9/releases/tag/openj9-0.48.0
-IBM Semeru Runtime Multiple Vulnerabilities,CVE-2024-21217,https://github.com/eclipse-openj9/openj9/releases/tag/openj9-0.48.0
-IBM Semeru Runtime Multiple Vulnerabilities,CVE-2024-10917,https://github.com/eclipse-openj9/openj9/releases/tag/openj9-0.48.0
-IBM Semeru Runtime Multiple Vulnerabilities,CVE-2024-21208,https://github.com/eclipse-openj9/openj9/commit/619c7daaa230fceff4fdbf45766f723c289fa9ca
-IBM Semeru Runtime Multiple Vulnerabilities,CVE-2024-21217,https://github.com/eclipse-openj9/openj9/commit/619c7daaa230fceff4fdbf45766f723c289fa9ca
-IBM Semeru Runtime Multiple Vulnerabilities,CVE-2024-10917,https://github.com/eclipse-openj9/openj9/commit/619c7daaa230fceff4fdbf45766f723c289fa9ca
-Microsoft Windows PowerShell Multiple Denial of Service Vulnerabilities,CVE-2024-43485,https://github.com/PowerShell/Announcements/issues/69
-Microsoft Windows PowerShell Multiple Denial of Service Vulnerabilities,CVE-2024-43483,https://github.com/PowerShell/Announcements/issues/69
-Microsoft Windows PowerShell Multiple Denial of Service Vulnerabilities,CVE-2024-43484,https://github.com/PowerShell/Announcements/issues/69
-Microsoft Windows PowerShell Multiple Denial of Service Vulnerabilities,CVE-2024-43485,https://github.com/PowerShell/Announcements/issues/70
-Microsoft Windows PowerShell Multiple Denial of Service Vulnerabilities,CVE-2024-43483,https://github.com/PowerShell/Announcements/issues/70
-Microsoft Windows PowerShell Multiple Denial of Service Vulnerabilities,CVE-2024-43484,https://github.com/PowerShell/Announcements/issues/70
-Microsoft Windows PowerShell Multiple Denial of Service Vulnerabilities,CVE-2024-43485,https://github.com/PowerShell/Announcements/issues/71
-Microsoft Windows PowerShell Multiple Denial of Service Vulnerabilities,CVE-2024-43483,https://github.com/PowerShell/Announcements/issues/71
-Microsoft Windows PowerShell Multiple Denial of Service Vulnerabilities,CVE-2024-43484,https://github.com/PowerShell/Announcements/issues/71
-NetApp Active IQ Unified Manager for VMware vSphere Denial of Service Vulnerability,CVE-2024-21200,https://security.netapp.com/advisory/NTAP-20241101-0007/
-NetApp Active IQ Unified Manager for VMware vSphere MIT Kerberos Information Disclosure Vulnerability,CVE-2024-37370,https://security.netapp.com/advisory/NTAP-20241108-0007
-NetApp Active IQ Unified Manager for VMware vSphere MIT Kerberos Security Bypass Vulnerability,CVE-2024-37371,https://security.netapp.com/advisory/NTAP-20241108-0009
-NetApp Active IQ Unified Manager for VMware vSphere MySQL Client Information Disclosure Vulnerability,CVE-2024-21209,https://security.netapp.com/advisory/NTAP-20241101-0005/
-Red Hat update for haproxy,CVE-2023-45539,https://access.redhat.com/errata/RHSA-2024:10267
-Red Hat update for pam:1.5.1,CVE-2024-10963,https://access.redhat.com/errata/RHSA-2024:10244
-Red Hat update for Red Hat JBoss Data Grid,CVE-2024-47072,https://access.redhat.com/errata/RHSA-2024:10214
-Red Hat update for Red Hat JBoss Data Grid,CVE-2024-43788,https://access.redhat.com/errata/RHSA-2024:10214
-Red Hat update for Red Hat JBoss Data Grid,CVE-2024-47072,https://x-stream.github.io/CVE-2024-47072.html
-Red Hat update for Red Hat JBoss Data Grid,CVE-2024-43788,https://x-stream.github.io/CVE-2024-47072.html
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2024-47561,https://access.redhat.com/errata/RHSA-2024:10207
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2023-26464,https://access.redhat.com/errata/RHSA-2024:10207
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2024-28752,https://access.redhat.com/errata/RHSA-2024:10207
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-3859,https://access.redhat.com/errata/RHSA-2024:10207
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2023-39410,https://access.redhat.com/errata/RHSA-2024:10207
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-4104,https://access.redhat.com/errata/RHSA-2024:10207
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-23221,https://access.redhat.com/errata/RHSA-2024:10207
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-41853,https://access.redhat.com/errata/RHSA-2024:10207
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-34169,https://access.redhat.com/errata/RHSA-2024:10207
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2023-5685,https://access.redhat.com/errata/RHSA-2024:10207
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-23305,https://access.redhat.com/errata/RHSA-2024:10207
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2023-3171,https://access.redhat.com/errata/RHSA-2024:10207
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-23307,https://access.redhat.com/errata/RHSA-2024:10207
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-46364,https://access.redhat.com/errata/RHSA-2024:10207
+CVE-2023-1667
+CVE-2024-39778
+CVE-2024-35160
+CVE-2017-15691
+CVE-2017-15691
+CVE-2023-6531
+CVE-2024-21208
+CVE-2024-21217
+CVE-2024-10917
+CVE-2024-21208
+CVE-2024-21217
+CVE-2024-10917
+CVE-2024-21208
+CVE-2024-21217
+CVE-2024-10917
+CVE-2024-43485
+CVE-2024-43483
+CVE-2024-43484
+CVE-2024-43485
+CVE-2024-43483
+CVE-2024-43484
+CVE-2024-43485
+CVE-2024-43483
+CVE-2024-43484
+CVE-2024-21200
+CVE-2024-37370
+CVE-2024-37371
+CVE-2024-21209
+CVE-2023-45539
+CVE-2024-10963
+CVE-2024-47072
+CVE-2024-43788
+CVE-2024-47072
+CVE-2024-43788
+CVE-2024-47561
+CVE-2023-26464
+CVE-2024-28752
+CVE-2021-3859
+CVE-2023-39410
+CVE-2021-4104
+CVE-2022-23221
+CVE-2022-41853
+CVE-2022-34169
+CVE-2023-5685
+CVE-2022-23305
+CVE-2023-3171
+CVE-2022-23307
+CVE-2022-46364
