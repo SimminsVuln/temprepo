@@ -1,47 +1,46 @@
-title,cve_str_list,Column1,Column12,Column13,Column2,Refs
-GitLab Multiple Vulnerabilities,CVE-2024-11668,4.2,,,11/27 CH - Monitor for QID,https://about.gitlab.com/releases/2024/11/26/patch-release-gitlab-17-6-1-released
-GitLab Multiple Vulnerabilities,CVE-2024-11669,6.5,,,11/27 CH - Monitor for QID,https://about.gitlab.com/releases/2024/11/26/patch-release-gitlab-17-6-1-released
-GitLab Multiple Vulnerabilities,CVE-2024-11828,4.3,,,11/27 CH - Monitor for QID,https://about.gitlab.com/releases/2024/11/26/patch-release-gitlab-17-6-1-released
-GitLab Multiple Vulnerabilities,CVE-2024-8114,8.2,,,11/27 CH - Monitor for QID,https://about.gitlab.com/releases/2024/11/26/patch-release-gitlab-17-6-1-released
-GitLab Multiple Vulnerabilities,CVE-2024-8177,5.3,,,11/27 CH - Monitor for QID,https://about.gitlab.com/releases/2024/11/26/patch-release-gitlab-17-6-1-released
-GitLab Multiple Vulnerabilities,CVE-2024-8237,6.5,,,11/27 CH - Monitor for QID,https://about.gitlab.com/releases/2024/11/26/patch-release-gitlab-17-6-1-released
-Red Hat update for kernel,CVE-2021-4204,7,,,11/27 CH - QID Available (244806),https://access.redhat.com/errata/RHSA-2024:10262
-Red Hat update for kernel,CVE-2021-47393,4.7,,,11/27 CH - QID Available (244806),https://access.redhat.com/errata/RHSA-2024:10262
-Red Hat update for kernel,CVE-2021-47461,7,,,11/27 CH - QID Available (244806),https://access.redhat.com/errata/RHSA-2024:10262
-Red Hat update for kernel,CVE-2022-0500,7,,,11/27 CH - QID Available (244806),https://access.redhat.com/errata/RHSA-2024:10262
-Red Hat update for kernel,CVE-2022-23222,6.7,,,11/27 CH - QID Available (244806),https://access.redhat.com/errata/RHSA-2024:10262
-Red Hat update for kernel,CVE-2022-48686,5.3,,,11/27 CH - QID Available (244806),https://access.redhat.com/errata/RHSA-2024:10262
-Red Hat update for kernel,CVE-2022-48773,5.5,,,11/27 CH - QID Available (244806),https://access.redhat.com/errata/RHSA-2024:10262
-Red Hat update for kernel,CVE-2022-48929,6.7,,,11/27 CH - QID Available (244806),https://access.redhat.com/errata/RHSA-2024:10262
-Red Hat update for kernel,CVE-2023-0597,7,,,11/27 CH - QID Available (244806),https://access.redhat.com/errata/RHSA-2024:10262
-Red Hat update for kernel,CVE-2023-52489,5.5,,,11/27 CH - QID Available (244806),https://access.redhat.com/errata/RHSA-2024:10262
-Red Hat update for kernel,CVE-2024-26671,4.4,,,11/27 CH - QID Available (244806),https://access.redhat.com/errata/RHSA-2024:10262
-Red Hat update for kernel,CVE-2024-26961,5.5,,,11/27 CH - QID Available (244806),https://access.redhat.com/errata/RHSA-2024:10262
-Red Hat update for kernel,CVE-2024-31076,5.1,,,11/27 CH - QID Available (244806),https://access.redhat.com/errata/RHSA-2024:10262
-Red Hat update for kernel,CVE-2024-35823,5.5,,,11/27 CH - QID Available (244806),https://access.redhat.com/errata/RHSA-2024:10262
-Red Hat update for kernel,CVE-2024-36889,5.5,,,11/27 CH - QID Available (244806),https://access.redhat.com/errata/RHSA-2024:10262
-Red Hat update for kernel,CVE-2024-36920,4.4,,,11/27 CH - QID Available (244806),https://access.redhat.com/errata/RHSA-2024:10262
-Red Hat update for kernel,CVE-2024-38564,4.4,,,11/27 CH - QID Available (244806),https://access.redhat.com/errata/RHSA-2024:10262
-Red Hat update for kernel,CVE-2024-40988,4.7,,,11/27 CH - QID Available (244806),https://access.redhat.com/errata/RHSA-2024:10262
-Red Hat update for kernel,CVE-2024-41014,4.4,,,11/27 CH - QID Available (244806),https://access.redhat.com/errata/RHSA-2024:10262
-Red Hat update for kernel,CVE-2024-41023,6.1,,,11/27 CH - QID Available (244806),https://access.redhat.com/errata/RHSA-2024:10262
-Red Hat update for kernel,CVE-2024-46858,6.1,,,11/27 CH - QID Available (244806),https://access.redhat.com/errata/RHSA-2024:10262
-Red Hat edk2 Rejection Notice,CVE-2024-38796,7,,,11/27 CH - QID Available (244811),https://access.redhat.com/errata/RHSA-2024:10268
-Red Hat kernel Rejection Notice,CVE-2024-41009,4.4,,,11/27 CH - QID Available (244812),https://access.redhat.com/errata/RHSA-2024:10274
-Red Hat kernel Rejection Notice,CVE-2024-42244,4.4,,,11/27 CH - QID Available (244812),https://access.redhat.com/errata/RHSA-2024:10274
-Red Hat kernel Rejection Notice,CVE-2024-50226,5.5,,,11/27 CH - QID Available (244812),https://access.redhat.com/errata/RHSA-2024:10274
-Red Hat update for kernel:4.18.0,CVE-2024-27043,5.2,,,11/27 CH - QID Available (244816),https://access.redhat.com/errata/RHSA-2024:10281
-Red Hat update for kernel:4.18.0,CVE-2024-27399,5.5,,,11/27 CH - QID Available (244816),https://access.redhat.com/errata/RHSA-2024:10281
-Mozilla Firefox Multiple Vulnerabilities,CVE-2024-11700,N/A,,,11/27 CH - Monitor for QID,https://www.mozilla.org/en-US/security/advisories/mfsa2024-63
-Mozilla Firefox Multiple Vulnerabilities,CVE-2024-11701,N/A,,,11/27 CH - Monitor for QID,https://www.mozilla.org/en-US/security/advisories/mfsa2024-63
-Mozilla Firefox Multiple Vulnerabilities,CVE-2024-11704,N/A,,,11/27 CH - Monitor for QID,https://www.mozilla.org/en-US/security/advisories/mfsa2024-63
-Mozilla Firefox Multiple Vulnerabilities,CVE-2024-53975,N/A,,,11/27 CH - Monitor for QID,https://www.mozilla.org/en-US/security/advisories/mfsa2024-63
-Mozilla Firefox Multiple Vulnerabilities,CVE-2024-53976,N/A,,,11/27 CH - Monitor for QID,https://www.mozilla.org/en-US/security/advisories/mfsa2024-63
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2024-11692,N/A,,,11/27 CH - Monitor for QID,https://www.mozilla.org/en-US/security/advisories/mfsa2024-64
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2024-11693,N/A,,,11/27 CH - Monitor for QID,https://www.mozilla.org/en-US/security/advisories/mfsa2024-64
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2024-11695,N/A,,,11/27 CH - Monitor for QID,https://www.mozilla.org/en-US/security/advisories/mfsa2024-64
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2024-11697,N/A,,,11/27 CH - Monitor for QID,https://www.mozilla.org/en-US/security/advisories/mfsa2024-64
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2024-11699,N/A,,,11/27 CH - Monitor for QID,https://www.mozilla.org/en-US/security/advisories/mfsa2024-64
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2024-11691,N/A,,,11/27 CH - Monitor for QID,https://www.mozilla.org/en-US/security/advisories/mfsa2024-65
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2024-11694,N/A,,,11/27 CH - Monitor for QID,https://www.mozilla.org/en-US/security/advisories/mfsa2024-65
-Zoom Workplace App for macOS Symbolic Link Security Bypass Vulnerability,CVE-2024-45418,5.4,,,11/27 CH - QID Available (382334),https://www.zoom.com/en/trust/security-bulletin/zsb-24040/
+CVE-2024-11668
+CVE-2024-11669
+CVE-2024-11828
+CVE-2024-8114
+CVE-2024-8177
+CVE-2024-8237
+CVE-2021-4204
+CVE-2021-47393
+CVE-2021-47461
+CVE-2022-0500
+CVE-2022-23222
+CVE-2022-48686
+CVE-2022-48773
+CVE-2022-48929
+CVE-2023-0597
+CVE-2023-52489
+CVE-2024-26671
+CVE-2024-26961
+CVE-2024-31076
+CVE-2024-35823
+CVE-2024-36889
+CVE-2024-36920
+CVE-2024-38564
+CVE-2024-40988
+CVE-2024-41014
+CVE-2024-41023
+CVE-2024-46858
+CVE-2024-38796
+CVE-2024-41009
+CVE-2024-42244
+CVE-2024-50226
+CVE-2024-27043
+CVE-2024-27399
+CVE-2024-11700
+CVE-2024-11701
+CVE-2024-11704
+CVE-2024-53975
+CVE-2024-53976
+CVE-2024-11692
+CVE-2024-11693
+CVE-2024-11695
+CVE-2024-11697
+CVE-2024-11699
+CVE-2024-11691
+CVE-2024-11694
+CVE-2024-45418
