@@ -1,46 +1,39 @@
-CVE-2024-11668
-CVE-2024-11669
-CVE-2024-11828
-CVE-2024-8114
-CVE-2024-8177
-CVE-2024-8237
-CVE-2021-4204
-CVE-2021-47393
-CVE-2021-47461
-CVE-2022-0500
-CVE-2022-23222
-CVE-2022-48686
-CVE-2022-48773
-CVE-2022-48929
-CVE-2023-0597
-CVE-2023-52489
-CVE-2024-26671
-CVE-2024-26961
-CVE-2024-31076
-CVE-2024-35823
-CVE-2024-36889
-CVE-2024-36920
-CVE-2024-38564
-CVE-2024-40988
-CVE-2024-41014
-CVE-2024-41023
-CVE-2024-46858
-CVE-2024-38796
-CVE-2024-41009
-CVE-2024-42244
-CVE-2024-50226
-CVE-2024-27043
-CVE-2024-27399
-CVE-2024-11700
-CVE-2024-11701
-CVE-2024-11704
-CVE-2024-53975
-CVE-2024-53976
-CVE-2024-11692
-CVE-2024-11693
-CVE-2024-11695
-CVE-2024-11697
-CVE-2024-11699
-CVE-2024-11691
-CVE-2024-11694
-CVE-2024-45418
+Windows Server 2012 0Day Vulnerability (No CVE Assigned) 
+
+ 0patch Blog: Windows Server 2012 Mark of the Web Vulnerability (0day) - and Free Micropatches for it. 
+
+Vulnerability Score Calculation: 
+
+Recency (9/10): 
+
+Recently discovered vulnerability [1] 
+
+Though existed for 2 years, just discovered 
+
+Exploitation Status (4/10): 
+
+Potential for exploitation, but no active exploitation reported yet [2] 
+
+Details withheld to prevent exploitation until official patch becomes available 
+
+Patch Availability (7/10): 
+
+No official patch available yet 
+
+Only temporary micropatch available from 0patch [3] 
+
+Impact Severity (8/10): 
+
+Critical security flaw allowing bypass of Mark of the Web (MotW) [1] 
+
+Affects even fully updated systems with Extended Security Updates 
+
+Overall Score: 28/40 
+
+Mitigation Steps 
+
+Free micropatches available through 0patch Agent (PRO or Enterprise accounts) 
+
+No system reboot required for patch application 
+
+Temporary protection until official Microsoft fix [2] 
