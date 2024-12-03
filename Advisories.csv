@@ -1,16 +1,29 @@
-title,cve_str_list,Refs
-NetApp Active IQ Unified Manager 7-Zip Multiple Security Bypass Vulnerabilities,CVE-2023-52168,https://security.netapp.com/advisory/NTAP-20241122-0011
-NetApp Active IQ Unified Manager 7-Zip Multiple Security Bypass Vulnerabilities,CVE-2023-52169,https://security.netapp.com/advisory/NTAP-20241122-0011
-NetApp Active IQ Unified Manager for VMware vSphere OpenSSL Rejection Notice,CVE-2024-9143,https://security.netapp.com/advisory/NTAP-20241101-0001
-NetApp Active IQ Unified Manager Undertow Denial of Service Vulnerability,CVE-2024-6162,https://security.netapp.com/advisory/NTAP-20241129-0009
-Red Hat update for firefox,CVE-2024-11694,https://access.redhat.com/errata/RHSA-2024:10702
-Red Hat update for firefox,CVE-2024-11695,https://access.redhat.com/errata/RHSA-2024:10702
-Red Hat update for firefox,CVE-2024-11697,https://access.redhat.com/errata/RHSA-2024:10702
-Red Hat update for firefox,CVE-2024-11696,https://access.redhat.com/errata/RHSA-2024:10702
-Red Hat update for firefox,CVE-2024-11699,https://access.redhat.com/errata/RHSA-2024:10702
-Red Hat update for firefox,CVE-2024-11692,https://access.redhat.com/errata/RHSA-2024:10702
-Red Hat update for gimp:2.8.22,CVE-2023-44444,https://access.redhat.com/errata/RHSA-2024:10666
-Red Hat update for gimp:2.8.22,CVE-2023-44442,https://access.redhat.com/errata/RHSA-2024:10666
-Red Hat update for python-tornado,CVE-2024-52804,https://access.redhat.com/errata/RHSA-2024:10590
-Red Hat update for thunderbird,CVE-2024-11159,https://access.redhat.com/errata/RHSA-2024:10592
-SailPoint IdentityIQ Security Bypass Vulnerability,CVE-2024-10905,https://community.sailpoint.com/t5/IdentityIQ-Blog/IdentityIQ-Improper-Access-Control-Vulnerability/ba-p/261409
+Hello Team,
+A vendor recently released a security advisory for products that the combined bank may use. Please review the information below:
+
+Summary: 
+IdentityIQ 8.4 and all 8.4 patch levels prior to 8.4p2, IdentityIQ 8.3 and all 8.3 patch levels prior to 8.3p5, IdentityIQ 8.2 and all 8.2 patch levels prior to 8.2p8, and all prior versions allows HTTP access to static content in the IdentityIQ application directory that should be protected.
+
+Product:
+- IdentityIQ 8.4 (all patch levels prior to 8.4p2) 
+- IdentityIQ 8.3 (all patch levels prior to 8.3p5) 
+- IdentityIQ 8.2 (all patch levels prior to 8.2p8) 
+- All prior versions 
+
+CVEID:
+CVE-2024-10905 
+
+Patch Available:
+Yes 
+
+If no patches are available, are mitigations available: N/A
+
+Have any vulnerabilities been exploited in the wild: No
+Is there POC code publicly available for these vulnerabilities: No
+
+Original Advisory: 
+https://www.sailpoint.com/security-advisories/
+
+Detection: Qualys is unable to detect this vulnerability 
+
+Action: We need to assess the organizational impact. Can you please confirm if the combined bank uses this product and version and if instances are impacted? If so can you please explain an action plan to patch or mitigate the vulnerabilities.
