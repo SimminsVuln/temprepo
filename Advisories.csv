@@ -1,46 +1,10 @@
-Citrix NetScaler ADC Zero Day (
-CVE-2024-8534
-, 2024-8535)
-
-Source: https://support.citrix.com/s/article/CTX691608-netscaler-adc-and-netscaler-gateway-security-bulletin-for-cve20248534-and-cve20248535?language=en_US
-
-Affected Products and versions:
-Citrix NetScaler ADC and NetScaler Gateway
-14.1-29.72
-13.1-55.34
-13.1-FIPS 13.1-37.207
-12.1-FIPS 12.1-55.321
-12.1-NDcPP 12.1-55.321
-
-(End-of-life) versions:
-12.1
-13.0
-
-
-CVE IDs:
-CVE-2024-8534
- (memory safety vulnerability)
-CVE-2024-8535
- (race condition vulnerability)
-
-Patch Available:
-Yes
-
-Available Mitigations:
-
-Block high-risk IP ranges (especially from Hong Kong-based cloud provider)
-Patch and upgrade NetScaler devices to latest supported versions
-Validate RDP configurations or disable if unnecessary
-Implement geographic blocking for high-risk locations
-Monitor for anomalous activity (failed login attempts, traffic irregularities)
-
-Exploitation in the Wild:
-Yes - Active exploitation observed through:
-
-Brute-force attacks
-Distributed attack pattern with changing IP addresses and ASNs
-Multiple organizations affected, including critical infrastructure
-
-
-POC Code Availablility:
-No
+title,cve_str_list,CVSS,RF,Detection,Analyst,Refs
+Red Hat update for gstreamer1-plugins-good,CVE-2024-47539,8.4,,Qualys QID,12/18 CH - QID Available (244975),https://access.redhat.com/errata/RHSA-2024:11299
+Red Hat update for gstreamer1-plugins-good,CVE-2024-47613,8.4,,Qualys QID,12/18 CH - QID Available (244975),https://access.redhat.com/errata/RHSA-2024:11299
+Red Hat update for gstreamer1-plugins-good,CVE-2024-47540,8.8,,Qualys QID,12/18 CH - QID Available (244975),https://access.redhat.com/errata/RHSA-2024:11299
+Red Hat update for gstreamer1-plugins-good,CVE-2024-47606,8.8,,Qualys QID,12/18 CH - QID Available (244975),https://access.redhat.com/errata/RHSA-2024:11299
+Red Hat update for gstreamer1-plugins-good,CVE-2024-47537,6.5,,Qualys QID,12/18 CH - QID Available (244975),https://access.redhat.com/errata/RHSA-2024:11299
+Red Hat update for bluez,CVE-2023-45866,6.3,,Qualys QID,12/18 CH - QID Available (244963),https://access.redhat.com/errata/RHSA-2024:11154
+Red Hat update for tuned,CVE-2024-52337,5.5,,Qualys QID,12/18 CH - QID Available (244960),https://access.redhat.com/errata/RHSA-2024:11161
+Red Hat update for mpg123,CVE-2024-10573,6.7,,Qualys QID,12/18 CH - QID Available (244959),https://access.redhat.com/errata/RHSA-2024:11193
+Red Hat python3.11-urllib3 Rejection Notice,CVE-2023-45803,4.2,,Qualys QID,12/18 CH - QID Available (244956),https://access.redhat.com/errata/RHSA-2024:11189
