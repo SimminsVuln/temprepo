@@ -1,67 +1,99 @@
-Table-Top Procedure Document for Vulnerability Intel
-Zero Day Vulnerability Exploit Scenario
+Python Script to Send Keystrokes to Two Applications Simultaneously
+Automating Keystrokes with Python
 Introduction
-This document outlines the detailed procedure to be followed by the vulnerability intel team during a simulated zero-day vulnerability being exploited in the wild. The procedure includes the use of specific tools and the involvement of relevant stakeholders to ensure a coordinated and effective response.
-Tools
-•	Axonius and Bitsight: Asset Identification and External Identification
-•	Qualys: Vulnerability Detection
-•	ServiceNow: Incident Response
-•	Mandiant: External Asset Identification
-•	Veracode: Application Security Testing
-Procedure
-Stage 1: Detection
-1. Initial Alert: Receive initial alert about the zero-day vulnerability being exploited in the wild.
-2. Vendor Communication:
-•	Contact vendors to determine the severity of the vulnerability and obtain any available patches or workarounds.
-3. Asset Identification with Axonius and Bitsight:
-•	Use Axonius and Bitsight to identify all assets that may be affected by the zero-day vulnerability.
-•	Generate a comprehensive list of potentially impacted assets and share it with relevant teams.
-4. Vulnerability Detection with Qualys:
-•	Run a Qualys scan to detect the presence of the zero-day vulnerability on identified assets.
-•	Document and prioritize the vulnerabilities based on their criticality and potential impact.
-•	Provide detailed reports to the incident response team for further action.
-5. External Asset Identification with Mandiant:
-•	Use Mandiant to identify any external assets that may be compromised.
-6. Obtain Indicators of Compromise (IoCs) and Signatures:
-•	Collect IoCs and signatures to help identify actors involved in the exploitation process.
-7. Application Security Testing with Veracode:
-•	Use Veracode to conduct security testing on critical applications to identify any vulnerabilities that require immediate remediation.
-Note: Identification through manual searches and Qualys scans, as well as continuous patching, must be ongoing during the entire event.
-Stage 2: Incident Response
-8. Incident Creation in ServiceNow:
-•	Create a new incident in ServiceNow for tracking and response coordination.
-•	Ensure all relevant information, including affected assets and detected vulnerabilities, is logged accurately.
-9. Stakeholder Involvement:
-•	Notify the Legal team to assess potential legal implications and compliance requirements.
-•	Legal Team to draft statements to third parties and partners, and handle communication with them for continuous monitoring and updates.
-•	Engage the Patching Groups and Technology Owners to plan and execute the remediation process.
-•	Involve the Incident Response Teams to manage and mitigate the vulnerability exploitation effectively.
-10. Hunt Team Monitoring:
-•	Hunt team to actively monitor for any exploitation attempts and provide real-time updates.
-Stage 3: Remediation
-11. Patch Deployment:
-•	Deploy patches to remediate the zero-day vulnerability on all identified external assets.
-•	Coordinate with patching groups to ensure timely and efficient patch deployment.
-•	Technology owners to verify the compatibility and effectiveness of the patches.
-12. Confirmation and Verification:
-•	Confirm with third parties that patches have been applied successfully.
-•	Verify remediation status on all external assets through subsequent scans and monitoring.
-•	Document the outcomes and share them with all relevant stakeholders.
-Stage 4: Completion
-13. Incident Closure:
-•	Update the incident in ServiceNow to reflect the remediation status and close the incident.
-•	Conduct a post-incident review to identify lessons learned and improve future response processes.
-Swim Lanes for Stakeholders
-Stakeholder	Role	Responsibilities
-Vulnerability Intel and IT Team	Primary	Assist with asset identification, vulnerability scanning, patch deployment, and response coordination.
-Security Operations Center (SOC)	Support	Monitor for suspicious activities and provide security insights.
-Legal Team	Advisory	Assess legal implications, ensure compliance, and handle communication with third parties. <b>Draft statements to third parties and partners.</b>
-Patching Groups	Operational	Deploy patches and ensure all systems are updated effectively.
-Technology Owners	Operational	Verify compatibility and effectiveness of patches on their respective systems.
-Incident Response Teams	Operational	Manage and mitigate the exploitation of the vulnerability.
-Hunt Team	Operational	Monitor for any exploitation attempts and provide real-time updates.
-Third Parties	External	Apply patches to their systems and provide remediation confirmation.
-Affected Vendors	External	Communicate the severity of the vulnerability and provide patches or workarounds.
+Automation is a powerful tool that can help streamline repetitive tasks, increase efficiency, and reduce human error. One common form of automation involves sending keystrokes to applications to simulate user input. In this document, we will explore how to create a Python script that can send keystrokes to two applications simultaneously.
+Prerequisites
+Before we dive into the script, there are a few prerequisites that we need to set up:
+•	Python 3.x installed on your machine
+•	Packages: `pyautogui`, `pygetwindow`, and `keyboard`
+You can install these packages using pip:
+pip install pyautogui pygetwindow keyboard
+Understanding the Packages
+To achieve our goal, we will use three main packages:
+•	pyautogui: This package allows us to control the mouse and keyboard, providing functions to simulate keystrokes and mouse movements.
+•	pygetwindow: This package helps us identify and manipulate application windows.
+•	keyboard: This package lets us handle keyboard events and send keystrokes.
+Identifying Application Windows
+First, we need to identify the windows of the applications to which we want to send keystrokes. To do this, we can use the `pygetwindow` package. Here is a small script to list all open windows:
+import pygetwindow as gw
+windows = gw.getAllTitles()
+for window in windows:
+print(window)
+Run this script and note down the titles of the windows you want to interact with.
+Sending Keystrokes
+Next, we will write a function to send keystrokes to a specific application window using the `pyautogui` package. We need to make sure the window is active before sending keystrokes to it.
+import pyautogui
+import pygetwindow as gw
+import time
+def send_keystrokes(window_title, keys):
+window = gw.getWindowsWithTitle(window_title)
+if len(window) == 0:
+print(f"No window found with title: {window_title}")
+return
+window = window[0]
+window.activate()
+time.sleep(0.5)  # Give some time for the window to activate
+pyautogui.typewrite(keys)
+Handling Multiple Windows
+Now that we have a function to send keystrokes to a single window, let's modify it to send keystrokes to two windows simultaneously. We will use the `keyboard` package to listen for a trigger key to start sending keystrokes.
+import keyboard
+def send_keystrokes_to_multiple_windows(window_titles, keys):
+if len(window_titles) != 2:
+print("This function only supports sending keystrokes to exactly two windows.")
+return
+windows = [gw.getWindowsWithTitle(title)[0] for title in window_titles]
+for window in windows:
+if window is None:
+print(f"No window found with title: {window_titles[windows.index(window)]}")
+return
+def send_keys():
+for window, key in zip(windows, keys):
+window.activate()
+time.sleep(0.5)  # Give some time for the window to activate
+pyautogui.typewrite(key)
+# Listen for the trigger key (e.g., 'ctrl+shift+k')
+keyboard.add_hotkey('ctrl+shift+k', send_keys)
+print("Press 'ctrl+shift+k' to send keystrokes to the windows.")
+# Keep the script running
+keyboard.wait('esc')
+Full Script
+Finally, let's put everything together into a complete script. This script will send predefined keystrokes to two application windows when a specific hotkey is pressed.
+import pyautogui
+import pygetwindow as gw
+import keyboard
+import time
+def send_keystrokes(window_title, keys):
+window = gw.getWindowsWithTitle(window_title)
+if len(window) == 0:
+print(f"No window found with title: {window_title}")
+return
+window = window[0]
+window.activate()
+time.sleep(0.5)  # Give some time for the window to activate
+pyautogui.typewrite(keys)
+def send_keystrokes_to_multiple_windows(window_titles, keys):
+if len(window_titles) != 2:
+print("This function only supports sending keystrokes to exactly two windows.")
+return
+windows = [gw.getWindowsWithTitle(title)[0] for title in window_titles]
+for window in windows:
+if window is None:
+print(f"No window found with title: {window_titles[windows.index(window)]}")
+return
+def send_keys():
+for window, key in zip(windows, keys):
+window.activate()
+time.sleep(0.5)  # Give some time for the window to activate
+pyautogui.typewrite(key)
+# Listen for the trigger key (e.g., 'ctrl+shift+k')
+keyboard.add_hotkey('ctrl+shift+k', send_keys)
+print("Press 'ctrl+shift+k' to send keystrokes to the windows.")
+# Keep the script running
+keyboard.wait('esc')
+if __name__ == "__main__":
+window_titles = ["Application Window 1", "Application Window 2"]
+keys = ["Hello, World!", "Goodbye, World!"]
+send_keystrokes_to_multiple_windows(window_titles, keys)
 Conclusion
-Once the vulnerability has been remediated on all external assets and confirmation has been received from third parties, the procedure concludes. The next steps involve monitoring internal assets to ensure that the patching process is fully completed and no internal systems remain vulnerable.
+This script provides a simple yet effective way to send keystrokes to two applications simultaneously. By leveraging the capabilities of `pyautogui`, `pygetwindow`, and `keyboard` packages, we can automate tasks across multiple applications with ease. With further customization, this script can be adapted to meet specific needs and workflows.
 
