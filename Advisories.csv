@@ -1,10 +1,7 @@
-title,cve_str_list,CVSS,RF,Detection,Analyst,Refs
-Red Hat update for gstreamer1-plugins-good,CVE-2024-47539,8.4,,Qualys QID,12/18 CH - QID Available (244975),https://access.redhat.com/errata/RHSA-2024:11299
-Red Hat update for gstreamer1-plugins-good,CVE-2024-47613,8.4,,Qualys QID,12/18 CH - QID Available (244975),https://access.redhat.com/errata/RHSA-2024:11299
-Red Hat update for gstreamer1-plugins-good,CVE-2024-47540,8.8,,Qualys QID,12/18 CH - QID Available (244975),https://access.redhat.com/errata/RHSA-2024:11299
-Red Hat update for gstreamer1-plugins-good,CVE-2024-47606,8.8,,Qualys QID,12/18 CH - QID Available (244975),https://access.redhat.com/errata/RHSA-2024:11299
-Red Hat update for gstreamer1-plugins-good,CVE-2024-47537,6.5,,Qualys QID,12/18 CH - QID Available (244975),https://access.redhat.com/errata/RHSA-2024:11299
-Red Hat update for bluez,CVE-2023-45866,6.3,,Qualys QID,12/18 CH - QID Available (244963),https://access.redhat.com/errata/RHSA-2024:11154
-Red Hat update for tuned,CVE-2024-52337,5.5,,Qualys QID,12/18 CH - QID Available (244960),https://access.redhat.com/errata/RHSA-2024:11161
-Red Hat update for mpg123,CVE-2024-10573,6.7,,Qualys QID,12/18 CH - QID Available (244959),https://access.redhat.com/errata/RHSA-2024:11193
-Red Hat python3.11-urllib3 Rejection Notice,CVE-2023-45803,4.2,,Qualys QID,12/18 CH - QID Available (244956),https://access.redhat.com/errata/RHSA-2024:11189
+title,cve_str_list,Column2,Column22,Column3,Column1,Refs
+IBM Tivoli Application Dependency Discovery Manager Spring Framework Multiple Denial of Service Vulnerabilities,CVE-2024-38808,5.3,,None,,https://www.ibm.com/support/pages/node/7179470
+IBM Tivoli Application Dependency Discovery Manager Spring Framework Multiple Denial of Service Vulnerabilities,CVE-2024-38809,4.3,,None,,https://www.ibm.com/support/pages/node/7179470
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2024-12695,N/A,,Qualys QID,12/20 CH - QID Available (382604),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#december-19-2024
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2024-12693,N/A,,Qualys QID,12/20 CH - QID Available (382604),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#december-19-2024
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2024-12692,N/A,,Qualys QID,12/20 CH - QID Available (382604),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#december-19-2024
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2024-12694,N/A,,Qualys QID,12/20 CH - QID Available (382604),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#december-19-2024
