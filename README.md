@@ -1,99 +1,63 @@
-Python Script to Send Keystrokes to Two Applications Simultaneously
-Automating Keystrokes with Python
-Introduction
-Automation is a powerful tool that can help streamline repetitive tasks, increase efficiency, and reduce human error. One common form of automation involves sending keystrokes to applications to simulate user input. In this document, we will explore how to create a Python script that can send keystrokes to two applications simultaneously.
-Prerequisites
-Before we dive into the script, there are a few prerequisites that we need to set up:
-•	Python 3.x installed on your machine
-•	Packages: `pyautogui`, `pygetwindow`, and `keyboard`
-You can install these packages using pip:
-pip install pyautogui pygetwindow keyboard
-Understanding the Packages
-To achieve our goal, we will use three main packages:
-•	pyautogui: This package allows us to control the mouse and keyboard, providing functions to simulate keystrokes and mouse movements.
-•	pygetwindow: This package helps us identify and manipulate application windows.
-•	keyboard: This package lets us handle keyboard events and send keystrokes.
-Identifying Application Windows
-First, we need to identify the windows of the applications to which we want to send keystrokes. To do this, we can use the `pygetwindow` package. Here is a small script to list all open windows:
-import pygetwindow as gw
-windows = gw.getAllTitles()
-for window in windows:
-print(window)
-Run this script and note down the titles of the windows you want to interact with.
-Sending Keystrokes
-Next, we will write a function to send keystrokes to a specific application window using the `pyautogui` package. We need to make sure the window is active before sending keystrokes to it.
-import pyautogui
-import pygetwindow as gw
-import time
-def send_keystrokes(window_title, keys):
-window = gw.getWindowsWithTitle(window_title)
-if len(window) == 0:
-print(f"No window found with title: {window_title}")
-return
-window = window[0]
-window.activate()
-time.sleep(0.5)  # Give some time for the window to activate
-pyautogui.typewrite(keys)
-Handling Multiple Windows
-Now that we have a function to send keystrokes to a single window, let's modify it to send keystrokes to two windows simultaneously. We will use the `keyboard` package to listen for a trigger key to start sending keystrokes.
-import keyboard
-def send_keystrokes_to_multiple_windows(window_titles, keys):
-if len(window_titles) != 2:
-print("This function only supports sending keystrokes to exactly two windows.")
-return
-windows = [gw.getWindowsWithTitle(title)[0] for title in window_titles]
-for window in windows:
-if window is None:
-print(f"No window found with title: {window_titles[windows.index(window)]}")
-return
-def send_keys():
-for window, key in zip(windows, keys):
-window.activate()
-time.sleep(0.5)  # Give some time for the window to activate
-pyautogui.typewrite(key)
-# Listen for the trigger key (e.g., 'ctrl+shift+k')
-keyboard.add_hotkey('ctrl+shift+k', send_keys)
-print("Press 'ctrl+shift+k' to send keystrokes to the windows.")
-# Keep the script running
-keyboard.wait('esc')
-Full Script
-Finally, let's put everything together into a complete script. This script will send predefined keystrokes to two application windows when a specific hotkey is pressed.
-import pyautogui
-import pygetwindow as gw
-import keyboard
-import time
-def send_keystrokes(window_title, keys):
-window = gw.getWindowsWithTitle(window_title)
-if len(window) == 0:
-print(f"No window found with title: {window_title}")
-return
-window = window[0]
-window.activate()
-time.sleep(0.5)  # Give some time for the window to activate
-pyautogui.typewrite(keys)
-def send_keystrokes_to_multiple_windows(window_titles, keys):
-if len(window_titles) != 2:
-print("This function only supports sending keystrokes to exactly two windows.")
-return
-windows = [gw.getWindowsWithTitle(title)[0] for title in window_titles]
-for window in windows:
-if window is None:
-print(f"No window found with title: {window_titles[windows.index(window)]}")
-return
-def send_keys():
-for window, key in zip(windows, keys):
-window.activate()
-time.sleep(0.5)  # Give some time for the window to activate
-pyautogui.typewrite(key)
-# Listen for the trigger key (e.g., 'ctrl+shift+k')
-keyboard.add_hotkey('ctrl+shift+k', send_keys)
-print("Press 'ctrl+shift+k' to send keystrokes to the windows.")
-# Keep the script running
-keyboard.wait('esc')
-if __name__ == "__main__":
-window_titles = ["Application Window 1", "Application Window 2"]
-keys = ["Hello, World!", "Goodbye, World!"]
-send_keystrokes_to_multiple_windows(window_titles, keys)
-Conclusion
-This script provides a simple yet effective way to send keystrokes to two applications simultaneously. By leveraging the capabilities of `pyautogui`, `pygetwindow`, and `keyboard` packages, we can automate tasks across multiple applications with ease. With further customization, this script can be adapted to meet specific needs and workflows.
-
+Funny
+•	You have a fantastic smile! Did it come with the charm package?
+•	Your profile picture is stunning! Do you give lessons in looking amazing?
+•	Wow, great taste in fashion! Are you secretly a stylist?
+•	Your pet looks adorable! Do they have a side gig as a model?
+•	Those sunglasses are on point! Are you hiding secret superpowers?
+•	The background in your photo is beautiful! Did you photoshop yourself into a postcard?
+•	That hat suits you perfectly! Does it come in my size?
+•	Your shoes are stylish! Do they come with a GPS to find the way to your heart?
+•	You look very athletic! Do you run marathons or just run through my mind?
+•	Great sense of humor in your bio! Can I hire you as my personal comedian?
+•	Your travel pics are amazing! Do you have a secret teleportation device?
+•	That outfit is fabulous! Do you have a magical wardrobe?
+•	That smile could light up a room! Have you considered a career as a lighthouse keeper?
+•	Great photo! Is there a modeling agency I should contact for your autograph?
+•	You look like you love adventures! Do you have a map to the coolest places?
+•	Your hairstyle is fantastic! Do you own a time machine to keep it perfect?
+•	Love the pose! Were you practicing for a magazine cover shoot?
+•	Wow, such elegance! Are you secretly royalty?
+•	Great taste in music! Can I join your fan club?
+•	Love your energy! Do you have a solar panel attached?
+Insightful
+•	Your eyes are captivating! What story do they tell?
+•	You have a thoughtful expression! What’s the most inspiring book you’ve read?
+•	Your profile radiates kindness! What’s your philosophy on life?
+•	You have a calm aura! How do you maintain your peace?
+•	Such a warm smile! What brings you the greatest joy?
+•	Love your sense of style! How does it reflect your personality?
+•	Your hobbies are fascinating! What’s your most memorable experience?
+•	You seem very passionate! What drives your motivation?
+•	Your travel photos are inspiring! What’s the most transformative place you've visited?
+•	You have a cheerful vibe! What’s the secret to your happiness?
+•	You look very creative! How has your creativity influenced your life?
+•	You seem very wise! What life lesson would you share with others?
+•	Your profile is intriguing! What’s the deepest conversation you've ever had?
+•	You have a strong presence! What’s your guiding principle?
+•	Such a confident pose! What’s your biggest achievement?
+•	You radiate positivity! How do you stay so optimistic?
+•	Your bio is well-written! What’s your favorite piece of literature?
+•	You seem very adventurous! What’s the boldest thing you've ever done?
+•	You have a compassionate look! What cause are you most passionate about?
+•	Such an engaging smile! What’s the best advice you’ve ever received?
+Playful
+•	Your profile picture is awesome! What’s the most exciting adventure you've been on?
+•	You have a radiant smile! What’s the most fun thing you've done recently?
+•	Love your bio! What’s the quirkiest thing about you?
+•	Those shoes are cool! What’s your favorite dance move?
+•	Your pet is adorable! What’s the funniest thing they’ve ever done?
+•	Great taste in movies! What’s your go-to movie for a rainy day?
+•	Such a lively photo! What’s the best party you've ever attended?
+•	You look like you have a great sense of humor! What’s your favorite joke?
+•	Love the energy in your pic! What’s your favorite way to relax?
+•	That outfit is on point! If you could swap wardrobes with anyone, who would it be?
+•	Great photo! What’s one thing on your bucket list?
+•	You look very sporty! What’s your favorite game to play?
+•	Love the background in your picture! What’s your favorite travel destination?
+•	Such a fun profile! What’s the best prank you've ever pulled?
+•	That smile is contagious! What’s your secret to staying cheerful?
+•	Great sense of style! What’s your favorite fashion trend?
+•	Love the pose! What’s your go-to karaoke song?
+•	You seem very spontaneous! What’s the most impulsive thing you've ever done?
+•	Such a vibrant photo! What’s your favorite way to spend a weekend?
+•	Great energy! If you could have any superpower, what would it be?
