@@ -6,7 +6,15 @@ $global:QueryLimit = 1500
 
 #FileName
 
-$FileName = "C:\Users\chris\OneDrive\Desktop\CustomScripts\CVE\CVE_Prioritizer\Advisories.csv"
+#Today
+
+#Yesterday
+
+$Today = [System.DateTimeOffset]::Now.ToUnixTimeSeconds()
+
+$Yesterday = $Today - 86400
+
+$FileName = "C:\Users\chris\OneDrive\Documents\VulnTracker\Advisories.csv"
 
 function QueryData ($URL, $Header)
 
@@ -156,7 +164,7 @@ $WebServiceHeader.Add("Content-Type", 'application/json')
 
 $WebServiceHeader.Add("Authorization", "Token d200c6346ca0deb5fc40fe34ec2fe18eaf4b9d72" )
  
-$CustomCollection = CallAPI  "https://api.app.secunia.com/api/advisories/?released__gte=1732544592&released__lt=1732629315" $WebServiceHeader
+$CustomCollection = CallAPI  "https://api.app.secunia.com/api/advisories/?released__gte=$($Yesterday)&released__lt=$($Today)" $WebServiceHeader
 
 $CustomCollection | Export-Csv -path $FileName -NoTypeInformation
 
