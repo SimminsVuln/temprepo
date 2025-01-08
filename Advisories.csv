@@ -1,7 +1,31 @@
 title,cve_str_list,Column2,Column22,Column3,Column1,Refs
-IBM Tivoli Application Dependency Discovery Manager Spring Framework Multiple Denial of Service Vulnerabilities,CVE-2024-38808,5.3,,None,,https://www.ibm.com/support/pages/node/7179470
-IBM Tivoli Application Dependency Discovery Manager Spring Framework Multiple Denial of Service Vulnerabilities,CVE-2024-38809,4.3,,None,,https://www.ibm.com/support/pages/node/7179470
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2024-12695,N/A,,Qualys QID,12/20 CH - QID Available (382604),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#december-19-2024
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2024-12693,N/A,,Qualys QID,12/20 CH - QID Available (382604),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#december-19-2024
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2024-12692,N/A,,Qualys QID,12/20 CH - QID Available (382604),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#december-19-2024
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2024-12694,N/A,,Qualys QID,12/20 CH - QID Available (382604),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#december-19-2024
+Mozilla Firefox ESR Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-0238,,,Qualys QID,1/8 CH - QID Available (382646),https://www.mozilla.org/en-US/security/advisories/mfsa2025-03
+Mozilla Firefox ESR Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-0242,,,,1/8 CH - QID Available (382646),https://www.mozilla.org/en-US/security/advisories/mfsa2025-03
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-0241,,,,1/8 CH - QID Available (382646),https://www.mozilla.org/en-US/security/advisories/mfsa2025-02
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-0239,,,,1/8 CH - QID Available (382646),https://www.mozilla.org/en-US/security/advisories/mfsa2025-02
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-0242,,,,1/8 CH - QID Available (382646),https://www.mozilla.org/en-US/security/advisories/mfsa2025-02
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-0238,,,,1/8 CH - QID Available (382646),https://www.mozilla.org/en-US/security/advisories/mfsa2025-02
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-0243,,,,1/8 CH - QID Available (382646),https://www.mozilla.org/en-US/security/advisories/mfsa2025-02
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-0240,,,,1/8 CH - QID Available (382646),https://www.mozilla.org/en-US/security/advisories/mfsa2025-02
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-0237,,,,1/8 CH - QID Available (382646),https://www.mozilla.org/en-US/security/advisories/mfsa2025-02
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-0238,,,,1/8 CH - QID Available (382647),https://www.mozilla.org/en-US/security/advisories/mfsa2025-01
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-0243,,,,1/8 CH - QID Available (382647),https://www.mozilla.org/en-US/security/advisories/mfsa2025-01
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-0246,,,,1/8 CH - QID Available (382647),https://www.mozilla.org/en-US/security/advisories/mfsa2025-01
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-0244,,,,1/8 CH - QID Available (382647),https://www.mozilla.org/en-US/security/advisories/mfsa2025-01
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-0239,,,,1/8 CH - QID Available (382647),https://www.mozilla.org/en-US/security/advisories/mfsa2025-01
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-0240,,,,1/8 CH - QID Available (382647),https://www.mozilla.org/en-US/security/advisories/mfsa2025-01
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-0242,,,,1/8 CH - QID Available (382647),https://www.mozilla.org/en-US/security/advisories/mfsa2025-01
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-0237,,,,1/8 CH - QID Available (382647),https://www.mozilla.org/en-US/security/advisories/mfsa2025-01
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-0247,,,,1/8 CH - QID Available (382647),https://www.mozilla.org/en-US/security/advisories/mfsa2025-01
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-0241,,,,1/8 CH - QID Available (382647),https://www.mozilla.org/en-US/security/advisories/mfsa2025-01
+Joomla! Multiple Vulnerabilities,CVE-2024-40749,,,,,https://developer.joomla.org/security-centre/955-20250102-core-xss-vector-in-the-id-attribute-of-menu-lists.html
+Joomla! Multiple Vulnerabilities,CVE-2024-40749,,,,,https://developer.joomla.org/security-centre/956-20250103-core-read-acl-violation-in-multiple-core-views.html
+Joomla! Multiple Vulnerabilities,CVE-2024-40748,,,,,https://developer.joomla.org/security-centre/955-20250102-core-xss-vector-in-the-id-attribute-of-menu-lists.html
+Joomla! Multiple Vulnerabilities,CVE-2024-40748,,,,,https://developer.joomla.org/security-centre/956-20250103-core-read-acl-violation-in-multiple-core-views.html
+Aruba 501 Wireless Client Bridge Vulnerability,CVE-2024-54006,,,,,https://csaf.arubanetworks.com/2025/hpe_aruba_networking_-_hpesbnw04763.txt
+Aruba 501 Wireless Client Bridge Vulnerability,CVE-2024-54007,,,,,https://csaf.arubanetworks.com/2025/hpe_aruba_networking_-_hpesbnw04763.txt
+Google Chrome Multiple Vulnerabilities,CVE-2025-0291,,,,1/8 CH - QID Available (382644),https://chromereleases.googleblog.com/2025/01/stable-channel-update-for-desktop.html
+Splunk Jboss multiple Vulnerabilities,CVE-2020-14340,,,,,https://advisory.splunk.com//advisories/SVD-2025-0102
+Splunk Jboss multiple Vulnerabilities,CVE-2023-5685,,,,,https://advisory.splunk.com//advisories/SVD-2025-0102
+Splunk Jboss multiple Vulnerabilities,CVE-2020-35510,,,,,https://advisory.splunk.com//advisories/SVD-2025-0102
+Splunk Jboss multiple Vulnerabilities,CVE-2025-22621,,,,,https://advisory.splunk.com//advisories/SVD-2025-0101
