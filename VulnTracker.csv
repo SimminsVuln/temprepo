@@ -1,1 +1,29 @@
-﻿OpenSSH GlibC,CVE-2024-6387,8.1,,Qualys QID,1/6 CH - QID Available(6007429). Exploit released,https://gbhackers.com/poc-exploit-released-for-cve-2024-6387/
+﻿title,cve_str_list,Column4,Column3,Column2,Column1,Refs
+Cisco Common Services Platform Collector (CSPC) Multiple Script Insertion Vulnerabilities,CVE-2025-20168,5.4,,Qualys QID,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cspc-xss-CDOJZyH
+Cisco Common Services Platform Collector (CSPC) Multiple Script Insertion Vulnerabilities,CVE-2025-20167,5.4,,Qualys QID,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cspc-xss-CDOJZyH
+Cisco Common Services Platform Collector (CSPC) Multiple Script Insertion Vulnerabilities,CVE-2025-20166,5.4,,Qualys QID,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cspc-xss-CDOJZyH
+Cisco ThousandEyes Endpoint Agent Client Spoofing Vulnerability,CVE-2025-20126,4.8,,Qualys QID,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-thousandeyes-cert-pqtJUv9N
+Juniper Junos OS RPD Denial of Service Vulnerability,CVE-2025-21600,6.5,,Qualys QID,1/9 CH - QID Available (44498),https://kb.juniper.net/InfoCenter/JSA92870
+Juniper Junos OS RPD Denial of Service Vulnerability,CVE-2025-21602,6.5,,Qualys QID,1/9 CH - QID Available (44497),https://kb.juniper.net/InfoCenter/JSA92872
+Juniper Junos OS RPD Denial of Service Vulnerability,CVE-2025-21598,7.5,,Qualys QID,1/9 CH - QID Available (44495),https://kb.juniper.net/InfoCenter/JSA92867
+Juniper SRX Series Junos OS CLI Information Disclosure Vulnerability,CVE-2025-21592,5.5,,Qualys QID,1/9 CH - QID Available (44496),https://kb.juniper.net/InfoCenter/JSA92860
+Juniper SRX1500 / SRX4100 / SRX4200 Series Junos OS Denial of Service Vulnerability,CVE-2025-21596,5.5,,Qualys QID,1/9 CH - QID Available (44494),https://supportportal.juniper.net/s/article/2025-01-Security-Bulletin-Junos-OS-SRX1500-SRX4100-SRX4200-Execution-of-low-privileged-CLI-command-results-in-chassisd-crash-CVE-2025-21596?language=en_US
+Junos OS RPD Denial of Service Vulnerability,CVE-2025-21593,5.5,,Qualys QID,1/9 CH - QID Available (44492),https://kb.juniper.net/InfoCenter/JSA92861
+Red Hat update for cups,CVE-2024-47175,7.7,,Qualys QID,1/9 CH - QID Available (44492),https://access.redhat.com/errata/RHSA-2025:0083
+Red Hat update for firefox,CVE-2025-0237,6.8,,Qualys QID,1/9 CH - QID Available (245043),https://access.redhat.com/errata/RHSA-2025:0080
+Red Hat update for firefox,CVE-2025-0238,6.5,,Qualys QID,1/9 CH - QID Available (245044),https://access.redhat.com/errata/RHSA-2025:0080
+Red Hat update for firefox,CVE-2025-0239,5.4,,Qualys QID,1/9 CH - QID Available (245044),https://access.redhat.com/errata/RHSA-2025:0080
+Red Hat update for firefox,CVE-2025-0242,8.8,,Qualys QID,1/9 CH - QID Available (245044),https://access.redhat.com/errata/RHSA-2025:0080
+Red Hat update for firefox,CVE-2025-0241,6.5,,Qualys QID,1/9 CH - QID Available (245044),https://access.redhat.com/errata/RHSA-2025:0080
+Red Hat update for firefox,CVE-2025-0240,6.5,,Qualys QID,1/9 CH - QID Available (245044),https://access.redhat.com/errata/RHSA-2025:0080
+Red Hat update for firefox,CVE-2025-0243,7.5,,Qualys QID,1/9 CH - QID Available (245044),https://access.redhat.com/errata/RHSA-2025:0080
+Red Hat update for kernel,CVE-2024-53088,4.7,,Qualys QID,1/9 CH - QID Available (245034),https://access.redhat.com/errata/RHSA-2025:0065
+Red Hat update for kernel,CVE-2024-53122,5.9,,Qualys QID,1/9 CH - QID Available (245034),https://access.redhat.com/errata/RHSA-2025:0065
+Red Hat update for kernel,CVE-2024-53122,5.9,,Qualys QID,1/9 CH - QID Available (245033),https://access.redhat.com/errata/RHSA-2025:0062
+Red Hat update for kernel,CVE-2024-35890,5.5,,Qualys QID,1/9 CH - QID Available (245033),https://access.redhat.com/errata/RHSA-2025:0062
+Red Hat update for kernel,CVE-2024-50208,5.5,,Qualys QID,1/9 CH - QID Available (245028),https://access.redhat.com/errata/RHSA-2025:0059
+Red Hat update for kernel,CVE-2024-50252,5.5,,Qualys QID,1/9 CH - QID Available (245028),https://access.redhat.com/errata/RHSA-2025:0059
+Red Hat update for kernel,CVE-2024-53122,5.9,,Qualys QID,1/9 CH - QID Available (245028),https://access.redhat.com/errata/RHSA-2025:0059
+Red Hat update for kernel,CVE-2024-46713,5.5,,Qualys QID,1/9 CH - QID Available (245028),https://access.redhat.com/errata/RHSA-2025:0059
+Red Hat update for kpatch-patch-4_18_0-477,CVE-2024-53122,5.9,,Qualys QID,1/9 CH - QID Available (245025),https://access.redhat.com/errata/RHSA-2025:0051
+Red Hat update for kpatch-patch-5_14_0-503_15_1,CVE-2024-53122,5.9,,Qualys QID,1/9 CH - QID Available (245027),https://access.redhat.com/errata/RHSA-2025:0049
