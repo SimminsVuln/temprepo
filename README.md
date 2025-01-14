@@ -157,4 +157,3 @@ CVE-2025-21409
 CVE-2025-21411
 CVE-2025-21413
 CVE-2025-21417
-![image](https://github.com/user-attachments/assets/6589e902-daa3-4df9-b25e-1ade0931a977)
