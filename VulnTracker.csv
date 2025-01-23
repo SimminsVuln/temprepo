@@ -1,124 +1,33 @@
 title,cve_str_list,Column3,Column4,Column2,Column1,Refs
-Arista EOS BGP Agent Denial of Service Vulnerability,CVE-2024-9135,5.3,,,,https://www.arista.com/en/support/advisories-notices/security-advisory/21092-security-advisory-0110
-Atlassian Confluence Avro Arbitrary Code Execution Vulnerability,CVE-2024-47561,7.3,,,,https://jira.atlassian.com/browse/CONFSERVER-98720
-Atlassian Confluence Information Disclosure Vulnerability,CVE-2024-38819,7.5,,,,https://jira.atlassian.com/browse/CONFSERVER-98842
-Atlassian JIRA org.apache.avro:avro Arbitrary Code Execution Vulnerability,CVE-2024-47561,7.3,,,,https://jira.atlassian.com/browse/JSWSERVER-26273
-Elasticsearch Memory Exhaustion Vulnerability,CVE-2024-43709,6.5,,,,https://discuss.elastic.co/t/elasticsearch-7-17-21-and-8-13-3-security-update-esa-2024-25/373442
-Enterprise Manager for MySQL Database Multiple Vulnerabilities,CVE-2024-38819,7.5,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2025-21524,9.8,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2023-3961,9.8,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2025-21515,8.8,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2024-27983,8.2,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2023-4782,7.8,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2025-21510,7.5,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2025-21511,7.5,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2023-2976,7.1,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2025-21552,6.5,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2025-21508,6.5,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2025-21509,6.5,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2023-6129,6.5,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2025-21527,6.1,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2024-29041,6.1,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2025-21512,6.1,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2025-21513,6.1,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2025-21538,6.1,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2023-48795,5.9,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2024-21245,5.4,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2025-21507,5.4,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2024-27280,5.3,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2025-21514,5.3,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2025-21517,4.3,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2024-11053,9.1,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2024-37371,9.1,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2024-11053,9.1,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21521,7.5,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21518,6.5,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21500,6.5,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21501,6.5,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21518,6.5,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21566,6.5,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21522,6.5,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21548,6.4,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21497,5.5,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21555,5.5,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21559,5.5,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21540,5.4,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21531,4.9,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21543,4.9,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21490,4.9,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21491,4.9,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21503,4.9,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21523,4.9,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21531,4.9,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21505,4.9,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21499,4.9,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21525,4.9,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21529,4.9,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21492,4.9,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21504,4.9,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21536,4.9,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21543,4.9,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21534,4.9,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21495,4.4,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21493,4.4,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21519,4.4,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21567,4.3,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21494,4.1,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21546,3.8,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21520,1.8,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-MySQL Server Multiple Vulnerabilities,CVE-2025-21520,1.8,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-PeopleSoft Enterprise PeopleTools Multiple Vulnerabilities,CVE-2024-5535,9.1,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-PeopleSoft Enterprise PeopleTools Multiple Vulnerabilities,CVE-2020-22218,7.5,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-PeopleSoft Enterprise PeopleTools Multiple Vulnerabilities,CVE-2025-21545,7.5,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-PeopleSoft Enterprise PeopleTools Multiple Vulnerabilities,CVE-2024-7592,7.5,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-PeopleSoft Enterprise PeopleTools Multiple Vulnerabilities,CVE-2024-28849,6.5,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-PeopleSoft Enterprise PeopleTools Multiple Vulnerabilities,CVE-2024-22020,6.5,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-PeopleSoft Enterprise PeopleTools Multiple Vulnerabilities,CVE-2024-35195,5.6,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-PeopleSoft Enterprise FIN Cash Management Multiple Vulnerabilities,CVE-2025-21537,5.4,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-PeopleSoft Enterprise FIN eSettlements Multiple Vulnerabilities,CVE-2025-21539,5.4,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-PeopleSoft Enterprise SCM Purchasing Multiple Vulnerabilities,CVE-2025-21561,5.4,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-PeopleSoft Enterprise PeopleTools Multiple Vulnerabilities,CVE-2024-27280,5.3,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-PeopleSoft Enterprise PeopleTools Multiple Vulnerabilities,CVE-2024-29025,5.3,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-PeopleSoft Enterprise PeopleTools Multiple Vulnerabilities,CVE-2024-37891,4.4,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-PeopleSoft Enterprise CC Common Application Objects Multiple Vulnerabilities,CVE-2025-21562,4.3,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-PeopleSoft Enterprise CC Common Application Objects Multiple Vulnerabilities,CVE-2025-21563,4.3,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-PeopleSoft Enterprise PeopleTools Multiple Vulnerabilities,CVE-2025-21530,4.3,,,,http://www.oracle.com/security-alerts/cpujan2025verbose.html
-Node.js Multiple Vulnerabilities,CVE-2025-23083,High,,,,https://nodejs.org/en/blog/vulnerability/january-2025-security-releases
-Node.js Multiple Vulnerabilities,CVE-2025-23084,Medium,,,,https://nodejs.org/en/blog/vulnerability/january-2025-security-releases
-Node.js Multiple Vulnerabilities,CVE-2025-23085,Medium,,,,https://nodejs.org/en/blog/vulnerability/january-2025-security-releases
-Red Hat JBoss Web Server Security Bypass Vulnerability,CVE-2024-50379,8.1,,,,"https://access.redhat.com/errata/RHSA-2025:0343
-https://access.redhat.com/errata/RHSA-2025:0342"
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
+Cisco Secure Endpoint ClamAV Denial of Service Vulnerability,CVE-2025-20128,5.3,,,1/23 CH - Task to PMG,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-ole2-H549rphA
+GitLab Multiple Vulnerabilities,CVE-2024-6324,4.3,,,1/23 CH - QID Available (382709),https://about.gitlab.com/releases/2025/01/22/patch-release-gitlab-17-8-1-released
+GitLab Multiple Vulnerabilities,CVE-2024-11931,6.4,,,1/23 CH - QID Available (382709),https://about.gitlab.com/releases/2025/01/22/patch-release-gitlab-17-8-1-released
+GitLab Multiple Vulnerabilities,CVE-2025-0314,8.7,,,1/23 CH - QID Available (382709),https://about.gitlab.com/releases/2025/01/22/patch-release-gitlab-17-8-1-released
+Google Chrome Multiple Vulnerabilities,CVE-2025-0611,High,,,1/23 CH - QID Available (382708),https://chromereleases.googleblog.com/2025/01/stable-channel-update-for-desktop_22.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-0612,High,,,1/23 CH - QID Available (382708),https://chromereleases.googleblog.com/2025/01/stable-channel-update-for-desktop_22.html
+Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2024-10963,7.4,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
+Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2024-3596,9,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
+Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2024-9287,6.3,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
+Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2019-12900,3.3,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
+Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2024-11168,3.7,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
+Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2024-50602,5.9,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
+Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2024-35195,5.6,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
+Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2024-10041,4.7,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
+Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2024-45338,7.5,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
+Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2024-5535,5.9,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
+Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2024-45337,8.2,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
+Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2024-12085,7.5,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
+Red Hat update for java-17-openjdk,CVE-2025-21502,4.8,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0422
+Red Hat update for kernel,CVE-2024-53088,4.7,,,1/23 CH - QID Available (249622),https://access.redhat.com/errata/RHSA-2025:0578
+Red Hat update for kernel,CVE-2024-50154,7,,,1/23 CH - QID Available (249622),https://access.redhat.com/errata/RHSA-2025:0578
+Red Hat update for kernel,CVE-2024-50275,3.6,,,1/23 CH - QID Available (249622),https://access.redhat.com/errata/RHSA-2025:0578
+Red Hat update for redis:6,CVE-2023-25155,6.5,,,1/23 CH - QID Available (249625),https://access.redhat.com/errata/RHSA-2025:0595
+Red Hat update for redis:6,CVE-2024-31228,5.5,,,1/23 CH - QID Available (249625),https://access.redhat.com/errata/RHSA-2025:0595
+Red Hat update for redis:6,CVE-2022-24834,7,,,1/23 CH - QID Available (249625),https://access.redhat.com/errata/RHSA-2025:0595
+Red Hat update for redis:6,CVE-2023-22458,5.5,,,1/23 CH - QID Available (249625),https://access.redhat.com/errata/RHSA-2025:0595
+Red Hat update for redis:6,CVE-2022-36021,5.5,,,1/23 CH - QID Available (249625),https://access.redhat.com/errata/RHSA-2025:0595
+Red Hat update for redis:6,CVE-2024-31449,7,,,1/23 CH - QID Available (249625),https://access.redhat.com/errata/RHSA-2025:0595
+Red Hat update for redis:6,CVE-2024-46981,7,,,1/23 CH - QID Available (249625),https://access.redhat.com/errata/RHSA-2025:0595
+Red Hat update for redis:6,CVE-2023-45145,3.6,,,1/23 CH - QID Available (249625),https://access.redhat.com/errata/RHSA-2025:0595
+Red Hat update for redis:6,CVE-2023-28856,5.5,,,1/23 CH - QID Available (249625),https://access.redhat.com/errata/RHSA-2025:0595
+Red Hat update for redis:6,CVE-2022-35977,5.5,,,1/23 CH - QID Available (249625),https://access.redhat.com/errata/RHSA-2025:0595
