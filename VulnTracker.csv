@@ -1,33 +1,21 @@
 title,cve_str_list,Column3,Column4,Column2,Column1,Refs
-Cisco Secure Endpoint ClamAV Denial of Service Vulnerability,CVE-2025-20128,5.3,,,1/23 CH - Task to PMG,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-ole2-H549rphA
-GitLab Multiple Vulnerabilities,CVE-2024-6324,4.3,,,1/23 CH - QID Available (382709),https://about.gitlab.com/releases/2025/01/22/patch-release-gitlab-17-8-1-released
-GitLab Multiple Vulnerabilities,CVE-2024-11931,6.4,,,1/23 CH - QID Available (382709),https://about.gitlab.com/releases/2025/01/22/patch-release-gitlab-17-8-1-released
-GitLab Multiple Vulnerabilities,CVE-2025-0314,8.7,,,1/23 CH - QID Available (382709),https://about.gitlab.com/releases/2025/01/22/patch-release-gitlab-17-8-1-released
-Google Chrome Multiple Vulnerabilities,CVE-2025-0611,High,,,1/23 CH - QID Available (382708),https://chromereleases.googleblog.com/2025/01/stable-channel-update-for-desktop_22.html
-Google Chrome Multiple Vulnerabilities,CVE-2025-0612,High,,,1/23 CH - QID Available (382708),https://chromereleases.googleblog.com/2025/01/stable-channel-update-for-desktop_22.html
-Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2024-10963,7.4,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
-Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2024-3596,9,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
-Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2024-9287,6.3,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
-Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2019-12900,3.3,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
-Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2024-11168,3.7,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
-Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2024-50602,5.9,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
-Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2024-35195,5.6,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
-Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2024-10041,4.7,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
-Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2024-45338,7.5,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
-Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2024-5535,5.9,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
-Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2024-45337,8.2,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
-Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2024-12085,7.5,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0576
-Red Hat update for java-17-openjdk,CVE-2025-21502,4.8,,,1/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:0422
-Red Hat update for kernel,CVE-2024-53088,4.7,,,1/23 CH - QID Available (249622),https://access.redhat.com/errata/RHSA-2025:0578
-Red Hat update for kernel,CVE-2024-50154,7,,,1/23 CH - QID Available (249622),https://access.redhat.com/errata/RHSA-2025:0578
-Red Hat update for kernel,CVE-2024-50275,3.6,,,1/23 CH - QID Available (249622),https://access.redhat.com/errata/RHSA-2025:0578
-Red Hat update for redis:6,CVE-2023-25155,6.5,,,1/23 CH - QID Available (249625),https://access.redhat.com/errata/RHSA-2025:0595
-Red Hat update for redis:6,CVE-2024-31228,5.5,,,1/23 CH - QID Available (249625),https://access.redhat.com/errata/RHSA-2025:0595
-Red Hat update for redis:6,CVE-2022-24834,7,,,1/23 CH - QID Available (249625),https://access.redhat.com/errata/RHSA-2025:0595
-Red Hat update for redis:6,CVE-2023-22458,5.5,,,1/23 CH - QID Available (249625),https://access.redhat.com/errata/RHSA-2025:0595
-Red Hat update for redis:6,CVE-2022-36021,5.5,,,1/23 CH - QID Available (249625),https://access.redhat.com/errata/RHSA-2025:0595
-Red Hat update for redis:6,CVE-2024-31449,7,,,1/23 CH - QID Available (249625),https://access.redhat.com/errata/RHSA-2025:0595
-Red Hat update for redis:6,CVE-2024-46981,7,,,1/23 CH - QID Available (249625),https://access.redhat.com/errata/RHSA-2025:0595
-Red Hat update for redis:6,CVE-2023-45145,3.6,,,1/23 CH - QID Available (249625),https://access.redhat.com/errata/RHSA-2025:0595
-Red Hat update for redis:6,CVE-2023-28856,5.5,,,1/23 CH - QID Available (249625),https://access.redhat.com/errata/RHSA-2025:0595
-Red Hat update for redis:6,CVE-2022-35977,5.5,,,1/23 CH - QID Available (249625),https://access.redhat.com/errata/RHSA-2025:0595
+NetApp Multiple Products OpenSSL Information Disclosure Vulnerability,CVE-2024-13176,5.9,,,,https://security.netapp.com/advisory/ntap-20250124-0005/
+NetApp Active IQ Unified Manager Spring Security Authorization Bypass Vulnerability,CVE-2024-38821,9.1,,,,https://security.netapp.com/advisory/ntap-20250124-0006/
+NetApp Active IQ Unified Manager Spring Security Authorization Bypass Vulnerability,CVE-2024-38827,4.8,,,,https://security.netapp.com/advisory/ntap-20250124-0007/
+NetApp Active IQ Unified Manager for VMware vSphere Java SE Hotspot Vulnerability,CVE-2025-21502,4.8,,,,https://security.netapp.com/advisory/ntap-20250124-0009/
+NetApp Active IQ Unified Manager for VMware vSphere MySQL Denial of Service Vulnerability,CVE-2025-21492,4.9,,,,https://security.netapp.com/advisory/ntap-20250124-0011/
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
