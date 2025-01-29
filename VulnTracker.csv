@@ -1,61 +1,37 @@
-title,cve_str_list,Column3,Column4,Column2,Column1,Refs
-Apple iOS and iPadOS Multiple Vulnerabilities,CVE-2024-9956,Not Listed,,Qualys QID,1/28 CH QID Available (610628),https://support.apple.com/en-us/122066
-Apple iOS and iPadOS Multiple Vulnerabilities,CVE-2025-24085,Not Listed,,Qualys QID,1/28 CH QID Available (610628),https://support.apple.com/en-us/122066
-Apple iOS and iPadOS Multiple Vulnerabilities,CVE-2025-24086,Not Listed,,Qualys QID,1/28 CH QID Available (610628),https://support.apple.com/en-us/122066
-Apple iOS and iPadOS Multiple Vulnerabilities,CVE-2025-24113,Not Listed,,Qualys QID,1/28 CH QID Available (610628),https://support.apple.com/en-us/122066
-Apple iOS and iPadOS Multiple Vulnerabilities,CVE-2025-24126,Not Listed,,Qualys QID,1/28 CH QID Available (610628),https://support.apple.com/en-us/122066
-Apple iOS and iPadOS Multiple Vulnerabilities,CVE-2025-24128,Not Listed,,Qualys QID,1/28 CH QID Available (610628),https://support.apple.com/en-us/122066
-Apple iOS and iPadOS Multiple Vulnerabilities,CVE-2025-24137,Not Listed,,Qualys QID,1/28 CH QID Available (610628),https://support.apple.com/en-us/122066
-Apple iOS and iPadOS Multiple Vulnerabilities,CVE-2025-24143,Not Listed,,Qualys QID,1/28 CH QID Available (610628),https://support.apple.com/en-us/122066
-Apple iOS and iPadOS Multiple Vulnerabilities,CVE-2025-24149,Not Listed,,Qualys QID,1/28 CH QID Available (610628),https://support.apple.com/en-us/122066
-Apple iOS and iPadOS Multiple Vulnerabilities,CVE-2025-24150,Not Listed,,Qualys QID,1/28 CH QID Available (610628),https://support.apple.com/en-us/122066
-Apple iOS and iPadOS Multiple Vulnerabilities,CVE-2025-24154,Not Listed,,Qualys QID,1/28 CH QID Available (610628),https://support.apple.com/en-us/122066
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24085,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24086,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24096,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24107,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24113,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24114,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24118,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24120,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24121,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24122,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24126,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24128,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24129,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24130,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24131,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24135,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24137,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24140,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24143,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24149,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24150,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24151,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24152,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24154,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24156,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24158,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24159,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24162,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24166,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24176,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24177,Not Listed,,Qualys QID,1/28 CH QID Available (382741),https://support.apple.com/en-us/122068
-Apple Safari Multiple Vulnerabilities,CVE-2025-24113,Not Listed,,Qualys QID,1/28 CH QID Available (382740),https://support.apple.com/en-us/122074
-Apple Safari Multiple Vulnerabilities,CVE-2025-24128,Not Listed,,Qualys QID,1/28 CH QID Available (382740),https://support.apple.com/en-us/122074
-Apple Safari Multiple Vulnerabilities,CVE-2025-24143,Not Listed,,Qualys QID,1/28 CH QID Available (382740),https://support.apple.com/en-us/122074
-Apple Safari Multiple Vulnerabilities,CVE-2025-24150,Not Listed,,Qualys QID,1/28 CH QID Available (382740),https://support.apple.com/en-us/122074
-Gradle Develocity Information Disclosure Vulnerability,CVE-2025-24858,8.3,,None,,https://security.gradle.com/advisory/2025-01
-IBM Tivoli Monitoring IBM Java Multiple Vulnerabilities,CVE-2024-10917,5.3,,Qualys QID,1/28 CH QID Available (382736),https://www.ibm.com/support/pages/node/7181346
-IBM Tivoli Monitoring IBM Java Multiple Vulnerabilities,CVE-2024-21208,3.7,,Qualys QID,1/28 CH QID Available (382736),https://www.ibm.com/support/pages/node/7181346
-IBM Tivoli Monitoring IBM Java Multiple Vulnerabilities,CVE-2024-21210,3.7,,Qualys QID,"1/28 CH QID Available (382745, 382736)",https://www.ibm.com/support/pages/node/7181346
-IBM Tivoli Monitoring IBM Java Multiple Vulnerabilities,CVE-2024-21217,3.7,,Qualys QID,1/28 CH QID Available (382736),https://www.ibm.com/support/pages/node/7181346
-IBM Tivoli Monitoring IBM Java Multiple Vulnerabilities,CVE-2024-21235,4.8,,Qualys QID,"1/28 CH QID Available (382745, 382736)",https://www.ibm.com/support/pages/node/7181346
-Red Hat update for python-jinja2,CVE-2024-56326,6.3,,Qualys QID,1/28 CH QID Available (249641),https://access.redhat.com/errata/RHSA-2025:0711
-Red Hat update for redis,CVE-2022-24834,7,,Qualys QID,1/28 CH QID Available (249636),https://access.redhat.com/errata/RHSA-2025:0693
-Red Hat update for redis,CVE-2023-45145,3.6,,Qualys QID,1/28 CH QID Available (249636),https://access.redhat.com/errata/RHSA-2025:0693
-Red Hat update for redis,CVE-2024-31228,5.5,,Qualys QID,1/28 CH QID Available (249636),https://access.redhat.com/errata/RHSA-2025:0693
-Red Hat update for redis,CVE-2024-31449,7,,Qualys QID,1/28 CH QID Available (249636),https://access.redhat.com/errata/RHSA-2025:0693
-Red Hat update for redis,CVE-2024-46981,7,,Qualys QID,1/28 CH QID Available (249636),https://access.redhat.com/errata/RHSA-2025:0693
-Vaultwarden Multiple Vulnerabilities,CVE-2025-24364,7.1,,,,https://github.com/dani-garcia/vaultwarden/security/advisories/GHSA-f7r5-w49x-gxm3
-Vaultwarden Multiple Vulnerabilities,CVE-2025-24365,7.1,,,,https://github.com/dani-garcia/vaultwarden/security/advisories/GHSA-f7r5-w49x-gxm3
+title,cve_str_list,Column3,Column4,Column2,Column1,Refs,Column5,Column6,Column7,Column8
+Red Hat update for bzip2,CVE-2019-12900,3.3,,,1/29 CH - QID Available (249643),https://access.redhat.com/errata/RHSA-2025:0733,,,,
+Red Hat update for mariadb:10.11,CVE-2024-21096,4.9,,,1/29 CH - QID Available (249642),https://access.redhat.com/errata/RHSA-2025:0737,,,,
+Red Hat update for mariadb:10.5,CVE-2024-21096,4.9,,,1/29 CH - QID Available (249645),https://access.redhat.com/errata/RHSA-2025:0739,,,,
+Red Hat update for mariadb:10.5,CVE-2023-22084,4.9,,,1/29 CH - QID Available (249645),https://access.redhat.com/errata/RHSA-2025:0739,,,,
+Red Hat keepalived Rejection Notice,CVE-2024-41184,6.3,,,1/29 CH - QID Available (249644),https://access.redhat.com/errata/RHSA-2025:0743,,,,
+Red Hat update for gimp:2.8,CVE-2023-44444,7.8,,,1/29 CH - QID Available (249646),https://access.redhat.com/errata/RHSA-2025:0746,,,,
+Red Hat update for gimp:2.8,CVE-2023-44443,7.8,,,1/29 CH - QID Available (249646),https://access.redhat.com/errata/RHSA-2025:0746,,,,
+Red Hat update for gimp:2.8,CVE-2023-44442,7.8,,,1/29 CH - QID Available (249646),https://access.redhat.com/errata/RHSA-2025:0746,,,,
+Red Hat update for git-lfs,CVE-2024-53263,8.1,,,1/29 CH - QID Available (249652),https://access.redhat.com/errata/RHSA-2025:0762,,,,
+Google Chrome Multiple Vulnerabilities,CVE-2025-0762,Medium,,,1/29 CH - QID Available (382749),https://chromereleases.googleblog.com/2025/01/stable-channel-update-for-desktop_28.html,,,,
+NetApp Active IQ Unified Manager for VMware vSphere MySQL Multiple Vulnerabilities,CVE-2025-21494,4.1,,,,https://security.netapp.com/advisory/ntap-20250124-0010/,,,,
+NetApp Active IQ Unified Manager for VMware vSphere MySQL Multiple Vulnerabilities,CVE-2025-21504,4.9,,,,https://security.netapp.com/advisory/ntap-20250124-0010/,,,,
+NetApp Active IQ Unified Manager for VMware vSphere MySQL Multiple Vulnerabilities,CVE-2025-21534,4.9,,,,https://security.netapp.com/advisory/ntap-20250124-0010/,,,,
+NetApp Active IQ Unified Manager for VMware vSphere MySQL Multiple Vulnerabilities,CVE-2025-21536,4.9,,,,https://security.netapp.com/advisory/ntap-20250124-0010/,,,,
+NetApp Active IQ Unified Manager for VMware vSphere MySQL Multiple Vulnerabilities,CVE-2024-37371,9.1,,,,https://security.netapp.com/advisory/ntap-20250124-0010/,,,,
+NetApp Active IQ Unified Manager for VMware vSphere MySQL Multiple Vulnerabilities,CVE-2025-21521,7.5,,,,https://security.netapp.com/advisory/ntap-20250124-0010/,,,,
+NetApp Active IQ Unified Manager for VMware vSphere MySQL Multiple Vulnerabilities,CVE-2025-21525,4.9,,,,https://security.netapp.com/advisory/ntap-20250124-0010/,,,,
+NetApp Active IQ Unified Manager for VMware vSphere MySQL Multiple Denial of Service Vulnerabilities,CVE-2025-21499,4.9,,,,https://security.netapp.com/advisory/ntap-20250124-0013/,,,,
+NetApp Active IQ Unified Manager for VMware vSphere MySQL Multiple Denial of Service Vulnerabilities,CVE-2025-21493,4.4,,,,https://security.netapp.com/advisory/ntap-20250124-0013/,,,,
+NetApp Active IQ Unified Manager for VMware vSphere MySQL Multiple Vulnerabilities,CVE-2025-21566,6.5,,,,https://security.netapp.com/advisory/ntap-20250124-0014/,,,,
+NetApp Active IQ Unified Manager for VMware vSphere MySQL Multiple Vulnerabilities,CVE-2025-21567,4.3,,,,https://security.netapp.com/advisory/ntap-20250124-0014/,,,,
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2024-21208,3.7,,,,https://www.ibm.com/support/pages/node/7181732,,,,
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2024-21210,3.7,,,,https://www.ibm.com/support/pages/node/7181732,,,,
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2024-21217,3.7,,,,https://www.ibm.com/support/pages/node/7181732,,,,
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2024-21235,4.8,,,,https://www.ibm.com/support/pages/node/7181732,,,,
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2024-20918,7.4,,,,https://www.ibm.com/support/pages/node/7181733,,,,
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2024-20921,5.9,,,,https://www.ibm.com/support/pages/node/7181733,,,,
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2024-20926,5.9,,,,https://www.ibm.com/support/pages/node/7181733,,,,
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2024-20932,7.5,,,,https://www.ibm.com/support/pages/node/7181733,,,,
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2024-20945,4.7,,,,https://www.ibm.com/support/pages/node/7181733,,,,
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2024-20952,7.4,,,,https://www.ibm.com/support/pages/node/7181733,,,,
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2024-22361,5.9,,,,https://www.ibm.com/support/pages/node/7181733,,,,
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2024-21012,3.7,,,,https://www.ibm.com/support/pages/node/7181734,,,,
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2024-21085,3.7,,,,https://www.ibm.com/support/pages/node/7181734,,,,
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2024-3933,7.3,,,,https://www.ibm.com/support/pages/node/7181734,,,,
+TeamViewer Argument Delimiters Privilege Escalation Vulnerability,CVE-2025-0065,,,,,https://www.teamviewer.com/en/resources/trust-center/security-bulletins/tv-2025-1001,,,,
