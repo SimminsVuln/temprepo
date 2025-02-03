@@ -29,3 +29,15 @@ Original Advisory:
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21333
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21334
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21335
+
+
+import requests
+import urllib
+
+filters = "collection_type:vulnerability cvss_3x_base_score:4+ (exploitation_state:Confirmed or exploitation_state:Suspected)"
+order = "risk_rating-"
+url = f"https://www.virustotal.com/api/v3/collections?filter={urllib.parse.quote(filters)}&order={order}"
+headers = {"accept": "application/json","x-apikey": <api-key>}
+response = requests.get(url, headers=headers)
+
+be3f59a21a40869 f2b8 2d94e29cdd5 f9f97d99da68 890dfe64a163d cfed6253f
