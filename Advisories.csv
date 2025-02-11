@@ -1,43 +1,60 @@
-title,cve_str_list,CVSS,RF,Detec,Comment,Refs
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-0286,8.2,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-0767,8.8,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-0803,6.1,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-2650,6.5,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-26965,5.5,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-2731,5.5,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-2908,5.5,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-30774,5.5,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-32681,6.1,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-3316,5.9,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-3446,3.7,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-37536,8.2,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-40745,6.5,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-4421,6..5,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-4759,8.8,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-4807,7.8,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-49083,5.3,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-50447,9,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-50782,5.9,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-51074,5.3,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-6237,3.1,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-6277,6.5,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-21085,3.7,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-22020,6.5,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-25710,5.5,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-26308,5.5,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-28176,5.3,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-28849,6.5,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-29041,6.1,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-36138,7.3,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-37372,3.7,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-41752,5.4,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-4367,8.8,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-43796,5,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-45082,6.8,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-45590,7.5,,None,1/14 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7177223
-Red Hat update for webkit2gtk3,CVE-2024-54479,7.5,,Qualys QID,1/14 CH - QID Available(247282),https://access.redhat.com/errata/RHSA-2025:0279
-Red Hat update for webkit2gtk3,CVE-2024-54502,6.5,,Qualys QID,1/14 CH - QID Available(247282),https://access.redhat.com/errata/RHSA-2025:0279
-Red Hat update for webkit2gtk3,CVE-2024-54505,8.8,,Qualys QID,1/14 CH - QID Available(247282),https://access.redhat.com/errata/RHSA-2025:0279
-Red Hat update for webkit2gtk3,CVE-2024-54508,6.5,,Qualys QID,1/14 CH - QID Available(247282),https://access.redhat.com/errata/RHSA-2025:0279
-Red Hat update for thunderbird,CVE-2025-0242,8.8,,Qualys QID,1/14 CH - QID Available(247286),https://access.redhat.com/errata/RHSA-2025:0281
-Red Hat update for thunderbird,CVE-2025-0243,7.5,,Qualys QID,1/14 CH - QID Available(247285),https://access.redhat.com/errata/RHSA-2025:0284
+CVE-2023-24932
+CVE-2023-32002
+CVE-2025-21172
+CVE-2025-21176
+CVE-2025-21178
+CVE-2025-21179
+CVE-2025-21181
+CVE-2025-21182
+CVE-2025-21183
+CVE-2025-21184
+CVE-2025-21188
+CVE-2025-21190
+CVE-2025-21194
+CVE-2025-21198
+CVE-2025-21200
+CVE-2025-21201
+CVE-2025-21206
+CVE-2025-21208
+CVE-2025-21212
+CVE-2025-21216
+CVE-2025-21254
+CVE-2025-21259
+CVE-2025-21322
+CVE-2025-21337
+CVE-2025-21347
+CVE-2025-21349
+CVE-2025-21350
+CVE-2025-21351
+CVE-2025-21352
+CVE-2025-21358
+CVE-2025-21359
+CVE-2025-21367
+CVE-2025-21368
+CVE-2025-21369
+CVE-2025-21371
+CVE-2025-21373
+CVE-2025-21375
+CVE-2025-21376
+CVE-2025-21377
+CVE-2025-21379
+CVE-2025-21381
+CVE-2025-21383
+CVE-2025-21386
+CVE-2025-21387
+CVE-2025-21390
+CVE-2025-21391
+CVE-2025-21392
+CVE-2025-21394
+CVE-2025-21397
+CVE-2025-21400
+CVE-2025-21406
+CVE-2025-21407
+CVE-2025-21410
+CVE-2025-21414
+CVE-2025-21418
+CVE-2025-21419
+CVE-2025-21420
+CVE-2025-24036
+CVE-2025-24039
+CVE-2025-24042
