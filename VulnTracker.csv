@@ -1,8 +1,17 @@
-title,cve_str_list,Column3,Column4,Column2,Column1,Refs,Column5,Column6,Column7,Column8
-Atlassian JIRA Denial of Service Vulnerability,CVE-2024-7254,5.3,,None,2/21 CH - QID Available (732258),https://jira.atlassian.com/browse/JSWSERVER-26299,,,,
-"Red Hat update for kpatch-patch-4_18_0-477_43_1, kpatch-patch-4_18_0-477_67_1, and kpatch-patch-4_18_0-477_81_1",CVE-2024-53104,7.3,,,2/21 CH - QID Available (249963),https://access.redhat.com/errata/RHSA-2025:1680,,,,
-Red Hat update for bind9.16,CVE-2024-11187,7.5,,,2/21 CH - QID Available (249957),https://access.redhat.com/errata/RHSA-2025:1678,,,,
-Red Hat update for bind9.16,CVE-2024-11187,7.5,,,2/21 CH - QID Available (249956),https://access.redhat.com/errata/RHSA-2025:1676,,,,
-Palo Alto Pan-OS OpenConfig Plugin: Command Injection Vulnerability,CVE-2025-0110,7.3,,,,https://security.paloaltonetworks.com/CVE-2025-0110,,,,
-Red Hat update for postgresql,CVE-2025-1094,8.1,,,2/21 CH - QID Available (249976),https://access.redhat.com/errata/RHSA-2025:1742,,,,
-Red Hat update for libpq,CVE-2025-1094,8.1,,,2/21 CH - QID Available (249983),https://access.redhat.com/errata/RHSA-2025:1744,,,,
+title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-44906,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-45047,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-42004,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2020-13936,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-45693,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-42889,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-41881,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-45046,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-42003,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-46363,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-42392,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-44228,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-1471,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Microsoft Edge (Chromium-Based) Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-1426,,,,2/24 CH - QID Available (382872),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#february-21-2025
+Microsoft Edge (Chromium-Based) Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-0999,,,,2/24 CH - QID Available (382872),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#february-21-2025
+Microsoft Edge (Chromium-Based) Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-1006,,,,2/24 CH - QID Available (382872),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#february-21-2025
