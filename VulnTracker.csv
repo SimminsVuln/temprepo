@@ -1,17 +1,37 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-44906,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-45047,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-42004,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2020-13936,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-45693,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-42889,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-41881,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-45046,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-42003,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-46363,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-42392,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-44228,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-1471,,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-Microsoft Edge (Chromium-Based) Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-1426,,,,2/24 CH - QID Available (382872),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#february-21-2025
-Microsoft Edge (Chromium-Based) Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-0999,,,,2/24 CH - QID Available (382872),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#february-21-2025
-Microsoft Edge (Chromium-Based) Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-1006,,,,2/24 CH - QID Available (382872),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#february-21-2025
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-44906,5.6,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-45047,9.8,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-42004,7.5,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2020-13936,8.8,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-45693,7.5,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-42889,9.8,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-41881,7.5,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-45046,9,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-42003,7.5,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-46363,7.5,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-42392,8.1,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-44228,10,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-1471,8.3,,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
+Oracle Product Lifecycle Management ExportServlet Deserialization of Untrusted Data Remote Code Execution Vulnerability,CVE-2024-20953,8.8,,,,"https://www.zerodayinitiative.com/advisories/ZDI-24-096/
+https://www.oracle.com/security-alerts/cpujan2024.html"
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-1471,8.3,,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2020-13936,8.8,,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2020-10672,8.8,,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-45046,9,,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2020-10673,8.8,,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-42004,7.5,,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-46363,7.5,,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-45047,9.8,,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-44228,10,,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-42003,7.5,,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-45693,7.5,,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2020-8840,9.8,,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2020-9547,9.8,,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2020-9548,9.8,,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-42889,9.8,,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2020-9546,9.8,,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-41881,7.5,,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
+Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-3717,6.8,,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1750
+Red Hat update for python3,CVE-2024-6232,5.5,,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1757
+Red Hat update for mysql:8.0,CVE-2025-21521,7.5,,,2/24 CH - QID Available (382856),https://my.f5.com/manage/s/article/K000149884
+F5 Multiple Products MiniZip Denial of Service Vulnerability,CVE-2023-45853,5.5,,,2/24 CH - QID Available (382856),https://my.f5.com/manage/s/article/K000149905
