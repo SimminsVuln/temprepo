@@ -1,37 +1,19 @@
-timestamp,title,cve_ids,CVSS,Column4,risk_rating,exploitation_state,exploit_availability,detection,analyst comment,Refs
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-44906,5.6,,MEDIUM,No Known,No Known,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-45047,9.8,,HIGH,No Known,Publicly Available,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-42004,7.5,,LOW,No Known,No Known,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2020-13936,8.8,,MEDIUM,No Known,No Known,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-45693,7.5,,LOW,No Known,No Known,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-42889,9.8,,MEDIUM,No Known,Publicly Available,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-41881,7.5,,LOW,No Known,No Known,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-45046,9,,MEDIUM,Confirmed,Publicly Available,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-42003,7.5,,LOW,No Known,No Known,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-46363,7.5,,LOW,No Known,No Known,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-42392,8.1,,HIGH,No Known,No Known,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-44228,10,,CRITICAL,Wide,Publicly Available,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-1471,8.3,,MEDIUM,No Known,Publicly Available,,2/24 CH - QID Available (249989),https://access.redhat.com/errata/RHSA-2025:1747
-2/25/2025,Oracle Product Lifecycle Management ExportServlet Deserialization of Untrusted Data Remote Code Execution Vulnerability,CVE-2024-20953,8.8,,MEDIUM,Confirmed,Privately Held,,,"https://www.zerodayinitiative.com/advisories/ZDI-24-096/
-https://www.oracle.com/security-alerts/cpujan2024.html"
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-1471,8.3,,MEDIUM,No Known,Publicly Available,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2020-13936,8.8,,MEDIUM,No Known,No Known,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2020-10672,8.8,,MEDIUM,No Known,No Known,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-45046,9,,MEDIUM,Confirmed,Publicly Available,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2020-10673,8.8,,MEDIUM,No Known,Publicly Available,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-42004,7.5,,LOW,No Known,No Known,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-46363,7.5,,LOW,No Known,No Known,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-45047,9.8,,HIGH,No Known,Publicly Available,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-44228,10,,CRITICAL,Wide,Publicly Available,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-42003,7.5,,LOW,No Known,No Known,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-45693,7.5,,LOW,No Known,No Known,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2020-8840,9.8,,MEDIUM,No Known,Publicly Available,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2020-9547,9.8,,MEDIUM,No Known,Publicly Available,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2020-9548,9.8,,MEDIUM,No Known,Publicly Available,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-42889,9.8,,MEDIUM,No Known,Publicly Available,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2020-9546,9.8,,MEDIUM,No Known,No Known,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2022-41881,7.5,,LOW,No Known,No Known,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1746
-2/25/2025,Red Hat update for Red Hat JBoss Enterprise Application Platform,CVE-2021-3717,6.8,,LOW,No Known,No Known,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1750
-2/25/2025,Red Hat update for python3,CVE-2024-6232,5.5,,not available,not available,not available,,2/24 CH - QID Available (249990),https://access.redhat.com/errata/RHSA-2025:1757
-2/25/2025,Red Hat update for mysql:8.0,CVE-2025-21521,7.5,,not available,not available,not available,,2/24 CH - QID Available (382856),https://my.f5.com/manage/s/article/K000149884
-2/25/2025,F5 Multiple Products MiniZip Denial of Service Vulnerability,CVE-2023-45853,5.5,,not available,not available,not available,,2/24 CH - QID Available (382856),https://my.f5.com/manage/s/article/K000149905
+timestamp,title,cve_ids,CVSS,Column4,risk_rating,exploitation_state,exploit_availability,detection,analyst comment,Refs,predicted_risk_rating,cisa_known_exploited
+2/26/2025,Esri ArcGIS Pro Multiple Privilege Escalation Vulnerabilities,CVE-2025-1067,7.3,,LOW,not available,not available,None,2/26 CH - Investigating Product use,https://www.esri.com/arcgis-blog/products/administration/administration/arcgis-pro-and-arcgis-allsource-patches-address-high-severity-vulnerabilities,,not available
+2/26/2025,Esri ArcGIS Pro Multiple Privilege Escalation Vulnerabilities,CVE-2025-1068,7.3,,LOW,not available,not available,None,2/26 CH - Investigating Product use,https://www.esri.com/arcgis-blog/products/administration/administration/arcgis-pro-and-arcgis-allsource-patches-address-high-severity-vulnerabilities,,not available
+2/26/2025,Mattermost Server Multiple Vulnerabilities,CVE-2025-25279,9.9,,MEDIUM,not available,Publicly Available,Qualys QID,"2/26 CH - QID Available (732286 , 152784)","https://docs.mattermost.com/about/mattermost-v10-changelog.html
+https://docs.mattermost.com/about/mattermost-v9-changelog.html
+https://mattermost.com/security-updates/",,not available
+2/26/2025,Mattermost Server Multiple Vulnerabilities,CVE-2025-1412,3.1,,MEDIUM,not available,not available,Qualys QID,"2/26 CH - QID Available (732286 , 152784)","https://docs.mattermost.com/about/mattermost-v10-changelog.html
+https://docs.mattermost.com/about/mattermost-v9-changelog.html
+https://mattermost.com/security-updates/",,not available
+2/26/2025,Mattermost Server Multiple Vulnerabilities,CVE-2025-24526,4.3,,LOW,not available,not available,Qualys QID,"2/26 CH - QID Available (732286 , 152784)","https://docs.mattermost.com/about/mattermost-v10-changelog.html
+https://docs.mattermost.com/about/mattermost-v9-changelog.html
+https://mattermost.com/security-updates/",,not available
+2/26/2025,Mattermost Server Multiple Vulnerabilities,CVE-2025-20051,9.9,,MEDIUM,not available,not available,Qualys QID,"2/26 CH - QID Available (732286 , 152784)","https://docs.mattermost.com/about/mattermost-v10-changelog.html
+https://docs.mattermost.com/about/mattermost-v9-changelog.html
+https://mattermost.com/security-updates/",,not available
+2/26/2025,Mattermost Server Multiple Vulnerabilities,CVE-2025-24490,9.6,,MEDIUM,not available,not available,Qualys QID,"2/26 CH - QID Available (732286 , 152784)","https://docs.mattermost.com/about/mattermost-v10-changelog.html
+https://docs.mattermost.com/about/mattermost-v9-changelog.html
+https://mattermost.com/security-updates/",,not available
+2/26/2025,Cisco OpenH264 codec library Arbitrary Code Execution Vulnerability,CVE-2025-27091,8.8,,MEDIUM,not available,not available,,,,MEDIUM,not available
