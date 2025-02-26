@@ -1,43 +1,22 @@
-Hello Team,
-A vendor recently released a security advisory for products that the combined bank may use. Please review the information below:
+Subject: Verification Request – Software Usage Check
 
-Name:
-Windows Hyper-V NT Kernel Integration VSP Elevation of Privilege Vulnerability
+Body:
 
-Product:
-Microsoft SQL Server 2022 for x64-based Systems (CU 13)
-Microsoft SQL Server 2019 for x64-based Systems (CU 27)
-Microsoft SQL Server 2022 for x64-based Systems (GDR)
-Microsoft SQL Server 2017 for x64-based Systems (CU 31)
-Microsoft SQL Server 2016 for x64-based Systems Service Pack 3 Azure Connect Feature Pack
-Microsoft SQL Server 2016 for x64-based Systems Service Pack 3 (GDR)
-Microsoft SQL Server 2019 for x64-based Systems (GDR)
-Microsoft SQL Server 2017 for x64-based Systems (GDR)
+Good Morning,
 
-CVEID:
-CVE-2025-21333, CVE-2025-21334, CVE-2025-21335
+We need to determine if we use a product that currently has vulnerabilities. Please review the details below and confirm whether this product is in use within our environment.
 
-Patch Available:
-Yes 
+Product: [Software Name]
+CVE(s): [CVE-XXXX-XXXXX]
+Vendor Reference: [Link or Advisory]
+Please provide a response by [Due Date] confirming whether this product is in use.
 
-If no patches are available, are mitigations available: N/A
+If the product has a limited presence in the environment, the appropriate owners should verify whether it has been officially approved for use. Additionally, they should assess its purpose and determine if it is still required. If the product is unauthorized or unnecessary, steps should be taken to remove it.
 
-Have any vulnerabilities been exploited in the wild: Yes
-Is there POC code publicly available for these vulnerabilities: No
+Let us know if you need any additional information.
 
-Original Advisory: 
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21333
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21334
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21335
-
-
-import requests
-import urllib
-
-filters = "collection_type:vulnerability cvss_3x_base_score:4+ (exploitation_state:Confirmed or exploitation_state:Suspected)"
-order = "risk_rating-"
-url = f"https://www.virustotal.com/api/v3/collections?filter={urllib.parse.quote(filters)}&order={order}"
-headers = {"accept": "application/json","x-apikey": <api-key>}
-response = requests.get(url, headers=headers)
+Thank you,
+[Your Name]
+[Your Team/Department]
 
 be3f59a21a40869 f2b8 2d94e29cdd5 f9f97d99da68 890dfe64a163d cfed6253f
