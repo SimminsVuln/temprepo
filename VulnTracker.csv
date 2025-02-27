@@ -19,3 +19,39 @@ https://mattermost.com/security-updates/"
 Ruby Denial of Service Vulnerability,CVE-2025-27219,,,,,https://www.ruby-lang.org/en/news/2025/02/26/security-advisories/
 Ruby Vulnerability ReDoS Vulnerability,CVE-2025-27220,,,,,https://www.ruby-lang.org/en/news/2025/02/26/security-advisories/
 Ruby Vulnerability UserInfo Leakage vulnerability,CVE-2025-27221,,,,,https://www.ruby-lang.org/en/news/2025/02/26/security-advisories/
+Grey Noise Black Basta Chat - Palo Alto Networks PAN-OS Command Injection,CVE-2024-3400,,,,,https://security.paloaltonetworks.com/CVE-2024-3400
+Grey Noise Black Basta Chat - JetBrains TeamCity Authentication Bypass,CVE-2024-27198,,,,,https://www.jetbrains.com/security/advisories/JBSA-2024-0001/
+Grey Noise Black Basta Chat - Check Point Quantum Security Gateways Information Disclosure,CVE-2024-24919,,,,,https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk176148
+Grey Noise Black Basta Chat - Jenkins Command Line Interface (CLI) Path Traversal Vulnerability,CVE-2024-23897,,,,,https://www.jenkins.io/security/advisory/2024-01-24/#SECURITY-3314
+Grey Noise Black Basta Chat - ConnectWise ScreenConnect Authentication Bypass,CVE-2024-1709,,,,,https://www.connectwise.com/company/trust/security-bulletins
+Grey Noise Black Basta Chat - wpexperts post_smtp_mailer Missing Authorization,CVE-2023-6875,,,,,https://wordpress.org/plugins/post-smtp/#developers
+Grey Noise Black Basta Chat - Citrix NetScaler ADC and NetScaler Gateway Buffer Overflow Vulnerability,CVE-2023-4966,,,,,https://support.citrix.com/article/CTX561482
+Grey Noise Black Basta Chat - JetBrains TeamCity Authentication Bypass Vulnerability,CVE-2023-42793,,,,,https://www.jetbrains.com/security/advisories/JBSA-2023-0004/
+Grey Noise Black Basta Chat - Juniper Junos OS PHP External Variable Control,CVE-2023-36845,,,,,https://kb.juniper.net/JSA70522
+Grey Noise Black Basta Chat - Juniper Junos OS EX Series PHP External Variable Modification Vulnerability,CVE-2023-36844,,,,,https://kb.juniper.net/JSA70521
+Grey Noise Black Basta Chat - Microsoft SharePoint Server Privilege Escalation Vulnerability,CVE-2023-29357,,,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29357
+Grey Noise Black Basta Chat - Atlassian Confluence Broken Access Control,CVE-2023-22515,,,,,https://confluence.atlassian.com/security/advisories
+Grey Noise Black Basta Chat - Cisco IOS XE Web UI Privilege Escalation,CVE-2023-20198,,,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-webui-priv-esc-3S9rB9r
+Grey Noise Black Basta Chat - Microsoft Exchange Server Remote Code Execution,CVE-2022-41082,,,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41082
+Grey Noise Black Basta Chat - Microsoft Exchange Server Server-Side Request Forgery Vulnerability,CVE-2022-41040,,,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41040
+Grey Noise Black Basta Chat - Synacor Zimbra Collaboration Suite (ZCS) Authentication Bypass Vulnerability,CVE-2022-37042,,,,,https://wiki.zimbra.com/wiki/Zimbra_Security_Advisories
+Grey Noise Black Basta Chat - Zyxel Multiple Firewalls OS Command Injection,CVE-2022-30525,,,,,https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-os-command-injection-vulnerability-in-firewalls
+Grey Noise Black Basta Chat - Synacor Zimbra Collaboration Suite (ZCS) Arbitrary File Upload Vulnerability,CVE-2022-27925,,,,,https://wiki.zimbra.com/wiki/Zimbra_Security_Advisories
+Grey Noise Black Basta Chat - Atlassian Confluence Server and Data Center Remote Code Execution Vulnerability,CVE-2022-26134,,,,,https://confluence.atlassian.com/security/advisories
+Grey Noise Black Basta Chat - Spring Framework JDK 9+ Remote Code Execution Vulnerability,CVE-2022-22965,,,,,https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement
+Grey Noise Black Basta Chat - F5 BIG-IP Missing Authentication Vulnerability,CVE-2022-1388,,,,,https://support.f5.com/csp/article/K23605346
+Grey Noise Black Basta Chat - Apache Log4j RCE (Log4Shell),CVE-2021-44228,,,,,https://logging.apache.org/log4j/2.x/security.html
+Grey Noise Black Basta Chat - Microsoft Exchange Server RCE (ProxyLogon),CVE-2021-26855,,,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-26855
+Gitlab Multiple Vulnerabilities,CVE-2025-0307,,,,,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released
+Gitlab Multiple Vulnerabilities,CVE-2025-0475,,,,,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released
+Gitlab Multiple Vulnerabilities,CVE-2025-0555,,,,,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released
+Gitlab Multiple Vulnerabilities,CVE-2024-10925,,,,,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released
+Gitlab Multiple Vulnerabilities,CVE-2024-8186,,,,,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released
+LibreOffice Hyperlink Activation Security Bypass Vulnerability,CVE-2025-0514,,,,,https://www.libreoffice.org/about-us/security/advisories/cve-2025-0514
+Cisco Nexus 9000 / 3000 Series Switches Denial of Service Vulnerability,CVE-2025-20111,,,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-n3kn9k-healthdos-eOqSWK4g
+"oauth2 ""Verify()"" Denial of Service Vulnerability",CVE-2025-22868,,,,,"https://go-review.googlesource.com/c/oauth2/+/652155
+https://pkg.go.dev/vuln/GO-2025-3488"
+Cisco Multiple Products NX-OS Vulnerabiliy,CVE-2025-20161,,,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-ici-dpOjbWxk
+Opsview Multiple Vulnerabilities,CVE-2023-46604,,,,,https://docs.itrsgroup.com/docs/all/opsview/opsview-release-notes/index.html#opsview-6110
+Go Cryptography SSH Denial of Service Vulnerability,CVE-2025-22869,,,,,"https://go-review.googlesource.com/c/crypto/+/652135
+https://pkg.go.dev/vuln/GO-2025-3487"
