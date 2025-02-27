@@ -1,35 +1,55 @@
-title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Grey Noise Black Basta Chat - Palo Alto Networks PAN-OS Command Injection,CVE-2024-3400,10,,,,https://security.paloaltonetworks.com/CVE-2024-3400
-Grey Noise Black Basta Chat - JetBrains TeamCity Authentication Bypass,CVE-2024-27198,9.8,,,,https://www.jetbrains.com/security/advisories/JBSA-2024-0001/
-Grey Noise Black Basta Chat - Check Point Quantum Security Gateways Information Disclosure,CVE-2024-24919,8.6,,,,https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk176148
-Grey Noise Black Basta Chat - Jenkins Command Line Interface (CLI) Path Traversal Vulnerability,CVE-2024-23897,7.5,,,,https://www.jenkins.io/security/advisory/2024-01-24/#SECURITY-3314
-Grey Noise Black Basta Chat - ConnectWise ScreenConnect Authentication Bypass,CVE-2024-1709,10,,,,https://www.connectwise.com/company/trust/security-bulletins
-Grey Noise Black Basta Chat - wpexperts post_smtp_mailer Missing Authorization,CVE-2023-6875,9.8,,,,https://wordpress.org/plugins/post-smtp/#developers
-Grey Noise Black Basta Chat - Citrix NetScaler ADC and NetScaler Gateway Buffer Overflow Vulnerability,CVE-2023-4966,9.4,,,,https://support.citrix.com/article/CTX561482
-Grey Noise Black Basta Chat - JetBrains TeamCity Authentication Bypass Vulnerability,CVE-2023-42793,9.8,,,,https://www.jetbrains.com/security/advisories/JBSA-2023-0004/
-Grey Noise Black Basta Chat - Juniper Junos OS PHP External Variable Control,CVE-2023-36845,9.8,,,,https://kb.juniper.net/JSA70522
-Grey Noise Black Basta Chat - Juniper Junos OS EX Series PHP External Variable Modification Vulnerability,CVE-2023-36844,9.8,,,,https://kb.juniper.net/JSA70521
-Grey Noise Black Basta Chat - Microsoft SharePoint Server Privilege Escalation Vulnerability,CVE-2023-29357,9.8,,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29357
-Grey Noise Black Basta Chat - Atlassian Confluence Broken Access Control,CVE-2023-22515,10,,,,https://confluence.atlassian.com/security/advisories
-Grey Noise Black Basta Chat - Cisco IOS XE Web UI Privilege Escalation,CVE-2023-20198,10,,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-webui-priv-esc-3S9rB9r
-Grey Noise Black Basta Chat - Microsoft Exchange Server Remote Code Execution,CVE-2022-41082,8.8,,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41082
-Grey Noise Black Basta Chat - Microsoft Exchange Server Server-Side Request Forgery Vulnerability,CVE-2022-41040,8.8,,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41040
-Grey Noise Black Basta Chat - Synacor Zimbra Collaboration Suite (ZCS) Authentication Bypass Vulnerability,CVE-2022-37042,9.8,,,,https://wiki.zimbra.com/wiki/Zimbra_Security_Advisories
-Grey Noise Black Basta Chat - Zyxel Multiple Firewalls OS Command Injection,CVE-2022-30525,9.8,,,,https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-os-command-injection-vulnerability-in-firewalls
-Grey Noise Black Basta Chat - Synacor Zimbra Collaboration Suite (ZCS) Arbitrary File Upload Vulnerability,CVE-2022-27925,7.2,,,,https://wiki.zimbra.com/wiki/Zimbra_Security_Advisories
-Grey Noise Black Basta Chat - Atlassian Confluence Server and Data Center Remote Code Execution Vulnerability,CVE-2022-26134,9.8,,,,https://confluence.atlassian.com/security/advisories
-Grey Noise Black Basta Chat - Spring Framework JDK 9+ Remote Code Execution Vulnerability,CVE-2022-22965,8.1,,,,https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement
-Grey Noise Black Basta Chat - F5 BIG-IP Missing Authentication Vulnerability,CVE-2022-1388,9.8,,,,https://support.f5.com/csp/article/K23605346
-Grey Noise Black Basta Chat - Apache Log4j RCE (Log4Shell),CVE-2021-44228,10,,,,https://logging.apache.org/log4j/2.x/security.html
-Grey Noise Black Basta Chat - Microsoft Exchange Server RCE (ProxyLogon),CVE-2021-26855,9.8,,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-26855
-Gitlab Multiple Vulnerabilities,CVE-2025-0307,4.3,,,,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released
-Gitlab Multiple Vulnerabilities,CVE-2025-0475,8.7,,,,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released
-Gitlab Multiple Vulnerabilities,CVE-2025-0555,7.7,,,,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released
-Gitlab Multiple Vulnerabilities,CVE-2024-10925,5.3,,,,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released
-Gitlab Multiple Vulnerabilities,CVE-2024-8186,5.4,,,,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released
-Cisco Nexus 9000 / 3000 Series Switches Denial of Service Vulnerability,CVE-2025-20111,7.4,,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-n3kn9k-healthdos-eOqSWK4g
-Cisco Multiple Products NX-OS Vulnerabiliy,CVE-2025-20161,5.1,,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-ici-dpOjbWxk
-Opsview Multiple Vulnerabilities,CVE-2023-46604,9.4,,,,https://docs.itrsgroup.com/docs/all/opsview/opsview-release-notes/index.html#opsview-6110
-Go Cryptography SSH Denial of Service Vulnerability,CVE-2025-22869,7.5,,,,"https://go-review.googlesource.com/c/crypto/+/652135
-https://pkg.go.dev/vuln/GO-2025-3487"
-Microsoft Partner Center Improper Access Control Vulnerability,CVE-2024-49035,,,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49035
+title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs,
+Grey Noise Black Basta Chat - Palo Alto Networks PAN-OS Command Injection,CVE-2024-3400,10,89,Qualys QID,"2/27 CH - QID Available: 731378, 731456, 731460
+Detections: ",https://security.paloaltonetworks.com/CVE-2024-3400,
+Grey Noise Black Basta Chat - JetBrains TeamCity Authentication Bypass,CVE-2024-27198,9.8,89,Qualys QID,"2/27 CH - QID Available: 150824, 379449
+Detections: ",https://www.jetbrains.com/security/advisories/JBSA-2024-0001/,
+Grey Noise Black Basta Chat - Check Point Quantum Security Gateways Information Disclosure,CVE-2024-24919,8.6,89,Qualys QID,"2/27 CH - QID Available: 150947, 731568
+Detections: ",https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk176148,
+Grey Noise Black Basta Chat - Jenkins Command Line Interface (CLI) Path Traversal Vulnerability,CVE-2024-23897,7.5,89,Qualys QID,"2/27 CH - QID Available: 731109, 150784
+Detections: ",https://www.jenkins.io/security/advisory/2024-01-24/#SECURITY-3314,
+Grey Noise Black Basta Chat - ConnectWise ScreenConnect Authentication Bypass,CVE-2024-1709,10,89,Qualys QID,"2/27 CH - QID Available: 379390, 150816
+Detections: ",https://www.connectwise.com/company/trust/security-bulletins,
+Grey Noise Black Basta Chat - wpexperts post_smtp_mailer Missing Authorization,CVE-2023-6875,9.8,79,Qualys QID,"2/27 CH - QID Available: 731078
+Detections: ",https://wordpress.org/plugins/post-smtp/#developers,
+Grey Noise Black Basta Chat - Citrix NetScaler ADC and NetScaler Gateway Buffer Overflow Vulnerability,CVE-2023-4966,9.4,79,Qualys QID,"2/27 CH - QID Available: 378935
+Detections: ",https://support.citrix.com/article/CTX561482,
+Grey Noise Black Basta Chat - JetBrains TeamCity Authentication Bypass Vulnerability,CVE-2023-42793,9.8,79,Qualys QID,"2/27 CH - QID Available: 378885
+Detections: ",https://www.jetbrains.com/security/advisories/JBSA-2023-0004/,
+Grey Noise Black Basta Chat - Juniper Junos OS PHP External Variable Control,CVE-2023-36845,9.8,79,Qualys QID,"2/27 CH  - QID Available: 44099, 150744, 730925
+Detections: ",https://kb.juniper.net/JSA70522,
+Grey Noise Black Basta Chat - Juniper Junos OS EX Series PHP External Variable Modification Vulnerability,CVE-2023-36844,9.8,79,Qualys QID,"2/27 CH - QID Available: 44099
+Detections: ",https://kb.juniper.net/JSA70521,
+Grey Noise Black Basta Chat - Microsoft SharePoint Server Privilege Escalation Vulnerability,CVE-2023-29357,9.8,89,Qualys QID,"2/27 CH - QID Available: 110439
+Detections: ",https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29357,
+Grey Noise Black Basta Chat - Atlassian Confluence Broken Access Control,CVE-2023-22515,10,89,Qualys QID,"2/27 CH - QID Available:150725, 150745, 378914, 730931
+Detections: ",https://confluence.atlassian.com/security/advisories,
+Grey Noise Black Basta Chat - Cisco IOS XE Web UI Privilege Escalation,CVE-2023-20198,10,89,Qualys QID,"2/27 CH - QID Available: 150739, 317376, 730965
+Detections: ",https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-webui-priv-esc-3S9rB9r,
+Grey Noise Black Basta Chat - Microsoft Exchange Server Remote Code Execution,CVE-2022-41082,8.8,79,Qualys QID,"2/27 CH - QID Available: 50122, 150664, 730621
+Detections: ",https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41082,
+Grey Noise Black Basta Chat - Microsoft Exchange Server Server-Side Request Forgery Vulnerability,CVE-2022-41040,8.8,79,Qualys QID,"2/27 CH - QID Available: 50122, 150664, 730621
+Detections: ",https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41040,
+Grey Noise Black Basta Chat - Synacor Zimbra Collaboration Suite (ZCS) Authentication Bypass Vulnerability,CVE-2022-37042,9.8,79,Qualys QID,"2/27 CH - QID Available: 377759
+Detections: ",https://wiki.zimbra.com/wiki/Zimbra_Security_Advisories,
+Grey Noise Black Basta Chat - Zyxel Multiple Firewalls OS Command Injection,CVE-2022-30525,9.8,79,Qualys QID,"2/27 CH - QID Available: 730491
+Detections: ",https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-os-command-injection-vulnerability-in-firewalls,
+Grey Noise Black Basta Chat - Synacor Zimbra Collaboration Suite (ZCS) Arbitrary File Upload Vulnerability,CVE-2022-27925,7.2,79,Qualys QID,"2/27 CH - QID Available: 378336, 376769
+Detections: ",https://wiki.zimbra.com/wiki/Zimbra_Security_Advisories,
+Grey Noise Black Basta Chat - Atlassian Confluence Server and Data Center Remote Code Execution Vulnerability,CVE-2022-26134,9.8,89,Qualys QID,"2/27 CH - QID Available: 730514, 376657, 150523
+Detections: ",https://confluence.atlassian.com/security/advisories,
+Grey Noise Black Basta Chat - Spring Framework JDK 9+ Remote Code Execution Vulnerability,CVE-2022-22965,8.1,89,Qualys QID,"2/27 CH - QID Available: 150495, 376506, 376514, 730416
+Detections: ",https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement,
+Grey Noise Black Basta Chat - F5 BIG-IP Missing Authentication Vulnerability,CVE-2022-1388,9.8,89,Qualys QID,"2/27 CH - QID Available: 730489, 376577, 150511
+Detections: ",https://support.f5.com/csp/article/K23605346,
+Grey Noise Black Basta Chat - Apache Log4j RCE (Log4Shell),CVE-2021-44228,10,99,Qualys QID,"2/27 CH - QID Available: 376157, 376160
+Detections: ",https://logging.apache.org/log4j/2.x/security.html,
+Grey Noise Black Basta Chat - Microsoft Exchange Server RCE (ProxyLogon),CVE-2021-26855,9.8,89,Qualys QID,"2/27 CH - QID Available: 50107, 50108
+Detections: ",https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-26855,
+Gitlab Multiple Vulnerabilities,CVE-2025-0307,4.3,25,None,2/27 CH - Monitor for QID,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released,
+Gitlab Multiple Vulnerabilities,CVE-2025-0475,8.7,25,None,2/27 CH - Monitor for QID,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released,
+Gitlab Multiple Vulnerabilities,CVE-2025-0555,7.7,26,None,2/27 CH - Monitor for QID,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released,
+Gitlab Multiple Vulnerabilities,CVE-2024-10925,5.3,25,None,2/27 CH - Monitor for QID,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released,
+Gitlab Multiple Vulnerabilities,CVE-2024-8186,5.4,25,None,2/27 CH - Monitor for QID,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released,
+Cisco Nexus 9000 / 3000 Series Switches Denial of Service Vulnerability,CVE-2025-20111,7.4,30,None,2/27 CH - Task to PMG,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-n3kn9k-healthdos-eOqSWK4g,RITM0641526
+Cisco Multiple Products NX-OS Vulnerabiliy,CVE-2025-20161,5.1,25,None,2/27 CH - Task to PMG,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-ici-dpOjbWxk,RITM0641533
+Microsoft Partner Center Improper Access Control Vulnerability,CVE-2024-49035,8.7,99,None,"2/27 - CH: This CVE addresses a vulnerability in the Microsoft Power Apps online version only. As such, customers do not need to take any action because releases are rolled out automatically over several days.",https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49035,
