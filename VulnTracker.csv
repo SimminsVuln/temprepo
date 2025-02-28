@@ -1,55 +1,138 @@
-title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs,
-Grey Noise Black Basta Chat - Palo Alto Networks PAN-OS Command Injection,CVE-2024-3400,10,89,Qualys QID,"2/27 CH - QID Available: 731378, 731456, 731460
-Detections: ",https://security.paloaltonetworks.com/CVE-2024-3400,
-Grey Noise Black Basta Chat - JetBrains TeamCity Authentication Bypass,CVE-2024-27198,9.8,89,Qualys QID,"2/27 CH - QID Available: 150824, 379449
-Detections: ",https://www.jetbrains.com/security/advisories/JBSA-2024-0001/,
-Grey Noise Black Basta Chat - Check Point Quantum Security Gateways Information Disclosure,CVE-2024-24919,8.6,89,Qualys QID,"2/27 CH - QID Available: 150947, 731568
-Detections: ",https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk176148,
-Grey Noise Black Basta Chat - Jenkins Command Line Interface (CLI) Path Traversal Vulnerability,CVE-2024-23897,7.5,89,Qualys QID,"2/27 CH - QID Available: 731109, 150784
-Detections: ",https://www.jenkins.io/security/advisory/2024-01-24/#SECURITY-3314,
-Grey Noise Black Basta Chat - ConnectWise ScreenConnect Authentication Bypass,CVE-2024-1709,10,89,Qualys QID,"2/27 CH - QID Available: 379390, 150816
-Detections: ",https://www.connectwise.com/company/trust/security-bulletins,
-Grey Noise Black Basta Chat - wpexperts post_smtp_mailer Missing Authorization,CVE-2023-6875,9.8,79,Qualys QID,"2/27 CH - QID Available: 731078
-Detections: ",https://wordpress.org/plugins/post-smtp/#developers,
-Grey Noise Black Basta Chat - Citrix NetScaler ADC and NetScaler Gateway Buffer Overflow Vulnerability,CVE-2023-4966,9.4,79,Qualys QID,"2/27 CH - QID Available: 378935
-Detections: ",https://support.citrix.com/article/CTX561482,
-Grey Noise Black Basta Chat - JetBrains TeamCity Authentication Bypass Vulnerability,CVE-2023-42793,9.8,79,Qualys QID,"2/27 CH - QID Available: 378885
-Detections: ",https://www.jetbrains.com/security/advisories/JBSA-2023-0004/,
-Grey Noise Black Basta Chat - Juniper Junos OS PHP External Variable Control,CVE-2023-36845,9.8,79,Qualys QID,"2/27 CH  - QID Available: 44099, 150744, 730925
-Detections: ",https://kb.juniper.net/JSA70522,
-Grey Noise Black Basta Chat - Juniper Junos OS EX Series PHP External Variable Modification Vulnerability,CVE-2023-36844,9.8,79,Qualys QID,"2/27 CH - QID Available: 44099
-Detections: ",https://kb.juniper.net/JSA70521,
-Grey Noise Black Basta Chat - Microsoft SharePoint Server Privilege Escalation Vulnerability,CVE-2023-29357,9.8,89,Qualys QID,"2/27 CH - QID Available: 110439
-Detections: ",https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29357,
-Grey Noise Black Basta Chat - Atlassian Confluence Broken Access Control,CVE-2023-22515,10,89,Qualys QID,"2/27 CH - QID Available:150725, 150745, 378914, 730931
-Detections: ",https://confluence.atlassian.com/security/advisories,
-Grey Noise Black Basta Chat - Cisco IOS XE Web UI Privilege Escalation,CVE-2023-20198,10,89,Qualys QID,"2/27 CH - QID Available: 150739, 317376, 730965
-Detections: ",https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-webui-priv-esc-3S9rB9r,
-Grey Noise Black Basta Chat - Microsoft Exchange Server Remote Code Execution,CVE-2022-41082,8.8,79,Qualys QID,"2/27 CH - QID Available: 50122, 150664, 730621
-Detections: ",https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41082,
-Grey Noise Black Basta Chat - Microsoft Exchange Server Server-Side Request Forgery Vulnerability,CVE-2022-41040,8.8,79,Qualys QID,"2/27 CH - QID Available: 50122, 150664, 730621
-Detections: ",https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41040,
-Grey Noise Black Basta Chat - Synacor Zimbra Collaboration Suite (ZCS) Authentication Bypass Vulnerability,CVE-2022-37042,9.8,79,Qualys QID,"2/27 CH - QID Available: 377759
-Detections: ",https://wiki.zimbra.com/wiki/Zimbra_Security_Advisories,
-Grey Noise Black Basta Chat - Zyxel Multiple Firewalls OS Command Injection,CVE-2022-30525,9.8,79,Qualys QID,"2/27 CH - QID Available: 730491
-Detections: ",https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-os-command-injection-vulnerability-in-firewalls,
-Grey Noise Black Basta Chat - Synacor Zimbra Collaboration Suite (ZCS) Arbitrary File Upload Vulnerability,CVE-2022-27925,7.2,79,Qualys QID,"2/27 CH - QID Available: 378336, 376769
-Detections: ",https://wiki.zimbra.com/wiki/Zimbra_Security_Advisories,
-Grey Noise Black Basta Chat - Atlassian Confluence Server and Data Center Remote Code Execution Vulnerability,CVE-2022-26134,9.8,89,Qualys QID,"2/27 CH - QID Available: 730514, 376657, 150523
-Detections: ",https://confluence.atlassian.com/security/advisories,
-Grey Noise Black Basta Chat - Spring Framework JDK 9+ Remote Code Execution Vulnerability,CVE-2022-22965,8.1,89,Qualys QID,"2/27 CH - QID Available: 150495, 376506, 376514, 730416
-Detections: ",https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement,
-Grey Noise Black Basta Chat - F5 BIG-IP Missing Authentication Vulnerability,CVE-2022-1388,9.8,89,Qualys QID,"2/27 CH - QID Available: 730489, 376577, 150511
-Detections: ",https://support.f5.com/csp/article/K23605346,
-Grey Noise Black Basta Chat - Apache Log4j RCE (Log4Shell),CVE-2021-44228,10,99,Qualys QID,"2/27 CH - QID Available: 376157, 376160
-Detections: ",https://logging.apache.org/log4j/2.x/security.html,
-Grey Noise Black Basta Chat - Microsoft Exchange Server RCE (ProxyLogon),CVE-2021-26855,9.8,89,Qualys QID,"2/27 CH - QID Available: 50107, 50108
-Detections: ",https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-26855,
-Gitlab Multiple Vulnerabilities,CVE-2025-0307,4.3,25,None,2/27 CH - Monitor for QID,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released,
-Gitlab Multiple Vulnerabilities,CVE-2025-0475,8.7,25,None,2/27 CH - Monitor for QID,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released,
-Gitlab Multiple Vulnerabilities,CVE-2025-0555,7.7,26,None,2/27 CH - Monitor for QID,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released,
-Gitlab Multiple Vulnerabilities,CVE-2024-10925,5.3,25,None,2/27 CH - Monitor for QID,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released,
-Gitlab Multiple Vulnerabilities,CVE-2024-8186,5.4,25,None,2/27 CH - Monitor for QID,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released,
-Cisco Nexus 9000 / 3000 Series Switches Denial of Service Vulnerability,CVE-2025-20111,7.4,30,None,2/27 CH - Task to PMG,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-n3kn9k-healthdos-eOqSWK4g,RITM0641526
-Cisco Multiple Products NX-OS Vulnerabiliy,CVE-2025-20161,5.1,25,None,2/27 CH - Task to PMG,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-ici-dpOjbWxk,RITM0641533
-Microsoft Partner Center Improper Access Control Vulnerability,CVE-2024-49035,8.7,99,None,"2/27 - CH: This CVE addresses a vulnerability in the Microsoft Power Apps online version only. As such, customers do not need to take any action because releases are rolled out automatically over several days.",https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49035,
+title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
+IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2024-28182,5.3,,,,"https://www.ibm.com/support/pages/node/7183475
+https://www.ibm.com/support/pages/node/7183477
+https://www.ibm.com/support/pages/node/7183481"
+IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2024-4032,5.3,,,,"https://www.ibm.com/support/pages/node/7183475
+https://www.ibm.com/support/pages/node/7183477
+https://www.ibm.com/support/pages/node/7183481"
+IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-6240,6.5,,,,"https://www.ibm.com/support/pages/node/7183475
+https://www.ibm.com/support/pages/node/7183477
+https://www.ibm.com/support/pages/node/7183481"
+IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-4408,7.5,,,,"https://www.ibm.com/support/pages/node/7183471
+https://www.ibm.com/support/pages/node/7183474
+https://www.ibm.com/support/pages/node/7183482"
+IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2022-3094,6.5,,,,"https://www.ibm.com/support/pages/node/7183471
+https://www.ibm.com/support/pages/node/7183474
+https://www.ibm.com/support/pages/node/7183482"
+IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-5517,7.5,,,,"https://www.ibm.com/support/pages/node/7183471
+https://www.ibm.com/support/pages/node/7183474
+https://www.ibm.com/support/pages/node/7183482"
+IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2022-3924,7.5,,,,"https://www.ibm.com/support/pages/node/7183471
+https://www.ibm.com/support/pages/node/7183474
+https://www.ibm.com/support/pages/node/7183482"
+IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-5178,8.8,,,,"https://www.ibm.com/support/pages/node/7183471
+https://www.ibm.com/support/pages/node/7183474
+https://www.ibm.com/support/pages/node/7183482"
+IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2024-6387,8.1,,,,"https://www.ibm.com/support/pages/node/7183471
+https://www.ibm.com/support/pages/node/7183474
+https://www.ibm.com/support/pages/node/7183482"
+IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-50868,7.5,,,,"https://www.ibm.com/support/pages/node/7183471
+https://www.ibm.com/support/pages/node/7183474
+https://www.ibm.com/support/pages/node/7183482"
+IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-3446,7.5,,,,"https://www.ibm.com/support/pages/node/7183471
+https://www.ibm.com/support/pages/node/7183474
+https://www.ibm.com/support/pages/node/7183482"
+IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-5679,7.5,,,,"https://www.ibm.com/support/pages/node/7183471
+https://www.ibm.com/support/pages/node/7183474
+https://www.ibm.com/support/pages/node/7183482"
+IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-6536,6.5,,,,"https://www.ibm.com/support/pages/node/7183471
+https://www.ibm.com/support/pages/node/7183474
+https://www.ibm.com/support/pages/node/7183482"
+IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-3817,3.7,,,,"https://www.ibm.com/support/pages/node/7183471
+https://www.ibm.com/support/pages/node/7183474
+https://www.ibm.com/support/pages/node/7183482"
+IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2022-3736,7.5,,,,"https://www.ibm.com/support/pages/node/7183471
+https://www.ibm.com/support/pages/node/7183474
+https://www.ibm.com/support/pages/node/7183482"
+IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-5678,7.5,,,,"https://www.ibm.com/support/pages/node/7183471
+https://www.ibm.com/support/pages/node/7183474
+https://www.ibm.com/support/pages/node/7183482"
+IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-6516,7.5,,,,"https://www.ibm.com/support/pages/node/7183471
+https://www.ibm.com/support/pages/node/7183474
+https://www.ibm.com/support/pages/node/7183482"
+IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-50387,7.5,,,,"https://www.ibm.com/support/pages/node/7183471
+https://www.ibm.com/support/pages/node/7183474
+https://www.ibm.com/support/pages/node/7183482"
+IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2022-2795,7.5,,,,"https://www.ibm.com/support/pages/node/7183471
+https://www.ibm.com/support/pages/node/7183474
+https://www.ibm.com/support/pages/node/7183482"
+IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-6356,6.5,,,,"https://www.ibm.com/support/pages/node/7183471
+https://www.ibm.com/support/pages/node/7183474
+https://www.ibm.com/support/pages/node/7183482"
+IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-6535,6.5,,,,"https://www.ibm.com/support/pages/node/7183471
+https://www.ibm.com/support/pages/node/7183474
+https://www.ibm.com/support/pages/node/7183482"
+IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2024-6409,7,,,,"https://www.ibm.com/support/pages/node/7183471
+https://www.ibm.com/support/pages/node/7183474
+https://www.ibm.com/support/pages/node/7183482"
+IBM Tivoli System Automation for Multiplatforms IBM Java Multiple Vulnerabilities,CVE-2024-21210,3.7,,,,"https://www.ibm.com/support/pages/node/7184312
+https://www.ibm.com/support/pages/node/7184317
+https://www.ibm.com/support/pages/node/7184323"
+IBM Tivoli System Automation for Multiplatforms IBM Java Multiple Vulnerabilities,CVE-2024-10917,3.7,,,,"https://www.ibm.com/support/pages/node/7183371
+https://www.ibm.com/support/pages/node/7183372
+https://www.ibm.com/support/pages/node/7183373
+https://www.ibm.com/support/pages/node/7183374
+https://www.ibm.com/support/pages/node/7183467
+https://www.ibm.com/support/pages/node/7184312
+https://www.ibm.com/support/pages/node/7184317
+https://www.ibm.com/support/pages/node/7184323
+https://www.ibm.com/support/pages/node/7184326"
+IBM Tivoli System Automation for Multiplatforms IBM Java Multiple Vulnerabilities,CVE-2024-21217,3.7,,,,"https://www.ibm.com/support/pages/node/7183371
+https://www.ibm.com/support/pages/node/7183372
+https://www.ibm.com/support/pages/node/7183373
+https://www.ibm.com/support/pages/node/7183374
+https://www.ibm.com/support/pages/node/7183467
+https://www.ibm.com/support/pages/node/7184312
+https://www.ibm.com/support/pages/node/7184317
+https://www.ibm.com/support/pages/node/7184323
+https://www.ibm.com/support/pages/node/7184326"
+IBM Tivoli System Automation for Multiplatforms IBM Java Multiple Vulnerabilities,CVE-2024-21235,4.8,,,,"https://www.ibm.com/support/pages/node/7184312
+https://www.ibm.com/support/pages/node/7184317
+https://www.ibm.com/support/pages/node/7184323"
+IBM Tivoli System Automation for Multiplatforms IBM Java Multiple Vulnerabilities,CVE-2024-21208,3.7,,,,"https://www.ibm.com/support/pages/node/7183371
+https://www.ibm.com/support/pages/node/7183372
+https://www.ibm.com/support/pages/node/7183373
+https://www.ibm.com/support/pages/node/7183374
+https://www.ibm.com/support/pages/node/7183467
+https://www.ibm.com/support/pages/node/7184312
+https://www.ibm.com/support/pages/node/7184317
+https://www.ibm.com/support/pages/node/7184323
+https://www.ibm.com/support/pages/node/7184326"
+Quarkus Multiple Vulnerabilities,CVE-2025-1247,8.3,,,,https://quarkus.io/blog/cve-fixes-feb-2025
+Quarkus Multiple Vulnerabilities,CVE-2024-12225,not available,,,,https://quarkus.io/blog/cve-fixes-feb-2025
+Quarkus Multiple Vulnerabilities,CVE-2025-1634,7.5,,,,https://quarkus.io/blog/cve-fixes-feb-2025
+IBM MQ Appliance Multiple Vulnerabilities,CVE-2025-0975,8.8,,,,"https://www.ibm.com/support/pages/node/7183371
+https://www.ibm.com/support/pages/node/7183372
+https://www.ibm.com/support/pages/node/7183373
+https://www.ibm.com/support/pages/node/7183374
+https://www.ibm.com/support/pages/node/7183467
+https://www.ibm.com/support/pages/node/7184342"
+IBM MQ Appliance Multiple Vulnerabilities,CVE-2025-23225,6.5,,,,"https://www.ibm.com/support/pages/node/7183371
+https://www.ibm.com/support/pages/node/7183372
+https://www.ibm.com/support/pages/node/7183373
+https://www.ibm.com/support/pages/node/7183374
+https://www.ibm.com/support/pages/node/7183467
+https://www.ibm.com/support/pages/node/7184327"
+IBM MQ Appliance Multiple Vulnerabilities,CVE-2024-54175,5.5,,,,"https://www.ibm.com/support/pages/node/7183371
+https://www.ibm.com/support/pages/node/7183372
+https://www.ibm.com/support/pages/node/7183373
+https://www.ibm.com/support/pages/node/7183374
+https://www.ibm.com/support/pages/node/7183467
+https://www.ibm.com/support/pages/node/7184322"
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2022-37434,7.8,,,,https://www.ibm.com/support/pages/node/7183676
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-45296,7.5,,,,https://www.ibm.com/support/pages/node/7183676
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-28523,8.4,,,,https://www.ibm.com/support/pages/node/7183676
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-7254,7.5,,,,https://www.ibm.com/support/pages/node/7183676
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-47561,8.8,,,,https://www.ibm.com/support/pages/node/7183676
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2018-25032,7.5,,,,https://www.ibm.com/support/pages/node/7183676
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-39331,7.8,,,,https://www.ibm.com/support/pages/node/7183676
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-56340,6.5,,,,https://www.ibm.com/support/pages/node/7183676
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2025-0823,6.5,,,,https://www.ibm.com/support/pages/node/7183676
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-45216,9.1,,,,https://www.ibm.com/support/pages/node/7183676
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-47554,5.3,,,,https://www.ibm.com/support/pages/node/7183676
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-52798,5.3,,,,https://www.ibm.com/support/pages/node/7183676
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-38999,8.1,,,,https://www.ibm.com/support/pages/node/7183676
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-40094,5.3,,,,https://www.ibm.com/support/pages/node/7183676
+IBM App Connect Enterprise Node.js Multiple Vulnerabilities,CVE-2025-23085,5.3,,,,https://www.ibm.com/support/pages/node/7184359
+IBM App Connect Enterprise Node.js Multiple Vulnerabilities,CVE-2025-23084,5.6,,,,https://www.ibm.com/support/pages/node/7184359
+IBM App Connect Enterprise Apache Kafka Information Disclosure Vulnerability,CVE-2024-31141,8.1,,,,https://www.ibm.com/support/pages/node/7184106
