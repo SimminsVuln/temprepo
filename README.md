@@ -1,16 +1,41 @@
-Paragon Partition Manager's BioNTdrv.sys driver, in versions prior to 2.0.0, contains five vulnerabilities, including arbitrary kernel memory mapping and write flaws, a null pointer dereference, insecure kernel resource access, and an arbitrary memory move vulnerability. ​
+Vulnerabilities include Privileged user Arbitrary Code Execution and Arbitrary Write leading to Sandbox Escape. 
+
+"Information to suggest that exploitation of these issues has occurred 'in the wild,' "  
+
+Broadcom has not elaborated on the nature of these attacks. 
+
+Name:
+VMware ESXi, Workstation, Fusion, Cloud Multiple Vulnerabilities
+
+Product | Version(s):
+VMware ESXi - v8
+VMware ESXi - v8
+VMware ESXi - v7.0 
+VMware Workstation - v17.x
+VMware Fusion - v13.x
+VMware Cloud Foundation  - v5.x		
+VMware Cloud Foundation  - v4.5.x	
+VMware Telco Cloud Platform - v5.x, v4.x, v3.x, v2.x
+VMware Telco Cloud Infrastructure -v3.x, 2.x 
+
+CVEID:
+CVE-2025-22224
+CVE-2025-22225
+CVE-2025-22226
 
 
-Attackers with local access can exploit these vulnerabilities to escalate privileges to SYSTEM level or cause a denial-of-service (DoS) scenario. Notably, even if Paragon Partition Manager is not installed, attackers can utilize a Bring Your Own Vulnerable Driver (BYOVD) technique to exploit systems using the vulnerable driver. ​
-kb.cert.org
+Patch Available:
+Yes | See below:
 
-Microsoft has observed threat actors leveraging these vulnerabilities, particularly CVE-2025-0289, in ransomware attacks to achieve privilege escalation before executing further malicious code. ​
+VMware ESXi - v8: update to ESXi80U3d-24585383
+VMware ESXi - v8: update to ESXi80U2d-24585300
+VMware ESXi - v7.0:  update to ESXi70U3s-24585291
+VMware Workstation - v17.x: update to v17.6.3		
+VMware Fusion - v13.x: update to v13.6.3
+VMware Cloud Foundation  - v5.x: Async patch to ESXi80U3d-24585383		
+VMware Cloud Foundation  - v4.5.x: Async patch to ESXi70U3s-24585291		
+VMware Telco Cloud Platform - v5.x, v4.x, v3.x, v2.x: update to KB389385
+VMware Telco Cloud Infrastructure -v3.x, 2.x: update to KB389385
 
-Paragon Software has addressed these issues by releasing BioNTdrv.sys version 2.0.0. Additionally, Microsoft's Vulnerable Driver Blocklist has been updated to block the affected driver versions. Users are advised to update to the latest version and ensure the blocklist is active to mitigate potential exploitation. ​
-
-
-Reworded Summary of the Provided Statement:
-
-Currently, this vulnerability does not affect our environment.​
-There is no indication that Paragon Partition Manager is utilized in our systems, including Axonius, ServiceNow (SNOW), Qualys, or IT support documentation.​
-We will continue to monitor for any detections or changes related to this vulnerability before considering its removal from our watchlist.
+Original Advisory: 
+https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25390
