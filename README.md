@@ -1,22 +1,16 @@
-Subject: Verification Request – Software Usage Check
+Paragon Partition Manager's BioNTdrv.sys driver, in versions prior to 2.0.0, contains five vulnerabilities, including arbitrary kernel memory mapping and write flaws, a null pointer dereference, insecure kernel resource access, and an arbitrary memory move vulnerability. ​
 
-Body:
 
-Good Morning,
+Attackers with local access can exploit these vulnerabilities to escalate privileges to SYSTEM level or cause a denial-of-service (DoS) scenario. Notably, even if Paragon Partition Manager is not installed, attackers can utilize a Bring Your Own Vulnerable Driver (BYOVD) technique to exploit systems using the vulnerable driver. ​
+kb.cert.org
 
-We need to determine if we use a product that currently has vulnerabilities. Please review the details below and confirm whether this product is in use within our environment.
+Microsoft has observed threat actors leveraging these vulnerabilities, particularly CVE-2025-0289, in ransomware attacks to achieve privilege escalation before executing further malicious code. ​
 
-Product: [Software Name]
-CVE(s): [CVE-XXXX-XXXXX]
-Vendor Reference: [Link or Advisory]
-Please provide a response by [Due Date] confirming whether this product is in use.
+Paragon Software has addressed these issues by releasing BioNTdrv.sys version 2.0.0. Additionally, Microsoft's Vulnerable Driver Blocklist has been updated to block the affected driver versions. Users are advised to update to the latest version and ensure the blocklist is active to mitigate potential exploitation. ​
 
-If the product has a limited presence in the environment, the appropriate owners should verify whether it has been officially approved for use. Additionally, they should assess its purpose and determine if it is still required. If the product is unauthorized or unnecessary, steps should be taken to remove it.
 
-Let us know if you need any additional information.
+Reworded Summary of the Provided Statement:
 
-Thank you,
-[Your Name]
-[Your Team/Department]
-
-be3f59a21a40869 f2b8 2d94e29cdd5 f9f97d99da68 890dfe64a163d cfed6253f
+Currently, this vulnerability does not affect our environment.​
+There is no indication that Paragon Partition Manager is utilized in our systems, including Axonius, ServiceNow (SNOW), Qualys, or IT support documentation.​
+We will continue to monitor for any detections or changes related to this vulnerability before considering its removal from our watchlist.
