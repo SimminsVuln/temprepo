@@ -189,11 +189,82 @@ https://access.redhat.com/errata/RHSA-2025:2035",MEDIUM,not available
 3/4/2025,Red Hat update for webkit2gtk3,CVE-2025-24150,8.8,,not available,not available,not available,,,"https://access.redhat.com/errata/RHSA-2025:2034
 https://access.redhat.com/errata/RHSA-2025:2035",not available,not available
 3/4/2025,IBM FileNet Content Manager Denial of Service Vulnerability,CVE-2024-47072,7.5,,LOW,not available,not available,,,https://www.ibm.com/support/pages/node/7175916,LOW,not available
-3/4/2025,"VMware ESXi, Workstation, and Fusion Multiple Vulnerabilities",CVE-2025-22224,9.3,,MEDIUM,not available,not available,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25390,MEDIUM,not available
-3/4/2025,"VMware ESXi, Workstation, and Fusion Multiple Vulnerabilities",CVE-2025-22225,8.2,,LOW,not available,not available,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25390,LOW,not available
-3/4/2025,"VMware ESXi, Workstation, and Fusion Multiple Vulnerabilities",CVE-2025-22226,7.1,,LOW,not available,not available,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25390,LOW,not available
 3/4/2025,Paragon Partition Manager,CVE-2025-0288,not available,,MEDIUM,not available,not available,,,https://www.kb.cert.org/vuls/id/726882,MEDIUM,not available
 3/4/2025,Paragon Partition Manager,CVE-2025-0287,5.1,,MEDIUM,not available,not available,,,https://www.kb.cert.org/vuls/id/726882,MEDIUM,not available
 3/4/2025,Paragon Partition Manager,CVE-2025-0286,not available,,MEDIUM,not available,not available,,,https://www.kb.cert.org/vuls/id/726882,MEDIUM,not available
 3/4/2025,Paragon Partition Manager,CVE-2025-0285,not available,,MEDIUM,not available,not available,,,https://www.kb.cert.org/vuls/id/726882,MEDIUM,not available
 3/4/2025,Paragon Partition Manager,CVE-2025-0289,7.8,,MEDIUM,Confirmed,not available,,,https://www.kb.cert.org/vuls/id/726882,MEDIUM,not available
+3/4/2025,"VMware ESXi, Workstation, and Fusion Multiple Vulnerabilities",CVE-2025-22224,9.3,,LOW,Confirmed,not available,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25390,MEDIUM,not available
+3/4/2025,"VMware ESXi, Workstation, and Fusion Multiple Vulnerabilities",CVE-2025-22225,8.2,,LOW,Confirmed,not available,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25390,LOW,not available
+3/4/2025,"VMware ESXi, Workstation, and Fusion Multiple Vulnerabilities",CVE-2025-22226,7.1,,LOW,Confirmed,not available,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25390,LOW,not available
+3/5/2025,Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1936,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-18",not available,not available
+3/5/2025,Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1931,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-15
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-18",not available,not available
+3/5/2025,Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1934,6.5,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-18",LOW,not available
+3/5/2025,Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1935,4.3,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-18",LOW,not available
+3/5/2025,Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1937,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-15
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-18",not available,not available
+3/5/2025,Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1930,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-15
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-18",not available,not available
+3/5/2025,Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2024-43097,7.8,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-15
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-18",MEDIUM,not available
+3/5/2025,Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1932,9.8,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-18",HIGH,not available
+3/5/2025,Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1938,6.5,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-18",LOW,not available
+3/5/2025,Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1933,8.1,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-15
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-18",LOW,not available
+3/5/2025,Mozilla Thunderbird Multiple Vulnerabilities,CVE-2025-1943,8.2,,not available,not available,not available,Qualys QID,"3/5 CH - QID Available (382907, 382906)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-17",MEDIUM,not available
+3/5/2025,Mozilla Thunderbird Multiple Vulnerabilities,CVE-2025-1942,6.5,,not available,not available,not available,Qualys QID,"3/5 CH - QID Available (382907, 382906)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-17",LOW,not available
+3/5/2025,F5 Multiple BIG-IP Products PostgreSQL Multiple Denial of Service Vulnerabilities,CVE-2015-3166,3.1,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382897),https://my.f5.com/manage/s/article/K000150204,MEDIUM,not available
+3/5/2025,Google Chrome Multiple Vulnerabilities,CVE-2025-1918,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html",not available,not available
+3/5/2025,Google Chrome Multiple Vulnerabilities,CVE-2025-1914,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html",not available,not available
+3/5/2025,Google Chrome Multiple Vulnerabilities,CVE-2025-1921,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html",not available,not available
+3/5/2025,Google Chrome Multiple Vulnerabilities,CVE-2025-1919,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html",not available,not available
+3/5/2025,Google Chrome Multiple Vulnerabilities,CVE-2025-1916,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html",not available,not available
+3/5/2025,Google Chrome Multiple Vulnerabilities,CVE-2025-1915,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html",not available,not available
+3/5/2025,Google Chrome Multiple Vulnerabilities,CVE-2025-1917,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html",not available,not available
+3/5/2025,Google Chrome Multiple Vulnerabilities,CVE-2025-1923,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html",not available,not available
+3/5/2025,Google Chrome Multiple Vulnerabilities,CVE-2025-1922,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html",not available,not available
+3/5/2025,Mozilla Firefox Multiple Vulnerabilities,CVE-2025-1941,9.1,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),https://www.mozilla.org/en-US/security/advisories/mfsa2025-14,MEDIUM,not available
+3/5/2025,Mozilla Firefox Multiple Vulnerabilities,CVE-2025-1940,7.1,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),https://www.mozilla.org/en-US/security/advisories/mfsa2025-14,LOW,not available
+3/5/2025,Mozilla Firefox Multiple Vulnerabilities,CVE-2025-1939,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),https://www.mozilla.org/en-US/security/advisories/mfsa2025-14,not available,not available
+3/5/2025,Mozilla Firefox Multiple Vulnerabilities,CVE-2024-9956,7.8,,not available,No Known,not available,Qualys QID,3/5 CH - QID Available (382902),https://www.mozilla.org/en-US/security/advisories/mfsa2025-14,MEDIUM,not available
+3/5/2025,Elastic Kibana Vulnerability,CVE-2025-25015,9.9,,not available,not available,not available,,,https://discuss.elastic.co/t/kibana-8-17-3-security-update-esa-2025-06/375441,HIGH,not available

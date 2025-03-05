@@ -23,3 +23,74 @@ Paragon Partition Manager,CVE-2025-0287,5.1,,None,,https://www.kb.cert.org/vuls/
 Paragon Partition Manager,CVE-2025-0286,not listed,,None,,https://www.kb.cert.org/vuls/id/726882
 Paragon Partition Manager,CVE-2025-0285,not listed,,None,,https://www.kb.cert.org/vuls/id/726882
 Paragon Partition Manager,CVE-2025-0289,7.8,,None,,https://www.kb.cert.org/vuls/id/726882
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1936,not listed,,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-18"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1931,not listed,,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-15
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-18"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1934,6.5,,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-18"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1935,4.3,,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-18"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1937,not listed,,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-15
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-18"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1930,not listed,,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-15
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-18"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2024-43097,7.8,,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-15
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-18"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1932,9.8,,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-18"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1938,6.5,,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-18"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1933,8.1,,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-15
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-18"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2025-1943,8.2,,Qualys QID,"3/5 CH - QID Available (382907, 382906)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-17"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2025-1942,6.5,,Qualys QID,"3/5 CH - QID Available (382907, 382906)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-17"
+F5 Multiple BIG-IP Products PostgreSQL Multiple Denial of Service Vulnerabilities,CVE-2015-3166,3.1,,Qualys QID,3/5 CH - QID Available (382897),https://my.f5.com/manage/s/article/K000150204
+Google Chrome Multiple Vulnerabilities,CVE-2025-1918,not listed,,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2025-1914,not listed,,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2025-1921,not listed,,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2025-1919,not listed,,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2025-1916,not listed,,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2025-1915,not listed,,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2025-1917,not listed,,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2025-1923,not listed,,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2025-1922,not listed,,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html"
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-1941,9.1,,Qualys QID,3/5 CH - QID Available (382902),https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-1940,7.1,,Qualys QID,3/5 CH - QID Available (382902),https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-1939,not available,,Qualys QID,3/5 CH - QID Available (382902),https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+Mozilla Firefox Multiple Vulnerabilities,CVE-2024-9956,7.8,,Qualys QID,3/5 CH - QID Available (382902),https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
+Elastic Kibana Vulnerability,CVE-2025-25015,9.9,,None,,https://discuss.elastic.co/t/kibana-8-17-3-security-update-esa-2025-06/375441
