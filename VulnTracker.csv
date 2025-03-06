@@ -1,96 +1,16 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Apache CloudStack Multiple Arbitrary Code Execution Vulnerabilities,CVE-2024-39864,9.8,,None,,"https://cloudstack.apache.org/blog/security-release-advisory-4.19.0.2-4.18.2.1
-https://lists.apache.org/thread/6l51r00csrct61plkyd3qg3fj99215d1"
-Apache CloudStack Multiple Arbitrary Code Execution Vulnerabilities,CVE-2024-38346,9.8,,None,,"https://cloudstack.apache.org/blog/security-release-advisory-4.19.0.2-4.18.2.1
-https://lists.apache.org/thread/6l51r00csrct61plkyd3qg3fj99215d1"
-Apryse WebViewer PDF Rendering Engine Cross-Site Scripting Vulnerability,CVE-2024-57240,not available,,None,,https://docs.apryse.com/web/guides/changelog/v11-2-0
-Red Hat update for webkit2gtk3,CVE-2025-24158,6.5,,Qualys QID,"3/4 CH - QID Available (250018, 250012)","https://access.redhat.com/errata/RHSA-2025:2034
-https://access.redhat.com/errata/RHSA-2025:2035"
-Red Hat update for webkit2gtk3,CVE-2025-24162,9.8,,Qualys QID,"3/4 CH - QID Available (250018, 250012)","https://access.redhat.com/errata/RHSA-2025:2034
-https://access.redhat.com/errata/RHSA-2025:2035"
-Red Hat update for webkit2gtk3,CVE-2025-24143,6.5,,Qualys QID,"3/4 CH - QID Available (250018, 250012)","https://access.redhat.com/errata/RHSA-2025:2034
-https://access.redhat.com/errata/RHSA-2025:2035"
-Red Hat update for webkit2gtk3,CVE-2024-54543,8.8,,Qualys QID,"3/4 CH - QID Available (250018, 250012)","https://access.redhat.com/errata/RHSA-2025:2034
-https://access.redhat.com/errata/RHSA-2025:2035"
-Red Hat update for webkit2gtk3,CVE-2025-24150,8.8,,Qualys QID,"3/4 CH - QID Available (250018, 250012)","https://access.redhat.com/errata/RHSA-2025:2034
-https://access.redhat.com/errata/RHSA-2025:2035"
-IBM FileNet Content Manager Denial of Service Vulnerability,CVE-2024-47072,7.5,,None,,https://www.ibm.com/support/pages/node/7175916
-"VMware ESXi, Workstation, and Fusion Multiple Vulnerabilities",CVE-2025-22224,9.3,,None,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25390
-"VMware ESXi, Workstation, and Fusion Multiple Vulnerabilities",CVE-2025-22225,8.2,,None,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25390
-"VMware ESXi, Workstation, and Fusion Multiple Vulnerabilities",CVE-2025-22226,7.1,,None,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25390
-Paragon Partition Manager,CVE-2025-0288,not listed,,None,,https://www.kb.cert.org/vuls/id/726882
-Paragon Partition Manager,CVE-2025-0287,5.1,,None,,https://www.kb.cert.org/vuls/id/726882
-Paragon Partition Manager,CVE-2025-0286,not listed,,None,,https://www.kb.cert.org/vuls/id/726882
-Paragon Partition Manager,CVE-2025-0285,not listed,,None,,https://www.kb.cert.org/vuls/id/726882
-Paragon Partition Manager,CVE-2025-0289,7.8,,None,,https://www.kb.cert.org/vuls/id/726882
-Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1936,not listed,,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-18"
-Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1931,not listed,,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-15
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-18"
-Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1934,6.5,,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-18"
-Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1935,4.3,,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-18"
-Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1937,not listed,,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-15
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-18"
-Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1930,not listed,,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-15
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-18"
-Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2024-43097,7.8,,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-15
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-18"
-Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1932,9.8,,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-18"
-Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1938,6.5,,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-18"
-Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1933,8.1,,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-15
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-18"
-Mozilla Thunderbird Multiple Vulnerabilities,CVE-2025-1943,8.2,,Qualys QID,"3/5 CH - QID Available (382907, 382906)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-17"
-Mozilla Thunderbird Multiple Vulnerabilities,CVE-2025-1942,6.5,,Qualys QID,"3/5 CH - QID Available (382907, 382906)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-17"
-F5 Multiple BIG-IP Products PostgreSQL Multiple Denial of Service Vulnerabilities,CVE-2015-3166,3.1,,Qualys QID,3/5 CH - QID Available (382897),https://my.f5.com/manage/s/article/K000150204
-Google Chrome Multiple Vulnerabilities,CVE-2025-1918,not listed,,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
-https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html"
-Google Chrome Multiple Vulnerabilities,CVE-2025-1914,not listed,,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
-https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html"
-Google Chrome Multiple Vulnerabilities,CVE-2025-1921,not listed,,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
-https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html"
-Google Chrome Multiple Vulnerabilities,CVE-2025-1919,not listed,,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
-https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html"
-Google Chrome Multiple Vulnerabilities,CVE-2025-1916,not listed,,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
-https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html"
-Google Chrome Multiple Vulnerabilities,CVE-2025-1915,not listed,,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
-https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html"
-Google Chrome Multiple Vulnerabilities,CVE-2025-1917,not listed,,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
-https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html"
-Google Chrome Multiple Vulnerabilities,CVE-2025-1923,not listed,,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
-https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html"
-Google Chrome Multiple Vulnerabilities,CVE-2025-1922,not listed,,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
-https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html"
-Mozilla Firefox Multiple Vulnerabilities,CVE-2025-1941,9.1,,Qualys QID,3/5 CH - QID Available (382902),https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-Mozilla Firefox Multiple Vulnerabilities,CVE-2025-1940,7.1,,Qualys QID,3/5 CH - QID Available (382902),https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-Mozilla Firefox Multiple Vulnerabilities,CVE-2025-1939,not available,,Qualys QID,3/5 CH - QID Available (382902),https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-Mozilla Firefox Multiple Vulnerabilities,CVE-2024-9956,7.8,,Qualys QID,3/5 CH - QID Available (382902),https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-Elastic Kibana Vulnerability,CVE-2025-25015,9.9,,None,,https://discuss.elastic.co/t/kibana-8-17-3-security-update-esa-2025-06/375441
+Jenkins Multiple Vulnerabilities,CVE-2025-27624,5.4,,None,,https://www.jenkins.io/security/advisory/2025-03-05
+Jenkins Multiple Vulnerabilities,CVE-2025-27622,4.3,,None,,https://www.jenkins.io/security/advisory/2025-03-05
+Jenkins Multiple Vulnerabilities,CVE-2025-27623,4.3,,None,,https://www.jenkins.io/security/advisory/2025-03-05
+Jenkins Multiple Vulnerabilities,CVE-2025-27625,4.3,,None,,https://www.jenkins.io/security/advisory/2025-03-05
+HCL AppScan WebSphere Application Server Spoofing Vulnerability,CVE-2023-50314,5.3,,None,,https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0119650
+NetApp Active IQ Unified Manager for Microsoft Windows 7-Zip Security Bypass Vulnerability,CVE-2025-0411,7,,None,,https://security.netapp.com/advisory/NTAP-20250207-0005
+NetApp Active IQ Unified Manager Arbitrary Code Execution Vulnerability,CVE-2024-11477,7.8,,None,,https://security.netapp.com/advisory/NTAP-20250214-0007
+NetApp Active IQ Unified Manager Apache Netty Denial of Service Vulnerability,CVE-2025-25193,5.5,,None,,https://security.netapp.com/advisory/NTAP-20250221-0006
+Carbon Black Cloud Windows Sensor Information Disclosure Vulnerability,CVE-2024-11035,2.5,,None,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25472
+Cisco Secure Client IPC Channel Privilege Escalation Vulnerability,CVE-2025-20206,7.1,,None,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-secure-dll-injection-AOyzEqSg
+NetApp Active IQ Unified Manager Apache CXF Denial of Service Vulnerability,CVE-2025-23184,7.5,,None,,https://security.netapp.com/advisory/NTAP-20250214-0003
+NetApp Active IQ Unified Manager for VMware vSphere ISC BIND Denial of Service Vulnerability,CVE-2024-11187,7.5,,None,,https://security.netapp.com/advisory/NTAP-20250214-0003
+Apache Traffic Server Multiple Vulnerabilities,CVE-2024-56195,not available,,None,,https://lists.apache.org/thread/btofzws2yqskk2n7f01r3l1819x01023
+Apache Traffic Server Multiple Vulnerabilities,CVE-2024-56202,not available,,None,,https://lists.apache.org/thread/btofzws2yqskk2n7f01r3l1819x01023
+Apache Traffic Server Multiple Vulnerabilities,CVE-2024-38311,not available,,None,,https://lists.apache.org/thread/btofzws2yqskk2n7f01r3l1819x01023
