@@ -1,37 +1,21 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Zoom Multiple Products Multiple Security Bypass Vulnerabilities,CVE-2025-27440,8.5,,Qualys QID,3/13 CH - QID Available (382923),"https://www.zoom.com/en/trust/security-bulletin/zsb-25010
-https://www.zoom.com/en/trust/security-bulletin/zsb-25011
-https://www.zoom.com/en/trust/security-bulletin/zsb-25012"
-Zoom Multiple Products Multiple Security Bypass Vulnerabilities,CVE-2025-0151,8.5,,Qualys QID,3/13 CH - QID Available (382925),"https://www.zoom.com/en/trust/security-bulletin/zsb-25010
-https://www.zoom.com/en/trust/security-bulletin/zsb-25011
-https://www.zoom.com/en/trust/security-bulletin/zsb-25012"
-Zoom Multiple Products Multiple Security Bypass Vulnerabilities,CVE-2025-27439,8.5,,Qualys QID,3/13 CH - QID Available (382924),"https://www.zoom.com/en/trust/security-bulletin/zsb-25010
-https://www.zoom.com/en/trust/security-bulletin/zsb-25011
-https://www.zoom.com/en/trust/security-bulletin/zsb-25012"
-Red Hat update for libxml2,CVE-2024-56171,7.8,,Qualys QID,3/13 CH - QID Available (250073),https://access.redhat.com/errata/RHSA-2025:2679
-Red Hat update for libxml2,CVE-2025-24928,7.8,,Qualys QID,3/13 CH - QID Available (250073),https://access.redhat.com/errata/RHSA-2025:2679
-Cisco Multiple Aggregation Services Routers (ASR) Products IOS XR IPv4 Multicast Denial of Service Vulnerability,CVE-2025-20146,8.6,,Qualys QID,3/13 CH - QID Available (317622),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-multicast-ERMrSvq7
-PAN-OS GlobalProtect Denial of Service Vulnerability,CVE-2025-0114,5.9,,Qualys QID,3/13 CH - QID Available (732333),https://security.paloaltonetworks.com/CVE-2025-0114
-PAN-OS Arbitrary File Read Vulnerability,CVE-2025-0115,5.5,,Qualys QID,3/13 CH - QID Available (732331),https://security.paloaltonetworks.com/CVE-2025-0115
-Palo Alto Networks GlobalProtect for Windows Privilege Escalation Vulnerability,CVE-2025-0117,5.9,,Qualys QID,3/13 CH - QID Available (382942),https://security.paloaltonetworks.com/CVE-2025-0117
-,CVE-2025-0116,4.3,,Qualys QID,3/13 CH - QID Available (732332),https://security.paloaltonetworks.com/CVE-2025-0116
-Cisco IOS XR BGP Denial of Service Vulnerability,CVE-2025-20115,8.6,,Qualys QID,3/13 CH - QID Available (317621),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxr-bgp-dos-O7stePhX
-Cisco IOS XR Egress ACL Security Bypass Vulnerability,CVE-2025-20145,5.8,,Qualys QID,3/13 CH - QID Available (317620),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-modular-ACL-u5MEPXMm
-Cisco Multiple Products IOS XR ACL Security Bypass Vulnerability,CVE-2025-20144,4,,Qualys QID,3/13 CH - QID Available (317615),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ncs-hybridacl-crMZFfKQ
-Cisco IOS XR CLI Privilege Escalation Vulnerability,CVE-2025-20138,8.8,,Qualys QID,3/13 CH - QID Available (317616),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxr-priv-esc-GFQjxvOF
-Cisco Aggregation Services Routers (ASR) IOS XR Denial of Service Vulnerability,CVE-2025-20142,8.6,,Qualys QID,3/13 CH - QID Available (317613),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ipv4uni-LfM3cfBu
-Cisco IOS XR Route Processor Denial of Service Vulnerability,CVE-2025-20141,7.4,,Qualys QID,3/13 CH - QID Available (317618),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-xr792-bWfVDPY
-Cisco IOS XR IKEv2 Denial of Service Vulnerability,CVE-2025-20209,7.5,,Qualys QID,3/13 CH - QID Available (317617),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-xrike-9wYGpRGq
-Palo Alto Networks GlobalProtect for Windows SAML Security Bypass Vulnerability,CVE-2025-0118,9.6,,Qualys QID,3/13 CH - QID Available (382941),https://security.paloaltonetworks.com/CVE-2025-0118
-Zoom Multiple Products Multiple Security Bypass Vulnerabilities,CVE-2025-27440,8.5,,Qualys QID,3/13 CH - QID Available (382923),"https://www.zoom.com/en/trust/security-bulletin/zsb-25010
-https://www.zoom.com/en/trust/security-bulletin/zsb-25011
-https://www.zoom.com/en/trust/security-bulletin/zsb-25012"
-Zoom Multiple Products Multiple Security Bypass Vulnerabilities,CVE-2025-0151,8.5,,Qualys QID,3/13 CH - QID Available (382925),"https://www.zoom.com/en/trust/security-bulletin/zsb-25010
-https://www.zoom.com/en/trust/security-bulletin/zsb-25011
-https://www.zoom.com/en/trust/security-bulletin/zsb-25012"
-Zoom Multiple Products Multiple Security Bypass Vulnerabilities,CVE-2025-27439,8.5,,Qualys QID,3/13 CH - QID Available (382924),"https://www.zoom.com/en/trust/security-bulletin/zsb-25010
-https://www.zoom.com/en/trust/security-bulletin/zsb-25011
-https://www.zoom.com/en/trust/security-bulletin/zsb-25012"
-SAP Fiori Security Bypass Vulnerability,CVE-2025-26660,4.3,,None,,https://support.sap.com/en/my-support/knowledge-base/security-notes-news/march-2025.html
-Bitdefender BOX v1 Multiple Vulnerabilities,CVE-2024-13871,9.6,,None,,https://www.bitdefender.com/support/security-advisories/unauthenticated-command-injection-in-bitdefender-box-v1/
-Bitdefender BOX v1 Multiple Vulnerabilities,CVE-2024-13872,9.6,,None,,https://www.bitdefender.com/support/security-advisories/insecure-update-mechanism-vulnerability-in-libboxhermes-so-in-bitdefender-box-v1/
+Python Vulnerability in NetApp Products,CVE-2024-3220,7.8,,,,https://security.netapp.com/advisory/NTAP-20250314-0001
+Python Vulnerability in NetApp Products,CVE-2025-0938,4.6,,,,https://security.netapp.com/advisory/NTAP-20250314-0002
+Intel Processors Vulnerability in NetApp Products,CVE-2023-49141,8.4,,,,https://security.netapp.com/advisory/NTAP-20250314-0003
+Vim Vulnerability in NetApp Products,CVE-2025-22134,9.9,,,,https://security.netapp.com/advisory/NTAP-20250314-0004
+Vim Vulnerability in NetApp Products,CVE-2025-24014,6.8,,,,https://security.netapp.com/advisory/NTAP-20250314-0005
+GNU Binutils Vulnerability in NetApp Products,CVE-2024-53589,4.2,,,,https://security.netapp.com/advisory/NTAP-20250314-0006
+Grafana Vulnerability in NetApp Products,CVE-2024-9264,4.2,,,,https://security.netapp.com/advisory/NTAP-20250314-0007
+Ruby SAML Vulnerability in NetApp Products,CVE-2025-25293,9.1,,,,https://security.netapp.com/advisory/NTAP-20250314-0008
+Ruby SAML Vulnerability in NetApp Products,CVE-2025-25292,9.1,,,,https://security.netapp.com/advisory/NTAP-20250314-0009
+Ruby SAML Vulnerability in NetApp Products,CVE-2025-25291,7.5,,,,https://security.netapp.com/advisory/NTAP-20250314-0010
+Gitlab Multiple Vulnerabilities,CVE-2024-12380,4.4,,,"QID Available (""382943"")",https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2024-8402,3.7,,,"QID Available (""382943"")",https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2025-0652,4.3,,,"QID Available (""382943"")",https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2024-13054,6.5,,,"QID Available (""382943"")",https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2025-27407,9,,,"QID Available (""382943"")",https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2025-25291,9.1,,,"QID Available (""382943"")",https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2025-1257,6.5,,,"QID Available (""382943"")",https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2025-25292,9.1,,,"QID Available (""382943"")",https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2024-7296,2.7,,,"QID Available (""382943"")",https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/
+Red Hat Update for krb5,CVE-2025-24528,6.5,,,"QID Available (""250081"")",https://access.redhat.com/errata/RHSA-2025:2722
