@@ -1,21 +1,23 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Python Vulnerability in NetApp Products,CVE-2024-3220,7.8,,,,https://security.netapp.com/advisory/NTAP-20250314-0001
-Python Vulnerability in NetApp Products,CVE-2025-0938,4.6,,,,https://security.netapp.com/advisory/NTAP-20250314-0002
-Intel Processors Vulnerability in NetApp Products,CVE-2023-49141,8.4,,,,https://security.netapp.com/advisory/NTAP-20250314-0003
-Vim Vulnerability in NetApp Products,CVE-2025-22134,9.9,,,,https://security.netapp.com/advisory/NTAP-20250314-0004
-Vim Vulnerability in NetApp Products,CVE-2025-24014,6.8,,,,https://security.netapp.com/advisory/NTAP-20250314-0005
-GNU Binutils Vulnerability in NetApp Products,CVE-2024-53589,4.2,,,,https://security.netapp.com/advisory/NTAP-20250314-0006
-Grafana Vulnerability in NetApp Products,CVE-2024-9264,4.2,,,,https://security.netapp.com/advisory/NTAP-20250314-0007
-Ruby SAML Vulnerability in NetApp Products,CVE-2025-25293,9.1,,,,https://security.netapp.com/advisory/NTAP-20250314-0008
-Ruby SAML Vulnerability in NetApp Products,CVE-2025-25292,9.1,,,,https://security.netapp.com/advisory/NTAP-20250314-0009
-Ruby SAML Vulnerability in NetApp Products,CVE-2025-25291,7.5,,,,https://security.netapp.com/advisory/NTAP-20250314-0010
-Gitlab Multiple Vulnerabilities,CVE-2024-12380,4.4,,,"QID Available (""382943"")",https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/
-Gitlab Multiple Vulnerabilities,CVE-2024-8402,3.7,,,"QID Available (""382943"")",https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/
-Gitlab Multiple Vulnerabilities,CVE-2025-0652,4.3,,,"QID Available (""382943"")",https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/
-Gitlab Multiple Vulnerabilities,CVE-2024-13054,6.5,,,"QID Available (""382943"")",https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/
-Gitlab Multiple Vulnerabilities,CVE-2025-27407,9,,,"QID Available (""382943"")",https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/
-Gitlab Multiple Vulnerabilities,CVE-2025-25291,9.1,,,"QID Available (""382943"")",https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/
-Gitlab Multiple Vulnerabilities,CVE-2025-1257,6.5,,,"QID Available (""382943"")",https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/
-Gitlab Multiple Vulnerabilities,CVE-2025-25292,9.1,,,"QID Available (""382943"")",https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/
-Gitlab Multiple Vulnerabilities,CVE-2024-7296,2.7,,,"QID Available (""382943"")",https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/
-Red Hat Update for krb5,CVE-2025-24528,6.5,,,"QID Available (""250081"")",https://access.redhat.com/errata/RHSA-2025:2722
+Red Hat update for thunderbird,CVE-2025-1938,6.5,,Qualys QID,"3/18 CH - QID Available (250727, 250728)","https://access.redhat.com/errata/RHSA-2025:2899
+https://access.redhat.com/errata/RHSA-2025:2900"
+Red Hat update for thunderbird,CVE-2025-1937,7.5,,Qualys QID,"3/18 CH - QID Available (250727, 250728)","https://access.redhat.com/errata/RHSA-2025:2899
+https://access.redhat.com/errata/RHSA-2025:2900"
+Red Hat update for tigervnc,CVE-2025-26599,7.8,,Qualys QID,3/18 CH - QID Available (250722),https://access.redhat.com/errata/RHSA-2025:2862
+Red Hat update for tigervnc,CVE-2025-26601,7.8,,Qualys QID,3/18 CH - QID Available (250722),https://access.redhat.com/errata/RHSA-2025:2862
+Red Hat update for tigervnc,CVE-2025-26597,7.8,,Qualys QID,3/18 CH - QID Available (250722),https://access.redhat.com/errata/RHSA-2025:2862
+Red Hat update for tigervnc,CVE-2025-26596,7.8,,Qualys QID,3/18 CH - QID Available (250722),https://access.redhat.com/errata/RHSA-2025:2862
+Red Hat update for tigervnc,CVE-2025-26600,7.8,,Qualys QID,3/18 CH - QID Available (250722),https://access.redhat.com/errata/RHSA-2025:2862
+Red Hat update for tigervnc,CVE-2025-26594,7.8,,Qualys QID,3/18 CH - QID Available (250722),https://access.redhat.com/errata/RHSA-2025:2862
+Red Hat update for tigervnc,CVE-2025-26595,7.8,,Qualys QID,3/18 CH - QID Available (250722),https://access.redhat.com/errata/RHSA-2025:2862
+Red Hat update for tigervnc,CVE-2025-26598,7.8,,Qualys QID,3/18 CH - QID Available (250722),https://access.redhat.com/errata/RHSA-2025:2862
+Red Hat update for webkit2gtk3,CVE-2025-24201,7.1,,Qualys QID,"3/18 CH - QID Available (250726, 250724)","https://access.redhat.com/errata/RHSA-2025:2863
+https://access.redhat.com/errata/RHSA-2025:2864"
+SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-48013,8.8,,None,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities
+SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-48015,6.7,,None,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities
+SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-48017,6.5,,None,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities
+SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-48828,5.5,,None,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities
+SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-48830,7.8,,None,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities
+SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-48831,8.4,,None,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities
+SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-49559,8.8,,None,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities
+SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-49561,7.8,,None,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities
