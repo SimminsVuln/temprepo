@@ -1,23 +1,8 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Red Hat update for thunderbird,CVE-2025-1938,6.5,,Qualys QID,"3/18 CH - QID Available (250727, 250728)","https://access.redhat.com/errata/RHSA-2025:2899
-https://access.redhat.com/errata/RHSA-2025:2900"
-Red Hat update for thunderbird,CVE-2025-1937,7.5,,Qualys QID,"3/18 CH - QID Available (250727, 250728)","https://access.redhat.com/errata/RHSA-2025:2899
-https://access.redhat.com/errata/RHSA-2025:2900"
-Red Hat update for tigervnc,CVE-2025-26599,7.8,,Qualys QID,3/18 CH - QID Available (250722),https://access.redhat.com/errata/RHSA-2025:2862
-Red Hat update for tigervnc,CVE-2025-26601,7.8,,Qualys QID,3/18 CH - QID Available (250722),https://access.redhat.com/errata/RHSA-2025:2862
-Red Hat update for tigervnc,CVE-2025-26597,7.8,,Qualys QID,3/18 CH - QID Available (250722),https://access.redhat.com/errata/RHSA-2025:2862
-Red Hat update for tigervnc,CVE-2025-26596,7.8,,Qualys QID,3/18 CH - QID Available (250722),https://access.redhat.com/errata/RHSA-2025:2862
-Red Hat update for tigervnc,CVE-2025-26600,7.8,,Qualys QID,3/18 CH - QID Available (250722),https://access.redhat.com/errata/RHSA-2025:2862
-Red Hat update for tigervnc,CVE-2025-26594,7.8,,Qualys QID,3/18 CH - QID Available (250722),https://access.redhat.com/errata/RHSA-2025:2862
-Red Hat update for tigervnc,CVE-2025-26595,7.8,,Qualys QID,3/18 CH - QID Available (250722),https://access.redhat.com/errata/RHSA-2025:2862
-Red Hat update for tigervnc,CVE-2025-26598,7.8,,Qualys QID,3/18 CH - QID Available (250722),https://access.redhat.com/errata/RHSA-2025:2862
-Red Hat update for webkit2gtk3,CVE-2025-24201,7.1,,Qualys QID,"3/18 CH - QID Available (250726, 250724)","https://access.redhat.com/errata/RHSA-2025:2863
-https://access.redhat.com/errata/RHSA-2025:2864"
-SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-48013,8.8,,None,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities
-SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-48015,6.7,,None,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities
-SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-48017,6.5,,None,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities
-SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-48828,5.5,,None,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities
-SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-48830,7.8,,None,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities
-SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-48831,8.4,,None,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities
-SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-49559,8.8,,None,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities
-SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-49561,7.8,,None,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities
+Citrix Session Recording,CVE-2024-8068,5.1,,,,https://support.citrix.com/s/article/CTX691941-citrix-session-recording-security-bulletin-for-cve20248068-and-cve20248069?language=en_US
+Citrix Session Recording,CVE-2024-8069,5.1,,,,https://support.citrix.com/s/article/CTX691941-citrix-session-recording-security-bulletin-for-cve20248068-and-cve20248069?language=en_US
+Kubernetes ingress-nginx,CVE-2025-1097,8.8,,,,https://github.com/kubernetes/kubernetes/issues/131007
+Kubernetes ingress-nginx,CVE-2025-1098,8.8,,,,https://github.com/kubernetes/kubernetes/issues/131008
+Kubernetes ingress-nginx,CVE-2025-1974,9.8,,,,https://https//github.com/kubernetes/kubernetes/issues/131009
+Kubernetes ingress-nginx,CVE-2025-24513,4.8,,,,https://github.com/kubernetes/kubernetes/issues/131005
+Kubernetes ingress-nginx,CVE-2025-24514,8.8,,,,https://github.com/kubernetes/kubernetes/issues/131006

@@ -1,285 +1,144 @@
 timestamp,title,cve_ids,CVSS,Column4,risk_rating,exploitation_state,exploit_availability,detection,analyst comment,Refs,predicted_risk_rating,cisa_known_exploited
-2/26/2025,Grey Noise Black Basta Chat - Palo Alto Networks PAN-OS Command Injection,CVE-2024-3400,10,,HIGH,Wide,Trivial,,,https://security.paloaltonetworks.com/CVE-2024-3400,HIGH,not available
-2/26/2025,Grey Noise Black Basta Chat - JetBrains TeamCity Authentication Bypass,CVE-2024-27198,9.8,,HIGH,Confirmed,Publicly Available,,,https://www.jetbrains.com/security/advisories/JBSA-2024-0001/,HIGH,not available
-2/26/2025,Grey Noise Black Basta Chat - Check Point Quantum Security Gateways Information Disclosure,CVE-2024-24919,8.6,,MEDIUM,Reported,Trivial,,,https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk176148,not available,not available
-2/26/2025,Grey Noise Black Basta Chat - Jenkins Command Line Interface (CLI) Path Traversal Vulnerability,CVE-2024-23897,7.5,,MEDIUM,Confirmed,Publicly Available,,,https://www.jenkins.io/security/advisory/2024-01-24/#SECURITY-3314,MEDIUM,not available
-2/26/2025,Grey Noise Black Basta Chat - ConnectWise ScreenConnect Authentication Bypass,CVE-2024-1709,10,,CRITICAL,Wide,Trivial,,,https://www.connectwise.com/company/trust/security-bulletins,not available,not available
-2/26/2025,Grey Noise Black Basta Chat - wpexperts post_smtp_mailer Missing Authorization,CVE-2023-6875,9.8,,HIGH,not available,Publicly Available,,,https://wordpress.org/plugins/post-smtp/#developers,MEDIUM,not available
-2/26/2025,Grey Noise Black Basta Chat - Citrix NetScaler ADC and NetScaler Gateway Buffer Overflow Vulnerability,CVE-2023-4966,9.4,,HIGH,Wide,Publicly Available,,,https://support.citrix.com/article/CTX561482,not available,not available
-2/26/2025,Grey Noise Black Basta Chat - JetBrains TeamCity Authentication Bypass Vulnerability,CVE-2023-42793,9.8,,HIGH,Confirmed,Publicly Available,,,https://www.jetbrains.com/security/advisories/JBSA-2023-0004/,HIGH,not available
-2/26/2025,Grey Noise Black Basta Chat - Juniper Junos OS PHP External Variable Control,CVE-2023-36845,9.8,,HIGH,Confirmed,Publicly Available,,,https://kb.juniper.net/JSA70522,LOW,not available
-2/26/2025,Grey Noise Black Basta Chat - Juniper Junos OS EX Series PHP External Variable Modification Vulnerability,CVE-2023-36844,9.8,,HIGH,Confirmed,Publicly Available,,,https://kb.juniper.net/JSA70521,LOW,not available
-2/26/2025,Grey Noise Black Basta Chat - Microsoft SharePoint Server Privilege Escalation Vulnerability,CVE-2023-29357,9.8,,HIGH,Confirmed,Publicly Available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29357,MEDIUM,not available
-2/26/2025,Grey Noise Black Basta Chat - Atlassian Confluence Broken Access Control,CVE-2023-22515,10,,HIGH,Confirmed,Publicly Available,,,https://confluence.atlassian.com/security/advisories,HIGH,not available
-2/26/2025,Grey Noise Black Basta Chat - Cisco IOS XE Web UI Privilege Escalation,CVE-2023-20198,10,,HIGH,Wide,Publicly Available,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-webui-priv-esc-3S9rB9r,not available,not available
-2/26/2025,Grey Noise Black Basta Chat - Microsoft Exchange Server Remote Code Execution,CVE-2022-41082,8.8,,MEDIUM,Confirmed,Publicly Available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41082,not available,not available
-2/26/2025,Grey Noise Black Basta Chat - Microsoft Exchange Server Server-Side Request Forgery Vulnerability,CVE-2022-41040,8.8,,MEDIUM,Confirmed,Publicly Available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41040,not available,not available
-2/26/2025,Grey Noise Black Basta Chat - Synacor Zimbra Collaboration Suite (ZCS) Authentication Bypass Vulnerability,CVE-2022-37042,9.8,,HIGH,Confirmed,Publicly Available,,,https://wiki.zimbra.com/wiki/Zimbra_Security_Advisories,not available,not available
-2/26/2025,Grey Noise Black Basta Chat - Zyxel Multiple Firewalls OS Command Injection,CVE-2022-30525,9.8,,HIGH,Confirmed,Publicly Available,,,https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-os-command-injection-vulnerability-in-firewalls,not available,not available
-2/26/2025,Grey Noise Black Basta Chat - Synacor Zimbra Collaboration Suite (ZCS) Arbitrary File Upload Vulnerability,CVE-2022-27925,7.2,,MEDIUM,Confirmed,Publicly Available,,,https://wiki.zimbra.com/wiki/Zimbra_Security_Advisories,not available,not available
-2/26/2025,Grey Noise Black Basta Chat - Atlassian Confluence Server and Data Center Remote Code Execution Vulnerability,CVE-2022-26134,9.8,,HIGH,Confirmed,Publicly Available,,,https://confluence.atlassian.com/security/advisories,not available,not available
-2/26/2025,Grey Noise Black Basta Chat - Spring Framework JDK 9+ Remote Code Execution Vulnerability,CVE-2022-22965,8.1,,MEDIUM,Confirmed,Publicly Available,,,https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement,not available,not available
-2/26/2025,Grey Noise Black Basta Chat - F5 BIG-IP Missing Authentication Vulnerability,CVE-2022-1388,9.8,,MEDIUM,Confirmed,Publicly Available,,,https://support.f5.com/csp/article/K23605346,not available,not available
-2/26/2025,Grey Noise Black Basta Chat - Apache Log4j RCE (Log4Shell),CVE-2021-44228,10,,CRITICAL,Wide,Publicly Available,,,https://logging.apache.org/log4j/2.x/security.html,not available,not available
-2/26/2025,Grey Noise Black Basta Chat - Microsoft Exchange Server RCE (ProxyLogon),CVE-2021-26855,9.8,,CRITICAL,Wide,Publicly Available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-26855,not available,not available
-2/27/2025,Gitlab Multiple Vulnerabilities,CVE-2025-0307,4.3,,not available,not available,not available,,,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released,not available,not available
-2/27/2025,Gitlab Multiple Vulnerabilities,CVE-2025-0475,8.7,,not available,not available,not available,,,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released,not available,not available
-2/27/2025,Gitlab Multiple Vulnerabilities,CVE-2025-0555,7.7,,not available,not available,not available,,,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released,not available,not available
-2/27/2025,Gitlab Multiple Vulnerabilities,CVE-2024-10925,5.3,,not available,not available,not available,,,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released,not available,not available
-2/27/2025,Gitlab Multiple Vulnerabilities,CVE-2024-8186,5.4,,not available,not available,not available,,,https://about.gitlab.com/releases/2025/02/26/patch-release-gitlab-17-9-1-released,not available,not available
-2/27/2025,LibreOffice Hyperlink Activation Security Bypass Vulnerability,CVE-2025-0514,6.5,,not available,not available,not available,,,https://www.libreoffice.org/about-us/security/advisories/cve-2025-0514,LOW,not available
-2/27/2025,Cisco Nexus 9000 / 3000 Series Switches Denial of Service Vulnerability,CVE-2025-20111,7.4,,not available,not available,not available,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-n3kn9k-healthdos-eOqSWK4g,LOW,not available
-2/27/2025,"oauth2 ""Verify()"" Denial of Service Vulnerability",CVE-2025-22868,7.5,,not available,not available,not available,,,"https://go-review.googlesource.com/c/oauth2/+/652155
-https://pkg.go.dev/vuln/GO-2025-3488",LOW,not available
-2/27/2025,Cisco Multiple Products NX-OS Vulnerabiliy,CVE-2025-20161,5.1,,not available,not available,not available,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-ici-dpOjbWxk,LOW,not available
-2/27/2025,Opsview Multiple Vulnerabilities,CVE-2023-46604,9.4,,HIGH,Confirmed,Publicly Available,,,https://docs.itrsgroup.com/docs/all/opsview/opsview-release-notes/index.html#opsview-6110,HIGH,not available
-2/27/2025,Go Cryptography SSH Denial of Service Vulnerability,CVE-2025-22869,7.5,,not available,not available,not available,,,"https://go-review.googlesource.com/c/crypto/+/652135
-https://pkg.go.dev/vuln/GO-2025-3487",LOW,not available
-2/27/2025,Microsoft Partner Center Improper Access Control Vulnerability,CVE-2024-49035,8.7,,MEDIUM,Confirmed,Privately Held,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49035,MEDIUM,not available
-2/28/2025,IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2024-28182,5.3,,not available,not available,not available,,,"https://www.ibm.com/support/pages/node/7183475
-https://www.ibm.com/support/pages/node/7183477
-https://www.ibm.com/support/pages/node/7183481",LOW,not available
-2/28/2025,IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2024-4032,5.3,,not available,not available,not available,,,"https://www.ibm.com/support/pages/node/7183475
-https://www.ibm.com/support/pages/node/7183477
-https://www.ibm.com/support/pages/node/7183481",LOW,not available
-2/28/2025,IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-6240,6.5,,not available,not available,not available,,,"https://www.ibm.com/support/pages/node/7183475
-https://www.ibm.com/support/pages/node/7183477
-https://www.ibm.com/support/pages/node/7183481",LOW,not available
-2/28/2025,IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-4408,7.5,,not available,not available,not available,,,"https://www.ibm.com/support/pages/node/7183471
-https://www.ibm.com/support/pages/node/7183474
-https://www.ibm.com/support/pages/node/7183482",LOW,not available
-2/28/2025,IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2022-3094,6.5,,LOW,No Known,No Known,,,"https://www.ibm.com/support/pages/node/7183471
-https://www.ibm.com/support/pages/node/7183474
-https://www.ibm.com/support/pages/node/7183482",not available,not available
-2/28/2025,IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-5517,7.5,,not available,not available,not available,,,"https://www.ibm.com/support/pages/node/7183471
-https://www.ibm.com/support/pages/node/7183474
-https://www.ibm.com/support/pages/node/7183482",LOW,not available
-2/28/2025,IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2022-3924,7.5,,LOW,No Known,No Known,,,"https://www.ibm.com/support/pages/node/7183471
-https://www.ibm.com/support/pages/node/7183474
-https://www.ibm.com/support/pages/node/7183482",not available,not available
-2/28/2025,IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-5178,8.8,,not available,not available,Publicly Available,,,"https://www.ibm.com/support/pages/node/7183471
-https://www.ibm.com/support/pages/node/7183474
-https://www.ibm.com/support/pages/node/7183482",MEDIUM,not available
-2/28/2025,IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2024-6387,8.1,,MEDIUM,No Known,Publicly Available,,,"https://www.ibm.com/support/pages/node/7183471
-https://www.ibm.com/support/pages/node/7183474
-https://www.ibm.com/support/pages/node/7183482",not available,not available
-2/28/2025,IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-50868,7.5,,LOW,No Known,not available,,,"https://www.ibm.com/support/pages/node/7183471
-https://www.ibm.com/support/pages/node/7183474
-https://www.ibm.com/support/pages/node/7183482",LOW,not available
-2/28/2025,IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-3446,7.5,,MEDIUM,No Known,No Known,,,"https://www.ibm.com/support/pages/node/7183471
-https://www.ibm.com/support/pages/node/7183474
-https://www.ibm.com/support/pages/node/7183482",not available,not available
-2/28/2025,IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-5679,7.5,,not available,not available,not available,,,"https://www.ibm.com/support/pages/node/7183471
-https://www.ibm.com/support/pages/node/7183474
-https://www.ibm.com/support/pages/node/7183482",LOW,not available
-2/28/2025,IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-6536,6.5,,not available,not available,not available,,,"https://www.ibm.com/support/pages/node/7183471
-https://www.ibm.com/support/pages/node/7183474
-https://www.ibm.com/support/pages/node/7183482",LOW,not available
-2/28/2025,IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-3817,3.7,,LOW,No Known,not available,,,"https://www.ibm.com/support/pages/node/7183471
-https://www.ibm.com/support/pages/node/7183474
-https://www.ibm.com/support/pages/node/7183482",LOW,not available
-2/28/2025,IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2022-3736,7.5,,LOW,No Known,No Known,,,"https://www.ibm.com/support/pages/node/7183471
-https://www.ibm.com/support/pages/node/7183474
-https://www.ibm.com/support/pages/node/7183482",not available,not available
-2/28/2025,IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-5678,7.5,,LOW,not available,not available,,,"https://www.ibm.com/support/pages/node/7183471
-https://www.ibm.com/support/pages/node/7183474
-https://www.ibm.com/support/pages/node/7183482",LOW,not available
-2/28/2025,IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-6516,7.5,,not available,not available,not available,,,"https://www.ibm.com/support/pages/node/7183471
-https://www.ibm.com/support/pages/node/7183474
-https://www.ibm.com/support/pages/node/7183482",LOW,not available
-2/28/2025,IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-50387,7.5,,MEDIUM,No Known,Publicly Available,,,"https://www.ibm.com/support/pages/node/7183471
-https://www.ibm.com/support/pages/node/7183474
-https://www.ibm.com/support/pages/node/7183482",LOW,not available
-2/28/2025,IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2022-2795,7.5,,LOW,No Known,No Known,,,"https://www.ibm.com/support/pages/node/7183471
-https://www.ibm.com/support/pages/node/7183474
-https://www.ibm.com/support/pages/node/7183482",not available,not available
-2/28/2025,IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-6356,6.5,,not available,not available,not available,,,"https://www.ibm.com/support/pages/node/7183471
-https://www.ibm.com/support/pages/node/7183474
-https://www.ibm.com/support/pages/node/7183482",LOW,not available
-2/28/2025,IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2023-6535,6.5,,not available,not available,not available,,,"https://www.ibm.com/support/pages/node/7183471
-https://www.ibm.com/support/pages/node/7183474
-https://www.ibm.com/support/pages/node/7183482",LOW,not available
-2/28/2025,IBM IBM Multiple Products Multiple Vulnerabilities,CVE-2024-6409,7,,not available,not available,not available,,,"https://www.ibm.com/support/pages/node/7183471
-https://www.ibm.com/support/pages/node/7183474
-https://www.ibm.com/support/pages/node/7183482",MEDIUM,not available
-2/28/2025,IBM Tivoli System Automation for Multiplatforms IBM Java Multiple Vulnerabilities,CVE-2024-21210,3.7,,LOW,not available,not available,,,"https://www.ibm.com/support/pages/node/7184312
-https://www.ibm.com/support/pages/node/7184317
-https://www.ibm.com/support/pages/node/7184323",not available,not available
-2/28/2025,IBM Tivoli System Automation for Multiplatforms IBM Java Multiple Vulnerabilities,CVE-2024-10917,3.7,,not available,not available,not available,,,"https://www.ibm.com/support/pages/node/7183371
-https://www.ibm.com/support/pages/node/7183372
-https://www.ibm.com/support/pages/node/7183373
-https://www.ibm.com/support/pages/node/7183374
-https://www.ibm.com/support/pages/node/7183467
-https://www.ibm.com/support/pages/node/7184312
-https://www.ibm.com/support/pages/node/7184317
-https://www.ibm.com/support/pages/node/7184323
-https://www.ibm.com/support/pages/node/7184326",LOW,not available
-2/28/2025,IBM Tivoli System Automation for Multiplatforms IBM Java Multiple Vulnerabilities,CVE-2024-21217,3.7,,LOW,not available,not available,,,"https://www.ibm.com/support/pages/node/7183371
-https://www.ibm.com/support/pages/node/7183372
-https://www.ibm.com/support/pages/node/7183373
-https://www.ibm.com/support/pages/node/7183374
-https://www.ibm.com/support/pages/node/7183467
-https://www.ibm.com/support/pages/node/7184312
-https://www.ibm.com/support/pages/node/7184317
-https://www.ibm.com/support/pages/node/7184323
-https://www.ibm.com/support/pages/node/7184326",not available,not available
-2/28/2025,IBM Tivoli System Automation for Multiplatforms IBM Java Multiple Vulnerabilities,CVE-2024-21235,4.8,,LOW,not available,not available,,,"https://www.ibm.com/support/pages/node/7184312
-https://www.ibm.com/support/pages/node/7184317
-https://www.ibm.com/support/pages/node/7184323",not available,not available
-2/28/2025,IBM Tivoli System Automation for Multiplatforms IBM Java Multiple Vulnerabilities,CVE-2024-21208,3.7,,LOW,not available,not available,,,"https://www.ibm.com/support/pages/node/7183371
-https://www.ibm.com/support/pages/node/7183372
-https://www.ibm.com/support/pages/node/7183373
-https://www.ibm.com/support/pages/node/7183374
-https://www.ibm.com/support/pages/node/7183467
-https://www.ibm.com/support/pages/node/7184312
-https://www.ibm.com/support/pages/node/7184317
-https://www.ibm.com/support/pages/node/7184323
-https://www.ibm.com/support/pages/node/7184326",not available,not available
-2/28/2025,Quarkus Multiple Vulnerabilities,CVE-2025-1247,8.3,,not available,not available,not available,,,https://quarkus.io/blog/cve-fixes-feb-2025,MEDIUM,not available
-2/28/2025,Quarkus Multiple Vulnerabilities,CVE-2024-12225,not available,,not available,not available,not available,,,https://quarkus.io/blog/cve-fixes-feb-2025,not available,not available
-2/28/2025,Quarkus Multiple Vulnerabilities,CVE-2025-1634,7.5,,not available,not available,not available,,,https://quarkus.io/blog/cve-fixes-feb-2025,LOW,not available
-2/28/2025,IBM MQ Appliance Multiple Vulnerabilities,CVE-2025-0975,8.8,,not available,not available,not available,,,"https://www.ibm.com/support/pages/node/7183371
-https://www.ibm.com/support/pages/node/7183372
-https://www.ibm.com/support/pages/node/7183373
-https://www.ibm.com/support/pages/node/7183374
-https://www.ibm.com/support/pages/node/7183467
-https://www.ibm.com/support/pages/node/7184342",MEDIUM,not available
-2/28/2025,IBM MQ Appliance Multiple Vulnerabilities,CVE-2025-23225,6.5,,not available,not available,not available,,,"https://www.ibm.com/support/pages/node/7183371
-https://www.ibm.com/support/pages/node/7183372
-https://www.ibm.com/support/pages/node/7183373
-https://www.ibm.com/support/pages/node/7183374
-https://www.ibm.com/support/pages/node/7183467
-https://www.ibm.com/support/pages/node/7184327",LOW,not available
-2/28/2025,IBM MQ Appliance Multiple Vulnerabilities,CVE-2024-54175,5.5,,not available,not available,not available,,,"https://www.ibm.com/support/pages/node/7183371
-https://www.ibm.com/support/pages/node/7183372
-https://www.ibm.com/support/pages/node/7183373
-https://www.ibm.com/support/pages/node/7183374
-https://www.ibm.com/support/pages/node/7183467
-https://www.ibm.com/support/pages/node/7184322",LOW,not available
-2/28/2025,IBM Cognos Analytics Multiple Vulnerabilities,CVE-2022-37434,7.8,,MEDIUM,No Known,Publicly Available,,,https://www.ibm.com/support/pages/node/7183676,not available,not available
-2/28/2025,IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-45296,7.5,,not available,not available,not available,,,https://www.ibm.com/support/pages/node/7183676,LOW,not available
-2/28/2025,IBM Cognos Analytics Multiple Vulnerabilities,CVE-2023-28523,8.4,,not available,not available,not available,,,https://www.ibm.com/support/pages/node/7183676,MEDIUM,not available
-2/28/2025,IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-7254,7.5,,not available,not available,not available,,,https://www.ibm.com/support/pages/node/7183676,LOW,not available
-2/28/2025,IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-47561,8.8,,not available,not available,not available,,,https://www.ibm.com/support/pages/node/7183676,MEDIUM,not available
-2/28/2025,IBM Cognos Analytics Multiple Vulnerabilities,CVE-2018-25032,7.5,,LOW,No Known,No Known,,,https://www.ibm.com/support/pages/node/7183676,not available,not available
-2/28/2025,IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-39331,7.8,,MEDIUM,not available,not available,,,https://www.ibm.com/support/pages/node/7183676,HIGH,not available
-2/28/2025,IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-56340,6.5,,not available,not available,not available,,,https://www.ibm.com/support/pages/node/7183676,LOW,not available
-2/28/2025,IBM Cognos Analytics Multiple Vulnerabilities,CVE-2025-0823,6.5,,not available,not available,not available,,,https://www.ibm.com/support/pages/node/7183676,LOW,not available
-2/28/2025,IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-45216,9.1,,not available,not available,Publicly Available,,,https://www.ibm.com/support/pages/node/7183676,MEDIUM,not available
-2/28/2025,IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-47554,5.3,,not available,not available,not available,,,https://www.ibm.com/support/pages/node/7183676,LOW,not available
-2/28/2025,IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-52798,5.3,,not available,not available,not available,,,https://www.ibm.com/support/pages/node/7183676,LOW,not available
-2/28/2025,IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-38999,8.1,,MEDIUM,not available,Publicly Available,,,https://www.ibm.com/support/pages/node/7183676,HIGH,not available
-2/28/2025,IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-40094,5.3,,not available,not available,Publicly Available,,,https://www.ibm.com/support/pages/node/7183676,LOW,not available
-2/28/2025,IBM App Connect Enterprise Node.js Multiple Vulnerabilities,CVE-2025-23085,5.3,,not available,not available,not available,,,https://www.ibm.com/support/pages/node/7184359,LOW,not available
-2/28/2025,IBM App Connect Enterprise Node.js Multiple Vulnerabilities,CVE-2025-23084,5.6,,not available,not available,not available,,,https://www.ibm.com/support/pages/node/7184359,LOW,not available
-2/28/2025,IBM App Connect Enterprise Apache Kafka Information Disclosure Vulnerability,CVE-2024-31141,8.1,,not available,not available,not available,,,https://www.ibm.com/support/pages/node/7184106,LOW,not available
-3/4/2025,Apache CloudStack Multiple Arbitrary Code Execution Vulnerabilities,CVE-2024-39864,9.8,,HIGH,not available,not available,,,"https://cloudstack.apache.org/blog/security-release-advisory-4.19.0.2-4.18.2.1
-https://lists.apache.org/thread/6l51r00csrct61plkyd3qg3fj99215d1",HIGH,not available
-3/4/2025,Apache CloudStack Multiple Arbitrary Code Execution Vulnerabilities,CVE-2024-38346,9.8,,HIGH,not available,not available,,,"https://cloudstack.apache.org/blog/security-release-advisory-4.19.0.2-4.18.2.1
-https://lists.apache.org/thread/6l51r00csrct61plkyd3qg3fj99215d1",HIGH,not available
-3/4/2025,Apryse WebViewer PDF Rendering Engine Cross-Site Scripting Vulnerability,CVE-2024-57240,not available,,MEDIUM,not available,not available,,,https://docs.apryse.com/web/guides/changelog/v11-2-0,MEDIUM,not available
-3/4/2025,Red Hat update for webkit2gtk3,CVE-2025-24158,6.5,,LOW,not available,not available,,,"https://access.redhat.com/errata/RHSA-2025:2034
-https://access.redhat.com/errata/RHSA-2025:2035",LOW,not available
-3/4/2025,Red Hat update for webkit2gtk3,CVE-2025-24162,9.8,,LOW,not available,not available,,,"https://access.redhat.com/errata/RHSA-2025:2034
-https://access.redhat.com/errata/RHSA-2025:2035",LOW,not available
-3/4/2025,Red Hat update for webkit2gtk3,CVE-2025-24143,6.5,,LOW,not available,not available,,,"https://access.redhat.com/errata/RHSA-2025:2034
-https://access.redhat.com/errata/RHSA-2025:2035",LOW,not available
-3/4/2025,Red Hat update for webkit2gtk3,CVE-2024-54543,8.8,,MEDIUM,not available,not available,,,"https://access.redhat.com/errata/RHSA-2025:2034
-https://access.redhat.com/errata/RHSA-2025:2035",MEDIUM,not available
-3/4/2025,Red Hat update for webkit2gtk3,CVE-2025-24150,8.8,,not available,not available,not available,,,"https://access.redhat.com/errata/RHSA-2025:2034
-https://access.redhat.com/errata/RHSA-2025:2035",not available,not available
-3/4/2025,IBM FileNet Content Manager Denial of Service Vulnerability,CVE-2024-47072,7.5,,LOW,not available,not available,,,https://www.ibm.com/support/pages/node/7175916,LOW,not available
-3/4/2025,Paragon Partition Manager,CVE-2025-0288,not available,,MEDIUM,not available,not available,,,https://www.kb.cert.org/vuls/id/726882,MEDIUM,not available
-3/4/2025,Paragon Partition Manager,CVE-2025-0287,5.1,,MEDIUM,not available,not available,,,https://www.kb.cert.org/vuls/id/726882,MEDIUM,not available
-3/4/2025,Paragon Partition Manager,CVE-2025-0286,not available,,MEDIUM,not available,not available,,,https://www.kb.cert.org/vuls/id/726882,MEDIUM,not available
-3/4/2025,Paragon Partition Manager,CVE-2025-0285,not available,,MEDIUM,not available,not available,,,https://www.kb.cert.org/vuls/id/726882,MEDIUM,not available
-3/4/2025,Paragon Partition Manager,CVE-2025-0289,7.8,,MEDIUM,Confirmed,not available,,,https://www.kb.cert.org/vuls/id/726882,MEDIUM,not available
-3/4/2025,"VMware ESXi, Workstation, and Fusion Multiple Vulnerabilities",CVE-2025-22224,9.3,,LOW,Confirmed,not available,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25390,MEDIUM,not available
-3/4/2025,"VMware ESXi, Workstation, and Fusion Multiple Vulnerabilities",CVE-2025-22225,8.2,,LOW,Confirmed,not available,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25390,LOW,not available
-3/4/2025,"VMware ESXi, Workstation, and Fusion Multiple Vulnerabilities",CVE-2025-22226,7.1,,LOW,Confirmed,not available,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25390,LOW,not available
-3/5/2025,Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1936,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-18",not available,not available
-3/5/2025,Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1931,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-15
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-18",not available,not available
-3/5/2025,Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1934,6.5,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-18",LOW,not available
-3/5/2025,Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1935,4.3,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-18",LOW,not available
-3/5/2025,Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1937,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-15
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-18",not available,not available
-3/5/2025,Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1930,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-15
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-18",not available,not available
-3/5/2025,Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2024-43097,7.8,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-15
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-18",MEDIUM,not available
-3/5/2025,Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1932,9.8,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-18",HIGH,not available
-3/5/2025,Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1938,6.5,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-18",LOW,not available
-3/5/2025,Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-1933,8.1,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382904),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-15
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-16
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-17
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-18",LOW,not available
-3/5/2025,Mozilla Thunderbird Multiple Vulnerabilities,CVE-2025-1943,8.2,,not available,not available,not available,Qualys QID,"3/5 CH - QID Available (382907, 382906)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-17",MEDIUM,not available
-3/5/2025,Mozilla Thunderbird Multiple Vulnerabilities,CVE-2025-1942,6.5,,not available,not available,not available,Qualys QID,"3/5 CH - QID Available (382907, 382906)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-14
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-17",LOW,not available
-3/5/2025,F5 Multiple BIG-IP Products PostgreSQL Multiple Denial of Service Vulnerabilities,CVE-2015-3166,3.1,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382897),https://my.f5.com/manage/s/article/K000150204,MEDIUM,not available
-3/5/2025,Google Chrome Multiple Vulnerabilities,CVE-2025-1918,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
-https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html",not available,not available
-3/5/2025,Google Chrome Multiple Vulnerabilities,CVE-2025-1914,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
-https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html",not available,not available
-3/5/2025,Google Chrome Multiple Vulnerabilities,CVE-2025-1921,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
-https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html",not available,not available
-3/5/2025,Google Chrome Multiple Vulnerabilities,CVE-2025-1919,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
-https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html",not available,not available
-3/5/2025,Google Chrome Multiple Vulnerabilities,CVE-2025-1916,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
-https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html",not available,not available
-3/5/2025,Google Chrome Multiple Vulnerabilities,CVE-2025-1915,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
-https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html",not available,not available
-3/5/2025,Google Chrome Multiple Vulnerabilities,CVE-2025-1917,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
-https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html",not available,not available
-3/5/2025,Google Chrome Multiple Vulnerabilities,CVE-2025-1923,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
-https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html",not available,not available
-3/5/2025,Google Chrome Multiple Vulnerabilities,CVE-2025-1922,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),"https://chromereleases.googleblog.com/2025/03/chrome-for-android-update.html
-https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop.html",not available,not available
-3/5/2025,Mozilla Firefox Multiple Vulnerabilities,CVE-2025-1941,9.1,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),https://www.mozilla.org/en-US/security/advisories/mfsa2025-14,MEDIUM,not available
-3/5/2025,Mozilla Firefox Multiple Vulnerabilities,CVE-2025-1940,7.1,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),https://www.mozilla.org/en-US/security/advisories/mfsa2025-14,LOW,not available
-3/5/2025,Mozilla Firefox Multiple Vulnerabilities,CVE-2025-1939,not available,,not available,not available,not available,Qualys QID,3/5 CH - QID Available (382902),https://www.mozilla.org/en-US/security/advisories/mfsa2025-14,not available,not available
-3/5/2025,Mozilla Firefox Multiple Vulnerabilities,CVE-2024-9956,7.8,,not available,No Known,not available,Qualys QID,3/5 CH - QID Available (382902),https://www.mozilla.org/en-US/security/advisories/mfsa2025-14,MEDIUM,not available
-3/5/2025,Elastic Kibana Vulnerability,CVE-2025-25015,9.9,,HIGH,not available,not available,,,https://discuss.elastic.co/t/kibana-8-17-3-security-update-esa-2025-06/375441,HIGH,not available
-3/6/2025,Jenkins Multiple Vulnerabilities,CVE-2025-27624,5.4,,not available,not available,not available,,,https://www.jenkins.io/security/advisory/2025-03-05,not available,not available
-3/6/2025,Jenkins Multiple Vulnerabilities,CVE-2025-27622,4.3,,not available,not available,not available,,,https://www.jenkins.io/security/advisory/2025-03-05,not available,not available
-3/6/2025,Jenkins Multiple Vulnerabilities,CVE-2025-27623,4.3,,not available,not available,not available,,,https://www.jenkins.io/security/advisory/2025-03-05,not available,not available
-3/6/2025,Jenkins Multiple Vulnerabilities,CVE-2025-27625,4.3,,not available,not available,not available,,,https://www.jenkins.io/security/advisory/2025-03-05,not available,not available
-3/6/2025,HCL AppScan WebSphere Application Server Spoofing Vulnerability,CVE-2023-50314,5.3,,LOW,not available,not available,,,https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0119650,LOW,not available
-3/6/2025,NetApp Active IQ Unified Manager for Microsoft Windows 7-Zip Security Bypass Vulnerability,CVE-2025-0411,7,,MEDIUM,Confirmed,Publicly Available,,,https://security.netapp.com/advisory/NTAP-20250207-0005,MEDIUM,not available
-3/6/2025,NetApp Active IQ Unified Manager Arbitrary Code Execution Vulnerability,CVE-2024-11477,7.8,,MEDIUM,not available,not available,,,https://security.netapp.com/advisory/NTAP-20250214-0007,MEDIUM,not available
-3/6/2025,NetApp Active IQ Unified Manager Apache Netty Denial of Service Vulnerability,CVE-2025-25193,5.5,,LOW,not available,not available,,,https://security.netapp.com/advisory/NTAP-20250221-0006,LOW,not available
-3/6/2025,Carbon Black Cloud Windows Sensor Information Disclosure Vulnerability,CVE-2024-11035,2.5,,not available,not available,not available,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25472,not available,not available
-3/6/2025,Cisco Secure Client IPC Channel Privilege Escalation Vulnerability,CVE-2025-20206,7.1,,not available,not available,not available,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-secure-dll-injection-AOyzEqSg,not available,not available
-3/6/2025,NetApp Active IQ Unified Manager Apache CXF Denial of Service Vulnerability,CVE-2025-23184,7.5,,LOW,not available,not available,,,https://security.netapp.com/advisory/NTAP-20250214-0003,LOW,not available
-3/6/2025,NetApp Active IQ Unified Manager for VMware vSphere ISC BIND Denial of Service Vulnerability,CVE-2024-11187,7.5,,LOW,not available,not available,,,https://security.netapp.com/advisory/NTAP-20250214-0003,LOW,not available
-3/6/2025,Apache Traffic Server Multiple Vulnerabilities,CVE-2024-56195,not available,,not available,not available,not available,,,https://lists.apache.org/thread/btofzws2yqskk2n7f01r3l1819x01023,not available,not available
-3/6/2025,Apache Traffic Server Multiple Vulnerabilities,CVE-2024-56202,not available,,not available,not available,not available,,,https://lists.apache.org/thread/btofzws2yqskk2n7f01r3l1819x01023,not available,not available
-3/6/2025,Apache Traffic Server Multiple Vulnerabilities,CVE-2024-38311,not available,,not available,not available,not available,,,https://lists.apache.org/thread/btofzws2yqskk2n7f01r3l1819x01023,not available,not available
+3/13/2025,Microsoft March Patch Tuesday: Windows exFAT File System Remote Code Execution Vulnerability,CVE-2025-21180,7.8,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21180,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Azure Agent Installer for Backup and Site Recovery Elevation of Privilege Vulnerability,CVE-2025-21199,6.7,25,LOW,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21199,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: MapUrlToZone Security Feature Bypass Vulnerability,CVE-2025-21247,4.3,25,LOW,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21247,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Windows Remote Desktop Services Remote Code Execution Vulnerability,CVE-2025-24035,8.1,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24035,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Microsoft AutoUpdate (MAU) Elevation of Privilege Vulnerability,CVE-2025-24036,7,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24036,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: WinDbg Remote Code Execution Vulnerability,CVE-2025-24043,7.5,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24043,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Windows Win32 Kernel Subsystem Elevation of Privilege Vulnerability,CVE-2025-24044,7.8,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24044,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Windows Remote Desktop Services Remote Code Execution Vulnerability,CVE-2025-24045,8.1,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24045,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Kernel Streaming Service Driver Elevation of Privilege Vulnerability,CVE-2025-24046,7.8,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24046,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Windows Hyper-V Elevation of Privilege Vulnerability,CVE-2025-24048,7.8,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24048,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Azure Command Line Integration (CLI) Elevation of Privilege Vulnerability,CVE-2025-24049,8.4,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24049,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Windows Hyper-V Elevation of Privilege Vulnerability,CVE-2025-24050,7.8,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24050,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability,CVE-2025-24051,8.8,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24051,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: NTLM Hash Disclosure Spoofing Vulnerability,CVE-2025-24054,6.5,25,LOW,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24054,LOW,not available
+3/13/2025,Microsoft March Patch Tuesday: Windows USB Video Class System Driver Information Disclosure Vulnerability,CVE-2025-24055,4.3,25,LOW,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24055,LOW,not available
+3/13/2025,Microsoft March Patch Tuesday: Windows Telephony Service Remote Code Execution Vulnerability,CVE-2025-24056,8.8,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24056,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Microsoft Office Remote Code Execution Vulnerability,CVE-2025-24057,7.8,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24057,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Windows Common Log File System Driver Elevation of Privilege Vulnerability,CVE-2025-24059,7.8,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24059,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Windows Mark of the Web Security Feature Bypass Vulnerability,CVE-2025-24061,7.8,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24061,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Windows  Domain Name Service Remote Code Execution Vulnerability,CVE-2025-24064,8.1,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24064,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Kernel Streaming Service Driver Elevation of Privilege Vulnerability,CVE-2025-24066,7.8,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24066,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Kernel Streaming Service Driver Elevation of Privilege Vulnerability,CVE-2025-24067,7.8,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24067,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: ASP.NET Core and Visual Studio Elevation of Privilege Vulnerability,CVE-2025-24070,7,25,LOW,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24070,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Microsoft Windows File Explorer Spoofing Vulnerability,CVE-2025-24071,7.5,25,LOW,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24071,LOW,not available
+3/13/2025,Microsoft March Patch Tuesday: Microsoft Local Security Authority (LSA) Server Elevation of Privilege Vulnerability,CVE-2025-24072,7.8,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24072,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Microsoft Excel Remote Code Execution Vulnerability,CVE-2025-24075,7.8,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24075,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Microsoft Windows Cross Device Service Elevation of Privilege Vulnerability,CVE-2025-24076,7.3,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24076,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Microsoft Word Remote Code Execution Vulnerability,CVE-2025-24077,7.8,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24077,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Microsoft Word Remote Code Execution Vulnerability,CVE-2025-24078,7,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24078,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Microsoft Word Remote Code Execution Vulnerability,CVE-2025-24079,7.8,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24079,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Microsoft Office Remote Code Execution Vulnerability,CVE-2025-24080,7.8,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24080,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Microsoft Excel Remote Code Execution Vulnerability,CVE-2025-24081,7.8,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24081,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Microsoft Excel Remote Code Execution Vulnerability,CVE-2025-24082,7.8,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24082,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Microsoft Office Remote Code Execution Vulnerability,CVE-2025-24083,7.8,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24083,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Windows Subsystem for Linux (WSL2) Kernel Remote Code Execution Vulnerability,CVE-2025-24084,8.4,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24084,HIGH,not available
+3/13/2025,Microsoft March Patch Tuesday: Windows Win32 Kernel Subsystem Elevation of Privilege Vulnerability,CVE-2025-24983,7,25,LOW,Confirmed,Privately Held,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24983,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Windows NTFS Information Disclosure Vulnerability,CVE-2025-24984,4.6,25,LOW,Confirmed,Privately Held,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24984,LOW,not available
+3/13/2025,Microsoft March Patch Tuesday: Windows Fast FAT File System Driver Remote Code Execution Vulnerability,CVE-2025-24985,7.8,25,MEDIUM,Confirmed,Privately Held,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24985,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Azure Promptflow Remote Code Execution Vulnerability,CVE-2025-24986,6.5,25,LOW,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24986,not available,not available
+3/13/2025,Microsoft March Patch Tuesday: Windows USB Video Class System Driver Elevation of Privilege Vulnerability,CVE-2025-24987,6.6,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24987,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Windows USB Video Class System Driver Elevation of Privilege Vulnerability,CVE-2025-24988,6.6,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24988,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Windows NTFS Information Disclosure Vulnerability,CVE-2025-24991,5.5,25,LOW,Confirmed,Privately Held,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24991,LOW,not available
+3/13/2025,Microsoft March Patch Tuesday: Windows NTFS Information Disclosure Vulnerability,CVE-2025-24992,5.5,25,LOW,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24992,LOW,not available
+3/13/2025,Microsoft March Patch Tuesday: Windows NTFS Remote Code Execution Vulnerability,CVE-2025-24993,7.8,25,MEDIUM,Confirmed,Privately Held,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24993,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Microsoft Windows Cross Device Service Elevation of Privilege Vulnerability,CVE-2025-24994,7.3,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24994,not available,not available
+3/13/2025,Microsoft March Patch Tuesday: Kernel Streaming WOW Thunk Service Driver Elevation of Privilege Vulnerability,CVE-2025-24995,7.8,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24995,not available,not available
+3/13/2025,Microsoft March Patch Tuesday: NTLM Hash Disclosure Spoofing Vulnerability,CVE-2025-24996,6.5,25,LOW,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24996,LOW,not available
+3/13/2025,Microsoft March Patch Tuesday: DirectX Graphics Kernel File Denial of Service Vulnerability,CVE-2025-24997,4.4,25,LOW,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24997,not available,not available
+3/13/2025,Microsoft March Patch Tuesday: Visual Studio Elevation of Privilege Vulnerability,CVE-2025-24998,7.3,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24998,not available,not available
+3/13/2025,Microsoft March Patch Tuesday: Visual Studio Elevation of Privilege Vulnerability,CVE-2025-25003,7.3,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-25003,not available,not available
+3/13/2025,Microsoft March Patch Tuesday: Windows Server Elevation of Privilege Vulnerability,CVE-2025-25008,7.1,25,LOW,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-25008,not available,not available
+3/13/2025,Microsoft March Patch Tuesday: Azure Arc Installer Elevation of Privilege Vulnerability,CVE-2025-26627,7,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-26627,not available,not available
+3/13/2025,Microsoft March Patch Tuesday: Microsoft Office Remote Code Execution Vulnerability,CVE-2025-26629,7.8,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-26629,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Microsoft Access Remote Code Execution Vulnerability,CVE-2025-26630,7.8,25,MEDIUM,Reported,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-26630,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Visual Studio Code Elevation of Privilege Vulnerability,CVE-2025-26631,7.3,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-26631,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Microsoft Management Console Security Feature Bypass Vulnerability,CVE-2025-26633,7,25,MEDIUM,Confirmed,Privately Held,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-26633,MEDIUM,not available
+3/13/2025,Microsoft March Patch Tuesday: Remote Desktop Client Remote Code Execution Vulnerability,CVE-2025-26645,8.8,25,MEDIUM,No Known,not available,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-26645,MEDIUM,not available
+3/13/2025,Zoom Multiple Products Multiple Security Bypass Vulnerabilities,CVE-2025-27440,8.5,,not available,not available,not available,,,"https://www.zoom.com/en/trust/security-bulletin/zsb-25010
+https://www.zoom.com/en/trust/security-bulletin/zsb-25011
+https://www.zoom.com/en/trust/security-bulletin/zsb-25012",MEDIUM,not available
+3/13/2025,Zoom Multiple Products Multiple Security Bypass Vulnerabilities,CVE-2025-0151,8.5,,not available,not available,not available,,,"https://www.zoom.com/en/trust/security-bulletin/zsb-25010
+https://www.zoom.com/en/trust/security-bulletin/zsb-25011
+https://www.zoom.com/en/trust/security-bulletin/zsb-25012",MEDIUM,not available
+3/13/2025,Zoom Multiple Products Multiple Security Bypass Vulnerabilities,CVE-2025-27439,8.5,,not available,not available,not available,,,"https://www.zoom.com/en/trust/security-bulletin/zsb-25010
+https://www.zoom.com/en/trust/security-bulletin/zsb-25011
+https://www.zoom.com/en/trust/security-bulletin/zsb-25012",MEDIUM,not available
+3/13/2025,Red Hat update for libxml2,CVE-2024-56171,7.8,,not available,not available,not available,,,https://access.redhat.com/errata/RHSA-2025:2679,LOW,not available
+3/13/2025,Red Hat update for libxml2,CVE-2025-24928,7.8,,not available,not available,not available,,,https://access.redhat.com/errata/RHSA-2025:2679,LOW,not available
+3/13/2025,Cisco Multiple Aggregation Services Routers (ASR) Products IOS XR IPv4 Multicast Denial of Service Vulnerability,CVE-2025-20146,8.6,,not available,not available,not available,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-multicast-ERMrSvq7,LOW,not available
+3/13/2025,PAN-OS GlobalProtect Denial of Service Vulnerability,CVE-2025-0114,5.9,,not available,not available,not available,,,https://security.paloaltonetworks.com/CVE-2025-0114,LOW,not available
+3/13/2025,PAN-OS Arbitrary File Read Vulnerability,CVE-2025-0115,5.5,,not available,not available,not available,,,https://security.paloaltonetworks.com/CVE-2025-0115,LOW,not available
+3/13/2025,Palo Alto Networks GlobalProtect for Windows Privilege Escalation Vulnerability,CVE-2025-0117,5.9,,not available,not available,not available,,,https://security.paloaltonetworks.com/CVE-2025-0117,MEDIUM,not available
+3/13/2025,Cisco IOS XR BGP Denial of Service Vulnerability,CVE-2025-20115,8.6,,not available,not available,not available,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxr-bgp-dos-O7stePhX,LOW,not available
+3/13/2025,Cisco IOS XR Egress ACL Security Bypass Vulnerability,CVE-2025-20145,5.8,,not available,not available,not available,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-modular-ACL-u5MEPXMm,LOW,not available
+3/13/2025,Cisco Multiple Products IOS XR ACL Security Bypass Vulnerability,CVE-2025-20144,4,,not available,not available,not available,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ncs-hybridacl-crMZFfKQ,LOW,not available
+3/13/2025,Cisco IOS XR CLI Privilege Escalation Vulnerability,CVE-2025-20138,8.8,,not available,not available,not available,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxr-priv-esc-GFQjxvOF,MEDIUM,not available
+3/13/2025,Cisco Aggregation Services Routers (ASR) IOS XR Denial of Service Vulnerability,CVE-2025-20142,8.6,,not available,not available,not available,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ipv4uni-LfM3cfBu,LOW,not available
+3/13/2025,Cisco IOS XR Route Processor Denial of Service Vulnerability,CVE-2025-20141,7.4,,not available,not available,not available,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-xr792-bWfVDPY,LOW,not available
+3/13/2025,Cisco IOS XR IKEv2 Denial of Service Vulnerability,CVE-2025-20209,7.5,,not available,not available,not available,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-xrike-9wYGpRGq,LOW,not available
+3/13/2025,PAN-OS Firewall LLDP Frame Denial of Service Vulnerability,CVE-2025-0116,4.3,,not available,not available,not available,,,https://security.paloaltonetworks.com/CVE-2025-0116,LOW,not available
+3/13/2025,Palo Alto Networks GlobalProtect for Windows SAML Security Bypass Vulnerability,CVE-2025-0118,9.6,,not available,not available,not available,,,https://security.paloaltonetworks.com/CVE-2025-0118,LOW,not available
+3/13/2025,Zoom Multiple Products Multiple Security Bypass Vulnerabilities,CVE-2025-27440,8.5,,not available,not available,not available,,,"https://www.zoom.com/en/trust/security-bulletin/zsb-25010
+https://www.zoom.com/en/trust/security-bulletin/zsb-25011
+https://www.zoom.com/en/trust/security-bulletin/zsb-25012",MEDIUM,not available
+3/13/2025,Zoom Multiple Products Multiple Security Bypass Vulnerabilities,CVE-2025-0151,8.5,,not available,not available,not available,,,"https://www.zoom.com/en/trust/security-bulletin/zsb-25010
+https://www.zoom.com/en/trust/security-bulletin/zsb-25011
+https://www.zoom.com/en/trust/security-bulletin/zsb-25012",MEDIUM,not available
+3/13/2025,Zoom Multiple Products Multiple Security Bypass Vulnerabilities,CVE-2025-27439,8.5,,not available,not available,not available,,,"https://www.zoom.com/en/trust/security-bulletin/zsb-25010
+https://www.zoom.com/en/trust/security-bulletin/zsb-25011
+https://www.zoom.com/en/trust/security-bulletin/zsb-25012",MEDIUM,not available
+3/13/2025,SAP Fiori Security Bypass Vulnerability,CVE-2025-26660,4.3,,not available,not available,not available,,,https://support.sap.com/en/my-support/knowledge-base/security-notes-news/march-2025.html,LOW,not available
+3/13/2025,Bitdefender BOX v1 Multiple Vulnerabilities,CVE-2024-13871,9.6,,not available,not available,not available,,,,MEDIUM,not available
+3/13/2025,Bitdefender BOX v1 Multiple Vulnerabilities,CVE-2024-13872,9.6,,not available,not available,not available,,,,MEDIUM,not available
+3/14/2025,Intel Processors Vulnerability in NetApp Products,CVE-2023-49141,7.8,,not available,not available,not available,,,https://security.netapp.com/advisory/ntap-20250314-0001,MEDIUM,not available
+3/14/2025,Python Vulnerability in NetApp Products,CVE-2024-3220,4.6,,not available,not available,not available,,,https://security.netapp.com/advisory/ntap-20250314-0002,LOW,not available
+3/14/2025,GNU Binutils Vulnerability in NetApp Products,CVE-2024-53589,8.4,,not available,not available,not available,,,https://security.netapp.com/advisory/ntap-20250314-0003,MEDIUM,not available
+3/14/2025,Grafana Vulnerability in NetApp Products,CVE-2024-9264,9.9,,not available,not available,Publicly Available,,,https://security.netapp.com/advisory/ntap-20250314-0004,MEDIUM,not available
+3/14/2025,Python Vulnerability in NetApp Products,CVE-2025-0938,6.8,,not available,not available,not available,,,https://security.netapp.com/advisory/ntap-20250314-0005,LOW,not available
+3/14/2025,Vim Vulnerability in NetApp Products,CVE-2025-22134,4.2,,not available,not available,not available,,,https://security.netapp.com/advisory/ntap-20250314-0006,LOW,not available
+3/14/2025,Vim Vulnerability in NetApp Products,CVE-2025-24014,4.2,,not available,not available,not available,,,https://security.netapp.com/advisory/ntap-20250314-0007,LOW,not available
+3/14/2025,Ruby SAML Vulnerability in NetApp Products,CVE-2025-25291,9.1,,not available,not available,not available,,,https://security.netapp.com/advisory/ntap-20250314-0008,MEDIUM,not available
+3/14/2025,Ruby SAML Vulnerability in NetApp Products,CVE-2025-25292,9.1,,not available,not available,not available,,,https://security.netapp.com/advisory/ntap-20250314-0009,MEDIUM,not available
+3/14/2025,Ruby SAML Vulnerability in NetApp Products,CVE-2025-25293,7.5,,not available,not available,not available,,,https://security.netapp.com/advisory/ntap-20250314-0010,LOW,not available
+3/14/2025,Gitlab Multiple Vulnerabilities,CVE-2024-12380,4.4,,not available,not available,not available,,,https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/,LOW,not available
+3/14/2025,Gitlab Multiple Vulnerabilities,CVE-2024-8402,3.7,,not available,not available,not available,,,https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/,LOW,not available
+3/14/2025,Gitlab Multiple Vulnerabilities,CVE-2025-0652,4.3,,not available,not available,not available,,,https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/,LOW,not available
+3/14/2025,Gitlab Multiple Vulnerabilities,CVE-2024-13054,6.5,,not available,not available,not available,,,https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/,LOW,not available
+3/14/2025,Gitlab Multiple Vulnerabilities,CVE-2025-27407,9,,not available,not available,not available,,,https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/,MEDIUM,not available
+3/14/2025,Gitlab Multiple Vulnerabilities,CVE-2025-25291,9.1,,not available,not available,not available,,,https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/,MEDIUM,not available
+3/14/2025,Gitlab Multiple Vulnerabilities,CVE-2025-1257,6.5,,not available,not available,not available,,,https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/,LOW,not available
+3/14/2025,Gitlab Multiple Vulnerabilities,CVE-2025-25292,9.1,,not available,not available,not available,,,https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/,MEDIUM,not available
+3/14/2025,Gitlab Multiple Vulnerabilities,CVE-2024-7296,2.7,,not available,not available,not available,,,https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/,LOW,not available
+3/14/2025,Red Hat Update for krb5,CVE-2025-24528,not available,,not available,not available,not available,,,https://access.redhat.com/errata/RHSA-2025:2722,not available,not available
+3/17/2025,,CVE-2025-24813,8.6,,not available,not available,not available,,,,MEDIUM,not available
+3/18/2025,Red Hat update for thunderbird,CVE-2025-1938,6.5,,not available,not available,not available,,,"https://access.redhat.com/errata/RHSA-2025:2899
+https://access.redhat.com/errata/RHSA-2025:2900",MEDIUM,not available
+3/18/2025,Red Hat update for thunderbird,CVE-2025-1937,7.5,,not available,not available,not available,,,"https://access.redhat.com/errata/RHSA-2025:2899
+https://access.redhat.com/errata/RHSA-2025:2900",MEDIUM,not available
+3/18/2025,Red Hat update for tigervnc,CVE-2025-26599,7.8,,not available,not available,not available,,,https://access.redhat.com/errata/RHSA-2025:2862,MEDIUM,not available
+3/18/2025,Red Hat update for tigervnc,CVE-2025-26601,7.8,,not available,not available,not available,,,https://access.redhat.com/errata/RHSA-2025:2862,MEDIUM,not available
+3/18/2025,Red Hat update for tigervnc,CVE-2025-26597,7.8,,not available,not available,not available,,,https://access.redhat.com/errata/RHSA-2025:2862,MEDIUM,not available
+3/18/2025,Red Hat update for tigervnc,CVE-2025-26596,7.8,,not available,not available,not available,,,https://access.redhat.com/errata/RHSA-2025:2862,MEDIUM,not available
+3/18/2025,Red Hat update for tigervnc,CVE-2025-26600,7.8,,not available,not available,not available,,,https://access.redhat.com/errata/RHSA-2025:2862,MEDIUM,not available
+3/18/2025,Red Hat update for tigervnc,CVE-2025-26594,7.8,,not available,not available,not available,,,https://access.redhat.com/errata/RHSA-2025:2862,MEDIUM,not available
+3/18/2025,Red Hat update for tigervnc,CVE-2025-26595,7.8,,not available,not available,not available,,,https://access.redhat.com/errata/RHSA-2025:2862,MEDIUM,not available
+3/18/2025,Red Hat update for tigervnc,CVE-2025-26598,7.8,,not available,not available,not available,,,https://access.redhat.com/errata/RHSA-2025:2862,MEDIUM,not available
+3/18/2025,Red Hat update for webkit2gtk3,CVE-2025-24201,7.1,,MEDIUM,Confirmed,not available,,,"https://access.redhat.com/errata/RHSA-2025:2863
+https://access.redhat.com/errata/RHSA-2025:2864",not available,not available
+3/18/2025,SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-48013,8.8,,not available,not available,not available,,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities,MEDIUM,not available
+3/18/2025,SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-48015,6.7,,not available,not available,not available,,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities,LOW,not available
+3/18/2025,SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-48017,6.5,,not available,not available,not available,,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities,LOW,not available
+3/18/2025,SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-48828,5.5,,not available,not available,not available,,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities,LOW,not available
+3/18/2025,SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-48830,7.8,,not available,not available,not available,,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities,LOW,not available
+3/18/2025,SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-48831,8.4,,not available,not available,Trivial,,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities,MEDIUM,not available
+3/18/2025,SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-49559,8.8,,not available,not available,not available,,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities,MEDIUM,not available
+3/18/2025,SmartFabric OS10 Software Multiple Vulnerabilities,CVE-2024-49561,7.8,,not available,not available,not available,,,https://www.dell.com/support/kbdoc/en-us/000294091/dsa-2025-079-security-update-for-dell-networking-os10-vulnerabilities,LOW,not available
+3/25/2025,Citrix Session Recording,CVE-2024-8068,not available,,MEDIUM,Reported,Publicly Available,,,https://support.citrix.com/s/article/CTX691941-citrix-session-recording-security-bulletin-for-cve20248068-and-cve20248069?language=en_US,not available,not available
+3/25/2025,Citrix Session Recording,CVE-2024-8069,8.8,,LOW,Reported,Publicly Available,,,https://support.citrix.com/s/article/CTX691941-citrix-session-recording-security-bulletin-for-cve20248068-and-cve20248069?language=en_US,not available,not available
+3/25/2025,Kubernetes ingress-nginx,CVE-2025-1097,8.8,,MEDIUM,No Known,not available,,,https://github.com/kubernetes/kubernetes/issues/131007,MEDIUM,not available
+3/25/2025,Kubernetes ingress-nginx,CVE-2025-1098,8.8,,MEDIUM,No Known,not available,,,https://github.com/kubernetes/kubernetes/issues/131008,MEDIUM,not available
+3/25/2025,Kubernetes ingress-nginx,CVE-2025-1974,9.8,,HIGH,No Known,not available,,,https://https//github.com/kubernetes/kubernetes/issues/131009,HIGH,not available
+3/25/2025,Kubernetes ingress-nginx,CVE-2025-24513,4.8,,LOW,No Known,not available,,,https://github.com/kubernetes/kubernetes/issues/131005,LOW,not available
+3/25/2025,Kubernetes ingress-nginx,CVE-2025-24514,8.8,,MEDIUM,No Known,not available,,,https://github.com/kubernetes/kubernetes/issues/131006,MEDIUM,not available
