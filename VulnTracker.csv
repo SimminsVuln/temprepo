@@ -1,8 +1,7 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Citrix Session Recording,CVE-2024-8068,5.1,,,,https://support.citrix.com/s/article/CTX691941-citrix-session-recording-security-bulletin-for-cve20248068-and-cve20248069?language=en_US
-Citrix Session Recording,CVE-2024-8069,5.1,,,,https://support.citrix.com/s/article/CTX691941-citrix-session-recording-security-bulletin-for-cve20248068-and-cve20248069?language=en_US
-Kubernetes ingress-nginx,CVE-2025-1097,8.8,,,,https://github.com/kubernetes/kubernetes/issues/131007
-Kubernetes ingress-nginx,CVE-2025-1098,8.8,,,,https://github.com/kubernetes/kubernetes/issues/131008
-Kubernetes ingress-nginx,CVE-2025-1974,9.8,,,,https://https//github.com/kubernetes/kubernetes/issues/131009
-Kubernetes ingress-nginx,CVE-2025-24513,4.8,,,,https://github.com/kubernetes/kubernetes/issues/131005
-Kubernetes ingress-nginx,CVE-2025-24514,8.8,,,,https://github.com/kubernetes/kubernetes/issues/131006
+Google Chrome Arbitrary Code Execution Vulnerability,CVE-2025-2783,8.6,,Qualys QID,3/26 CH - QID Available (382974),https://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop_25.html
+Red Hat update for libreoffice,CVE-2025-1080,7.6,,,3/26 CH - QID Available (250766),https://access.redhat.com/errata/RHSA-2025:3169
+F5 BIG-IQ Centralized Management Net-SNMP Denial of Service Vulnerability,CVE-2018-1000116,6.5,,,,https://my.f5.com/manage/s/article/K000150411
+HPE Multiple Products Information Disclosure Vulnerability,CVE-2024-54009,4,,,,https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbst04822en_us&docLocale=en_US
+F5 BIG-IQ Centralized Management Net-SNMP Denial of Service Vulnerability,CVE-2018-18065,6.5,,,,https://my.f5.com/manage/s/article/K000150410
+CrushFTP,CVE-2024-4040,9.8,,,,
