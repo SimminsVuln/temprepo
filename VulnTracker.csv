@@ -1,74 +1,16 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-GitLab Multiple Vulnerabilities,CVE-2024-10307,4.3,,Qualys QID,3/27 CH - QID Available (382980),https://about.gitlab.com/releases/2025/03/26/patch-release-gitlab-17-10-1-released
-GitLab Multiple Vulnerabilities,CVE-2025-0811,8.7,,Qualys QID,3/27 CH - QID Available (382980),https://about.gitlab.com/releases/2025/03/26/patch-release-gitlab-17-10-1-released
-GitLab Multiple Vulnerabilities,CVE-2024-12619,5.2,,Qualys QID,3/27 CH - QID Available (382980),https://about.gitlab.com/releases/2025/03/26/patch-release-gitlab-17-10-1-released
-GitLab Multiple Vulnerabilities,CVE-2025-2242,7.5,,Qualys QID,3/27 CH - QID Available (382980),https://about.gitlab.com/releases/2025/03/26/patch-release-gitlab-17-10-1-released
-GitLab Multiple Vulnerabilities,CVE-2025-2255,8.7,,Qualys QID,3/27 CH - QID Available (382980),https://about.gitlab.com/releases/2025/03/26/patch-release-gitlab-17-10-1-released
-Red Hat update for kernel,CVE-2025-21785,5.5,,Qualys QID,"3/27 CH - QID Available (250775, 250778, 250794)","https://access.redhat.com/errata/RHSA-2025:3208
-https://access.redhat.com/errata/RHSA-2025:3216
-https://access.redhat.com/errata/RHSA-2025:3260"
-Splunk Enterprise Multiple Vulnerabilities,CVE-2025-20232,5.7,,Qualys QID,3/27 CH - QID Available (382985),"https://advisory.splunk.com/advisories/SVD-2025-0301
-https://advisory.splunk.com/advisories/SVD-2025-0302
-https://advisory.splunk.com/advisories/SVD-2025-0303
-https://advisory.splunk.com/advisories/SVD-2025-0304
-https://advisory.splunk.com/advisories/SVD-2025-0305
-https://advisory.splunk.com/advisories/SVD-2025-0306
-https://advisory.splunk.com/advisories/SVD-2025-0307
-https://advisory.splunk.com/advisories/SVD-2025-0308"
-Splunk Enterprise Multiple Vulnerabilities,CVE-2025-20228,6.5,,Qualys QID,3/27 CH - QID Available (382986),"https://advisory.splunk.com/advisories/SVD-2025-0301
-https://advisory.splunk.com/advisories/SVD-2025-0302
-https://advisory.splunk.com/advisories/SVD-2025-0303
-https://advisory.splunk.com/advisories/SVD-2025-0304
-https://advisory.splunk.com/advisories/SVD-2025-0305
-https://advisory.splunk.com/advisories/SVD-2025-0306
-https://advisory.splunk.com/advisories/SVD-2025-0307
-https://advisory.splunk.com/advisories/SVD-2025-0308"
-Splunk Enterprise Multiple Vulnerabilities,CVE-2025-20230,4.3,,Qualys QID,3/27 CH - QID Available (382982),"https://advisory.splunk.com/advisories/SVD-2025-0301
-https://advisory.splunk.com/advisories/SVD-2025-0302
-https://advisory.splunk.com/advisories/SVD-2025-0303
-https://advisory.splunk.com/advisories/SVD-2025-0304
-https://advisory.splunk.com/advisories/SVD-2025-0305
-https://advisory.splunk.com/advisories/SVD-2025-0306
-https://advisory.splunk.com/advisories/SVD-2025-0307
-https://advisory.splunk.com/advisories/SVD-2025-0308"
-Splunk Enterprise Multiple Vulnerabilities,CVE-2025-20229,8,,Qualys QID,3/27 CH - QID Available (382990),"https://advisory.splunk.com/advisories/SVD-2025-0301
-https://advisory.splunk.com/advisories/SVD-2025-0302
-https://advisory.splunk.com/advisories/SVD-2025-0303
-https://advisory.splunk.com/advisories/SVD-2025-0304
-https://advisory.splunk.com/advisories/SVD-2025-0305
-https://advisory.splunk.com/advisories/SVD-2025-0306
-https://advisory.splunk.com/advisories/SVD-2025-0307
-https://advisory.splunk.com/advisories/SVD-2025-0308"
-Splunk Enterprise Multiple Vulnerabilities,CVE-2025-20226,5.7,,Qualys QID,3/27 CH - QID Available (382984),"https://advisory.splunk.com/advisories/SVD-2025-0301
-https://advisory.splunk.com/advisories/SVD-2025-0302
-https://advisory.splunk.com/advisories/SVD-2025-0303
-https://advisory.splunk.com/advisories/SVD-2025-0304
-https://advisory.splunk.com/advisories/SVD-2025-0305
-https://advisory.splunk.com/advisories/SVD-2025-0306
-https://advisory.splunk.com/advisories/SVD-2025-0307
-https://advisory.splunk.com/advisories/SVD-2025-0308"
-Splunk Enterprise Multiple Vulnerabilities,CVE-2025-20227,4.3,,Qualys QID,3/27 CH - QID Available (382983),"https://advisory.splunk.com/advisories/SVD-2025-0301
-https://advisory.splunk.com/advisories/SVD-2025-0302
-https://advisory.splunk.com/advisories/SVD-2025-0303
-https://advisory.splunk.com/advisories/SVD-2025-0304
-https://advisory.splunk.com/advisories/SVD-2025-0305
-https://advisory.splunk.com/advisories/SVD-2025-0306
-https://advisory.splunk.com/advisories/SVD-2025-0307
-https://advisory.splunk.com/advisories/SVD-2025-0308"
-Splunk Enterprise Multiple Vulnerabilities,CVE-2025-20231,7.1,,Qualys QID,3/27 CH - QID Available (382987),"https://advisory.splunk.com/advisories/SVD-2025-0301
-https://advisory.splunk.com/advisories/SVD-2025-0302
-https://advisory.splunk.com/advisories/SVD-2025-0303
-https://advisory.splunk.com/advisories/SVD-2025-0304
-https://advisory.splunk.com/advisories/SVD-2025-0305
-https://advisory.splunk.com/advisories/SVD-2025-0306
-https://advisory.splunk.com/advisories/SVD-2025-0307
-https://advisory.splunk.com/advisories/SVD-2025-0308"
-Splunk Enterprise Multiple Vulnerabilities,CVE-2024-6923,5.5,,Qualys QID,3/27 CH - QID Available (382981),"https://advisory.splunk.com/advisories/SVD-2025-0301
-https://advisory.splunk.com/advisories/SVD-2025-0302
-https://advisory.splunk.com/advisories/SVD-2025-0303
-https://advisory.splunk.com/advisories/SVD-2025-0304
-https://advisory.splunk.com/advisories/SVD-2025-0305
-https://advisory.splunk.com/advisories/SVD-2025-0306
-https://advisory.splunk.com/advisories/SVD-2025-0307
-https://advisory.splunk.com/advisories/SVD-2025-0308"
-Microsoft Edge (Chromium-Based) Arbitrary Code Execution Vulnerability,CVE-2025-2783,8.6,,None,"3/27 CH - Monitor for QID, Added to vulnerability alert.",https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-26-2025
+Red Hat update for opentelemetry-collector,CVE-2025-29786,7.5,,Qualys QID,3/28 CH - QID Available (250799),https://access.redhat.com/errata/RHSA-2025:3335
+Red Hat update for opentelemetry-collector,CVE-2025-22868,7.5,,Qualys QID,3/28 CH - QID Available (250799),https://access.redhat.com/errata/RHSA-2025:3335
+Red Hat update for opentelemetry-collector,CVE-2024-45336,6.1,,Qualys QID,3/28 CH - QID Available (250799),https://access.redhat.com/errata/RHSA-2025:3335
+Red Hat update for opentelemetry-collector,CVE-2025-27144,7.5,,Qualys QID,3/28 CH - QID Available (250799),"
+https://access.redhat.com/errata/RHSA-2025:3335"
+Red Hat update for podman,CVE-2025-22869,7.5,,Qualys QID,3/28 CH - QID Available (250797),https://access.redhat.com/errata/RHSA-2025:3336
+Mozilla Firefox / Firefox ESR Sandbox Escape Vulnerability,CVE-2025-2783,8.3,,Qualys QID,"3/28 CH - QID Available (383001, 383002)",https://www.mozilla.org/en-US/security/advisories/mfsa2025-19
+Mozilla Firefox / Firefox ESR Sandbox Escape Vulnerability,CVE-2025-2857,8.3,,Qualys QID,"3/28 CH - QID Available (383001, 383002)",https://www.mozilla.org/en-US/security/advisories/mfsa2025-20
+Exim Use-after-free Vulnerability,CVE-2025-30232,8.1,,,,https://www.exim.org/static/doc/security/CVE-2025-30232.txt
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
