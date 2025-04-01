@@ -1,84 +1,16 @@
-title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Red Hat update for libreoffice,CVE-2025-1080,,8.1,,4/1 CH - QID Available (250816),"
-https://access.redhat.com/errata/RHSA-2025:3408"
-Red Hat update for freetype,CVE-2025-27363,,6.3,,"4/1 CH - QID Available (250805, 250814, 250812)","https://access.redhat.com/errata/RHSA-2025:3386
-https://access.redhat.com/errata/RHSA-2025:3407
-https://access.redhat.com/errata/RHSA-2025:3421"
-IBM UrbanCode Deploy Multiple Vulnerabilities,CVE-2024-56469,,5.5,,,"https://www.ibm.com/support/pages/node/7229031
-https://www.ibm.com/support/pages/node/7229032
-https://www.ibm.com/support/pages/node/7229033"
-IBM UrbanCode Deploy Multiple Vulnerabilities,CVE-2025-25193,,7.5,,,"https://www.ibm.com/support/pages/node/7228999
-https://www.ibm.com/support/pages/node/7229031
-https://www.ibm.com/support/pages/node/7229032
-https://www.ibm.com/support/pages/node/7229033"
-IBM UrbanCode Deploy Multiple Vulnerabilities,CVE-2024-57699,,7.3,,,"https://www.ibm.com/support/pages/node/7229031
-https://www.ibm.com/support/pages/node/7229032
-https://www.ibm.com/support/pages/node/7229033"
-IBM InfoSphere Information Server Jinja Multiple Security Bypass Vulnerabilities,CVE-2024-56326,,8.8,,,https://www.ibm.com/support/pages/node/7185452
-IBM InfoSphere Information Server Jinja Multiple Security Bypass Vulnerabilities,CVE-2024-56201,,4.5,,,https://www.ibm.com/support/pages/node/7185452
-IBM Power Systems gzip Compression Vulnerability,CVE-2025-0986,,7.3,,,https://www.ibm.com/support/pages/node/7229349
-Red Hat update for python-jinja2,CVE-2025-27516,,7.5,,"4/1 CH - QID Available (250809, 250813)","https://access.redhat.com/errata/RHSA-2025:3388
-https://access.redhat.com/errata/RHSA-2025:3406
-https://linux.oracle.com/errata/ELSA-2025-3406.html"
-Red Hat update for opentelemetry-collector,CVE-2025-30204,,5.3,,4/1 CH - QID Available (250815),https://access.redhat.com/errata/RHSA-2025:3411
-IBM InfoSphere Information Server Apache Commons IO Denial of Service Vulnerability,CVE-2024-47554,,5.5,,,https://www.ibm.com/support/pages/node/7176903
-IBM InfoSphere Information Server Netty Denial of Service Vulnerability,CVE-2024-47535,,3.1,,,https://www.ibm.com/support/pages/node/7185400
-IBM InfoSphere Information Server Spring Framework Multiple Vulnerabilities,CVE-2024-38820,,5.3,,,https://www.ibm.com/support/pages/node/7185046
-IBM InfoSphere Information Server Spring Framework Multiple Vulnerabilities,CVE-2024-38809,,7.5,,,https://www.ibm.com/support/pages/node/7185046
-IBM InfoSphere Information Server XStream Denial of Service Vulnerability,CVE-2024-47072,,7.5,,,https://www.ibm.com/support/pages/node/7185398
-IBM InfoSphere Information Server Python Unspecified Vulnerability,CVE-2024-0397,,8.1,,,https://www.ibm.com/support/pages/node/7185453
-IBM InfoSphere Information Server Kubernetes Security Bypass Vulnerability,CVE-2024-10220,,5.3,,,https://www.ibm.com/support/pages/node/7185402
-IBM InfoSphere Information Server Information Disclosure Vulnerability,CVE-2024-43186,,8.1,,,https://www.ibm.com/support/pages/node/7184980
-IBM InfoSphere Information Server OpenSSL Vulnerability,CVE-2024-4741,,3.7,,,https://www.ibm.com/support/pages/node/7184921
-IBM InfoSphere Information Server OpenSSL Multiple Denial of Service Vulnerabilities,CVE-2024-2511,,3.7,,,https://www.ibm.com/support/pages/node/7184919
-IBM InfoSphere Information Server OpenSSL Multiple Denial of Service Vulnerabilities,CVE-2024-4603,,8.1,,,https://www.ibm.com/support/pages/node/7184919
-IBM InfoSphere Information Server Apache Kafka Information Disclosure Vulnerability,CVE-2024-31141,,4.4,,,https://www.ibm.com/support/pages/node/7185401
-IBM InfoSphere Information Server Snowflake JDBC Driver Information Disclosure Vulnerability,CVE-2025-24790,,4.8,,,https://www.ibm.com/support/pages/node/7185454
-IBM InfoSphere Information Server Spring Security Security Bypass Vulnerability,CVE-2024-38827,,4.8,,,https://www.ibm.com/support/pages/node/7185057
-IBM InfoSphere Information Server Apache Axis Multiple Vulnerabilities,CVE-2010-1632,,5.6,,,https://www.ibm.com/support/pages/node/7184918
-IBM InfoSphere Information Server Apache Axis Multiple Vulnerabilities,CVE-2012-5784,,7.5,,,https://www.ibm.com/support/pages/node/7184918
-IBM InfoSphere Information Server Apache Axis Multiple Vulnerabilities,CVE-2019-0227,,6.5,,,https://www.ibm.com/support/pages/node/7184918
-IBM InfoSphere Information Server Apache Axis Multiple Vulnerabilities,CVE-2014-3596,,6.1,,,https://www.ibm.com/support/pages/node/7184918
-IBM InfoSphere Information Server Apache Axis Multiple Vulnerabilities,CVE-2018-8032,,6.1,,,https://www.ibm.com/support/pages/node/7184918
-IBM InfoSphere Information Server Apache Axis Multiple Vulnerabilities,CVE-2010-2103,,7.5,,,https://www.ibm.com/support/pages/node/7184918
-IBM WebSphere Application Server Liberty Apache CXF Denial of Service Vulnerability,CVE-2025-23184,,7.5,,,https://www.ibm.com/support/pages/node/7229079
-Mozilla Firefox/Firefox ESR Multiple Vulnerabilities,CVE-2025-3028,,High,,4/1 CH - Monitor for QID,"https://www.mozilla.org/en-US/security/advisories/mfsa2025-20/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-21/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-22/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-23/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-24/"
-Mozilla Firefox/Firefox ESR Multiple Vulnerabilities,CVE-2025-3029,,Moderate,,4/1 CH - Monitor for QID,"https://www.mozilla.org/en-US/security/advisories/mfsa2025-20/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-21/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-22/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-23/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-24/"
-Mozilla Firefox/Firefox ESR Multiple Vulnerabilities,CVE-2025-3030,,High,,4/1 CH - Monitor for QID,"https://www.mozilla.org/en-US/security/advisories/mfsa2025-20/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-21/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-22/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-23/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-24/"
-Mozilla Firefox/Firefox ESR Multiple Vulnerabilities,CVE-2025-3031,,Moderate,,4/1 CH - Monitor for QID,"https://www.mozilla.org/en-US/security/advisories/mfsa2025-20/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-21/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-22/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-23/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-24/"
-Mozilla Firefox/Firefox ESR Multiple Vulnerabilities,CVE-2025-3032,,Moderate,,4/1 CH - Monitor for QID,"https://www.mozilla.org/en-US/security/advisories/mfsa2025-20/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-21/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-22/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-23/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-24/"
-Mozilla Firefox/Firefox ESR Multiple Vulnerabilities,CVE-2025-3033,,Low,,4/1 CH - Monitor for QID,"https://www.mozilla.org/en-US/security/advisories/mfsa2025-20/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-21/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-22/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-23/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-24/"
-Mozilla Firefox/Firefox ESR Multiple Vulnerabilities,CVE-2025-3034,,High,,4/1 CH - Monitor for QID,"https://www.mozilla.org/en-US/security/advisories/mfsa2025-20/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-21/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-22/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-23/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-24/"
-Mozilla Firefox/Firefox ESR Multiple Vulnerabilities,CVE-2025-3035,,Moderate,,4/1 CH - Monitor for QID,"https://www.mozilla.org/en-US/security/advisories/mfsa2025-20/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-21/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-22/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-23/
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-24/"
+CVE-2025-22398
+CVE-2025-24383
+CVE-2025-24381
+CVE-2024-49563
+CVE-2024-49564
+CVE-2024-49565
+CVE-2024-49566
+CVE-2025-23383
+CVE-2025-24377
+CVE-2025-24378
+CVE-2025-24379
+CVE-2025-24380
+CVE-2025-24385
+CVE-2025-24386
+CVE-2024-49601
+CVE-2025-24382
