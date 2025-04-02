@@ -1,16 +1,971 @@
-CVE-2025-22398
-CVE-2025-24383
-CVE-2025-24381
-CVE-2024-49563
-CVE-2024-49564
-CVE-2024-49565
-CVE-2024-49566
-CVE-2025-23383
-CVE-2025-24377
-CVE-2025-24378
-CVE-2025-24379
-CVE-2025-24380
-CVE-2025-24385
-CVE-2025-24386
-CVE-2024-49601
-CVE-2025-24382
+title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
+ActiveMQ Artemis Security Bypass Vulnerability,CVE-2025-27427,,4.3,,,https://issues.apache.org/jira/browse/ARTEMIS-5346undefined
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24281,,5.5,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24217,,5.5,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24191,,not available,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24202,,5.5,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-30461,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24269,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-30437,,7.4,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-30463,,5.5,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24245,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-30435,,5.5,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2023-27043,,5.3,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24204,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24283,,not available,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-30451,,5.5,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-30458,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24282,,4,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24257,,not available,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2025-24239,,6.5,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24272,,6.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24231,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24238,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24265,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-30460,,7.4,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-30438,,not available,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24261,,not available,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-30450,,5.5,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-31183,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-30464,,not available,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24203,,5,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24253,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-30470,,5.5,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24277,,not available,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24229,,7.4,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24247,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24233,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-31194,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24157,,5.6,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24240,,4.7,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-30433,,not available,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-30462,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24097,,5,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24249,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24236,,not available,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-30465,,not available,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24164,,not available,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-30447,,5.5,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-30455,,5.5,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24173,,not available,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24278,,5.5,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24178,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-31188,,4,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-30429,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-31191,,5.5,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24234,,7.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24280,,5.5,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24237,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-30452,,not available,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-30456,,not available,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24212,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24273,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-31187,,5.5,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24228,,7.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24196,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24085,,7.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24181,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24276,,not available,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24241,,not available,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2024-54533,,7,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24207,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24232,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24205,,not available,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24250,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24148,,not available,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-30449,,not available,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-31182,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24235,,5.5,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24246,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24256,,6.4,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24195,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-30457,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24266,,9.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24172,,not available,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24199,,5.5,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2024-40864,,2.7,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24170,,7.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24254,,8.8,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24255,,8.4,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24267,,not available,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-24215,,5.5,,"4/2 CH - QID's available (383015, 383014, 383013) *Detects latest macOS Version NOT installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-us/122374
+https://support.apple.com/en-us/122375
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple Safari Multiple Vulnerabilities,CVE-2025-24208,,6.1,,"4/2 CH - QID's available (610646, 383017) *Detects latest macOS Safari update not installed",https://support.apple.com/en-gb/122379
+Apple Safari Multiple Vulnerabilities,CVE-2025-24192,,6.5,,"4/2 CH - QID's available (610646, 383017) *Detects latest macOS Safari update not installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-gb/122379
+https://support.apple.com/en-us/122371
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple Safari Multiple Vulnerabilities,CVE-2025-24180,,8.1,,"4/2 CH - QID's available (610646, 383017) *Detects latest macOS Safari update not installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-gb/122379
+https://support.apple.com/en-us/122371
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple Safari Multiple Vulnerabilities,CVE-2025-31184,,6.2,,"4/2 CH - QID's available (610646, 383017) *Detects latest macOS Safari update not installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-gb/122379
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple Safari Multiple Vulnerabilities,CVE-2025-31192,,6.5,,"4/2 CH - QID's available (610646, 383017) *Detects latest macOS Safari update not installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-gb/122379
+https://support.apple.com/en-us/122371
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Apple Safari Multiple Vulnerabilities,CVE-2025-30467,,4.3,,"4/2 CH - QID's available (610646, 383017) *Detects latest macOS Safari update not installed","https://support.apple.com/en-gb/122373
+https://support.apple.com/en-gb/122379
+https://support.apple.com/en-us/122371
+https://www.zerodayinitiative.com/advisories/ZDI-25-188/
+https://www.zerodayinitiative.com/advisories/ZDI-25-189/
+https://www.zerodayinitiative.com/advisories/ZDI-25-191/
+https://www.zerodayinitiative.com/advisories/ZDI-25-192/
+https://www.zerodayinitiative.com/advisories/ZDI-25-193/
+https://www.zerodayinitiative.com/advisories/ZDI-25-194/
+https://www.zerodayinitiative.com/advisories/ZDI-25-195/"
+Google Chrome Multiple Vulnerabilities,CVE-2025-3070,,not available,,4/2 CH - QID's available (383026),"https://chromereleases.googleblog.com/2025/04/chrome-stable-for-ios-update.html
+https://chromereleases.googleblog.com/2025/04/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2025-3072,,not available,,4/2 CH - QID's available (383026),"https://chromereleases.googleblog.com/2025/04/chrome-stable-for-ios-update.html
+https://chromereleases.googleblog.com/2025/04/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2025-3068,,not available,,4/2 CH - QID's available (383026),"https://chromereleases.googleblog.com/2025/04/chrome-stable-for-ios-update.html
+https://chromereleases.googleblog.com/2025/04/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2025-3071,,not available,,4/2 CH - QID's available (383026),"https://chromereleases.googleblog.com/2025/04/chrome-stable-for-ios-update.html
+https://chromereleases.googleblog.com/2025/04/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2025-3067,,not available,,4/2 CH - QID's available (383026),"https://chromereleases.googleblog.com/2025/04/chrome-stable-for-ios-update.html
+https://chromereleases.googleblog.com/2025/04/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2025-3073,,not available,,4/2 CH - QID's available (383026),"https://chromereleases.googleblog.com/2025/04/chrome-stable-for-ios-update.html
+https://chromereleases.googleblog.com/2025/04/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2025-3069,,not available,,4/2 CH - QID's available (383026),"https://chromereleases.googleblog.com/2025/04/chrome-stable-for-ios-update.html
+https://chromereleases.googleblog.com/2025/04/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2025-3074,,not available,,4/2 CH - QID's available (383026),"https://chromereleases.googleblog.com/2025/04/chrome-stable-for-ios-update.html
+https://chromereleases.googleblog.com/2025/04/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2025-3066,,not available,,4/2 CH - QID's available (383026),"https://chromereleases.googleblog.com/2025/04/chrome-stable-for-ios-update.html
+https://chromereleases.googleblog.com/2025/04/stable-channel-update-for-desktop.html"
+HP Multiple Products NVIDIA GPU Display Driver Multiple Vulnerabilities,CVE-2024-0150,,7.1,,4/2 CH - Task to PMG,https://support.hp.com/us-en/document/ish_12185965-12185989-16/hpsbhf04014
+HP Multiple Products NVIDIA GPU Display Driver Multiple Vulnerabilities,CVE-2024-0147,,5.5,,4/2 CH - Task to PMG,https://support.hp.com/us-en/document/ish_12185965-12185989-16/hpsbhf04014
+HP Multiple Products NVIDIA GPU Display Driver Multiple Vulnerabilities,CVE-2024-0131,,4.4,,4/2 CH - Task to PMG,https://support.hp.com/us-en/document/ish_12185965-12185989-16/hpsbhf04014
+IBM App Connect Enterprise Multiple Vulnerabilities,CVE-2025-24791,,4.4,,,https://www.ibm.com/support/pages/node/7229584
+IBM App Connect Enterprise Multiple Vulnerabilities,CVE-2025-1302,,9.8,,,https://www.ibm.com/support/pages/node/7229584
+IBM Storage Protect Server Multiple Vulnerabilities,CVE-2024-34155,,7.5,,,"https://www.ibm.com/support/pages/node/7229223
+https://www.ibm.com/support/pages/node/7229370
+https://www.ibm.com/support/pages/node/7229371
+https://www.ibm.com/support/pages/node/7229372
+https://www.ibm.com/support/pages/node/7229431
+https://www.ibm.com/support/pages/node/7229432
+https://www.ibm.com/support/pages/node/7229437"
+IBM Storage Protect Server Multiple Vulnerabilities,CVE-2024-41761,,5.3,,,"https://www.ibm.com/support/pages/node/7229223
+https://www.ibm.com/support/pages/node/7229370
+https://www.ibm.com/support/pages/node/7229371
+https://www.ibm.com/support/pages/node/7229372
+https://www.ibm.com/support/pages/node/7229431
+https://www.ibm.com/support/pages/node/7229432
+https://www.ibm.com/support/pages/node/7229437"
+IBM Storage Protect Server Multiple Vulnerabilities,CVE-2024-37071,,5.3,,,"https://www.ibm.com/support/pages/node/7229223
+https://www.ibm.com/support/pages/node/7229370
+https://www.ibm.com/support/pages/node/7229371
+https://www.ibm.com/support/pages/node/7229372
+https://www.ibm.com/support/pages/node/7229431
+https://www.ibm.com/support/pages/node/7229432
+https://www.ibm.com/support/pages/node/7229437"
+IBM Storage Protect Server Multiple Vulnerabilities,CVE-2024-45663,,6.5,,,"https://www.ibm.com/support/pages/node/7229223
+https://www.ibm.com/support/pages/node/7229370
+https://www.ibm.com/support/pages/node/7229371
+https://www.ibm.com/support/pages/node/7229372
+https://www.ibm.com/support/pages/node/7229431
+https://www.ibm.com/support/pages/node/7229432
+https://www.ibm.com/support/pages/node/7229437"
+IBM Storage Protect Server Multiple Vulnerabilities,CVE-2024-45338,,5.3,,,"https://www.ibm.com/support/pages/node/7229223
+https://www.ibm.com/support/pages/node/7229370
+https://www.ibm.com/support/pages/node/7229371
+https://www.ibm.com/support/pages/node/7229372
+https://www.ibm.com/support/pages/node/7229431
+https://www.ibm.com/support/pages/node/7229432
+https://www.ibm.com/support/pages/node/7229437"
+IBM Storage Protect Server Multiple Vulnerabilities,CVE-2024-40094,,5.3,,,"https://www.ibm.com/support/pages/node/7229223
+https://www.ibm.com/support/pages/node/7229370
+https://www.ibm.com/support/pages/node/7229371
+https://www.ibm.com/support/pages/node/7229372
+https://www.ibm.com/support/pages/node/7229431
+https://www.ibm.com/support/pages/node/7229432
+https://www.ibm.com/support/pages/node/7229437"
+IBM Storage Protect Server Multiple Vulnerabilities,CVE-2024-34158,,7.5,,,"https://www.ibm.com/support/pages/node/7229223
+https://www.ibm.com/support/pages/node/7229370
+https://www.ibm.com/support/pages/node/7229371
+https://www.ibm.com/support/pages/node/7229372
+https://www.ibm.com/support/pages/node/7229431
+https://www.ibm.com/support/pages/node/7229432
+https://www.ibm.com/support/pages/node/7229437"
+IBM Storage Protect Server Multiple Vulnerabilities,CVE-2024-41762,,5.3,,,"https://www.ibm.com/support/pages/node/7229223
+https://www.ibm.com/support/pages/node/7229370
+https://www.ibm.com/support/pages/node/7229371
+https://www.ibm.com/support/pages/node/7229372
+https://www.ibm.com/support/pages/node/7229431
+https://www.ibm.com/support/pages/node/7229432
+https://www.ibm.com/support/pages/node/7229437"
+IBM Storage Protect Server Multiple Vulnerabilities,CVE-2024-34156,,7.5,,,"https://www.ibm.com/support/pages/node/7229223
+https://www.ibm.com/support/pages/node/7229370
+https://www.ibm.com/support/pages/node/7229371
+https://www.ibm.com/support/pages/node/7229372
+https://www.ibm.com/support/pages/node/7229431
+https://www.ibm.com/support/pages/node/7229432
+https://www.ibm.com/support/pages/node/7229437"
+IBM Storage Protect Server Multiple Vulnerabilities,CVE-2024-9823,,5.3,,,"https://www.ibm.com/support/pages/node/7229223
+https://www.ibm.com/support/pages/node/7229370
+https://www.ibm.com/support/pages/node/7229371
+https://www.ibm.com/support/pages/node/7229372
+https://www.ibm.com/support/pages/node/7229431
+https://www.ibm.com/support/pages/node/7229432
+https://www.ibm.com/support/pages/node/7229437"
+IBM Storage Protect Server Multiple Vulnerabilities,CVE-2024-6763,,3.7,,,"https://www.ibm.com/support/pages/node/7229223
+https://www.ibm.com/support/pages/node/7229370
+https://www.ibm.com/support/pages/node/7229371
+https://www.ibm.com/support/pages/node/7229372
+https://www.ibm.com/support/pages/node/7229431
+https://www.ibm.com/support/pages/node/7229432
+https://www.ibm.com/support/pages/node/7229437"
+Red Hat update for Red Hat Satellite,CVE-2025-27610,,7.5,,"4/2 CH - (250817, 250818, 250819)","https://access.redhat.com/errata/RHSA-2025:3490
+https://access.redhat.com/errata/RHSA-2025:3491
+https://access.redhat.com/errata/RHSA-2025:3492"
