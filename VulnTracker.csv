@@ -1,39 +1,34 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-IBM Tivoli Network Manager IP Edition IBM JRE Multiple Vulnerabilities,CVE-2024-21217,3.7,,,4/3 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7229980
-IBM Tivoli Network Manager IP Edition IBM JRE Multiple Vulnerabilities,CVE-2024-21235,4.8,,,4/3 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7229980
-IBM Tivoli Network Manager IP Edition IBM JRE Multiple Vulnerabilities,CVE-2024-21210,3.7,,,4/3 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7229980
-IBM Tivoli Network Manager IP Edition IBM JRE Multiple Vulnerabilities,CVE-2024-21208,3.7,,,4/3 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7229980
-IBM Tivoli Network Manager IP Edition IBM JRE Multiple Vulnerabilities,CVE-2024-10917,3.7,,,4/3 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7229980
-Splunk Universal Forwarder Multiple Security Bypass Vulnerabilities,CVE-2024-56326,7.3,,,4/3 CH - Task to PMG,"https://advisory.splunk.com/advisories/SVD-2025-0401
-https://advisory.splunk.com/advisories/SVD-2025-0402"
-Splunk Universal Forwarder Multiple Security Bypass Vulnerabilities,CVE-2024-56201,8.8,,,4/3 CH - Task to PMG,"https://advisory.splunk.com/advisories/SVD-2025-0401
-https://advisory.splunk.com/advisories/SVD-2025-0402"
-Red Hat JBoss Web Server Apache Tomcat Vulnerability,CVE-2025-24813,8.1,,,4/3 CH - QID Available (250826),"https://access.redhat.com/errata/RHSA-2025:3454
-https://access.redhat.com/errata/RHSA-2025:3455"
-Zabbix Multiple Vulnerabilities,CVE-2024-45700,6.5,,,4/3 CH - QID Available (383040),"https://support.zabbix.com/browse/ZBX-26253
-https://support.zabbix.com/browse/ZBX-26254
-https://support.zabbix.com/browse/ZBX-26257
-https://support.zabbix.com/browse/ZBX-26258"
-Zabbix Multiple Vulnerabilities,CVE-2024-42325,3.5,,,4/3 CH - QID Available (383040),"https://support.zabbix.com/browse/ZBX-26253
-https://support.zabbix.com/browse/ZBX-26254
-https://support.zabbix.com/browse/ZBX-26257
-https://support.zabbix.com/browse/ZBX-26258"
-Zabbix Multiple Vulnerabilities,CVE-2024-45699,7.5,,,4/3 CH - QID Available (383040),"https://support.zabbix.com/browse/ZBX-26253
-https://support.zabbix.com/browse/ZBX-26254
-https://support.zabbix.com/browse/ZBX-26257
-https://support.zabbix.com/browse/ZBX-26258"
-Zabbix Multiple Vulnerabilities,CVE-2024-36465,8,,,4/3 CH - QID Available (383040),"https://support.zabbix.com/browse/ZBX-26253
-https://support.zabbix.com/browse/ZBX-26254
-https://support.zabbix.com/browse/ZBX-26257
-https://support.zabbix.com/browse/ZBX-26258"
-Cisco Enterprise Chat and Email Denial of Service Vulnerability,CVE-2025-20139,7.5,,,4/3 CH - Task to PMG,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ece-dos-tC6m9GZ8
-Cisco Meraki MX AnyConnect VPN Denial of Service Vulnerability,CVE-2025-20212,7.7,,,4/3 CH - Task to PMG,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-meraki-mx-vpn-dos-vNRpDvfb
-Red Hat JBoss Enterprise Application Platform Multiple Denial of Service Vulnerabilities,CVE-2025-23367,6.5,,,4/3 CH - QID Available (250820),https://access.redhat.com/errata/RHSA-2025:3467
-Red Hat JBoss Enterprise Application Platform Multiple Denial of Service Vulnerabilities,CVE-2024-47535,5.5,,,4/3 CH - QID Available (250820),https://access.redhat.com/errata/RHSA-2025:3467
-Red Hat JBoss Enterprise Application Platform Multiple Denial of Service Vulnerabilities,CVE-2025-25193,5.5,,,4/3 CH - QID Available (250820),https://access.redhat.com/errata/RHSA-2025:3467
-Red Hat JBoss Enterprise Application Platform Multiple Denial of Service Vulnerabilities,CVE-2025-24970,7.5,,,4/3 CH - QID Available (250820),https://access.redhat.com/errata/RHSA-2025:3467
-Trend Micro - Trend Vison 1,CVE-2025-31282,0,,,,https://success.trendmicro.com/en-US/solution/KA-0019386
-Trend Micro - Trend Vison 2,CVE-2025-31283,0,,,,https://success.trendmicro.com/en-US/solution/KA-0019386
-Trend Micro - Trend Vison 3,CVE-2025-31284,0,,,,https://success.trendmicro.com/en-US/solution/KA-0019386
-Trend Micro - Trend Vison 4,CVE-2025-31285,0,,,,https://success.trendmicro.com/en-US/solution/KA-0019386
-Trend Micro - Trend Vison 5,CVE-2025-31286,0,,,,https://success.trendmicro.com/en-US/solution/KA-0019386
+Iglu Server Multiple Vulnerabilities,CVE-2024-47212,8.8,,,,https://support.snowplow.io/hc/en-us/articles/26318139354909-Update-Critical-Snowplow-Security-Updates-Impact-on-Open-Source-Software-Users
+Iglu Server Multiple Vulnerabilities,CVE-2024-47213,9.1,,,,https://support.snowplow.io/hc/en-us/articles/26318139354909-Update-Critical-Snowplow-Security-Updates-Impact-on-Open-Source-Software-Users
+Iglu Server Multiple Vulnerabilities,CVE-2024-47214,9.1,,,,https://support.snowplow.io/hc/en-us/articles/26318139354909-Update-Critical-Snowplow-Security-Updates-Impact-on-Open-Source-Software-Users
+Iglu Server Multiple Vulnerabilities,CVE-2024-47215,8.9,,,,https://support.snowplow.io/hc/en-us/articles/26318139354909-Update-Critical-Snowplow-Security-Updates-Impact-on-Open-Source-Software-Users
+Iglu Server Multiple Vulnerabilities,CVE-2024-47217,8.1,,,,https://support.snowplow.io/hc/en-us/articles/26318139354909-Update-Critical-Snowplow-Security-Updates-Impact-on-Open-Source-Software-Users
+IBM DataPower Gateway Multiple Vulnerabilities,CVE-2024-11738,5.3,,,,"https://rustsec.org/advisories/RUSTSEC-2024-0421.html
+https://www.ibm.com/support/pages/node/7229938
+https://www.ibm.com/support/pages/node/7229939"
+IBM DataPower Gateway Multiple Vulnerabilities,CVE-2024-12224,4.8,,,,"https://rustsec.org/advisories/RUSTSEC-2024-0421.html
+https://www.ibm.com/support/pages/node/7229938
+https://www.ibm.com/support/pages/node/7229939"
+Red Hat update for python-jinja2,CVE-2025-27516,7.3,,,"4/4 CH - QID Available (250841, 250840)",https://access.redhat.com/errata/RHSA-2025:3580
+Red Hat update for firefox,CVE-2025-3029,7.3,,,4/4 CH - QID Available (250840),https://access.redhat.com/errata/RHSA-2025:3582
+Red Hat update for firefox,CVE-2025-3028,6.5,,,4/4 CH - QID Available (250840),https://access.redhat.com/errata/RHSA-2025:3582
+Red Hat update for firefox,CVE-2025-3030,8.1,,,4/4 CH - QID Available (250840),https://access.redhat.com/errata/RHSA-2025:3582
+IBM Tivoli Netcool Configuration Manager Multiple Vulnerabilities,CVE-2024-38819,7.5,,,4/4 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7230044
+https://www.ibm.com/support/pages/node/7230045"
+IBM Tivoli Netcool Configuration Manager Multiple Vulnerabilities,CVE-2024-47072,7.5,,,4/4 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7230044
+https://www.ibm.com/support/pages/node/7230045"
+IBM Tivoli Netcool Configuration Manager Multiple Vulnerabilities,CVE-2022-22968,3.7,,,4/4 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7230044
+https://www.ibm.com/support/pages/node/7230045"
+IBM Tivoli Netcool Configuration Manager Multiple Vulnerabilities,CVE-2024-38808,4.3,,,4/4 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7230044
+https://www.ibm.com/support/pages/node/7230045"
+IBM Tivoli Netcool Configuration Manager Multiple Vulnerabilities,CVE-2024-38809,5.3,,,4/4 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7230044
+https://www.ibm.com/support/pages/node/7230045"
+IBM Tivoli Netcool Configuration Manager Multiple Vulnerabilities,CVE-2024-38828,5.3,,,4/4 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7230044
+https://www.ibm.com/support/pages/node/7230045"
+IBM Sterling Direct Connect Multiple Vulnerabilities,CVE-2024-21208,3.7,,,4/4 CH - QID Available (382915),https://www.ibm.com/support/pages/node/7182775
+IBM Sterling Direct Connect Multiple Vulnerabilities,CVE-2024-21217,5.3,,,4/4 CH - QID Available (382915),https://www.ibm.com/support/pages/node/7182775
+IBM Sterling Direct Connect Multiple Vulnerabilities,CVE-2024-10917,5.3,,,4/4 CH - QID Available (382915),https://www.ibm.com/support/pages/node/7182775
+Cisco Prime Infrastructure Script Insertion Vulnerability,CVE-2025-20120,6.1,,,4/4 CH - QID Available (732409),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-epnmpi-sxss-GSScPGY4
+Jenkins Multiple Information Disclosure Vulnerabilities,CVE-2025-31721,4.3,,,4/4 CH - QID Available (732405),https://www.jenkins.io/security/advisory/2025-04-02
+Jenkins Multiple Information Disclosure Vulnerabilities,CVE-2025-31720,4.3,,,"4/4 CH - QID Available (152907, 732404)",https://www.jenkins.io/security/advisory/2025-04-02
