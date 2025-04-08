@@ -1,3 +1,17 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-NetApp ONTAP Iperf3 Denial of Service Vulnerability,CVE-2024-53580,7.5,,None,"Status as of 4/7
-4/7 CH - Only affects ONTAP 9, Remediation not available. Monitoring for patching",https://security.netapp.com/advisory/ntap-20250404-0009/
+Red Hat update for python3.12,CVE-2024-7592,7.5,,Qualys QID,"4/8 CH - QID Available (250857, 250860)","https://access.redhat.com/errata/RHSA-2025:3631
+https://access.redhat.com/errata/RHSA-2025:3634"
+Red Hat update for libxslt,CVE-2025-24855,7.8,,Qualys QID,"4/8 CH - QID Available (250845,250847)","https://access.redhat.com/errata/RHSA-2025:3615
+https://access.redhat.com/errata/RHSA-2025:3624"
+Red Hat update for libxslt,CVE-2024-55549,7.8,,Qualys QID,"4/8 CH - QID Available (250845,250847)","https://access.redhat.com/errata/RHSA-2025:3615
+https://access.redhat.com/errata/RHSA-2025:3624"
+Red Hat update for python3.12,CVE-2024-7592,7.5,,Qualys QID,"4/8 CH - QID Available (250860,250860)","https://access.redhat.com/errata/RHSA-2025:3631
+https://access.redhat.com/errata/RHSA-2025:3634"
+Red Hat update for libxslt,CVE-2025-24855,7.8,,Qualys QID,"4/8 CH - QID Available (250845, 250847)","https://access.redhat.com/errata/RHSA-2025:3615
+https://access.redhat.com/errata/RHSA-2025:3624"
+Red Hat update for libxslt,CVE-2024-55549,7.8,,Qualys QID,"4/8 CH - QID Available (250845, 250847)","https://access.redhat.com/errata/RHSA-2025:3615
+https://access.redhat.com/errata/RHSA-2025:3624"
+NetApp Active IQ Unified Manager for VMware vSphere binutils,CVE-2025-1147,3.1,,None,,"https://security.netapp.com/advisory/NTAP-20250404-0003
+"
+NetApp Active IQ Unified Manager for Microsoft Windows Python,CVE-2024-12254,7.5,,None,,https://security.netapp.com/advisory/ntap-20250404-0010/
+NetApp Active IQ Unified Manager for VMware vSphere Binutils,CVE-2025-1153,3.1,,None,,https://security.netapp.com/advisory/NTAP-20250404-0005
