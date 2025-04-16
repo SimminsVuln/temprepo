@@ -1,9 +1,351 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-29834,7.5,,Qualys QID,4/15 CH - QID Available (383085),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-11-2025
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-3066,8.8,,Qualys QID,4/15 CH - QID Available (383043),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-11-2025
-Red Hat update for gvisor-tap-vsock,CVE-2025-22869,7.5,,Qualys QID,4/15 CH - QID Available (250881),https://access.redhat.com/errata/RHSA-2025:3833
-NetApp Active IQ Unified Manager for VMware vSphere GNU Binutils Rejection Notice,CVE-2025-1178,5.6,,None,"Status as of 4/15/2025
-CH - No remediation available. Monitor for patch releases",https://security.netapp.com/advisory/NTAP-20250411-0008
-NetApp Active IQ Unified Manager for VMware vSphere Python Security Bypass Vulnerability,CVE-2024-11168,3.7,,None,"Status as of 4/15/2025
-CH - No remediation available. Monitor for patch releases",https://security.netapp.com/advisory/ntap-20250411-0004/
-CentreStack Arbitrary Code Execution vulnerability,CVE-2025-30406,9,,Qualys QID,"4/15 CH - Added to CISA Kev, QID(732426)",https://www.centrestack.com/p/gce_latest_release.html
+Atlassian Confluence jackson-mapper-asl XML External Entity Vulnerability,CVE-2019-10172,7.5,,,,https://jira.atlassian.com/browse/CONFSERVER-99547
+Atlassian JIRA json-smart Denial of Service Vulnerability,CVE-2024-57699,7.5,,,,"https://jira.atlassian.com/browse/JSDSERVER-16144
+https://jira.atlassian.com/browse/JSWSERVER-26359
+https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixCAGBU
+https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixEM
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Atlassian JIRA XML External Entity Vulnerability,CVE-2021-33813,7.5,,,,"https://jira.atlassian.com/browse/JRASERVER-78717
+https://jira.atlassian.com/browse/JSDSERVER-16154"
+Delta Electronics COMMGR Arbitrary Code Execution Vulnerability,CVE-2025-3495,9.8,,,,https://www.cisa.gov/news-events/ics-advisories/icsa-25-105-07
+Google Chrome Multiple Vulnerabilities,CVE-2025-3620,not available,,,,"https://chromereleases.googleblog.com/2025/04/chrome-for-android-update_01612254901.html
+https://chromereleases.googleblog.com/2025/04/stable-channel-update-for-desktop_15.html"
+Google Chrome Multiple Vulnerabilities,CVE-2025-3619,not available,,,,"https://chromereleases.googleblog.com/2025/04/chrome-for-android-update_01612254901.html
+https://chromereleases.googleblog.com/2025/04/stable-channel-update-for-desktop_15.html"
+HCL BigFix Platform BigFix Web Reports Script Insertion Vulnerability,CVE-2024-42200,5.4,,,,https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0120585
+JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2025-30740,6.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJDE
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2024-6119,5.3,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixCGBU
+https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJDE
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2025-30709,6.1,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJDE
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2024-26308,5.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJDE
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2024-23807,8.1,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJDE
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2025-21586,5.4,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJDE
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2024-45613,7.2,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJDE
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2024-25710,5.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJDE
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+JD Edwards EnterpriseOne Tools Multiple Vulnerabilities,CVE-2024-47554,5.3,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixCAGBU
+https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJDE
+https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixSCP
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Mozilla Firefox Arbitrary Code Execution Vulnerability,CVE-2025-3608,not available,,,,https://www.mozilla.org/en-US/security/advisories/mfsa2025-25
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-3523,6.4,,,,"https://www.mozilla.org/en-US/security/advisories/mfsa2025-26
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-27"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-2830,6.3,,,,"https://www.mozilla.org/en-US/security/advisories/mfsa2025-26
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-27"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-3522,6.3,,,,"https://www.mozilla.org/en-US/security/advisories/mfsa2025-26
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-27"
+MySQL Server Multiple Vulnerabilities,CVE-2025-21588,4.9,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-30687,6.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-30695,5.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-30681,2.7,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-30696,4.9,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-30683,4.9,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-21585,4.9,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-30699,4.9,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-21580,4.9,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-21577,6.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-30693,5.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-30685,4.9,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-30682,6.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-21579,4.9,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-21581,4.9,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-30704,4.4,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-21575,6.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-21584,4.9,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-30689,4.9,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-30721,4,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-30688,6.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-21574,6.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-21583,4.9,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-30684,4.9,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-30703,2.7,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-30705,4.9,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+MySQL Server Multiple Vulnerabilities,CVE-2025-30715,4.9,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+NetApp Active IQ Unified Manager Python ,CVE-2024-0450,5.5,,,,https://security.netapp.com/advisory/ntap-20250411-0005/
+NetApp Active IQ Unified Manager Python ,CVE-2024-0397,7.5,,,,https://security.netapp.com/advisory/NTAP-20250411-0006
+Oracle Agile Engineering Data Management Multiple Vulnerabilities,CVE-2024-56337,9.8,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixSCP
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Agile Engineering Data Management Multiple Vulnerabilities,CVE-2024-50379,9.8,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixSCP
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle BI Publisher Multiple Vulnerabilities,CVE-2025-30723,5.4,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixANLY
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle BI Publisher Multiple Vulnerabilities,CVE-2023-24998,6.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixANLY
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle BI Publisher Multiple Vulnerabilities,CVE-2024-38820,3.1,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixANLY
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle BI Publisher Multiple Vulnerabilities,CVE-2025-30724,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixANLY
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Business Intelligence Enterprise Edition Multiple Vulnerabilities,CVE-2022-36033,6.1,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixANLY
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Business Intelligence Enterprise Edition Multiple Vulnerabilities,CVE-2024-29736,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixANLY
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Business Intelligence Enterprise Edition Multiple Vulnerabilities,CVE-2024-38827,4.8,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixANLY
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Business Intelligence Enterprise Edition Multiple Vulnerabilities,CVE-2021-41973,6.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixANLY
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Business Intelligence Enterprise Edition Multiple Vulnerabilities,CVE-2023-38546,3.7,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixANLY
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Business Intelligence Enterprise Edition Multiple Vulnerabilities,CVE-2021-37714,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixANLY
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Business Intelligence Enterprise Edition Multiple Vulnerabilities,CVE-2024-32007,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixANLY
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Business Intelligence Enterprise Edition Multiple Vulnerabilities,CVE-2023-44487,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixANLY
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Business Process Management Suite Multiple Vulnerabilities,CVE-2024-28168,5.3,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Coherence Multiple Denial of Service Vulnerabilities,CVE-2025-25193,5.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Coherence Multiple Denial of Service Vulnerabilities,CVE-2025-24970,7.5,,,,"https://jira.atlassian.com/browse/CONFSERVER-99540
+https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Communications Unified Inventory Management Multiple Denial of Service Vulnerabilities,CVE-2024-47072,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixCAGBU
+https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Communications Unified Inventory Management Multiple Denial of Service Vulnerabilities,CVE-2023-51074,5.3,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixCAGBU
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Communications Unified Inventory Management Multiple Denial of Service Vulnerabilities,CVE-2024-7254,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixCAGBU
+https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Database Server Multiple Vulnerabilities,CVE-2025-30736,7.4,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixDB
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Database Server Multiple Vulnerabilities,CVE-2022-3786,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixDB
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Database Server Multiple Vulnerabilities,CVE-2025-30701,7.3,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixDB
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Database Server Multiple Vulnerabilities,CVE-2025-30694,5.4,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixDB
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Database Server Multiple Vulnerabilities,CVE-2020-36843,4.3,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixDB
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Database Server Multiple Vulnerabilities,CVE-2025-30733,6.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixDB
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Database Server Multiple Vulnerabilities,CVE-2025-30702,5.3,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixDB
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Demantra Demand Management Arbitrary Code Execution Vulnerability,CVE-2023-37536,8.2,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixSCP
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2025-30731,3.6,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixEBS
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2025-21582,6.1,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixEBS
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2025-30707,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixEBS
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2025-30711,5.4,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixEBS
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2024-38828,5.3,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixEBS
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2025-30717,6.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixEBS
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2025-30730,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixEBS
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2025-30692,6.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixEBS
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2025-30716,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixEBS
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2025-30732,6.1,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixEBS
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2025-30727,9.8,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixEBS
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2025-30708,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixEBS
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2025-30728,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixEBS
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2025-30726,5.3,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixEBS
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2025-30720,6.1,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixEBS
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2025-30718,5.4,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixEBS
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Enterprise Manager Base Platform Multiple Vulnerabilities,CVE-2024-52046,9.8,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixEM
+https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Enterprise Manager Base Platform Multiple Vulnerabilities,CVE-2022-45047,9.8,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixEM
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Enterprise Manager Base Platform Multiple Vulnerabilities,CVE-2023-1370,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixEM
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Enterprise Manager Base Platform Multiple Vulnerabilities,CVE-2021-31684,9.1,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixEM
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle GoldenGate Multiple Vulnerabilities,CVE-2021-41184,6.1,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixGG
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle GoldenGate Multiple Vulnerabilities,CVE-2024-39338,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixGG
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle GoldenGate Stream Analytics Multiple Vulnerabilities,CVE-2024-47561,8.8,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixGG
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle GoldenGate Stream Analytics Multiple Vulnerabilities,CVE-2024-36114,8.6,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixGG
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle HTTP Server Multiple Vulnerabilities,CVE-2024-39573,5.9,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle HTTP Server Multiple Vulnerabilities,CVE-2024-40896,9.1,,,,"http://www.oracle.com/security-alerts/cpuapr2025verbose.html
+https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle HTTP Server Multiple Vulnerabilities,CVE-2024-40725,5.9,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle HTTP Server Multiple Vulnerabilities,CVE-2024-38474,8.2,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle HTTP Server Multiple Vulnerabilities,CVE-2024-38476,5.9,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle HTTP Server Multiple Vulnerabilities,CVE-2024-11053,3.4,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle HTTP Server Multiple Vulnerabilities,CVE-2024-39884,5.9,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle HTTP Server Multiple Vulnerabilities,CVE-2024-13176,4.1,,,,"http://www.oracle.com/security-alerts/cpuapr2025verbose.html
+https://www.oracle.com/security-alerts/bulletinapr2025.html
+https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixDB
+https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2024-27856,8.8,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2024-44309,8.8,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2024-54508,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2025-21587,7.4,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2024-40866,6.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2025-30698,5.6,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2024-54479,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2024-47775,9.1,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2024-47606,8.4,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2025-24143,6.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2024-44308,8.8,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2025-24162,9.8,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2024-47776,9.1,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2024-54534,9.8,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2024-54505,8.8,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2025-24150,8.8,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2024-44296,6.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2024-54502,6.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2024-44187,6.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2024-54543,8.8,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2025-30691,4.8,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2025-24158,6.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle JDeveloper Multiple Denial of Service Vulnerabilities,CVE-2023-26464,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Managed File Transfer Multiple Vulnerabilities,CVE-2020-36518,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Managed File Transfer Multiple Vulnerabilities,CVE-2021-46877,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Managed File Transfer Multiple Vulnerabilities,CVE-2022-42003,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Managed File Transfer Multiple Vulnerabilities,CVE-2020-25649,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Managed File Transfer Multiple Vulnerabilities,CVE-2022-42004,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle MySQL Client mysqldump Vulnerability,CVE-2025-30722,5.3,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Outside In Technology Multiple Vulnerabilities,CVE-2025-27363,8.1,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Outside In Technology Multiple Vulnerabilities,CVE-2025-23022,4,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle PeopleSoft Enterprise HCM Talent Acquisition Manager Vulnerability,CVE-2025-30713,5.4,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixPS
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-1861,5.3,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-26466,5.9,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2024-12705,7.5,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2024-11235,8.1,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-1935,4.3,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2024-11704,7.3,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-0510,6.5,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-22870,4.4,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-1015,5.4,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-0938,6.8,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2024-11187,7.5,,,,"https://my.f5.com/manage/s/article/K000150814
+https://www.oracle.com/security-alerts/bulletinapr2025.html"
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-1736,3.7,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2024-45341,6.1,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-1011,9.8,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-1217,3.7,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-1932,8.1,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-1014,8.8,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-1930,8.8,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-1936,7.3,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-1012,9.8,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-1933,7.6,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2024-45336,6.1,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-1016,9.8,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-1934,6.5,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-1938,6.5,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2024-43097,7.8,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-26465,6.8,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-1937,7.5,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-1219,3.7,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-24813,8.1,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-1734,3.7,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-1017,9.8,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-1009,9.8,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-1931,7.5,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2024-49761,7.5,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-1010,9.8,,,,https://www.oracle.com/security-alerts/bulletinapr2025.html
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-30690,7.2,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixSUNS
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle Solaris Multiple Vulnerabilities,CVE-2025-30700,3.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixSUNS
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle VM VirtualBox Multiple Vulnerabilities,CVE-2025-30712,8.1,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixOVIR
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle VM VirtualBox Multiple Vulnerabilities,CVE-2025-30725,6.7,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixOVIR
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle VM VirtualBox Multiple Vulnerabilities,CVE-2025-30719,6.1,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixOVIR
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+Oracle WebLogic Server Rejection Notice,CVE-2020-13936,8.8,,,,https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixFMW
+PeopleSoft Enterprise PeopleTools Multiple Vulnerabilities,CVE-2025-30697,5.4,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixPS
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
+PeopleSoft Enterprise PeopleTools Multiple Vulnerabilities,CVE-2023-52428,7.5,,,,"https://www.oracle.com/security-alerts/cpuapr2025.html#AppendixPS
+https://www.oracle.com/security-alerts/cpuapr2025verbose.html"
