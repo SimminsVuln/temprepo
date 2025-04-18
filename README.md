@@ -1,41 +1,43 @@
-Vulnerabilities include Privileged user Arbitrary Code Execution and Arbitrary Write leading to Sandbox Escape. 
+Current Condition:
+A critical vulnerability (CVE-2025-32433) has been identified in the Erlang/OTP SSH implementation, which can lead to unauthenticated remote code execution.
 
-"Information to suggest that exploitation of these issues has occurred 'in the wild,' "  
+The issue arises from improper message handling before authentication, allowing an attacker to execute arbitrary code within the SSH daemon.
 
-Broadcom has not elaborated on the nature of these attacks. 
+If the SSH daemon runs with elevated privileges (e.g., root), successful exploitation may result in full system compromise.
 
-Name:
-VMware ESXi, Workstation, Fusion, Cloud Multiple Vulnerabilities
+Affected environments may include IoT, OT, telecom, and distributed systems leveraging Erlang/OTP-based services.
 
-Product | Version(s):
-VMware ESXi - v8
-VMware ESXi - v8
-VMware ESXi - v7.0 
-VMware Workstation - v17.x
-VMware Fusion - v13.x
-VMware Cloud Foundation  - v5.x		
-VMware Cloud Foundation  - v4.5.x	
-VMware Telco Cloud Platform - v5.x, v4.x, v3.x, v2.x
-VMware Telco Cloud Infrastructure -v3.x, 2.x 
+Actions (for Vuln Intel team):
+Determine exposure:
 
-CVEID:
-CVE-2025-22224
-CVE-2025-22225
-CVE-2025-22226
+Query asset management systems for applications or systems that use Erlang/OTP or embed it as part of a stack (e.g., RabbitMQ, CouchDB, certain telco systems).
 
+Request feedback from system owners or application teams:
 
-Patch Available:
-Yes | See below:
+Send out a standardized information request asking:
 
-VMware ESXi - v8: update to ESXi80U3d-24585383
-VMware ESXi - v8: update to ESXi80U2d-24585300
-VMware ESXi - v7.0:  update to ESXi70U3s-24585291
-VMware Workstation - v17.x: update to v17.6.3		
-VMware Fusion - v13.x: update to v13.6.3
-VMware Cloud Foundation  - v5.x: Async patch to ESXi80U3d-24585383		
-VMware Cloud Foundation  - v4.5.x: Async patch to ESXi70U3s-24585291		
-VMware Telco Cloud Platform - v5.x, v4.x, v3.x, v2.x: update to KB389385
-VMware Telco Cloud Infrastructure -v3.x, 2.x: update to KB389385
+Are any in-house or vendor-managed services using Erlang/OTP SSH?
 
-Original Advisory: 
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25390
+What versions are currently deployed?
+
+Are SSH services exposed externally or restricted internally?
+
+Add to the watchlist:
+
+Flag this CVE for tracking, especially across high-availability or production systems where downtime may be critical.
+
+Coordinate with vendor management teams:
+
+If impacted products are vendor-managed (e.g., embedded systems or SaaS platforms), initiate outreach to vendors for patch guidance and exposure status.
+
+Monitor detection coverage:
+
+Check with detection teams to verify if any relevant Qualys QIDs, Tenable plugins, or Sigma rules are available.
+
+Document current intelligence:
+
+Record affected versions (pre-27.3.3, pre-26.2.5.11, pre-25.3.2.20) and any observed trends regarding exploitation or proof-of-concept availability.
+
+Tag for re-review:
+
+Schedule this vulnerability for re-evaluation in 7–10 days based on vendor responses or detection rule availability.
