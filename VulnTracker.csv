@@ -1,5 +1,7 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Red Hat update for libxslt,CVE-2024-55549,7.8,,Qualys QID,4/22 CH - QID Available (251255),https://access.redhat.com/errata/RHSA-2025:4025
-Red Hat update for thunderbird,CVE-2025-3029,7.3,,Qualys QID,4/22 CH - QID Available (251255),https://access.redhat.com/errata/RHSA-2025:4029
-Red Hat update for thunderbird,CVE-2025-3030,8.1,,Qualys QID,4/22 CH - QID Available (251255),https://access.redhat.com/errata/RHSA-2025:4029
-HPE Performance Cluster Manager (HPCM),CVE-2025-27086,8.1,,None,4/22 CH - Task to PMG,https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbcr04842en_us&docLocale=en_US
+Red Hat update for bluez,CVE-2023-27349,7.5,,Qualys QID,4/23 CH - QID Available (251257),https://access.redhat.com/errata/RHSA-2025:4043
+Red Hat update for bluez,CVE-2023-51589,5.4,,Qualys QID,4/23 CH - QID Available (251257),https://access.redhat.com/errata/RHSA-2025:4043
+IBM Hardware Management Console (HMC) Multiple Privilege Escalation Vulnerabilities,CVE-2025-1951,8.4,,None,,"https://www.ibm.com/support/pages/node/7231389
+https://www.ibm.com/support/pages/node/7231507"
+IBM Hardware Management Console (HMC) Multiple Privilege Escalation Vulnerabilities,CVE-2025-1950,9.3,,None,,"https://www.ibm.com/support/pages/node/7231389
+https://www.ibm.com/support/pages/node/7231507"
