@@ -1,7 +1,4 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Red Hat update for bluez,CVE-2023-27349,7.5,,Qualys QID,4/23 CH - QID Available (251257),https://access.redhat.com/errata/RHSA-2025:4043
-Red Hat update for bluez,CVE-2023-51589,5.4,,Qualys QID,4/23 CH - QID Available (251257),https://access.redhat.com/errata/RHSA-2025:4043
-IBM Hardware Management Console (HMC) Multiple Privilege Escalation Vulnerabilities,CVE-2025-1951,8.4,,None,,"https://www.ibm.com/support/pages/node/7231389
-https://www.ibm.com/support/pages/node/7231507"
-IBM Hardware Management Console (HMC) Multiple Privilege Escalation Vulnerabilities,CVE-2025-1950,9.3,,None,,"https://www.ibm.com/support/pages/node/7231389
-https://www.ibm.com/support/pages/node/7231507"
+GitLab Multiple Vulnerabilities,CVE-2025-2443,8.7,,,,https://about.gitlab.com/releases/2025/04/23/patch-release-gitlab-17-11-1-released
+GitLab Multiple Vulnerabilities,CVE-2025-1763,8.7,,,,https://about.gitlab.com/releases/2025/04/23/patch-release-gitlab-17-11-1-released
+GitLab Multiple Vulnerabilities,CVE-2025-1908,7.7,,,,https://about.gitlab.com/releases/2025/04/23/patch-release-gitlab-17-11-1-released
