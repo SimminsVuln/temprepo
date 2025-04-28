@@ -1,4 +1,3 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-GitLab Multiple Vulnerabilities,CVE-2025-2443,8.7,,,,https://about.gitlab.com/releases/2025/04/23/patch-release-gitlab-17-11-1-released
-GitLab Multiple Vulnerabilities,CVE-2025-1763,8.7,,,,https://about.gitlab.com/releases/2025/04/23/patch-release-gitlab-17-11-1-released
-GitLab Multiple Vulnerabilities,CVE-2025-1908,7.7,,,,https://about.gitlab.com/releases/2025/04/23/patch-release-gitlab-17-11-1-released
+NetApp Active IQ Unified Manager Spring Security Security Bypass Vulnerability,CVE-2025-22228,,,,,https://security.netapp.com/advisory/ntap-20250425-0009/
+NetApp Active IQ Unified Manager for Microsoft Windows Python Rejection Notice,CVE-2024-9287,,,,,https://security.netapp.com/advisory/ntap-20250425-0006/
