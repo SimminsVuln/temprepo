@@ -1,3 +1,33 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-NetApp Active IQ Unified Manager Spring Security Security Bypass Vulnerability,CVE-2025-22228,7.4,,None,,https://security.netapp.com/advisory/ntap-20250425-0009/
-NetApp Active IQ Unified Manager for Microsoft Windows Python Rejection Notice,CVE-2024-9287,7.8,,None,,https://security.netapp.com/advisory/ntap-20250425-0006/
+Proofpoint Enterprise Protection S/MIME attachment Security Bypass Vulnerability,CVE-2024-10635,6.1,,,,https://www.proofpoint.com/us/security/security-advisories/pfpt-sa-2025-0002
+Apache Tomcat Multiple Vulnerabilities,CVE-2025-31651,not available,,,"4/29 CH - QID Available (732463, 732464, 732465, 530026)","https://lists.apache.org/thread/cpklvqwvdrp4k9hmd2l3q33j0gzy4fox
+https://lists.apache.org/thread/j6zzk0y3yym9pzfzkq5vcyxzz0yzh826
+https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.40
+https://tomcat.apache.org/security-11.html#Fixed_in_Apache_Tomcat_11.0.6
+https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.104"
+Apache Tomcat Multiple Vulnerabilities,CVE-2025-31650,not available,,,"4/29 CH - QID Available (732466, 732467, 732468, 530024)","https://lists.apache.org/thread/cpklvqwvdrp4k9hmd2l3q33j0gzy4fox
+https://lists.apache.org/thread/j6zzk0y3yym9pzfzkq5vcyxzz0yzh826
+https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.40
+https://tomcat.apache.org/security-11.html#Fixed_in_Apache_Tomcat_11.0.6
+https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.104"
+Red Hat update for thunderbird,CVE-2025-3523,7.4,,,4/29 CH - QID Available (251274),https://access.redhat.com/errata/RHSA-2025:4229
+Red Hat update for thunderbird,CVE-2025-3522,7.3,,,4/29 CH - QID Available (251274),https://access.redhat.com/errata/RHSA-2025:4229
+Red Hat update for thunderbird,CVE-2025-2830,7.3,,,4/29 CH - QID Available (251274),https://access.redhat.com/errata/RHSA-2025:4229
+Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2022-40149,7.5,,,4/29 CH - QID Available (251272),https://access.redhat.com/errata/RHSA-2025:4226
+Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2021-3859,7.5,,,4/29 CH - QID Available (251272),https://access.redhat.com/errata/RHSA-2025:4226
+Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2023-1973,7.5,,,4/29 CH - QID Available (251272),https://access.redhat.com/errata/RHSA-2025:4226
+Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2022-25647,7.7,,,4/29 CH - QID Available (251272),https://access.redhat.com/errata/RHSA-2025:4226
+Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2022-23913,7.5,,,4/29 CH - QID Available (251272),https://access.redhat.com/errata/RHSA-2025:4226
+Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2021-40690,7.5,,,4/29 CH - QID Available (251272),https://access.redhat.com/errata/RHSA-2025:4226
+Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2021-3690,7.5,,,4/29 CH - QID Available (251272),https://access.redhat.com/errata/RHSA-2025:4226
+Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2023-1108,7.5,,,4/29 CH - QID Available (251272),https://access.redhat.com/errata/RHSA-2025:4226
+Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2021-37714,7.5,,,4/29 CH - QID Available (251272),https://access.redhat.com/errata/RHSA-2025:4226
+Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2024-1635,7.5,,,4/29 CH - QID Available (251272),https://access.redhat.com/errata/RHSA-2025:4226
+Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2023-3223,7.5,,,4/29 CH - QID Available (251272),https://access.redhat.com/errata/RHSA-2025:4226
+Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2022-40152,7.5,,,4/29 CH - QID Available (251272),https://access.redhat.com/errata/RHSA-2025:4226
+Red Hat update for Red Hat Ceph Storage,CVE-2024-47191,7.1,,,4/29 CH - QID Available (251275),https://access.redhat.com/errata/RHSA-2025:4238
+Red Hat update for glibc,CVE-2025-0395,7.5,,,,"https://access.redhat.com/errata/RHSA-2025:4241
+https://access.redhat.com/errata/RHSA-2025:4242
+https://access.redhat.com/errata/RHSA-2025:4243
+https://access.redhat.com/errata/RHSA-2025:4244"
+Brocade Fabric OS Arbitrary Code Execution Vulnerability,CVE-2025-1976,8.6,,Qualys QID,4/29 CH - QID Available (38981),https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25602
