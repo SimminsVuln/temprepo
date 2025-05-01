@@ -1,21 +1,13 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Delta Electronics ISPSoft Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-22884,7.8,MEDIUM,,,"https://filecenter.deltaww.com/news/download/doc/Delta-PCSA-2025-00004_ISPSoft%20-%20Multiple%20Vulnerabilities_v1.pdf
-https://www.cisa.gov/news-events/ics-advisories/icsa-25-119-02"
-Delta Electronics ISPSoft Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-22883,7.8,MEDIUM,,,"https://filecenter.deltaww.com/news/download/doc/Delta-PCSA-2025-00004_ISPSoft%20-%20Multiple%20Vulnerabilities_v1.pdf
-https://www.cisa.gov/news-events/ics-advisories/icsa-25-119-02"
-Delta Electronics ISPSoft Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-22882,7.8,MEDIUM,,,"https://filecenter.deltaww.com/news/download/doc/Delta-PCSA-2025-00004_ISPSoft%20-%20Multiple%20Vulnerabilities_v1.pdf
-https://www.cisa.gov/news-events/ics-advisories/icsa-25-119-02"
 WinZip Multiple Vulnerabilities,CVE-2024-8811,7.8,LOW,,,"https://www.zerodayinitiative.com/advisories/ZDI-24-1234
 https://www.zerodayinitiative.com/advisories/ZDI-25-047"
 WinZip Multiple Vulnerabilities,CVE-2025-1240,7.8,LOW,,,"https://www.zerodayinitiative.com/advisories/ZDI-24-1234
 https://www.zerodayinitiative.com/advisories/ZDI-25-047"
-IBM Operational Decision Manager Multiple Vulnerabilities,CVE-2024-8184,5.9,MEDIUM,,,https://www.ibm.com/support/pages/node/7232032
-IBM Operational Decision Manager Multiple Vulnerabilities,CVE-2024-52046,9.8,LOW,,,https://www.ibm.com/support/pages/node/7232032
-IBM Operational Decision Manager Multiple Vulnerabilities,CVE-2025-24970,7.5,LOW,,,https://www.ibm.com/support/pages/node/7232032
-IBM Operational Decision Manager Multiple Vulnerabilities,CVE-2024-31141,8.1,LOW,,,https://www.ibm.com/support/pages/node/7232032
-Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2025-2817,8.8,MEDIUM,,"4/30 CH - QID Available (383149, 383150, 383151, 383152)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-28
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-29
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-30
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-31
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-32"
-Docker Desktop Multiple Vulnerabilities,CVE-2025-3224,7.5,LOW,,4/30 CH - QID Available (383147),https://docs.docker.com/desktop/release-notes/#4410
+F5 Multiple BIG-IP Products PostgreSQL,CVE-2021-32027,7.5,not available,Qualys QID,5/1 CH - QID Available (383153),https://my.f5.com/manage/s/article/K000151082
+Red Hat update for ghostscript,CVE-2024-46951,7.8,LOW,None,5/1 CH  - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:4362
+Red Hat update for ghostscript,CVE-2024-46954,8.4,MEDIUM,None,5/1 CH  - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:4362
+Red Hat update for ghostscript,CVE-2024-46956,7.8,MEDIUM,None,5/1 CH  - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:4362
+Red Hat update for ghostscript,CVE-2024-46953,7.8,MEDIUM,None,5/1 CH  - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:4362
+Red Hat update for ghostscript,CVE-2024-46952,8.4,MEDIUM,None,5/1 CH  - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:4362
+Red Hat update for ghostscript,CVE-2023-46751,8.2,LOW,None,5/1 CH  - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:4362
+Red Hat update for kernel,CVE-2025-21927,7.8,LOW,Qualys QID,5/1 CH - QID Available (251281),https://access.redhat.com/errata/RHSA-2025:4341
