@@ -1,13 +1,7 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-WinZip Multiple Vulnerabilities,CVE-2024-8811,7.8,LOW,,,"https://www.zerodayinitiative.com/advisories/ZDI-24-1234
-https://www.zerodayinitiative.com/advisories/ZDI-25-047"
-WinZip Multiple Vulnerabilities,CVE-2025-1240,7.8,LOW,,,"https://www.zerodayinitiative.com/advisories/ZDI-24-1234
-https://www.zerodayinitiative.com/advisories/ZDI-25-047"
-F5 Multiple BIG-IP Products PostgreSQL,CVE-2021-32027,7.5,not available,Qualys QID,5/1 CH - QID Available (383153),https://my.f5.com/manage/s/article/K000151082
-Red Hat update for ghostscript,CVE-2024-46951,7.8,LOW,None,5/1 CH  - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:4362
-Red Hat update for ghostscript,CVE-2024-46954,8.4,MEDIUM,None,5/1 CH  - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:4362
-Red Hat update for ghostscript,CVE-2024-46956,7.8,MEDIUM,None,5/1 CH  - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:4362
-Red Hat update for ghostscript,CVE-2024-46953,7.8,MEDIUM,None,5/1 CH  - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:4362
-Red Hat update for ghostscript,CVE-2024-46952,8.4,MEDIUM,None,5/1 CH  - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:4362
-Red Hat update for ghostscript,CVE-2023-46751,8.2,LOW,None,5/1 CH  - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:4362
-Red Hat update for kernel,CVE-2025-21927,7.8,LOW,Qualys QID,5/1 CH - QID Available (251281),https://access.redhat.com/errata/RHSA-2025:4341
+NGINX Multiple Vulnerabilities,CVE-2016-0746,9.8,MEDIUM,Qualys QID,5/2 CH - QID Available (732479),https://nginx.org/en/security_advisories.html
+NGINX Multiple Vulnerabilities,CVE-2017-20005,9.8,MEDIUM,Qualys QID,5/2 CH - QID Available (732476),https://nginx.org/en/security_advisories.html
+NGINX Multiple Vulnerabilities,CVE-2009-3896,7.8,MEDIUM,Qualys QID,5/2 CH - QID Available (732473),https://nginx.org/en/security_advisories.html
+NGINX Multiple Vulnerabilities,CVE-2009-3555,7.4,MEDIUM,Qualys QID,5/2 CH - QID Available (732471),https://nginx.org/en/security_advisories.html
+NGINX Multiple Vulnerabilities,CVE-2009-4487,7.3,MEDIUM,Qualys QID,5/2 CH - QID Available (732471),https://nginx.org/en/security_advisories.html
+Red Hat Update for kernel-rt,CVE-2025-21927,7.8,LOW,Qualys QID,5/2 CH - QID Available (251283),https://access.redhat.com/errata/RHSA-2025:4340
