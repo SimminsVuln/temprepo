@@ -1,41 +1,18 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-IBM Cognos Analytics FreeType Arbitrary Code Execution Vulnerability,CVE-2025-27363,8.1,MEDIUM,Qualys QID,5/6 CH - QID Available (383161),"https://corp.mediatek.com/product-security-bulletin/May-2025
-https://docs.qualcomm.com/product/publicresources/securitybulletin/may-2025-bulletin.html
-https://source.android.com/security/bulletin/2025-05-01
-https://www.ibm.com/support/pages/node/7231738"
-BeyondTrust Privileged Remote Access Security Bypass Vulnerability,CVE-2025-0217,8.2,LOW,None,,https://www.beyondtrust.com/trust-center/security-advisories/bt25-03
-Red Hat update for xmlrpc-c,CVE-2024-8176,7.5,LOW,Qualys QID,5/6 CH - QID Available (251299),https://access.redhat.com/errata/RHSA-2025:4446
-Red Hat update for webkit2gtk3,CVE-2025-24209,7,LOW,Qualys QID,5/6 CH - QID Available (251295),https://access.redhat.com/errata/RHSA-2025:4445
-Red Hat update for webkit2gtk3,CVE-2024-54551,7.5,LOW,Qualys QID,5/6 CH - QID Available (251295),https://access.redhat.com/errata/RHSA-2025:4445
-Red Hat update for firefox,CVE-2025-2817,8.8,MEDIUM,Qualys QID,"5/6 CH - QID Available (251290, 251301, 251302)","https://access.redhat.com/errata/RHSA-2025:4443
-https://access.redhat.com/errata/RHSA-2025:4458
-https://access.redhat.com/errata/RHSA-2025:4460"
-Red Hat update for firefox,CVE-2025-4083,9.1,MEDIUM,Qualys QID,"5/6 CH - QID Available (251290, 251301, 251302)","https://access.redhat.com/errata/RHSA-2025:4443
-https://access.redhat.com/errata/RHSA-2025:4458
-https://access.redhat.com/errata/RHSA-2025:4460"
-Red Hat update for nodejs:22,CVE-2025-31498,7,LOW,Qualys QID,"5/6 CH - QID Available (251304, 251303)","https://access.redhat.com/errata/RHSA-2025:4459
-https://access.redhat.com/errata/RHSA-2025:4461"
-Red Hat update for nodejs:22,CVE-2025-3277,7.3,MEDIUM,Qualys QID,5/6 CH - QID Available (251304),https://access.redhat.com/errata/RHSA-2025:4459
-NetApp OnCommand Insight Java SE Vulnerability,CVE-2025-21587,7.4,MEDIUM,None,"Status as of 5/6 - Monitor for Remediation
-Affected Products
-Data Infrastructure Insights Storage Workload Security Agent (formerly Cloud Insights Storage Workload Security Agent)
-NetApp BlueXP
-OnCommand Insight
-
-Products Under Investigation
-Active IQ Unified Manager for Microsoft Windows
-Active IQ Unified Manager for VMware vSphere
-Brocade SAN Navigator (SANnav)
-E-Series SANtricity Unified Manager and Web Services Proxy
-NetApp HCI Compute Node (Bootstrap OS)
-NetApp SolidFire & HCI Management Node
-SANtricity Storage Plugin for vCenter
-SnapCenter Plug-in for VMware vSphere/BlueXP backup and Recovery for Virtual Machine
-SolidFire Storage Replication Adapter",https://security.netapp.com/advisory/NTAP-20250502-0005
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2022-23913,7.5,LOW,Qualys QID,5/6 CH - QID Available (251296),https://access.redhat.com/errata/RHSA-2025:4437
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2022-40149,7.5,LOW,Qualys QID,5/6 CH - QID Available (251296),https://access.redhat.com/errata/RHSA-2025:4437
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2022-25647,7.7,LOW,Qualys QID,5/6 CH - QID Available (251296),https://access.redhat.com/errata/RHSA-2025:4437
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2022-40150,7.5,LOW,Qualys QID,5/6 CH - QID Available (251296),https://access.redhat.com/errata/RHSA-2025:4437
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2022-40152,7.5,LOW,Qualys QID,5/6 CH - QID Available (251296),https://access.redhat.com/errata/RHSA-2025:4437
-IBM MQ Libxml2 Arbitrary Code Execution Vulnerability,CVE-2022-49043,8.1,MEDIUM,Qualys Pipeline,5/6 CH - QID in Pipeline (732484),"https://www.ibm.com/support/pages/node/7231949
-https://www.ibm.com/support/pages/node/7232261"
+Google Chrome Multiple Vulnerabilities,CVE-2025-4372,not available,LOW,Qualys Pipeline,5/7 CH - QID in Pipeline (383183),"https://chromereleases.googleblog.com/2025/05/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2025/05/stable-channel-update-for-desktop.html"
+Red Hat update for kpatch-patch-5_14_0-503_15_1 and kpatch-patch-5_14_0-503_26_1,CVE-2025-21927,8.1,LOW,Qualys QID,5/7 CH - QID Available (251308),https://access.redhat.com/errata/RHSA-2025:4499
+Red Hat Update for libsoup,CVE-2025-32050,7.5,LOW,Qualys Pipeline,5/7 CH - QID in Pipeline (251315),https://access.redhat.com/errata/RHSA-2025:4508
+Red Hat Update for libsoup,CVE-2025-32052,8.1,LOW,Qualys Pipeline,5/7 CH - QID in Pipeline (251315),https://access.redhat.com/errata/RHSA-2025:4508
+Red Hat Update for libsoup,CVE-2025-32053,9.8,MEDIUM,Qualys Pipeline,5/7 CH - QID in Pipeline (251315),https://access.redhat.com/errata/RHSA-2025:4508
+Red Hat Update for libsoup,CVE-2025-32906,7.8,LOW,Qualys Pipeline,5/7 CH - QID in Pipeline (251315),https://access.redhat.com/errata/RHSA-2025:4508
+Red Hat Update for libsoup,CVE-2025-32907,7.5,LOW,Qualys Pipeline,5/7 CH - QID in Pipeline (251315),https://access.redhat.com/errata/RHSA-2025:4508
+Red Hat Update for libsoup,CVE-2025-32911,7.5,LOW,Qualys Pipeline,5/7 CH - QID in Pipeline (251315),https://access.redhat.com/errata/RHSA-2025:4508
+Red Hat Update for libsoup,CVE-2025-32913,7.5,LOW,Qualys Pipeline,5/7 CH - QID in Pipeline (251315),https://access.redhat.com/errata/RHSA-2025:4508
+Red Hat Update for libsoup,CVE-2025-46420,7.8,LOW,Qualys Pipeline,5/7 CH - QID in Pipeline (251315),https://access.redhat.com/errata/RHSA-2025:4508
+Red Hat Update for libsoup,CVE-2025-46421,7.8,LOW,Qualys Pipeline,5/7 CH - QID in Pipeline (251315),https://access.redhat.com/errata/RHSA-2025:4508
+Elasticsearch Kibana Arbitrary Code Execution Vulnerability (ESA-2025-07),CVE-2025-25014,9.1,MEDIUM,Qualys Pipeline,5/7 CH - QID in Pipeline (383184),https://discuss.elastic.co/t/kibana-8-17-6-8-18-1-or-9-0-1-security-update-esa-2025-07/377868
+VMware Photon OS Security Update for perl,CVE-2024-56406,8.6,LOW,Qualys QID,5/7 CH - QID Available (6082252),https://github.com/vmware/photon/wiki/Security-Update-5.0-514
+VMware Photon OS Security Update for frr ,CVE-2024-44070,7.5,LOW,Qualys QID,5/7 CH - QID Available (6082249),https://github.com/vmware/photon/wiki/Security-Update-4.0-789
+VMware Photon OS Security Update for frr ,CVE-2024-34088,7.5,LOW,Qualys QID,5/7 CH - QID Available (6082249),https://github.com/vmware/photon/wiki/Security-Update-4.0-789
+, CVE-2025-29824,,,,,
