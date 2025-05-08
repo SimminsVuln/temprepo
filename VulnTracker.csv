@@ -1,18 +1,15 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Google Chrome Multiple Vulnerabilities,CVE-2025-4372,not available,LOW,Qualys Pipeline,5/7 CH - QID in Pipeline (383183),"https://chromereleases.googleblog.com/2025/05/chrome-for-android-update.html
-https://chromereleases.googleblog.com/2025/05/stable-channel-update-for-desktop.html"
-Red Hat update for kpatch-patch-5_14_0-503_15_1 and kpatch-patch-5_14_0-503_26_1,CVE-2025-21927,8.1,LOW,Qualys QID,5/7 CH - QID Available (251308),https://access.redhat.com/errata/RHSA-2025:4499
-Red Hat Update for libsoup,CVE-2025-32050,7.5,LOW,Qualys Pipeline,5/7 CH - QID in Pipeline (251315),https://access.redhat.com/errata/RHSA-2025:4508
-Red Hat Update for libsoup,CVE-2025-32052,8.1,LOW,Qualys Pipeline,5/7 CH - QID in Pipeline (251315),https://access.redhat.com/errata/RHSA-2025:4508
-Red Hat Update for libsoup,CVE-2025-32053,9.8,MEDIUM,Qualys Pipeline,5/7 CH - QID in Pipeline (251315),https://access.redhat.com/errata/RHSA-2025:4508
-Red Hat Update for libsoup,CVE-2025-32906,7.8,LOW,Qualys Pipeline,5/7 CH - QID in Pipeline (251315),https://access.redhat.com/errata/RHSA-2025:4508
-Red Hat Update for libsoup,CVE-2025-32907,7.5,LOW,Qualys Pipeline,5/7 CH - QID in Pipeline (251315),https://access.redhat.com/errata/RHSA-2025:4508
-Red Hat Update for libsoup,CVE-2025-32911,7.5,LOW,Qualys Pipeline,5/7 CH - QID in Pipeline (251315),https://access.redhat.com/errata/RHSA-2025:4508
-Red Hat Update for libsoup,CVE-2025-32913,7.5,LOW,Qualys Pipeline,5/7 CH - QID in Pipeline (251315),https://access.redhat.com/errata/RHSA-2025:4508
-Red Hat Update for libsoup,CVE-2025-46420,7.8,LOW,Qualys Pipeline,5/7 CH - QID in Pipeline (251315),https://access.redhat.com/errata/RHSA-2025:4508
-Red Hat Update for libsoup,CVE-2025-46421,7.8,LOW,Qualys Pipeline,5/7 CH - QID in Pipeline (251315),https://access.redhat.com/errata/RHSA-2025:4508
-Elasticsearch Kibana Arbitrary Code Execution Vulnerability (ESA-2025-07),CVE-2025-25014,9.1,MEDIUM,Qualys Pipeline,5/7 CH - QID in Pipeline (383184),https://discuss.elastic.co/t/kibana-8-17-6-8-18-1-or-9-0-1-security-update-esa-2025-07/377868
-VMware Photon OS Security Update for perl,CVE-2024-56406,8.6,LOW,Qualys QID,5/7 CH - QID Available (6082252),https://github.com/vmware/photon/wiki/Security-Update-5.0-514
-VMware Photon OS Security Update for frr ,CVE-2024-44070,7.5,LOW,Qualys QID,5/7 CH - QID Available (6082249),https://github.com/vmware/photon/wiki/Security-Update-4.0-789
-VMware Photon OS Security Update for frr ,CVE-2024-34088,7.5,LOW,Qualys QID,5/7 CH - QID Available (6082249),https://github.com/vmware/photon/wiki/Security-Update-4.0-789
-, CVE-2025-29824,,,,,
+Cisco IOS XE Command Injection Vulnerability,CVE-2025-20186,8.8,MEDIUM,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-webui-cmdinj-gVn3OKNC
+Cisco IOS XE TWAMP Rejection Notice,CVE-2025-20154,8.6,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-twamp-kV4FHugn
+Cisco Catalyst SD-WAN Manager CLI Privilege Escalation Vulnerability,CVE-2025-20122,7.8,MEDIUM,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-priviesc-WCk7bmmt
+Cisco Multiple Products SISF Denial of Service Vulnerability,CVE-2025-20191,7.4,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sisf-dos-ZGwt4DdY
+Cisco ASR 903 Aggregation Services Routers IOS XR Denial of Service Vulnerability,CVE-2025-20189,7.4,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asr903-rsp3-arp-dos-WmfzdvJZ
+Cisco IOS XE CDP Denial of Service Vulnerability,CVE-2025-20202,7.4,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ewlc-cdp-dos-fpeks9K
+Cisco Multiple Products IOS XE IPv6 Denial of Service Vulnerability,CVE-2025-20140,7.4,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-wlc-wncd-p6Gvt6HL
+Red Hat update for Red Hat Ceph Storage,CVE-2024-47191,7.1,MEDIUM,,,https://access.redhat.com/errata/RHSA-2025:4664
+Red Hat update for Red Hat Ceph Storage,CVE-2023-25577,7.5,LOW,,,https://access.redhat.com/errata/RHSA-2025:4664
+Cisco Industrial Ethernet Series Switches Cisco IOS DM Security Bypass Vulnerability,CVE-2025-20164,8.3,MEDIUM,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ios-http-privesc-wCRd5e3
+Cisco Multiple Products IOS XE Denial of Service Vulnerability,CVE-2025-20162,8.6,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-dhcpsn-dos-xBn8Mtks
+Cisco Multiple Products IOS XE IKEv1 Denial of Service Vulnerability,CVE-2025-20192,7.7,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-ikev1-dos-XHk3HzFC
+Cisco Multiple Products IKEv2 Denial of Service Vulnerability,CVE-2025-20182,8.6,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-multiprod-ikev2-dos-gPctUqv2
+Cisco Multiple Products Arbitrary File Upload Vulnerability,CVE-2025-20188,10,HIGH,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-wlc-file-uplpd-rHZG9UfC
