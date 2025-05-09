@@ -1,15 +1,26 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Cisco IOS XE Command Injection Vulnerability,CVE-2025-20186,8.8,MEDIUM,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-webui-cmdinj-gVn3OKNC
-Cisco IOS XE TWAMP Rejection Notice,CVE-2025-20154,8.6,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-twamp-kV4FHugn
-Cisco Catalyst SD-WAN Manager CLI Privilege Escalation Vulnerability,CVE-2025-20122,7.8,MEDIUM,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-priviesc-WCk7bmmt
-Cisco Multiple Products SISF Denial of Service Vulnerability,CVE-2025-20191,7.4,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sisf-dos-ZGwt4DdY
-Cisco ASR 903 Aggregation Services Routers IOS XR Denial of Service Vulnerability,CVE-2025-20189,7.4,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asr903-rsp3-arp-dos-WmfzdvJZ
-Cisco IOS XE CDP Denial of Service Vulnerability,CVE-2025-20202,7.4,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ewlc-cdp-dos-fpeks9K
-Cisco Multiple Products IOS XE IPv6 Denial of Service Vulnerability,CVE-2025-20140,7.4,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-wlc-wncd-p6Gvt6HL
-Red Hat update for Red Hat Ceph Storage,CVE-2024-47191,7.1,MEDIUM,,,https://access.redhat.com/errata/RHSA-2025:4664
-Red Hat update for Red Hat Ceph Storage,CVE-2023-25577,7.5,LOW,,,https://access.redhat.com/errata/RHSA-2025:4664
-Cisco Industrial Ethernet Series Switches Cisco IOS DM Security Bypass Vulnerability,CVE-2025-20164,8.3,MEDIUM,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ios-http-privesc-wCRd5e3
-Cisco Multiple Products IOS XE Denial of Service Vulnerability,CVE-2025-20162,8.6,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-dhcpsn-dos-xBn8Mtks
-Cisco Multiple Products IOS XE IKEv1 Denial of Service Vulnerability,CVE-2025-20192,7.7,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-ikev1-dos-XHk3HzFC
-Cisco Multiple Products IKEv2 Denial of Service Vulnerability,CVE-2025-20182,8.6,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-multiprod-ikev2-dos-gPctUqv2
-Cisco Multiple Products Arbitrary File Upload Vulnerability,CVE-2025-20188,10,HIGH,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-wlc-file-uplpd-rHZG9UfC
+F5 BIG-IP PEM Denial of Service (DoS) Vulnerability,CVE-2025-35995,7.5,MEDIUM,Qualys Pipeline,5/9 CH - QID in Pipeline (383187),https://my.f5.com/manage/s/article/K000149952
+F5 Multiple BIG-IP Products SCTP Denial of Service Vulnerability,CVE-2025-41399,7.5,LOW,Qualys Pipeline,5/9 CH - QID in Pipeline (383194),https://my.f5.com/manage/s/article/K000137709
+F5 Multiple BIG-IP Products HTTP/2 TMM Denial of Service Vulnerability,CVE-2025-41414,7.5,LOW,Qualys Pipeline,5/9 CH - QID in Pipeline (383193),https://my.f5.com/manage/s/article/K000140968
+F5 Multiple BIG-IP Products TMM Denial of Service Vulnerability,CVE-2025-36557,7.5,LOW,Qualys Pipeline,5/9 CH - QID in Pipeline (383189),https://my.f5.com/manage/s/article/K000139571
+F5 Multiple BIG-IP Products ALG Profile Denial of Service Vulnerability,CVE-2025-41433,7.5,LOW,Qualys Pipeline,5/9 CH - QID in Pipeline (383188),https://my.f5.com/manage/s/article/K000140937
+F5 Multiple BIG-IP Products HTTP/2 Denial of Service Vulnerability,CVE-2025-36504,7.5,LOW,Qualys Pipeline,5/9 CH - QID in Pipeline (383192),https://my.f5.com/manage/s/article/K000140919
+F5 Multiple Products Rejection Notice,CVE-2025-31644,8.7,LOW,Qualys Pipeline,5/9 CH - QID in Pipeline (383193),https://my.f5.com/manage/s/article/K000148591
+F5 Multiple BIG-IP Products TMM Denial of Service Vulnerability,CVE-2025-41431,7.5,LOW,Qualys Pipeline,5/9 CH - QID in Pipeline (383190),https://my.f5.com/manage/s/article/K000150668
+F5 BIG-IP Access Policy Manager (APM) TMM Denial of Service Vulnerability,CVE-2025-36525,7.5,LOW,Qualys Pipeline,5/9 CH - QID in Pipeline (383191),https://my.f5.com/manage/s/article/K000150598
+Red Hat libtiff Rejection Notice,CVE-2017-17095,8.8,LOW,Qualys QID,5/9 CH - QID Available (251334),https://access.redhat.com/errata/RHSA-2025:4658
+Red Hat update for redis:6,CVE-2025-21605,7.5,LOW,Qualys QID,5/9 CH - QID Available (251332),https://access.redhat.com/errata/RHSA-2025:4607
+Red Hat update for libsoup,CVE-2025-32913,7.5,LOW,Qualys QID,"5/9 CH - QID Available (251326, 251323)","https://access.redhat.com/errata/RHSA-2025:4560
+https://access.redhat.com/errata/RHSA-2025:4568"
+Red Hat update for libsoup,CVE-2025-32911,9,MEDIUM,Qualys QID,"5/9 CH - QID Available (251326, 251323)","https://access.redhat.com/errata/RHSA-2025:4560
+https://access.redhat.com/errata/RHSA-2025:4568"
+Red Hat update for libsoup,CVE-2025-32906,7.5,LOW,Qualys QID,"5/9 CH - QID Available (251326, 251323)","https://access.redhat.com/errata/RHSA-2025:4560
+https://access.redhat.com/errata/RHSA-2025:4568"
+Red Hat JBoss Enterprise Application Platform Multiple Denial of Service Vulnerabilities,CVE-2025-24970,7.5,LOW,Qualys QID,"5/9 CH - QID Available (251326, 251323)","https://access.redhat.com/errata/RHSA-2025:4548
+https://access.redhat.com/errata/RHSA-2025:4549
+https://access.redhat.com/errata/RHSA-2025:4550
+https://access.redhat.com/errata/RHSA-2025:4552"
+Arista Networks CloudVision Multiple Vulnerabilities,CVE-2024-8100,8.7,LOW,,,https://www.arista.com/en/support/advisories-notices/security-advisory/21316-security-advisory-0116
+Arista Networks CloudVision Multiple Vulnerabilities,CVE-2024-11186,10,HIGH,,,https://www.arista.com/en/support/advisories-notices/security-advisory/21314-security-advisory-0114
+Arista Networks CloudVision Multiple Vulnerabilities,CVE-2024-12378,9.1,LOW,,,https://www.arista.com/en/support/advisories-notices/security-advisory/21289-security-advisory-0113
+Arista Networks CloudVision Multiple Vulnerabilities,CVE-2025-0505,10,MEDIUM,,,https://www.arista.com/en/support/advisories-notices/security-advisory/21315-security-advisory-0115
