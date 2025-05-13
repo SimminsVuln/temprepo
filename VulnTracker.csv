@@ -1,103 +1,73 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-macOS Sequoia RemoteViewServices Sandbox Escape,CVE-2025-31258,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383209)
-
-Current Condition: Vulnerability could allow malicious applications to break out of their sandbox and potentially gain unauthorized access to system resources. The issue was fixed in macOS Sequoia 15.5, following the public disclosure of a proof-of-concept (PoC) exploit
-
-Actions: Discuss need for Vulnerability Alert
-
-Needs: None",https://support.apple.com/en-us/122716
-Apple Safari Multiple Vulnerabilities,CVE-2025-24213,not available,,None,5/13 CH - Monitor for QID,https://support.apple.com/en-us/122719
-Apple Safari Multiple Vulnerabilities,CVE-2025-31223,not available,,None,5/13 CH - Monitor for QID,https://support.apple.com/en-us/122719
-Apple Safari Multiple Vulnerabilities,CVE-2025-31238,not available,,None,5/13 CH - Monitor for QID,https://support.apple.com/en-us/122719
-Apple Safari Multiple Vulnerabilities,CVE-2025-24223,not available,,None,5/13 CH - Monitor for QID,https://support.apple.com/en-us/122719
-Apple Safari Multiple Vulnerabilities,CVE-2025-31204,not available,,None,5/13 CH - Monitor for QID,https://support.apple.com/en-us/122719
-Apple Safari Multiple Vulnerabilities,CVE-2025-31217,not available,,None,5/13 CH - Monitor for QID,https://support.apple.com/en-us/122719
-Apple Safari Multiple Vulnerabilities,CVE-2025-31215,not available,,None,5/13 CH - Monitor for QID,https://support.apple.com/en-us/122719
-Apple Safari Multiple Vulnerabilities,CVE-2025-31206,not available,,None,5/13 CH - Monitor for QID,https://support.apple.com/en-us/122719
-Apple Safari Multiple Vulnerabilities,CVE-2025-31205,not available,,None,5/13 CH - Monitor for QID,https://support.apple.com/en-us/122719
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31246  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31240  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31237  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31251  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31235  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31208  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sonoma Multiple Vulnerabilities,CVE-2025-31196  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383207),https://support.apple.com/en-us/122717
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31209  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31239  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31233  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sonoma Multiple Vulnerabilities,CVE-2025-30453  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383207),https://support.apple.com/en-us/122717
-macOS Sonoma Multiple Vulnerabilities,CVE-2025-24258  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383207),https://support.apple.com/en-us/122717
-macOS Sonoma Multiple Vulnerabilities,CVE-2025-30448  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383207),https://support.apple.com/en-us/122717
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31232  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sonoma Multiple Vulnerabilities,CVE-2025-24144  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383207),https://support.apple.com/en-us/122717
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31219  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sonoma Multiple Vulnerabilities,CVE-2025-24155  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383207),https://support.apple.com/en-us/122717
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31241  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2024-8176  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-30440  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31222  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-24274  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-24142  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-26465  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-26466  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31245  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31224  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31221  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31213  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31247  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sonoma Multiple Vulnerabilities,CVE-2025-30442  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383207),https://support.apple.com/en-us/122717
-macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31242  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
-https://support.apple.com/en-us/122716"
-macOS Sonoma Multiple Vulnerabilities,CVE-2025-31220,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383207),https://support.apple.com/en-us/122717
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-24213  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-24222  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-24223  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-30443  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31204  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31205  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31206  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31212  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31215  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31217  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31218  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31220  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31223  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31226  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31234  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31236  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31238  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31244  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31249  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31250  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31256  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31257  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31258  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31259  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31260,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
-Red Hat update for thunderbird,CVE-2025-4083,9.1,,Qualys QID,5/13 CH - QID Available (251352),https://access.redhat.com/errata/RHSA-2025:4797
-Red Hat update for thunderbird,CVE-2025-2817,8.8,,Qualys QID,5/13 CH - QID Available (251352),https://access.redhat.com/errata/RHSA-2025:4797
-VMware Aria Operations / Cloud Foundation DOM-Based Cross-Site Scripting Vulnerability,CVE-2025-22249,8.2,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25711
+Microsoft Patch Tuesday May 2025 - Visual Studio Code Security Feature Bypass Vulnerability,CVE-2025-21264,7.1,LOW,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-21264
+Microsoft Patch Tuesday May 2025 - Kernel Streaming Service Driver Elevation of Privilege Vulnerability,CVE-2025-24063,7.8,MEDIUM,none,5/13 Monitor for QID | Exploitation More Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-24063
+Microsoft Patch Tuesday May 2025 - Microsoft Office Remote Code Execution Vulnerability,CVE-2025-26629,8,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-26629
+"Microsoft Patch Tuesday May 2025 - .NET, Visual Studio, and Build Tools for Visual Studio Spoofing Vulnerability",CVE-2025-26646,7.5,LOW,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-26646
+Microsoft Patch Tuesday May 2025 - Windows Remote Desktop Gateway (RD Gateway) Denial of Service Vulnerability,CVE-2025-26677,6.7,LOW,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-26677
+Microsoft Patch Tuesday May 2025 - Microsoft Defender Elevation of Privilege Vulnerability,CVE-2025-26684,6.5,MEDIUM,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-26684
+Microsoft Patch Tuesday May 2025 - Microsoft Defender for Identity Spoofing Vulnerability,CVE-2025-26685,7,LOW,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-26685
+Microsoft Patch Tuesday May 2025 - Windows Kernel-Mode Driver Elevation of Privilege Vulnerability,CVE-2025-27468,6.7,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-27468
+Microsoft Patch Tuesday May 2025 - Microsoft Windows Hardware Lab Kit (HLK) Elevation of Privilege Vulnerability,CVE-2025-27488,7.3,LOW,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-27488
+Microsoft Patch Tuesday May 2025 - Microsoft Dataverse Elevation of Privilege Vulnerability,CVE-2025-29826,5.5,LOW,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29826
+Microsoft Patch Tuesday May 2025 - Windows Trusted Runtime Interface Driver Information Disclosure Vulnerability,CVE-2025-29829,6.5,LOW,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29829
+Microsoft Patch Tuesday May 2025 - Windows Routing and Remote Access Service (RRAS) Information Disclosure Vulnerability,CVE-2025-29830,7.5,LOW,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29830
+Microsoft Patch Tuesday May 2025 - Windows Remote Desktop Services Remote Code Execution Vulnerability,CVE-2025-29831,6.5,MEDIUM,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29831
+Microsoft Patch Tuesday May 2025 - Windows Routing and Remote Access Service (RRAS) Information Disclosure Vulnerability,CVE-2025-29832,7.1,LOW,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29832
+Microsoft Patch Tuesday May 2025 - Microsoft Virtual Machine Bus (VMBus) Remote Code Execution Vulnerability,CVE-2025-29833,6.5,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29833
+Microsoft Patch Tuesday May 2025 - Windows Remote Access Connection Manager Information Disclosure Vulnerability,CVE-2025-29835,6.5,LOW,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29835
+Microsoft Patch Tuesday May 2025 - Windows Routing and Remote Access Service (RRAS) Information Disclosure Vulnerability,CVE-2025-29836,5.5,LOW,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29836
+Microsoft Patch Tuesday May 2025 - Windows Installer Information Disclosure Vulnerability,CVE-2025-29837,7.4,LOW,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29837
+Microsoft Patch Tuesday May 2025 - Windows ExecutionContext Driver Elevation of Privilege Vulnerability,CVE-2025-29838,4,MEDIUM,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29838
+Microsoft Patch Tuesday May 2025 - Windows Multiple UNC Provider Driver Information Disclosure Vulnerability,CVE-2025-29839,8.8,LOW,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29839
+Microsoft Patch Tuesday May 2025 - Windows Media Remote Code Execution Vulnerability,CVE-2025-29840,7,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29840
+Microsoft Patch Tuesday May 2025 - Universal Print Management Service Elevation of Privilege Vulnerability,CVE-2025-29841,7.5,MEDIUM,none,5/13 Monitor for QID | Exploitation More Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29841
+Microsoft Patch Tuesday May 2025 - UrlMon Security Feature Bypass Vulnerability,CVE-2025-29842,5.9,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29842
+Microsoft Patch Tuesday May 2025 - Windows Lightweight Directory Access Protocol (LDAP) Denial of Service Vulnerability,CVE-2025-29954,6.2,LOW,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29954
+Microsoft Patch Tuesday May 2025 - Windows Hyper-V Denial of Service Vulnerability,CVE-2025-29955,5.4,LOW,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29955
+Microsoft Patch Tuesday May 2025 - Windows SMB Information Disclosure Vulnerability,CVE-2025-29956,6.2,LOW,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29956
+Microsoft Patch Tuesday May 2025 - Windows Deployment Services Denial of Service Vulnerability,CVE-2025-29957,6.5,LOW,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29957
+Microsoft Patch Tuesday May 2025 - Windows Routing and Remote Access Service (RRAS) Information Disclosure Vulnerability,CVE-2025-29958,6.5,LOW,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29958
+Microsoft Patch Tuesday May 2025 - Windows Routing and Remote Access Service (RRAS) Information Disclosure Vulnerability,CVE-2025-29959,6.5,LOW,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29959
+Microsoft Patch Tuesday May 2025 - Windows Routing and Remote Access Service (RRAS) Information Disclosure Vulnerability,CVE-2025-29960,6.5,LOW,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29960
+Microsoft Patch Tuesday May 2025 - Windows Routing and Remote Access Service (RRAS) Information Disclosure Vulnerability,CVE-2025-29961,8.8,LOW,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29961
+Microsoft Patch Tuesday May 2025 - Windows Media Remote Code Execution Vulnerability,CVE-2025-29962,8.8,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29962
+Microsoft Patch Tuesday May 2025 - Windows Media Remote Code Execution Vulnerability,CVE-2025-29963,8.8,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29963
+Microsoft Patch Tuesday May 2025 - Windows Media Remote Code Execution Vulnerability,CVE-2025-29964,8.8,MEDIUM,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29964
+Microsoft Patch Tuesday May 2025 - Remote Desktop Client Remote Code Execution Vulnerability,CVE-2025-29966,8.8,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29966
+Microsoft Patch Tuesday May 2025 - Remote Desktop Client Remote Code Execution Vulnerability,CVE-2025-29967,6.5,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29967
+Microsoft Patch Tuesday May 2025 - Active Directory Certificate Services (AD CS) Denial of Service Vulnerability,CVE-2025-29968,7.5,LOW,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29968
+Microsoft Patch Tuesday May 2025 - MS-EVEN RPC Remote Code Execution Vulnerability,CVE-2025-29969,7.8,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29969
+Microsoft Patch Tuesday May 2025 - Microsoft Brokering File System Elevation of Privilege Vulnerability,CVE-2025-29970,7.5,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29970
+Microsoft Patch Tuesday May 2025 - Web Threat Defense (WTD.sys) Denial of Service Vulnerability,CVE-2025-29971,7,LOW,none,5/13 Monitor for QID | Exploitation More Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29971
+Microsoft Patch Tuesday May 2025 - Microsoft Azure File Sync Elevation of Privilege Vulnerability,CVE-2025-29973,5.7,MEDIUM,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29973
+Microsoft Patch Tuesday May 2025 - Windows Kernel Information Disclosure Vulnerability,CVE-2025-29974,7.8,LOW,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29974
+Microsoft Patch Tuesday May 2025 - Microsoft PC Manager Elevation of Privilege Vulnerability,CVE-2025-29975,7.8,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29975
+Microsoft Patch Tuesday May 2025 - Microsoft SharePoint Server Elevation of Privilege Vulnerability,CVE-2025-29976,7.8,MEDIUM,none,5/13 Monitor for QID | Exploitation More Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29976
+Microsoft Patch Tuesday May 2025 - Microsoft Excel Remote Code Execution Vulnerability,CVE-2025-29977,7.8,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29977
+Microsoft Patch Tuesday May 2025 - Microsoft PowerPoint Remote Code Execution Vulnerability,CVE-2025-29978,7.8,MEDIUM,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29978
+Microsoft Patch Tuesday May 2025 - Microsoft Excel Remote Code Execution Vulnerability,CVE-2025-29979,7.8,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-29979
+Microsoft Patch Tuesday May 2025 - Microsoft Excel Remote Code Execution Vulnerability,CVE-2025-30375,7.8,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-30375
+Microsoft Patch Tuesday May 2025 - Microsoft Excel Remote Code Execution Vulnerability,CVE-2025-30376,8.4,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-30376
+Microsoft Patch Tuesday May 2025 - Microsoft Office Remote Code Execution Vulnerability,CVE-2025-30377,7,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-30377
+Microsoft Patch Tuesday May 2025 - Microsoft SharePoint Server Remote Code Execution Vulnerability,CVE-2025-30378,7.8,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-30378
+Microsoft Patch Tuesday May 2025 - Microsoft Excel Remote Code Execution Vulnerability,CVE-2025-30379,7.8,MEDIUM,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-30379
+Microsoft Patch Tuesday May 2025 - Microsoft Excel Remote Code Execution Vulnerability,CVE-2025-30381,7.8,MEDIUM,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-30381
+Microsoft Patch Tuesday May 2025 - Microsoft SharePoint Server Remote Code Execution Vulnerability,CVE-2025-30382,7.8,MEDIUM,none,5/13 Monitor for QID | Exploitation More Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-30382
+Microsoft Patch Tuesday May 2025 - Microsoft Excel Remote Code Execution Vulnerability,CVE-2025-30383,7.4,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-30383
+Microsoft Patch Tuesday May 2025 - Microsoft SharePoint Server Remote Code Execution Vulnerability,CVE-2025-30384,7.8,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-30384
+Microsoft Patch Tuesday May 2025 - Windows Common Log File System Driver Elevation of Privilege Vulnerability,CVE-2025-30385,8.4,MEDIUM,none,5/13 Monitor for QID | Exploitation More Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-30385
+Microsoft Patch Tuesday May 2025 - Microsoft Office Remote Code Execution Vulnerability,CVE-2025-30386,9.8,MEDIUM,none,5/13 Monitor for QID | Exploitation More Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-30386
+Microsoft Patch Tuesday May 2025 - Document Intelligence Studio On-Prem Elevation of Privilege Vulnerability,CVE-2025-30387,7.8,LOW,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-30387
+Microsoft Patch Tuesday May 2025 - Windows Graphics Component Remote Code Execution Vulnerability,CVE-2025-30388,7.8,MEDIUM,none,5/13 Monitor for QID | Exploitation More Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-30388
+Microsoft Patch Tuesday May 2025 - Microsoft Excel Remote Code Execution Vulnerability,CVE-2025-30393,5.9,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-30393
+Microsoft Patch Tuesday May 2025 - Windows Remote Desktop Gateway (RD Gateway) Denial of Service Vulnerability,CVE-2025-30394,7.5,LOW,none,5/13 Monitor for QID | Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-30394
+Microsoft Patch Tuesday May 2025 - Scripting Engine Memory Corruption Vulnerability,CVE-2025-30397,7.8,MEDIUM,none,5/13 Monitor for QID | Exploitation Detected,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-30397
+Microsoft Patch Tuesday May 2025 - Microsoft DWM Core Library Elevation of Privilege Vulnerability,CVE-2025-30400,7.8,MEDIUM,none,5/13 Monitor for QID | Exploitation Detected,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-30400
+Microsoft Patch Tuesday May 2025 - Windows Common Log File System Driver Elevation of Privilege Vulnerability,CVE-2025-32701,7.8,MEDIUM,none,5/13 Monitor for QID | Exploitation Detected,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-32701
+Microsoft Patch Tuesday May 2025 - Visual Studio Remote Code Execution Vulnerability,CVE-2025-32702,5.5,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-32702
+Microsoft Patch Tuesday May 2025 - Visual Studio Information Disclosure Vulnerability,CVE-2025-32703,8.4,LOW,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-32703
+Microsoft Patch Tuesday May 2025 - Microsoft Excel Remote Code Execution Vulnerability,CVE-2025-32704,7.8,HIGH,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-32704
+Microsoft Patch Tuesday May 2025 - Microsoft Outlook Remote Code Execution Vulnerability,CVE-2025-32705,7.8,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-32705
+Microsoft Patch Tuesday May 2025 - Windows Common Log File System Driver Elevation of Privilege Vulnerability,CVE-2025-32706,7.8,MEDIUM,none,5/13 Monitor for QID | Exploitation Detected,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-32706
+Microsoft Patch Tuesday May 2025 - NTFS Elevation of Privilege Vulnerability,CVE-2025-32707,7.8,MEDIUM,none,5/13 Monitor for QID | Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-32707
+Microsoft Patch Tuesday May 2025 - Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability,CVE-2025-32709,7.8,MEDIUM,none,5/13 Monitor for QID | Exploitation Detected,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-32709
