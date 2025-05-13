@@ -1,5 +1,103 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Red Hat update for emacs,CVE-2024-53920,7.8,,Qualys QID,5/12 CH - QID Available (251348),https://access.redhat.com/errata/RHSA-2025:4787
-Red Hat Update for redis,CVE-2025-21605,7.5,,Qualys QID,"5/12 CH - QID Available (251349, 251350)","https://access.redhat.com/errata/RHSA-2025:4788
-https://access.redhat.com/errata/RHSA-2025:4789"
-Red Hat Update for jBoss,CVE-2024-56337,9.8,,Qualys QID,5/12 CH - QID Available (251346),https://access.redhat.com/errata/RHSA-2025:4521
+macOS Sequoia RemoteViewServices Sandbox Escape,CVE-2025-31258,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383209)
+
+Current Condition: Vulnerability could allow malicious applications to break out of their sandbox and potentially gain unauthorized access to system resources. The issue was fixed in macOS Sequoia 15.5, following the public disclosure of a proof-of-concept (PoC) exploit
+
+Actions: Discuss need for Vulnerability Alert
+
+Needs: None",https://support.apple.com/en-us/122716
+Apple Safari Multiple Vulnerabilities,CVE-2025-24213,not available,,None,5/13 CH - Monitor for QID,https://support.apple.com/en-us/122719
+Apple Safari Multiple Vulnerabilities,CVE-2025-31223,not available,,None,5/13 CH - Monitor for QID,https://support.apple.com/en-us/122719
+Apple Safari Multiple Vulnerabilities,CVE-2025-31238,not available,,None,5/13 CH - Monitor for QID,https://support.apple.com/en-us/122719
+Apple Safari Multiple Vulnerabilities,CVE-2025-24223,not available,,None,5/13 CH - Monitor for QID,https://support.apple.com/en-us/122719
+Apple Safari Multiple Vulnerabilities,CVE-2025-31204,not available,,None,5/13 CH - Monitor for QID,https://support.apple.com/en-us/122719
+Apple Safari Multiple Vulnerabilities,CVE-2025-31217,not available,,None,5/13 CH - Monitor for QID,https://support.apple.com/en-us/122719
+Apple Safari Multiple Vulnerabilities,CVE-2025-31215,not available,,None,5/13 CH - Monitor for QID,https://support.apple.com/en-us/122719
+Apple Safari Multiple Vulnerabilities,CVE-2025-31206,not available,,None,5/13 CH - Monitor for QID,https://support.apple.com/en-us/122719
+Apple Safari Multiple Vulnerabilities,CVE-2025-31205,not available,,None,5/13 CH - Monitor for QID,https://support.apple.com/en-us/122719
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31246  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31240  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31237  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31251  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31235  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31208  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sonoma Multiple Vulnerabilities,CVE-2025-31196  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383207),https://support.apple.com/en-us/122717
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31209  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31239  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31233  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sonoma Multiple Vulnerabilities,CVE-2025-30453  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383207),https://support.apple.com/en-us/122717
+macOS Sonoma Multiple Vulnerabilities,CVE-2025-24258  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383207),https://support.apple.com/en-us/122717
+macOS Sonoma Multiple Vulnerabilities,CVE-2025-30448  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383207),https://support.apple.com/en-us/122717
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31232  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sonoma Multiple Vulnerabilities,CVE-2025-24144  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383207),https://support.apple.com/en-us/122717
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31219  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sonoma Multiple Vulnerabilities,CVE-2025-24155  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383207),https://support.apple.com/en-us/122717
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31241  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2024-8176  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-30440  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31222  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-24274  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-24142  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-26465  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-26466  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31245  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31224  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31221  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31213  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31247  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sonoma Multiple Vulnerabilities,CVE-2025-30442  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383207),https://support.apple.com/en-us/122717
+macOS Sequoia and Sonoma Multiple Vulnerabilities,CVE-2025-31242  ,not available,,Qualys Pipeline,"5/13 CH - QID in Pipeline (383207, 383209)","https://support.apple.com/en-us/122717
+https://support.apple.com/en-us/122716"
+macOS Sonoma Multiple Vulnerabilities,CVE-2025-31220,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383207),https://support.apple.com/en-us/122717
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-24213  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-24222  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-24223  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-30443  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-31204  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-31205  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-31206  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-31212  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-31215  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-31217  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-31218  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-31220  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-31223  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-31226  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-31234  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-31236  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-31238  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-31244  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-31249  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-31250  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-31256  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-31257  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-31258  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-31259  ,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+macOS Sequoia Multiple Vulnerabilities,CVE-2025-31260,not available,,Qualys Pipeline,5/13 CH - QID in Pipeline (383209),https://support.apple.com/en-us/122716
+Red Hat update for thunderbird,CVE-2025-4083,9.1,,Qualys QID,5/13 CH - QID Available (251352),https://access.redhat.com/errata/RHSA-2025:4797
+Red Hat update for thunderbird,CVE-2025-2817,8.8,,Qualys QID,5/13 CH - QID Available (251352),https://access.redhat.com/errata/RHSA-2025:4797
+VMware Aria Operations / Cloud Foundation DOM-Based Cross-Site Scripting Vulnerability,CVE-2025-22249,8.2,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25711
