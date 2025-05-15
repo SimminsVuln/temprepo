@@ -1,56 +1,114 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Adobe Animate CC Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-43556,7.8,,QID in Pipeline,5/14 CH - QID in Pipeline (383225),https://helpx.adobe.com/security/products/animate/apsb25-42.html
-Adobe Animate CC Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-43557,7.8,,QID in Pipeline,5/14 CH - QID in Pipeline (383225),https://helpx.adobe.com/security/products/animate/apsb25-42.html
-Adobe Animate CC Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-30328,7.8,,QID in Pipeline,5/14 CH - QID in Pipeline (383225),https://helpx.adobe.com/security/products/animate/apsb25-42.html
-Adobe Animate CC Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-43555,7.8,,QID in Pipeline,5/14 CH - QID in Pipeline (383225),https://helpx.adobe.com/security/products/animate/apsb25-42.html
-Adobe Bridge Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-43545,7.8,,QID in Pipeline,5/14 CH - QID in Pipeline (383227),https://helpx.adobe.com/security/products/bridge/apsb25-44.html
-Adobe Bridge Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-43546,7.8,,QID in Pipeline,5/14 CH - QID in Pipeline (383227),https://helpx.adobe.com/security/products/bridge/apsb25-44.html
-Adobe Bridge Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-43547,7.8,,QID in Pipeline,5/14 CH - QID in Pipeline (383227),https://helpx.adobe.com/security/products/bridge/apsb25-44.html
-Adobe Dimension Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-43572,7.8,,QID in Pipeline,5/14 CH - QID in Pipeline (383231),https://helpx.adobe.com/security/products/dimension/apsb25-45.html
-Adobe Dimension Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-43548,7.8,,QID in Pipeline,5/14 CH - QID in Pipeline (383231),https://helpx.adobe.com/security/products/dimension/apsb25-45.html
-Adobe Illustrator Arbitrary Code Execution Vulnerability,CVE-2025-30330,7.8,,QID in Pipeline,5/14 CH - QID in Pipeline (383224),https://helpx.adobe.com/security/products/illustrator/apsb25-43.html
-Adobe InDesign CC Arbitrary Code Execution Vulnerability,CVE-2025-30318,7.8,,QID in Pipeline,5/14 CH - QID in Pipeline (383226),https://helpx.adobe.com/security/products/indesign/apsb25-37.html
-Adobe Photoshop CC Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-30326,7.8,,QID in Pipeline,5/14 CH - QID in Pipeline (383220),https://helpx.adobe.com/security/products/photoshop/apsb25-40.html
-Adobe Photoshop CC Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-30325,7.8,,QID in Pipeline,5/14 CH - QID in Pipeline (383220),https://helpx.adobe.com/security/products/photoshop/apsb25-40.html
-Adobe Photoshop CC Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-30324,7.8,,QID in Pipeline,5/14 CH - QID in Pipeline (383220),https://helpx.adobe.com/security/products/photoshop/apsb25-40.html
-Ivanti Cloud Services Application Vulnerability,CVE-2025-22460,7.8,,QID in Pipeline,"5/14 CH - QID in Pipeline (530049, 383230)",https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Cloud-Services-Application-CVE-2025-22460?language=en_US&_gl=1*1xbhig3*_gcl_au*MjAyODMzNzEyMS4xNzQ3MjEyNzE5
-Ivanti Endpoint Manager Mobile Multiple Vulnerabilities,CVE-2025-4428,7.2,,None,"5/14 CH - Monitor for QID, Investigate for use",https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Endpoint-Manager-Mobile-EPMM
-Ivanti Neurons for ITSM Security Bypass Vulnerability,CVE-2025-22462,9.8,,QID in Pipeline,5/14 CH - QID in Pipeline (383229),https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Neurons-for-ITSM-on-premises-only-CVE-2025-22462?language=en_US&_gl=1*7eex6s*_gcl_au*ODI2OTEwMDkyLjE3NDcxNDkzNjM.
-"Red Hat update for gstreamer1, gstreamer1-plugins-bad-free, gstreamer1-plugins-ugly-free, and gstreamer1-rtsp-server",CVE-2024-4453,7.8,,QID in Pipeline,5/14 CH - QID in Pipeline (251378),https://access.redhat.com/errata/RHSA-2025:7178
-"Red Hat update for gstreamer1, gstreamer1-plugins-bad-free, gstreamer1-plugins-ugly-free, and gstreamer1-rtsp-server",CVE-2024-0444,7.5,,QID in Pipeline,5/14 CH - QID in Pipeline (251378),https://access.redhat.com/errata/RHSA-2025:7178
-Red Hat update for gstreamer1-plugins-good,CVE-2024-47603,7.5,,QID in Pipeline,5/14 CH - QID in Pipeline (251363),https://access.redhat.com/errata/RHSA-2025:7242
-Red Hat update for gstreamer1-plugins-good,CVE-2024-47601,7.5,,QID in Pipeline,5/14 CH - QID in Pipeline (251363),https://access.redhat.com/errata/RHSA-2025:7242
-Red Hat update for gstreamer1-plugins-good,CVE-2024-47544,7.5,,QID in Pipeline,5/14 CH - QID in Pipeline (251363),https://access.redhat.com/errata/RHSA-2025:7242
-Red Hat update for gstreamer1-plugins-good,CVE-2024-47599,7.5,,QID in Pipeline,5/14 CH - QID in Pipeline (251363),https://access.redhat.com/errata/RHSA-2025:7242
-Red Hat update for gstreamer1-plugins-good,CVE-2024-47776,9.1,,QID in Pipeline,5/14 CH - QID in Pipeline (251363),https://access.redhat.com/errata/RHSA-2025:7242
-Red Hat update for gstreamer1-plugins-good,CVE-2024-47598,9.1,,QID in Pipeline,5/14 CH - QID in Pipeline (251363),https://access.redhat.com/errata/RHSA-2025:7242
-Red Hat update for gstreamer1-plugins-good,CVE-2024-47778,7.5,,QID in Pipeline,5/14 CH - QID in Pipeline (251363),https://access.redhat.com/errata/RHSA-2025:7242
-Red Hat update for gstreamer1-plugins-good,CVE-2024-47834,9.1,,QID in Pipeline,5/14 CH - QID in Pipeline (251363),https://access.redhat.com/errata/RHSA-2025:7242
-Red Hat update for gstreamer1-plugins-good,CVE-2024-47546,7.5,,QID in Pipeline,5/14 CH - QID in Pipeline (251363),https://access.redhat.com/errata/RHSA-2025:7242
-Red Hat update for gstreamer1-plugins-good,CVE-2024-47596,7.5,,QID in Pipeline,5/14 CH - QID in Pipeline (251363),https://access.redhat.com/errata/RHSA-2025:7242
-Red Hat update for gstreamer1-plugins-good,CVE-2024-47545,7.5,,QID in Pipeline,5/14 CH - QID in Pipeline (251363),https://access.redhat.com/errata/RHSA-2025:7242
-Red Hat update for gstreamer1-plugins-good,CVE-2024-47775,9.1,,QID in Pipeline,5/14 CH - QID in Pipeline (251363),https://access.redhat.com/errata/RHSA-2025:7242
-Red Hat update for gstreamer1-plugins-good,CVE-2024-47777,9.1,,QID in Pipeline,5/14 CH - QID in Pipeline (251363),https://access.redhat.com/errata/RHSA-2025:7242
-Red Hat update for gstreamer1-plugins-good,CVE-2024-47602,7.5,,QID in Pipeline,5/14 CH - QID in Pipeline (251363),https://access.redhat.com/errata/RHSA-2025:7242
-Red Hat update for gstreamer1-plugins-good,CVE-2024-47597,9.1,,QID in Pipeline,5/14 CH - QID in Pipeline (251363),https://access.redhat.com/errata/RHSA-2025:7242
-Red Hat update for iptraf-ng,CVE-2024-52949,7.5,,QID in Pipeline,5/14 CH - QID in Pipeline (251374),https://access.redhat.com/errata/RHSA-2025:7064
-Red Hat update for opentelemetry-collector,CVE-2025-30204,7.5,,QID in Pipeline,5/14 CH - QID in Pipeline (251379),"
-https://access.redhat.com/errata/RHSA-2025:7407"
-Red Hat update for opentelemetry-collector,CVE-2025-27144,7.5,,QID in Pipeline,5/14 CH - QID in Pipeline (251379),"
-https://access.redhat.com/errata/RHSA-2025:7407"
-Red Hat update for opentelemetry-collector,CVE-2025-22868,7.5,,QID in Pipeline,5/14 CH - QID in Pipeline (251379),"
-https://access.redhat.com/errata/RHSA-2025:7407"
-Red Hat update for opentelemetry-collector,CVE-2025-29786,7.5,,QID in Pipeline,5/14 CH - QID in Pipeline (251379),https://access.redhat.com/errata/RHSA-2025:7407
-Red Hat update for osbuild and osbuild-composer,CVE-2024-34158,7.5,,QID in Pipeline,5/14 CH - QID in Pipeline (251367),"https://access.redhat.com/errata/RHSA-2025:7118
-"
-Red Hat update for osbuild and osbuild-composer,CVE-2024-1394,7.5,,QID in Pipeline,5/14 CH - QID in Pipeline (251367),https://access.redhat.com/errata/RHSA-2025:7118
-Red Hat update for php,CVE-2024-5458,7.5,,QID in Pipeline,5/14 CH - QID in Pipeline (251383),https://access.redhat.com/errata/RHSA-2025:7315
-Red Hat update for php,CVE-2024-8927,7.5,,QID in Pipeline,5/14 CH - QID in Pipeline (251383),https://access.redhat.com/errata/RHSA-2025:7315
-Red Hat update for podman,CVE-2025-22869,7.5,,QID in Pipeline,5/14 CH - QID in Pipeline (251396),https://access.redhat.com/errata/RHSA-2025:7391
-Red Hat update for protobuf,CVE-2022-1941,7.5,,QID in Pipeline,5/14 CH - QID in Pipeline (251403),https://access.redhat.com/errata/RHSA-2025:7138
-Red Hat update for webkit2gtk3,CVE-2025-24209,7,,QID in Pipeline,5/14 CH - QID in Pipeline (251387),https://access.redhat.com/errata/RHSA-2025:7387
-Red Hat update for webkit2gtk3,CVE-2024-54551,7.5,,QID in Pipeline,5/14 CH - QID in Pipeline (251387),https://access.redhat.com/errata/RHSA-2025:7387
-SAP BusinessObjects BI Platform Promotion Management Wizard (PMW) Security Bypass Vulnerability,CVE-2025-43000,7.9,,,,https://support.sap.com/en/my-support/knowledge-base/security-notes-news/may-2025.html
-SAP Landscape Transformation Information Disclosure Vulnerability,CVE-2025-43011,7.7,,,,https://support.sap.com/en/my-support/knowledge-base/security-notes-news/may-2025.html
-SAP S/4HANA Multiple Vulnerabilities,CVE-2025-43010,8.3,,,,https://support.sap.com/en/my-support/knowledge-base/security-notes-news/may-2025.html
-SAP Supplier Relationship Management (SRM) Multiple Vulnerabilities,CVE-2025-30018,8.6,,,,https://support.sap.com/en/my-support/knowledge-base/security-notes-news/may-2025.html
+Red Hat update for kernel,CVE-2024-56600,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2023-52672,7,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-50278,7.1,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-50151,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2022-49006,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-53174,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-50047,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-47718,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-53203,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-56602,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-50261,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-50035,7.1,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-56551,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-47719,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-53166,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-49884,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-40956,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-43873,7.1,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-53173,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-56623,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-49950,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-56693,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-50073,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-49882,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-56653,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-49883,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-50215,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-50143,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-49928,7.1,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-53095,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-46673,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-50128,7.1,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-50127,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-50282,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-49991,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-49862,7.1,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-50186,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-53194,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2022-49014,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-50121,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-50235,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-42302,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-43910,7.1,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-53142,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-53103,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2022-49029,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-56663,7.1,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-56642,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-53082,7.1,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-50130,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-53057,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-50055,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2025-1272,7.7,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-50074,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-50150,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-56558,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-56605,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-53237,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-53096,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-53156,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-56604,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-50126,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-46853,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-56631,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-46820,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-56601,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-43882,8.4,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-50067,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for kernel,CVE-2024-53208,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
+Red Hat update for aardvark-dns,CVE-2024-8418,7.5,LOW,Qualys QID,5/15 CH - QID Available (251388),https://access.redhat.com/errata/RHSA-2025:7094
+Red Hat update for corosync,CVE-2025-30472,9,MEDIUM,Qualys QID,5/15 CH - QID Available (251395),https://access.redhat.com/errata/RHSA-2025:7201
+Red Hat update for git-lfs,CVE-2023-39322,7.5,LOW,Qualys QID,5/15 CH - QID Available (251455),https://access.redhat.com/errata/RHSA-2025:7256
+Red Hat update for git-lfs,CVE-2024-24788,7.5,LOW,Qualys QID,5/15 CH - QID Available (251455),https://access.redhat.com/errata/RHSA-2025:7256
+Red Hat update for git-lfs,CVE-2024-24791,7.5,LOW,Qualys QID,5/15 CH - QID Available (251455),https://access.redhat.com/errata/RHSA-2025:7256
+Red Hat update for git-lfs,CVE-2023-39321,7.5,LOW,Qualys QID,5/15 CH - QID Available (251455),https://access.redhat.com/errata/RHSA-2025:7256
+Red Hat update for nginx,CVE-2022-41742,7.1,LOW,Qualys QID,5/15 CH - QID Available (251386),https://access.redhat.com/errata/RHSA-2025:7402
+Red Hat update for nginx,CVE-2022-41741,7.8,LOW,Qualys QID,5/15 CH - QID Available (251386),https://access.redhat.com/errata/RHSA-2025:7402
+Red Hat update for git,CVE-2024-52005,7.5,LOW,Qualys QID,5/15 CH - QID Available (251413),https://access.redhat.com/errata/RHSA-2025:7409
+Red Hat update for gvisor-tap-vsock,CVE-2025-22869,7.5,LOW,Qualys QID,5/15 CH - QID Available (251405),https://access.redhat.com/errata/RHSA-2025:7416
+Red Hat update for gimp,CVE-2023-44444,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251404),https://access.redhat.com/errata/RHSA-2025:7417
+Red Hat update for gimp,CVE-2023-44443,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251404),https://access.redhat.com/errata/RHSA-2025:7417
+Red Hat update for gimp,CVE-2023-44441,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251404),https://access.redhat.com/errata/RHSA-2025:7417
+Red Hat update for gimp,CVE-2023-44442,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251404),https://access.redhat.com/errata/RHSA-2025:7417
+Red Hat update for php:8.3,CVE-2024-11235,8.1,MEDIUM,Qualys QID,5/15 CH - QID Available (251438),https://access.redhat.com/errata/RHSA-2025:7418
+Red Hat update for php:8.2,CVE-2025-1217,7.3,MEDIUM,Qualys QID,"5/15 CH - QID Available (251438, 251411, 251441)","https://access.redhat.com/errata/RHSA-2025:7418
+https://access.redhat.com/errata/RHSA-2025:7431
+https://access.redhat.com/errata/RHSA-2025:7432"
+Red Hat update for php:8.2,CVE-2025-1736,7.3,MEDIUM,Qualys QID,"5/15 CH - QID Available (251438, 251411, 251441)","https://access.redhat.com/errata/RHSA-2025:7418
+https://access.redhat.com/errata/RHSA-2025:7431
+https://access.redhat.com/errata/RHSA-2025:7432"
+Red Hat update for mod_auth_openidc,CVE-2025-31492,7.5,LOW,Qualys QID,5/15 CH - QID Available (251412),https://access.redhat.com/errata/RHSA-2025:7419
+Red Hat update for ghostscript,CVE-2024-46951,7.8,LOW,Qualys QID,5/15 CH - QID Available (251416),https://access.redhat.com/errata/RHSA-2025:7422
+Red Hat update for ghostscript,CVE-2024-46956,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251416),https://access.redhat.com/errata/RHSA-2025:7422
+Red Hat update for ghostscript,CVE-2024-46952,8.4,MEDIUM,Qualys QID,5/15 CH - QID Available (251416),https://access.redhat.com/errata/RHSA-2025:7422
+Red Hat update for ghostscript,CVE-2024-46953,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251416),https://access.redhat.com/errata/RHSA-2025:7422
+Red Hat update for ghostscript,CVE-2023-46751,8.2,LOW,Qualys QID,5/15 CH - QID Available (251416),https://access.redhat.com/errata/RHSA-2025:7422
+Red Hat update for ghostscript,CVE-2024-46954,8.4,LOW,Qualys QID,5/15 CH - QID Available (251416),https://access.redhat.com/errata/RHSA-2025:7422
+Red Hat update for kernel,CVE-2025-21633,7.8,LOW,Qualys QID,5/15 CH - QID Available (251414),https://access.redhat.com/errata/RHSA-2025:7423
+Red Hat update for nodejs:22,CVE-2025-31498,7,LOW,Qualys QID,"5/15 CH - QID Available (251463, 251409)","https://access.redhat.com/errata/RHSA-2025:7426
+https://access.redhat.com/errata/RHSA-2025:7433"
+Red Hat update for firefox,CVE-2025-2817,8.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251422),https://access.redhat.com/errata/RHSA-2025:7543
+Red Hat update for firefox,CVE-2025-4083,9.1,LOW,Qualys QID,5/15 CH - QID Available (251422),https://access.redhat.com/errata/RHSA-2025:7543
+Red Hat update for nodejs:22,CVE-2025-3277,7.3,MEDIUM,Qualys QID,5/15 CH - QID Available (251424),https://access.redhat.com/errata/RHSA-2025:7433
+Red Hat update for kernel,CVE-2024-53141,7,LOW,Qualys QID,5/15 CH - QID Available (251450),https://access.redhat.com/errata/RHSA-2025:7531
+Red Hat update for kernel,CVE-2022-49011,7.1,LOW,Qualys QID,5/15 CH - QID Available (251450),https://access.redhat.com/errata/RHSA-2025:7531
+Red Hat update for libjpeg-turbo,CVE-2020-13790,8.1,LOW,Qualys Pipeline,5/15 CH - QID in Pipeline (251465),https://access.redhat.com/errata/RHSA-2025:7540
+Google Chrome Multiple Vulnerabilities,CVE-2025-4609,High,LOW,Qualys Pipeline,5/15 CH - QID in Pipeline (383237),https://chromereleases.googleblog.com/2025/05/stable-channel-update-for-desktop_14.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-4664,High,LOW,Qualys Pipeline,5/15 CH - QID in Pipeline (383237),https://chromereleases.googleblog.com/2025/05/stable-channel-update-for-desktop_14.html
+IBM Integration Bus for z/OS Multiple Vulnerabilities,CVE-2025-1471,7.8,LOW,None,5/15 CH - Task to PMG,https://www.ibm.com/support/pages/node/7231939
+Palo Alto Networks GlobalProtect Privilege Escalation Vulnerability,CVE-2025-0131,6.5,MEDIUM,None,5/15 CH - Monitor for QID,https://security.paloaltonetworks.com/CVE-2025-0131
+Palo Alto Networks PAN-OS Denial of Service Vulnerability,CVE-2025-0130,5.9,LOW,None,5/15 CH - Monitor for QID,https://security.paloaltonetworks.com/CVE-2025-0130
+Palo Alto Networks PAN-OS GlobalProtect Gateway and Portal Cross-Site Scripting Vulnerability,CVE-2025-0133,6.5,LOW,Qualys Pipeline,5/15 CH - QID in Pipeline (732522),https://security.paloaltonetworks.com/CVE-2025-0133
+PAN-OS Management Web Interface,CVE-2025-0137,3.5,LOW,Qualys Pipeline,5/15 CH - QID in Pipeline (732520),https://security.paloaltonetworks.com/CVE-2025-0137
