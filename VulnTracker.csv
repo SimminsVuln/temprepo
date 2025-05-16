@@ -1,114 +1,55 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Red Hat update for kernel,CVE-2024-56600,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2023-52672,7,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-50278,7.1,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-50151,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2022-49006,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-53174,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-50047,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-47718,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-53203,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-56602,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-50261,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-50035,7.1,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-56551,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-47719,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-53166,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-49884,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-40956,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-43873,7.1,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-53173,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-56623,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-49950,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-56693,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-50073,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-49882,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-56653,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-49883,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-50215,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-50143,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-49928,7.1,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-53095,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-46673,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-50128,7.1,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-50127,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-50282,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-49991,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-49862,7.1,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-50186,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-53194,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2022-49014,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-50121,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-50235,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-42302,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-43910,7.1,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-53142,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-53103,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2022-49029,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-56663,7.1,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-56642,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-53082,7.1,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-50130,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-53057,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-50055,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2025-1272,7.7,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-50074,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-50150,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-56558,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-56605,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-53237,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-53096,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-53156,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-56604,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-50126,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-46853,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-56631,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-46820,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-56601,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-43882,8.4,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-50067,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for kernel,CVE-2024-53208,7.8,LOW,Qualys QID,5/15 CH - QID Available (251398),https://access.redhat.com/errata/RHSA-2025:6966
-Red Hat update for aardvark-dns,CVE-2024-8418,7.5,LOW,Qualys QID,5/15 CH - QID Available (251388),https://access.redhat.com/errata/RHSA-2025:7094
-Red Hat update for corosync,CVE-2025-30472,9,MEDIUM,Qualys QID,5/15 CH - QID Available (251395),https://access.redhat.com/errata/RHSA-2025:7201
-Red Hat update for git-lfs,CVE-2023-39322,7.5,LOW,Qualys QID,5/15 CH - QID Available (251455),https://access.redhat.com/errata/RHSA-2025:7256
-Red Hat update for git-lfs,CVE-2024-24788,7.5,LOW,Qualys QID,5/15 CH - QID Available (251455),https://access.redhat.com/errata/RHSA-2025:7256
-Red Hat update for git-lfs,CVE-2024-24791,7.5,LOW,Qualys QID,5/15 CH - QID Available (251455),https://access.redhat.com/errata/RHSA-2025:7256
-Red Hat update for git-lfs,CVE-2023-39321,7.5,LOW,Qualys QID,5/15 CH - QID Available (251455),https://access.redhat.com/errata/RHSA-2025:7256
-Red Hat update for nginx,CVE-2022-41742,7.1,LOW,Qualys QID,5/15 CH - QID Available (251386),https://access.redhat.com/errata/RHSA-2025:7402
-Red Hat update for nginx,CVE-2022-41741,7.8,LOW,Qualys QID,5/15 CH - QID Available (251386),https://access.redhat.com/errata/RHSA-2025:7402
-Red Hat update for git,CVE-2024-52005,7.5,LOW,Qualys QID,5/15 CH - QID Available (251413),https://access.redhat.com/errata/RHSA-2025:7409
-Red Hat update for gvisor-tap-vsock,CVE-2025-22869,7.5,LOW,Qualys QID,5/15 CH - QID Available (251405),https://access.redhat.com/errata/RHSA-2025:7416
-Red Hat update for gimp,CVE-2023-44444,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251404),https://access.redhat.com/errata/RHSA-2025:7417
-Red Hat update for gimp,CVE-2023-44443,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251404),https://access.redhat.com/errata/RHSA-2025:7417
-Red Hat update for gimp,CVE-2023-44441,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251404),https://access.redhat.com/errata/RHSA-2025:7417
-Red Hat update for gimp,CVE-2023-44442,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251404),https://access.redhat.com/errata/RHSA-2025:7417
-Red Hat update for php:8.3,CVE-2024-11235,8.1,MEDIUM,Qualys QID,5/15 CH - QID Available (251438),https://access.redhat.com/errata/RHSA-2025:7418
-Red Hat update for php:8.2,CVE-2025-1217,7.3,MEDIUM,Qualys QID,"5/15 CH - QID Available (251438, 251411, 251441)","https://access.redhat.com/errata/RHSA-2025:7418
-https://access.redhat.com/errata/RHSA-2025:7431
-https://access.redhat.com/errata/RHSA-2025:7432"
-Red Hat update for php:8.2,CVE-2025-1736,7.3,MEDIUM,Qualys QID,"5/15 CH - QID Available (251438, 251411, 251441)","https://access.redhat.com/errata/RHSA-2025:7418
-https://access.redhat.com/errata/RHSA-2025:7431
-https://access.redhat.com/errata/RHSA-2025:7432"
-Red Hat update for mod_auth_openidc,CVE-2025-31492,7.5,LOW,Qualys QID,5/15 CH - QID Available (251412),https://access.redhat.com/errata/RHSA-2025:7419
-Red Hat update for ghostscript,CVE-2024-46951,7.8,LOW,Qualys QID,5/15 CH - QID Available (251416),https://access.redhat.com/errata/RHSA-2025:7422
-Red Hat update for ghostscript,CVE-2024-46956,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251416),https://access.redhat.com/errata/RHSA-2025:7422
-Red Hat update for ghostscript,CVE-2024-46952,8.4,MEDIUM,Qualys QID,5/15 CH - QID Available (251416),https://access.redhat.com/errata/RHSA-2025:7422
-Red Hat update for ghostscript,CVE-2024-46953,7.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251416),https://access.redhat.com/errata/RHSA-2025:7422
-Red Hat update for ghostscript,CVE-2023-46751,8.2,LOW,Qualys QID,5/15 CH - QID Available (251416),https://access.redhat.com/errata/RHSA-2025:7422
-Red Hat update for ghostscript,CVE-2024-46954,8.4,LOW,Qualys QID,5/15 CH - QID Available (251416),https://access.redhat.com/errata/RHSA-2025:7422
-Red Hat update for kernel,CVE-2025-21633,7.8,LOW,Qualys QID,5/15 CH - QID Available (251414),https://access.redhat.com/errata/RHSA-2025:7423
-Red Hat update for nodejs:22,CVE-2025-31498,7,LOW,Qualys QID,"5/15 CH - QID Available (251463, 251409)","https://access.redhat.com/errata/RHSA-2025:7426
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-4664,N/A,LOW,None,"5/16 CH - Monitor for QID, Vulnerability Alert issued. Added information to existing tracking item.",https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#may-15-2025
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-4609,N/A,LOW,None,"5/16 CH - Monitor for QID, Vulnerability Alert issued. Added information to existing tracking item.",https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#may-15-2025
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2025-3875,7.5,LOW,Qualys QID,"5/16 CH - QID is Available (383239, 383238)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-34
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-35"
+Red Hat update for dotnet9.0,CVE-2025-26646,8,LOW,Qualys QID,"5/16 CH QID Available (251477, 251471, 251476, 251482)","https://access.redhat.com/errata/RHSA-2025:7571
+https://access.redhat.com/errata/RHSA-2025:7589
+https://access.redhat.com/errata/RHSA-2025:7598
+https://access.redhat.com/errata/RHSA-2025:7600"
+Red Hat update for expat,CVE-2024-8176,7.5,LOW,Qualys QID,5/16 CH QID Available (251394),https://access.redhat.com/errata/RHSA-2025:7444
+Red Hat update for kernel,CVE-2024-53141,7,LOW,Qualys QID,,"https://access.redhat.com/errata/RHSA-2025:4723
+https://access.redhat.com/errata/RHSA-2025:7682"
+Red Hat update for kernel,CVE-2025-21756,7.8,LOW,Qualys QID,5/16 CH QID Available (251496),https://access.redhat.com/errata/RHSA-2025:7682
+Red Hat update for nodejs:22,CVE-2025-31498,7,LOW,Qualys QID,"5/16 CH QID Available (251426, 251409)","https://access.redhat.com/errata/RHSA-2025:7426
 https://access.redhat.com/errata/RHSA-2025:7433"
-Red Hat update for firefox,CVE-2025-2817,8.8,MEDIUM,Qualys QID,5/15 CH - QID Available (251422),https://access.redhat.com/errata/RHSA-2025:7543
-Red Hat update for firefox,CVE-2025-4083,9.1,LOW,Qualys QID,5/15 CH - QID Available (251422),https://access.redhat.com/errata/RHSA-2025:7543
-Red Hat update for nodejs:22,CVE-2025-3277,7.3,MEDIUM,Qualys QID,5/15 CH - QID Available (251424),https://access.redhat.com/errata/RHSA-2025:7433
-Red Hat update for kernel,CVE-2024-53141,7,LOW,Qualys QID,5/15 CH - QID Available (251450),https://access.redhat.com/errata/RHSA-2025:7531
-Red Hat update for kernel,CVE-2022-49011,7.1,LOW,Qualys QID,5/15 CH - QID Available (251450),https://access.redhat.com/errata/RHSA-2025:7531
-Red Hat update for libjpeg-turbo,CVE-2020-13790,8.1,LOW,Qualys Pipeline,5/15 CH - QID in Pipeline (251465),https://access.redhat.com/errata/RHSA-2025:7540
-Google Chrome Multiple Vulnerabilities,CVE-2025-4609,High,LOW,Qualys Pipeline,5/15 CH - QID in Pipeline (383237),https://chromereleases.googleblog.com/2025/05/stable-channel-update-for-desktop_14.html
-Google Chrome Multiple Vulnerabilities,CVE-2025-4664,High,LOW,Qualys Pipeline,5/15 CH - QID in Pipeline (383237),https://chromereleases.googleblog.com/2025/05/stable-channel-update-for-desktop_14.html
-IBM Integration Bus for z/OS Multiple Vulnerabilities,CVE-2025-1471,7.8,LOW,None,5/15 CH - Task to PMG,https://www.ibm.com/support/pages/node/7231939
-Palo Alto Networks GlobalProtect Privilege Escalation Vulnerability,CVE-2025-0131,6.5,MEDIUM,None,5/15 CH - Monitor for QID,https://security.paloaltonetworks.com/CVE-2025-0131
-Palo Alto Networks PAN-OS Denial of Service Vulnerability,CVE-2025-0130,5.9,LOW,None,5/15 CH - Monitor for QID,https://security.paloaltonetworks.com/CVE-2025-0130
-Palo Alto Networks PAN-OS GlobalProtect Gateway and Portal Cross-Site Scripting Vulnerability,CVE-2025-0133,6.5,LOW,Qualys Pipeline,5/15 CH - QID in Pipeline (732522),https://security.paloaltonetworks.com/CVE-2025-0133
-PAN-OS Management Web Interface,CVE-2025-0137,3.5,LOW,Qualys Pipeline,5/15 CH - QID in Pipeline (732520),https://security.paloaltonetworks.com/CVE-2025-0137
+Red Hat update for osbuild-composer,CVE-2025-30204,7.5,LOW,Qualys QID,"5/16 CH QID Available (251392, 251369)","https://access.redhat.com/errata/RHSA-2025:7404
+https://access.redhat.com/errata/RHSA-2025:7425"
+Red Hat update for php:8.2,CVE-2025-1217,7.3,MEDIUM,Qualys QID,"5/16 CH QID Available (251438, 251411, 251441)","https://access.redhat.com/errata/RHSA-2025:7418
+https://access.redhat.com/errata/RHSA-2025:7431
+https://access.redhat.com/errata/RHSA-2025:7432"
+Red Hat update for php:8.2,CVE-2025-1736,7.3,MEDIUM,Qualys QID,"5/16 CH QID Available (251438, 251411, 251441)","https://access.redhat.com/errata/RHSA-2025:7418
+https://access.redhat.com/errata/RHSA-2025:7431
+https://access.redhat.com/errata/RHSA-2025:7432"
+Red Hat update for redis:6,CVE-2025-21605,7.5,LOW,Qualys QID,"5/16 CH QID Available (251375, 251410, 251485, 251493)","https://access.redhat.com/errata/RHSA-2025:7429
+https://access.redhat.com/errata/RHSA-2025:7438
+https://access.redhat.com/errata/RHSA-2025:7630
+https://access.redhat.com/errata/RHSA-2025:7686"
+Red Hat update for thunderbird,CVE-2025-2817,8.8,MEDIUM,Qualys QID,"5/16 CH QID Available (251358, 251422, 251497)","https://access.redhat.com/errata/RHSA-2025:7428
+https://access.redhat.com/errata/RHSA-2025:7543
+https://access.redhat.com/errata/RHSA-2025:7689"
+Red Hat update for thunderbird,CVE-2025-4083,9.1,LOW,Qualys QID,"5/16 CH QID Available (251358, 251422, 251497)","https://access.redhat.com/errata/RHSA-2025:7428
+https://access.redhat.com/errata/RHSA-2025:7543
+https://access.redhat.com/errata/RHSA-2025:7689"
+Red Hat update for xorg-x11-server,CVE-2025-26594,7.8,MEDIUM,Qualys QID,"5/16 CH QID Available (251399, 251406)","https://access.redhat.com/errata/RHSA-2025:7163
+https://access.redhat.com/errata/RHSA-2025:7165"
+Red Hat update for xorg-x11-server,CVE-2025-26600,7.8,MEDIUM,Qualys QID,"5/16 CH QID Available (251399, 251406)","https://access.redhat.com/errata/RHSA-2025:7163
+https://access.redhat.com/errata/RHSA-2025:7165"
+Red Hat update for xorg-x11-server,CVE-2025-26599,7.8,MEDIUM,Qualys QID,"5/16 CH QID Available (251399, 251406)","https://access.redhat.com/errata/RHSA-2025:7163
+https://access.redhat.com/errata/RHSA-2025:7165"
+Red Hat update for xorg-x11-server,CVE-2024-9632,7.8,MEDIUM,Qualys QID,"5/16 CH QID Available (251399, 251406)","https://access.redhat.com/errata/RHSA-2025:7163
+https://access.redhat.com/errata/RHSA-2025:7165"
+Red Hat update for xorg-x11-server,CVE-2025-26596,7.8,MEDIUM,Qualys QID,"5/16 CH QID Available (251399, 251406)","https://access.redhat.com/errata/RHSA-2025:7163
+https://access.redhat.com/errata/RHSA-2025:7165"
+Red Hat update for xorg-x11-server,CVE-2025-26598,7.8,MEDIUM,Qualys QID,"5/16 CH QID Available (251399, 251406)","https://access.redhat.com/errata/RHSA-2025:7163
+https://access.redhat.com/errata/RHSA-2025:7165"
+Red Hat update for xorg-x11-server,CVE-2025-26595,7.8,MEDIUM,Qualys QID,"5/16 CH QID Available (251399, 251406)","https://access.redhat.com/errata/RHSA-2025:7163
+https://access.redhat.com/errata/RHSA-2025:7165"
+Red Hat update for xorg-x11-server,CVE-2025-26601,7.8,MEDIUM,Qualys QID,"5/16 CH QID Available (251399, 251406)","https://access.redhat.com/errata/RHSA-2025:7163
+https://access.redhat.com/errata/RHSA-2025:7165"
+Red Hat update for xorg-x11-server,CVE-2025-26597,7.8,MEDIUM,Qualys QID,"5/16 CH QID Available (251399, 251406)","https://access.redhat.com/errata/RHSA-2025:7163
+https://access.redhat.com/errata/RHSA-2025:7165"
+Red Hat update for yelp and yelp-xsl,CVE-2025-3155,7.4,LOW,Qualys QID,5/16 CH QID Available (251466),https://access.redhat.com/errata/RHSA-2025:7569
+Red Hat xdg-utils Rejection Notice,CVE-2022-4055,7.4,MEDIUM,Qualys QID,5/16 CH QID Available (251489),https://access.redhat.com/errata/RHSA-2025:7672
+Zoom Multiple Products Multiple Privilege Escalation Vulnerabilities,CVE-2025-30663,8.8,MEDIUM,Qualys QID,5/16 CH - QID in Pipeline (383219),"https://www.zoom.com/en/trust/security-bulletin/zsb-25016
+https://www.zoom.com/en/trust/security-bulletin/zsb-25017"
