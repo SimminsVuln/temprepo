@@ -1,7 +1,13 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Confluence Server RCE Vulnerability,CVE-2023-22527,10,HIGH,Qualys QID,,https://jira.atlassian.com/browse/CONFSERVER-93833
-Mozilla Firefox out-of-bounds vulnerabilities,CVE-2025-4918,Critical,MEDIUM,Qualys Pipeline,"5/19 CH - Qualys QID in Pipeline(383254, 383252)",https://www.mozilla.org/en-US/security/advisories/mfsa2025-37/
-Mozilla Firefox out-of-bounds vulnerabilities,CVE-2025-4919,Critical,MEDIUM,Qualys Pipeline,"5/19 CH - Qualys QID in Pipeline(383254, 383252)",https://www.mozilla.org/en-US/security/advisories/mfsa2025-37/
-Red Hat update for kernel,CVE-2025-21966,7,LOW,Qualys Pipeline,5/19 CH - Qualys QID in Pipeline (251997),https://access.redhat.com/errata/RHSA-2025:7903
-Red Hat update for kernel,CVE-2025-21756,7.8,LOW,Qualys Pipeline,5/19 CH - Qualys QID in Pipeline (251997),https://access.redhat.com/errata/RHSA-2025:7903
-Red Hat update for compat-openssl10,CVE-2023-0286,7.4,not available,Qualys Pipeline,5/19 CH - Qualys QID in Pipeline (251994),https://access.redhat.com/errata/RHSA-2025:7895
+IBM i IBM TCP/IP Connectivity Utilities Privilege Escalation Vulnerability,CVE-2025-33103,8.5,MEDIUM,None,5/20 CH - Task to,https://www.ibm.com/support/pages/node/7233799
+IBM Power Systems Multiple Vulnerabilities,CVE-2024-41007,7.8,LOW,None,5/20 CH - Task to,"https://www.ibm.com/support/pages/node/7233485
+https://www.ibm.com/support/pages/node/7233492
+https://www.ibm.com/support/pages/node/7233756"
+IBM WebSphere Application Server / WebSphere Application Server Liberty IBM Java Multiple Vulnerabilities,CVE-2025-4447,7,LOW,None,5/20 CH - Task to,https://www.ibm.com/support/pages/node/7233442
+IBM WebSphere Application Server / WebSphere Application Server Liberty IBM Java Multiple Vulnerabilities,CVE-2025-21587,7.4,MEDIUM,None,5/20 CH - Task to,https://www.ibm.com/support/pages/node/7233442
+NetApp Active IQ Unified Manager for VMware vSphere Grub2 ,CVE-2025-0624,7.6,LOW,None,"Status as of 5/20
+
+No remediation available. Monitoring for patching",https://security.netapp.com/advisory/ntap-20250516-0006/
+Red Hat update for compat-openssl11,CVE-2023-0286,7.4,LOW,,,https://access.redhat.com/errata/RHSA-2025:7937
+Red Hat update for kernel,CVE-2024-53141,7,LOW,,,https://access.redhat.com/errata/RHSA-2025:7898
+Red Hat update for osbuild-composer,CVE-2025-30204,7.5,LOW,,,https://access.redhat.com/errata/RHSA-2025:7967
