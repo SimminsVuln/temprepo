@@ -1,13 +1,12 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-IBM i IBM TCP/IP Connectivity Utilities Privilege Escalation Vulnerability,CVE-2025-33103,8.5,MEDIUM,None,5/20 CH - Task to,https://www.ibm.com/support/pages/node/7233799
-IBM Power Systems Multiple Vulnerabilities,CVE-2024-41007,7.8,LOW,None,5/20 CH - Task to,"https://www.ibm.com/support/pages/node/7233485
+IBM TS4500 Integrated Management Console (IMC) Multiple Vulnerabilities,CVE-2023-44487,7.5,LOW,None,Investigating for use,https://www.ibm.com/support/pages/node/7185978
+IBM TS4500 Integrated Management Console (IMC) Multiple Vulnerabilities,CVE-2024-38477,7.5,LOW,None,Investigating for use,https://www.ibm.com/support/pages/node/7185978
+IBM TS4500 Integrated Management Console (IMC) Multiple Vulnerabilities,CVE-2023-31122,7.5,LOW,None,Investigating for use,https://www.ibm.com/support/pages/node/7185978
+IBM TS4500 Integrated Management Console (IMC) Multiple Vulnerabilities,CVE-2023-45802,7.5,MEDIUM,None,Investigating for use,https://www.ibm.com/support/pages/node/7185978
+IBM TS4500 Integrated Management Console (IMC) Multiple Vulnerabilities,CVE-2024-38474,8.2,MEDIUM,None,Investigating for use,https://www.ibm.com/support/pages/node/7185978
+IBM TS4500 Integrated Management Console (IMC) Multiple Vulnerabilities,CVE-2024-38475,8.2,HIGH,None,Investigating for use,https://www.ibm.com/support/pages/node/7185978
+IBM Power Systems Multiple Vulnerabilities,CVE-2024-41007,7.8,LOW,None,Investigating for use,"https://www.ibm.com/support/pages/node/7233485
 https://www.ibm.com/support/pages/node/7233492
 https://www.ibm.com/support/pages/node/7233756"
-IBM WebSphere Application Server / WebSphere Application Server Liberty IBM Java Multiple Vulnerabilities,CVE-2025-4447,7,LOW,None,5/20 CH - Task to,https://www.ibm.com/support/pages/node/7233442
-IBM WebSphere Application Server / WebSphere Application Server Liberty IBM Java Multiple Vulnerabilities,CVE-2025-21587,7.4,MEDIUM,None,5/20 CH - Task to,https://www.ibm.com/support/pages/node/7233442
-NetApp Active IQ Unified Manager for VMware vSphere Grub2 ,CVE-2025-0624,7.6,LOW,None,"Status as of 5/20
-
-No remediation available. Monitoring for patching",https://security.netapp.com/advisory/ntap-20250516-0006/
-Red Hat update for compat-openssl11,CVE-2023-0286,7.4,LOW,,,https://access.redhat.com/errata/RHSA-2025:7937
-Red Hat update for kernel,CVE-2024-53141,7,LOW,,,https://access.redhat.com/errata/RHSA-2025:7898
-Red Hat update for osbuild-composer,CVE-2025-30204,7.5,LOW,,,https://access.redhat.com/errata/RHSA-2025:7967
+IBM AIX / Virtual I/O Server ISC BIND Multiple Denial of Service Vulnerabilities,CVE-2024-11187,7.5,LOW,Qualys Pipeline,5/21 CH - QID in Pipeline (330220),https://www.ibm.com/support/pages/node/7233964
+IBM AIX / Virtual I/O Server ISC BIND Multiple Denial of Service Vulnerabilities,CVE-2024-12705,7.5,LOW,Qualys Pipeline,5/21 CH - QID in Pipeline (330220),https://www.ibm.com/support/pages/node/7233964
