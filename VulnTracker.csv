@@ -27,3 +27,4 @@ https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0120748"
 HCL AppScan Multiple Vulnerabilities,CVE-2025-2783,8.3,not available,,,"https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0120131
 https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0120748"
 IBM Integration Bus for z/OS Apache Tomcat Multiple Vulnerabilities,CVE-2025-31651,9.8,HIGH,,,https://www.ibm.com/support/pages/node/7234040
+Graphana XSS Vulnerability,CVE-2025-4123,7.6,,Qualys QID,5/22 CH - QID Available (942488),https://grafana.com/security/security-advisories/cve-2025-4123/
