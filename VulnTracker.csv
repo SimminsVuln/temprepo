@@ -1,12 +1,29 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-IBM TS4500 Integrated Management Console (IMC) Multiple Vulnerabilities,CVE-2023-44487,7.5,LOW,None,Investigating for use,https://www.ibm.com/support/pages/node/7185978
-IBM TS4500 Integrated Management Console (IMC) Multiple Vulnerabilities,CVE-2024-38477,7.5,LOW,None,Investigating for use,https://www.ibm.com/support/pages/node/7185978
-IBM TS4500 Integrated Management Console (IMC) Multiple Vulnerabilities,CVE-2023-31122,7.5,LOW,None,Investigating for use,https://www.ibm.com/support/pages/node/7185978
-IBM TS4500 Integrated Management Console (IMC) Multiple Vulnerabilities,CVE-2023-45802,7.5,MEDIUM,None,Investigating for use,https://www.ibm.com/support/pages/node/7185978
-IBM TS4500 Integrated Management Console (IMC) Multiple Vulnerabilities,CVE-2024-38474,8.2,MEDIUM,None,Investigating for use,https://www.ibm.com/support/pages/node/7185978
-IBM TS4500 Integrated Management Console (IMC) Multiple Vulnerabilities,CVE-2024-38475,8.2,HIGH,None,Investigating for use,https://www.ibm.com/support/pages/node/7185978
-IBM Power Systems Multiple Vulnerabilities,CVE-2024-41007,7.8,LOW,None,Investigating for use,"https://www.ibm.com/support/pages/node/7233485
-https://www.ibm.com/support/pages/node/7233492
-https://www.ibm.com/support/pages/node/7233756"
-IBM AIX / Virtual I/O Server ISC BIND Multiple Denial of Service Vulnerabilities,CVE-2024-11187,7.5,LOW,Qualys Pipeline,5/21 CH - QID in Pipeline (330220),https://www.ibm.com/support/pages/node/7233964
-IBM AIX / Virtual I/O Server ISC BIND Multiple Denial of Service Vulnerabilities,CVE-2024-12705,7.5,LOW,Qualys Pipeline,5/21 CH - QID in Pipeline (330220),https://www.ibm.com/support/pages/node/7233964
+Red Hat OpenShift Container Platform Multiple Vulnerabilities,CVE-2025-27144,7.5,LOW,Qualys QID,5/22 CH - QID Available (251451),"https://access.redhat.com/errata/RHSA-2025:7462
+"
+Red Hat OpenShift Container Platform Multiple Vulnerabilities,CVE-2025-22869,7.5,LOW,Qualys QID,5/22 CH - QID Available (251451),"https://access.redhat.com/errata/RHSA-2025:7462
+"
+Red Hat OpenShift Container Platform Multiple Vulnerabilities,CVE-2025-21756,7.8,LOW,Qualys QID,5/22 CH - QID Available (252007),https://access.redhat.com/errata/RHSA-2025:8056
+Red Hat update for firefox,CVE-2025-4918,7.5,MEDIUM,Qualys Pipeline,5/22 CH - QID in Pipeline (252002),"https://access.redhat.com/errata/RHSA-2025:8049
+"
+Red Hat update for firefox,CVE-2025-4919,8.8,MEDIUM,Qualys Pipeline,5/22 CH - QID in Pipeline (252002),"https://access.redhat.com/errata/RHSA-2025:8049
+"
+Red Hat update for kernel,CVE-2024-40906,7.8,LOW,Qualys Pipeline,5/22 CH - QID in Pipeline (252007),https://access.redhat.com/errata/RHSA-2025:8056
+IBM AIX python3.11.base Denial of Service Vulnerability,CVE-2024-8176,7.5,LOW,Qualys Pipeline,5/22 CH - QID in Pipeline (330221),"https://aix.software.ibm.com/aix/efixes/security/python_advisory15.asc
+https://www.ibm.com/support/pages/node/7233966"
+Google Chrome Multiple Vulnerabilities,CVE-2025-5063,not available,not available,None,5/22 CH - Monitor for QID,https://chromereleases.googleblog.com/2025/05/early-stable-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-5064,not available,not available,None,5/22 CH - Monitor for QID,https://chromereleases.googleblog.com/2025/05/early-stable-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-5066,not available,not available,None,5/22 CH - Monitor for QID,https://chromereleases.googleblog.com/2025/05/early-stable-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-5065,not available,not available,None,5/22 CH - Monitor for QID,https://chromereleases.googleblog.com/2025/05/early-stable-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-5067,not available,not available,None,5/22 CH - Monitor for QID,https://chromereleases.googleblog.com/2025/05/early-stable-update-for-desktop.html
+Atlassian Crucible json-smart Denial of Service Vulnerability,CVE-2024-57699,7.5,LOW,Qualys Pipeline,5/22 CH - QID in Pipeline (383278),https://jira.atlassian.com/browse/CRUC-8661
+Atlassian Jira Service Management Security Bypass Vulnerability,CVE-2025-22157,8.3,MEDIUM,Qualys Pipeline,"5/22 CH - QID in Pipeline (732542, 383277)","https://jira.atlassian.com/browse/JRASERVER-78766
+https://jira.atlassian.com/browse/JSDSERVER-16206"
+Atlassian Jira Service Management netty-handler Denial of Service Vulnerability,CVE-2025-24970,7.5,LOW,Qualys Pipeline,"5/22 CH - QID in Pipeline (732546, 383274)",https://jira.atlassian.com/browse/JSDSERVER-16207
+Cisco Unified Contact Center Enterprise Multiple Security Bypass Vulnerabilities,CVE-2025-20113,7.1,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cuis-priv-esc-3Pk96SU4
+Cisco Identity Services Engine (ISE) RADIUS Denial of Service Vulnerability,CVE-2025-20152,8.6,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-restart-ss-uf986G2Q
+HCL AppScan Multiple Vulnerabilities,CVE-2024-27983,7.5,LOW,,,"https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0120131
+https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0120748"
+HCL AppScan Multiple Vulnerabilities,CVE-2025-2783,8.3,not available,,,"https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0120131
+https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0120748"
+IBM Integration Bus for z/OS Apache Tomcat Multiple Vulnerabilities,CVE-2025-31651,9.8,HIGH,,,https://www.ibm.com/support/pages/node/7234040
