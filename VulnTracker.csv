@@ -1,30 +1,71 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Red Hat OpenShift Container Platform Multiple Vulnerabilities,CVE-2025-27144,7.5,LOW,Qualys QID,5/22 CH - QID Available (251451),"https://access.redhat.com/errata/RHSA-2025:7462
-"
-Red Hat OpenShift Container Platform Multiple Vulnerabilities,CVE-2025-22869,7.5,LOW,Qualys QID,5/22 CH - QID Available (251451),"https://access.redhat.com/errata/RHSA-2025:7462
-"
-Red Hat OpenShift Container Platform Multiple Vulnerabilities,CVE-2025-21756,7.8,LOW,Qualys QID,5/22 CH - QID Available (252007),https://access.redhat.com/errata/RHSA-2025:8056
-Red Hat update for firefox,CVE-2025-4918,7.5,MEDIUM,Qualys Pipeline,5/22 CH - QID in Pipeline (252002),"https://access.redhat.com/errata/RHSA-2025:8049
-"
-Red Hat update for firefox,CVE-2025-4919,8.8,MEDIUM,Qualys Pipeline,5/22 CH - QID in Pipeline (252002),"https://access.redhat.com/errata/RHSA-2025:8049
-"
-Red Hat update for kernel,CVE-2024-40906,7.8,LOW,Qualys Pipeline,5/22 CH - QID in Pipeline (252007),https://access.redhat.com/errata/RHSA-2025:8056
-IBM AIX python3.11.base Denial of Service Vulnerability,CVE-2024-8176,7.5,LOW,Qualys Pipeline,5/22 CH - QID in Pipeline (330221),"https://aix.software.ibm.com/aix/efixes/security/python_advisory15.asc
-https://www.ibm.com/support/pages/node/7233966"
-Google Chrome Multiple Vulnerabilities,CVE-2025-5063,not available,not available,None,5/22 CH - Monitor for QID,https://chromereleases.googleblog.com/2025/05/early-stable-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2025-5064,not available,not available,None,5/22 CH - Monitor for QID,https://chromereleases.googleblog.com/2025/05/early-stable-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2025-5066,not available,not available,None,5/22 CH - Monitor for QID,https://chromereleases.googleblog.com/2025/05/early-stable-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2025-5065,not available,not available,None,5/22 CH - Monitor for QID,https://chromereleases.googleblog.com/2025/05/early-stable-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2025-5067,not available,not available,None,5/22 CH - Monitor for QID,https://chromereleases.googleblog.com/2025/05/early-stable-update-for-desktop.html
-Atlassian Crucible json-smart Denial of Service Vulnerability,CVE-2024-57699,7.5,LOW,Qualys Pipeline,5/22 CH - QID in Pipeline (383278),https://jira.atlassian.com/browse/CRUC-8661
-Atlassian Jira Service Management Security Bypass Vulnerability,CVE-2025-22157,8.3,MEDIUM,Qualys Pipeline,"5/22 CH - QID in Pipeline (732542, 383277)","https://jira.atlassian.com/browse/JRASERVER-78766
-https://jira.atlassian.com/browse/JSDSERVER-16206"
-Atlassian Jira Service Management netty-handler Denial of Service Vulnerability,CVE-2025-24970,7.5,LOW,Qualys Pipeline,"5/22 CH - QID in Pipeline (732546, 383274)",https://jira.atlassian.com/browse/JSDSERVER-16207
-Cisco Unified Contact Center Enterprise Multiple Security Bypass Vulnerabilities,CVE-2025-20113,7.1,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cuis-priv-esc-3Pk96SU4
-Cisco Identity Services Engine (ISE) RADIUS Denial of Service Vulnerability,CVE-2025-20152,8.6,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-restart-ss-uf986G2Q
-HCL AppScan Multiple Vulnerabilities,CVE-2024-27983,7.5,LOW,,,"https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0120131
-https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0120748"
-HCL AppScan Multiple Vulnerabilities,CVE-2025-2783,8.3,not available,,,"https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0120131
-https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0120748"
-IBM Integration Bus for z/OS Apache Tomcat Multiple Vulnerabilities,CVE-2025-31651,9.8,HIGH,,,https://www.ibm.com/support/pages/node/7234040
-Graphana XSS Vulnerability,CVE-2025-4123,7.6,,Qualys QID,5/22 CH - QID Available (942488),https://grafana.com/security/security-advisories/cve-2025-4123/
+Dell EMC Multiple Products Multiple Vulnerabilities,CVE-2016-2105,7.5,MEDIUM,,,"
+https://www.dell.com/support/kbdoc/en-uk/000153922/dsa-2020-062-dell-emc-unisphere-for-powermax-unisphere-for-powermax-virtual-appliance-solutions-enabler-solutions-enabler-virtual-appliance-and-powermax-embedded-management-security-update-for-multiple-third-party-component-vulnerabilities"
+Dell EMC Multiple Products Multiple Vulnerabilities,CVE-2015-3194,7.5,LOW,,,"
+https://www.dell.com/support/kbdoc/en-uk/000153922/dsa-2020-062-dell-emc-unisphere-for-powermax-unisphere-for-powermax-virtual-appliance-solutions-enabler-solutions-enabler-virtual-appliance-and-powermax-embedded-management-security-update-for-multiple-third-party-component-vulnerabilities"
+Dell EMC Multiple Products Multiple Vulnerabilities,CVE-2016-2109,7.5,LOW,,,"
+https://www.dell.com/support/kbdoc/en-uk/000153922/dsa-2020-062-dell-emc-unisphere-for-powermax-unisphere-for-powermax-virtual-appliance-solutions-enabler-solutions-enabler-virtual-appliance-and-powermax-embedded-management-security-update-for-multiple-third-party-component-vulnerabilities"
+Dell EMC Multiple Products Multiple Vulnerabilities,CVE-2016-2842,7.5,LOW,,,"
+https://www.dell.com/support/kbdoc/en-uk/000153922/dsa-2020-062-dell-emc-unisphere-for-powermax-unisphere-for-powermax-virtual-appliance-solutions-enabler-solutions-enabler-virtual-appliance-and-powermax-embedded-management-security-update-for-multiple-third-party-component-vulnerabilities"
+Dell EMC Multiple Products Multiple Vulnerabilities,CVE-2017-3731,7.5,LOW,,,"
+https://www.dell.com/support/kbdoc/en-uk/000153922/dsa-2020-062-dell-emc-unisphere-for-powermax-unisphere-for-powermax-virtual-appliance-solutions-enabler-solutions-enabler-virtual-appliance-and-powermax-embedded-management-security-update-for-multiple-third-party-component-vulnerabilities"
+Dell EMC Multiple Products Multiple Vulnerabilities,CVE-2016-8610,7.5,LOW,,,"
+https://www.dell.com/support/kbdoc/en-uk/000153922/dsa-2020-062-dell-emc-unisphere-for-powermax-unisphere-for-powermax-virtual-appliance-solutions-enabler-solutions-enabler-virtual-appliance-and-powermax-embedded-management-security-update-for-multiple-third-party-component-vulnerabilities"
+Dell EMC Multiple Products Multiple Vulnerabilities,CVE-2019-13118,7.5,LOW,,,"
+https://www.dell.com/support/kbdoc/en-uk/000153922/dsa-2020-062-dell-emc-unisphere-for-powermax-unisphere-for-powermax-virtual-appliance-solutions-enabler-solutions-enabler-virtual-appliance-and-powermax-embedded-management-security-update-for-multiple-third-party-component-vulnerabilities"
+Dell EMC Multiple Products Multiple Vulnerabilities,CVE-2016-0797,7.5,LOW,,,"
+https://www.dell.com/support/kbdoc/en-uk/000153922/dsa-2020-062-dell-emc-unisphere-for-powermax-unisphere-for-powermax-virtual-appliance-solutions-enabler-solutions-enabler-virtual-appliance-and-powermax-embedded-management-security-update-for-multiple-third-party-component-vulnerabilities"
+Dell EMC Multiple Products Multiple Vulnerabilities,CVE-2016-6304,7.5,LOW,,,"
+https://www.dell.com/support/kbdoc/en-uk/000153922/dsa-2020-062-dell-emc-unisphere-for-powermax-unisphere-for-powermax-virtual-appliance-solutions-enabler-solutions-enabler-virtual-appliance-and-powermax-embedded-management-security-update-for-multiple-third-party-component-vulnerabilities"
+Dell EMC Multiple Products Multiple Vulnerabilities,CVE-2016-2106,7.5,MEDIUM,,,"
+https://www.dell.com/support/kbdoc/en-uk/000153922/dsa-2020-062-dell-emc-unisphere-for-powermax-unisphere-for-powermax-virtual-appliance-solutions-enabler-solutions-enabler-virtual-appliance-and-powermax-embedded-management-security-update-for-multiple-third-party-component-vulnerabilities"
+Dell EMC Multiple Products Multiple Vulnerabilities,CVE-2018-0732,7.5,LOW,,,"
+https://www.dell.com/support/kbdoc/en-uk/000153922/dsa-2020-062-dell-emc-unisphere-for-powermax-unisphere-for-powermax-virtual-appliance-solutions-enabler-solutions-enabler-virtual-appliance-and-powermax-embedded-management-security-update-for-multiple-third-party-component-vulnerabilities"
+Dell EMC Multiple Products Multiple Vulnerabilities,CVE-2015-1789,7.5,LOW,,,"
+https://www.dell.com/support/kbdoc/en-uk/000153922/dsa-2020-062-dell-emc-unisphere-for-powermax-unisphere-for-powermax-virtual-appliance-solutions-enabler-solutions-enabler-virtual-appliance-and-powermax-embedded-management-security-update-for-multiple-third-party-component-vulnerabilities"
+Dell EMC Multiple Products Multiple Vulnerabilities,CVE-2019-12572,7.8,LOW,,,"
+https://www.dell.com/support/kbdoc/en-uk/000153922/dsa-2020-062-dell-emc-unisphere-for-powermax-unisphere-for-powermax-virtual-appliance-solutions-enabler-solutions-enabler-virtual-appliance-and-powermax-embedded-management-security-update-for-multiple-third-party-component-vulnerabilities"
+Dell EMC Multiple Products Multiple Vulnerabilities,CVE-2020-2604,8.1,MEDIUM,,,"
+https://www.dell.com/support/kbdoc/en-uk/000153922/dsa-2020-062-dell-emc-unisphere-for-powermax-unisphere-for-powermax-virtual-appliance-solutions-enabler-solutions-enabler-virtual-appliance-and-powermax-embedded-management-security-update-for-multiple-third-party-component-vulnerabilities"
+Dell EMC Multiple Products Multiple Vulnerabilities,CVE-2016-0799,9.8,LOW,,,"
+https://www.dell.com/support/kbdoc/en-uk/000153922/dsa-2020-062-dell-emc-unisphere-for-powermax-unisphere-for-powermax-virtual-appliance-solutions-enabler-solutions-enabler-virtual-appliance-and-powermax-embedded-management-security-update-for-multiple-third-party-component-vulnerabilities"
+HPE StoreOnce Multiple Security Bypass Vulnerabilities,CVE-2025-37093,9.8,HIGH,,,"https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbst04847en_us&docLocale=en_US
+https://www.zerodayinitiative.com/advisories/ZDI-25-313
+https://www.zerodayinitiative.com/advisories/ZDI-25-316"
+NetApp Active IQ Unified Manager Undertow Denial of Service Vulnerability,CVE-2023-5379,7.5,LOW,,,https://security.netapp.com/advisory/NTAP-20250530-0003
+Python Multiple Security Bypass Vulnerabilities,CVE-2025-4435,7.5,LOW,,,https://mail.python.org/archives/list/security-announce@python.org/thread/MAXIJJCUUMCL7ATZNDVEGGHUMQMUUKLG
+Python Multiple Security Bypass Vulnerabilities,CVE-2025-4330,7.5,LOW,,,https://mail.python.org/archives/list/security-announce@python.org/thread/MAXIJJCUUMCL7ATZNDVEGGHUMQMUUKLG
+Python Multiple Security Bypass Vulnerabilities,CVE-2025-4138,7.5,LOW,,,https://mail.python.org/archives/list/security-announce@python.org/thread/MAXIJJCUUMCL7ATZNDVEGGHUMQMUUKLG
+Python Multiple Security Bypass Vulnerabilities,CVE-2025-4517,9.4,MEDIUM,,,https://mail.python.org/archives/list/security-announce@python.org/thread/MAXIJJCUUMCL7ATZNDVEGGHUMQMUUKLG
+Red Hat OpenShift Container Platform Multiple Vulnerabilities,CVE-2025-2784,7,LOW,,6/4 CH = Monitor for QID,https://access.redhat.com/errata/RHSA-2025:8284
+Red Hat OpenShift Container Platform Multiple Vulnerabilities,CVE-2025-22868,7.5,LOW,,6/4 CH = Monitor for QID,https://access.redhat.com/errata/RHSA-2025:8284
+Red Hat OpenShift Container Platform Multiple Vulnerabilities,CVE-2025-4948,7.5,LOW,,6/4 CH = Monitor for QID,https://access.redhat.com/errata/RHSA-2025:8284
+Red Hat OpenShift Container Platform Multiple Vulnerabilities,CVE-2025-32049,7.5,LOW,,6/4 CH = Monitor for QID,https://access.redhat.com/errata/RHSA-2025:8284
+Red Hat OpenShift Container Platform Multiple Vulnerabilities,CVE-2025-21756,7.8,LOW,,"6/4 CH - QID Available (252082, 252084)","
+https://access.redhat.com/errata/RHSA-2025:8345
+https://access.redhat.com/errata/RHSA-2025:8346"
+Red Hat OpenShift Container Platform Multiple Vulnerabilities,CVE-2016-9840,8.8,LOW,,6/4 CH - QID Available (252078),"https://access.redhat.com/errata/RHSA-2025:8284
+https://access.redhat.com/errata/RHSA-2025:8395"
+Red Hat perl-CPAN,CVE-2020-16156,7.8,LOW,,6/4 CH - QID Available (252089),https://access.redhat.com/errata/RHSA-2025:8432
+Red Hat update for firefox,CVE-2025-4918,7.5,MEDIUM,,,https://access.redhat.com/errata/RHSA-2025:8465
+Red Hat update for firefox,CVE-2025-4919,8.8,MEDIUM,,,https://access.redhat.com/errata/RHSA-2025:8465
+Red Hat update for ghostscript,CVE-2025-27832,9.8,HIGH,,6/4 CH - QID Available (252090),https://access.redhat.com/errata/RHSA-2025:8421
+Red Hat update for git,CVE-2024-52005,7.5,LOW,,6/4 CH - QID Available (252080),https://access.redhat.com/errata/RHSA-2025:8414
+Red Hat update for java-1.8.0-ibm,CVE-2025-4447,7,LOW,,6/4 CH - QID Available (252077),https://access.redhat.com/errata/RHSA-2025:8431
+Red Hat update for java-1.8.0-ibm,CVE-2025-21587,7.4,MEDIUM,,6/4 CH - QID Available (252077),https://access.redhat.com/errata/RHSA-2025:8431
+Red Hat update for kernel,CVE-2022-3424,7,LOW,,6/4 CH - QID Available (252065),https://access.redhat.com/errata/RHSA-2025:8333
+Red Hat update for kernel,CVE-2025-21764,7.8,LOW,,6/4 CH - QID Available (252065),https://access.redhat.com/errata/RHSA-2025:8333
+Red Hat update for kpatch-patch,CVE-2024-53141,7.8,LOW,,"6/4 CH - QID Available (252082, 252084)","https://access.redhat.com/errata/RHSA-2025:8345
+https://access.redhat.com/errata/RHSA-2025:8346"
+Roundcube Webmail Arbitrary Code Execution Vulnerability,CVE-2025-49113,9.9,MEDIUM,,6/4 CH - QID Available (530134),https://roundcube.net/news/2025/06/01/security-updates-1.6.11-and-1.5.10
+Splunk Enterprise Multiple Vulnerabilities,CVE-2024-24791,7.5,LOW,,6/4 CH - QID Available (383327),"https://advisory.splunk.com/advisories/SVD-2025-0601
+https://advisory.splunk.com/advisories/SVD-2025-0603"
+Splunk Enterprise Multiple Vulnerabilities,CVE-2022-31159,7.9,LOW,,6/4 CH - QID Available (383327),"https://advisory.splunk.com/advisories/SVD-2025-0601
+https://advisory.splunk.com/advisories/SVD-2025-0603"
+Splunk Enterprise Multiple Vulnerabilities,CVE-2024-45337,9.1,MEDIUM,,6/4 CH - QID Available (383327),"https://advisory.splunk.com/advisories/SVD-2025-0601
+https://advisory.splunk.com/advisories/SVD-2025-0602
+https://advisory.splunk.com/advisories/SVD-2025-0603"
+Splunk Universal Forwarder Multiple Vulnerabilities,CVE-2025-22869,7.5,LOW,,6/4 CH - QID Available (383327),https://advisory.splunk.com/advisories/SVD-2025-0602
+Splunk Universal Forwarder Multiple Vulnerabilities,CVE-2025-20298,8,LOW,,6/4 CH - QID Available (383327),https://advisory.splunk.com/advisories/SVD-2025-0602
+WSO2 Enterprise Integrator,CVE-2024-7074,7.2,MEDIUM,,,"https://security.docs.wso2.com/en/latest/security-announcements/security-advisories/2024/WSO2-2024-2701
+https://security.docs.wso2.com/en/latest/security-announcements/security-advisories/2024/WSO2-2024-3566"
