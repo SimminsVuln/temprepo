@@ -1,47 +1,11 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Windows Assessment and Deployment Kit (Windows ADK) WiX Privilege Escalation Vulnerability,CVE-2024-29187,7.3,MEDIUM,Qualys QID,,"https://learn.microsoft.com/en-us/windows-hardware/get-started/what-s-new-in-kits-and-tools#whats-new-in-the-adk-101253981-republished-in-january-2025
-https://learn.microsoft.com/en-us/windows-hardware/get-started/what-s-new-in-kits-and-tools#whats-new-in-the-adk-101261002454-december-2024
-https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-29187"
-NetApp Multiple Products Libxml2 Denial of Service Vulnerability,CVE-2025-32415,7.5,LOW,None,"Status as of 6/6
-
-Monitoring for Remediation. 
-
-Remediation is Available for the following: 
-NetApp HCI Baseboard Management Controller (BMC) - H300S/H500S/H700S/H410S
-NetApp HCI Baseboard Management Controller (BMC) - H410C
-NetApp HCI Compute Node (Bootstrap OS)
-
-Affected Products
-Active IQ Unified Manager for VMware vSphere
-NetApp HCI Baseboard Management Controller (BMC) - H300S/H500S/H700S/H410S
-NetApp HCI Baseboard Management Controller (BMC) - H410C
-NetApp HCI Compute Node (Bootstrap OS)
-NetApp Manageability SDK
-ONTAP 9
-ONTAP tools for VMware vSphere 10
-
-Products Under Investigation
-NetApp SolidFire & HCI Management Node
-NetApp SolidFire & HCI Storage Node (Element Software)
-SnapManager for Hyper-V",https://security.netapp.com/advisory/ntap-20250605-0003/
-Red Hat update for nodejs:20,CVE-2025-23166,7.5,LOW,Qualys QID,"6/6 CH - QID Available (252091, 252092, 252096, 252101, 252100 )","https://access.redhat.com/errata/RHSA-2025:8467
-https://access.redhat.com/errata/RHSA-2025:8468
-https://access.redhat.com/errata/RHSA-2025:8493
-https://access.redhat.com/errata/RHSA-2025:8506
-https://access.redhat.com/errata/RHSA-2025:8514"
-Red Hat update for thunderbird,CVE-2025-4918,7.5,MEDIUM,Qualys QID,6/6 CH - QID Available (252110),https://access.redhat.com/errata/RHSA-2025:8608
-Wireshark Denial of Service Vulnerability,CVE-2025-5601,7.8,LOW,Qualys QID,6/6 CH - QID Available (383337),"https://gitlab.com/wireshark/wireshark/-/issues/20509
-https://www.wireshark.org/docs/relnotes/wireshark-4.2.12.html
-https://www.wireshark.org/docs/relnotes/wireshark-4.4.7.html
-https://www.wireshark.org/security/wnpa-sec-2025-02.html"
-Axis-OS Multiple Security Bypass Vulnerabilities,CVE-2025-0358,8.8,MEDIUM,,,"https://www.axis.com/dam/public/04/f3/1c/cve-2025-0324pdf-en-US-483807.pdf
-https://www.axis.com/dam/public/35/90/85/cve-2025-0358pdf-en-US-483809.pdf"
-Electron V8 Arbitrary Code Execution Vulnerability,CVE-2025-5419,8.8,MEDIUM,,,https://releases.electronjs.org/release/v35.5.1
-Red Hat update for thunderbird,CVE-2025-4919,8.8,MEDIUM,Qualys QID,6/6 CH - QID Available (252110),"
-https://access.redhat.com/errata/RHSA-2025:8608"
-Red Hat go-toolset:rhel8 Rejection Notice,CVE-2025-22871,9.1,MEDIUM,Qualys QID,"6/6 CH - QID Available (252093, 252094, 252095)","https://access.redhat.com/errata/RHSA-2025:8476
-https://access.redhat.com/errata/RHSA-2025:8477
-https://access.redhat.com/errata/RHSA-2025:8478"
-Axis-OS Multiple Security Bypass Vulnerabilities,CVE-2025-0324,9.4,MEDIUM,,,"https://www.axis.com/dam/public/04/f3/1c/cve-2025-0324pdf-en-US-483807.pdf
-https://www.axis.com/dam/public/35/90/85/cve-2025-0358pdf-en-US-483809.pdf"
-Common Components and Services for z/OS Apache Tomcat Unspecified Vulnerability,,,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25708
+QNAP NAS QES Arbitrary Code Execution Vulnerability,CVE-2024-6387,8.1,MEDIUM,None,6/9 CH - Monitor for QID,https://www.qnap.com/en-us/security-advisory/qsa-25-13
+Red Hat glibc ,CVE-2025-4802,7.8,HIGH,None,6/9 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:8655
+Red Hat update for kernel,CVE-2025-21920,7.1,LOW,None,6/9 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:8643
+Red Hat update for kernel,CVE-2025-22055,7.1,LOW,None,6/9 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:8643
+Red Hat update for python-tornado,CVE-2025-47287,7.5,LOW,None,6/9 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:8664
+RSA Authentication Manager Multiple Vulnerabilities,CVE-2025-21587,7.4,MEDIUM,None,6/9 CH - Monitor for QID,https://community.rsa.com/s/article/RSA-2025-06-RSA-Authentication-Manager-Security-Update-for-Third-Party-Component-Vulnerabilities
+RSA Authentication Manager Multiple Vulnerabilities,CVE-2025-24970,7.5,LOW,None,6/9 CH - Monitor for QID,https://community.rsa.com/s/article/RSA-2025-06-RSA-Authentication-Manager-Security-Update-for-Third-Party-Component-Vulnerabilities
+RSA Authentication Manager Multiple Vulnerabilities,CVE-2024-56642,7.8,LOW,None,6/9 CH - Monitor for QID,https://community.rsa.com/s/article/RSA-2025-06-RSA-Authentication-Manager-Security-Update-for-Third-Party-Component-Vulnerabilities
+RSA Authentication Manager Multiple Vulnerabilities,CVE-2025-1094,8.1,HIGH,None,6/9 CH - Monitor for QID,https://community.rsa.com/s/article/RSA-2025-06-RSA-Authentication-Manager-Security-Update-for-Third-Party-Component-Vulnerabilities
+RSA Authentication Manager Multiple Vulnerabilities,CVE-2025-27363,8.1,MEDIUM,None,6/9 CH - Monitor for QID,https://community.rsa.com/s/article/RSA-2025-06-RSA-Authentication-Manager-Security-Update-for-Third-Party-Component-Vulnerabilities
