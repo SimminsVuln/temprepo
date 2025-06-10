@@ -1,11 +1,12 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-QNAP NAS QES Arbitrary Code Execution Vulnerability,CVE-2024-6387,8.1,MEDIUM,None,6/9 CH - Monitor for QID,https://www.qnap.com/en-us/security-advisory/qsa-25-13
-Red Hat glibc ,CVE-2025-4802,7.8,HIGH,None,6/9 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:8655
-Red Hat update for kernel,CVE-2025-21920,7.1,LOW,None,6/9 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:8643
-Red Hat update for kernel,CVE-2025-22055,7.1,LOW,None,6/9 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:8643
-Red Hat update for python-tornado,CVE-2025-47287,7.5,LOW,None,6/9 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:8664
-RSA Authentication Manager Multiple Vulnerabilities,CVE-2025-21587,7.4,MEDIUM,None,6/9 CH - Monitor for QID,https://community.rsa.com/s/article/RSA-2025-06-RSA-Authentication-Manager-Security-Update-for-Third-Party-Component-Vulnerabilities
-RSA Authentication Manager Multiple Vulnerabilities,CVE-2025-24970,7.5,LOW,None,6/9 CH - Monitor for QID,https://community.rsa.com/s/article/RSA-2025-06-RSA-Authentication-Manager-Security-Update-for-Third-Party-Component-Vulnerabilities
-RSA Authentication Manager Multiple Vulnerabilities,CVE-2024-56642,7.8,LOW,None,6/9 CH - Monitor for QID,https://community.rsa.com/s/article/RSA-2025-06-RSA-Authentication-Manager-Security-Update-for-Third-Party-Component-Vulnerabilities
-RSA Authentication Manager Multiple Vulnerabilities,CVE-2025-1094,8.1,HIGH,None,6/9 CH - Monitor for QID,https://community.rsa.com/s/article/RSA-2025-06-RSA-Authentication-Manager-Security-Update-for-Third-Party-Component-Vulnerabilities
-RSA Authentication Manager Multiple Vulnerabilities,CVE-2025-27363,8.1,MEDIUM,None,6/9 CH - Monitor for QID,https://community.rsa.com/s/article/RSA-2025-06-RSA-Authentication-Manager-Security-Update-for-Third-Party-Component-Vulnerabilities
+IBM Control Desk Browser Client IBM Java Multiple Vulnerabilities,CVE-2025-4447,7,LOW,,,"https://www.ibm.com/support/pages/node/7235945
+https://www.ibm.com/support/pages/node/7235947"
+IBM Control Desk Browser Client IBM Java Multiple Vulnerabilities,CVE-2025-21587,7.4,MEDIUM,,,"https://www.ibm.com/support/pages/node/7235945
+https://www.ibm.com/support/pages/node/7235947"
+IBM Maximo Asset Management Multiple Vulnerabilities,CVE-2025-1471,7.8,LOW,,,"https://www.ibm.com/support/pages/node/7235945
+https://www.ibm.com/support/pages/node/7235947"
+Red Hat glibc ,CVE-2025-4802,7.8,HIGH,,6/10 CH - QID Available (252115),https://access.redhat.com/errata/RHSA-2025:8686
+Red Hat grafana,CVE-2025-22871,9.1,MEDIUM,,"6/10 CH - QID Available (252116, 252113)","https://access.redhat.com/errata/RHSA-2025:8667
+https://access.redhat.com/errata/RHSA-2025:8682"
+Red Hat update for kernel,CVE-2025-22055,7.1,LOW,,6/10 CH - QID Available (252131),https://access.redhat.com/errata/RHSA-2025:8669
+SAP BusinessObjects Business Intelligence Platform Workspaces Script Insertion Vulnerability,CVE-2025-23192,8.2,LOW,,6/10 CH - Monitor for QID,https://support.sap.com/en/my-support/knowledge-base/security-notes-news/june-2025.html
