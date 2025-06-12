@@ -1,63 +1,30 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Adobe InDesign CC Multiple Vulnerabilities,CVE-2025-43590,7.8,MEDIUM,,6/11 CH - QID Available (383351),https://helpx.adobe.com/security/products/indesign/apsb25-53.html
-Adobe InDesign CC Multiple Vulnerabilities,CVE-2025-30317,7.8,MEDIUM,,6/11 CH - QID Available (383351),https://helpx.adobe.com/security/products/indesign/apsb25-53.html
-Adobe InDesign CC Multiple Vulnerabilities,CVE-2025-43558,7.8,MEDIUM,,6/11 CH - QID Available (383351),https://helpx.adobe.com/security/products/indesign/apsb25-53.html
-Adobe InDesign CC Multiple Vulnerabilities,CVE-2025-43589,7.8,MEDIUM,,6/11 CH - QID Available (383351),https://helpx.adobe.com/security/products/indesign/apsb25-53.html
-Adobe InDesign CC Multiple Vulnerabilities,CVE-2025-43593,7.8,MEDIUM,,6/11 CH - QID Available (383351),https://helpx.adobe.com/security/products/indesign/apsb25-53.html
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2025-43575,7.8,MEDIUM,,6/11 CH - QID Available (383352),https://helpx.adobe.com/security/products/acrobat/apsb25-57.html
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2025-43574,7.8,MEDIUM,,6/11 CH - QID Available (383352),https://helpx.adobe.com/security/products/acrobat/apsb25-57.html
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2025-43550,7.8,MEDIUM,,6/11 CH - QID Available (383352),https://helpx.adobe.com/security/products/acrobat/apsb25-57.html
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2025-43576,7.8,MEDIUM,,6/11 CH - QID Available (383352),https://helpx.adobe.com/security/products/acrobat/apsb25-57.html
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2025-43577,7.8,MEDIUM,,6/11 CH - QID Available (383352),https://helpx.adobe.com/security/products/acrobat/apsb25-57.html
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2025-43573,7.8,MEDIUM,,6/11 CH - QID Available (383352),https://helpx.adobe.com/security/products/acrobat/apsb25-57.html
-IBM AIX Perl Security Bypass Vulnerability,CVE-2025-33112,8.4,MEDIUM,,6/11 CH - QID in Pipeline (330224),"https://aix.software.ibm.com/aix/efixes/security/perl_advisory9.asc
-https://www.ibm.com/support/pages/node/7236103"
-Adobe Experience Manager (AEM) Multiple Vulnerabilities,CVE-2025-46837,8.7,LOW,,6/11 CH - Monitor for QID,https://helpx.adobe.com/security/products/experience-manager/apsb25-48.html
-Adobe Experience Manager (AEM) Multiple Vulnerabilities,CVE-2025-46840,8.7,MEDIUM,,6/11 CH - Monitor for QID,https://helpx.adobe.com/security/products/experience-manager/apsb25-48.html
-Google Chrome Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-5959,not available,MEDIUM,,6/11 CH - QID in Pipeline (383344),https://chromereleases.googleblog.com/2025/06/stable-channel-update-for-desktop_10.html
-Google Chrome Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-5958,not available,MEDIUM,,6/11 CH - QID in Pipeline (383344),https://chromereleases.googleblog.com/2025/06/stable-channel-update-for-desktop_10.html
-Mozilla Firefox Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-49709,not available,MEDIUM,,6/11 CH - QID in Pipeline (383346),https://www.mozilla.org/en-US/security/advisories/mfsa2025-47
-Mozilla Firefox Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-49710,not available,MEDIUM,,6/11 CH - QID in Pipeline (383346),https://www.mozilla.org/en-US/security/advisories/mfsa2025-47
-MS Patch Tuesday June 2025 - Visual Studio Remote Code Execution Vulnerability,CVE-2025-47959,7.1,MEDIUM,6/11 CH - QID Available (92273),,
-MS Patch Tuesday June 2025 - Windows Recovery Driver Elevation of Privilege Vulnerability,CVE-2025-32721,7.3,MEDIUM,"QID Available (92275, 92272)",,
-MS Patch Tuesday June 2025 - .NET and Visual Studio Remote Code Execution Vulnerability,CVE-2025-30399,7.5,MEDIUM,QID Available (92273),,
-MS Patch Tuesday June 2025 - Local Security Authority Subsystem Service (LSASS) Denial of Service Vulnerability,CVE-2025-32724,7.5,LOW,"QID Available (92275, 92272)",,
-MS Patch Tuesday June 2025 - DHCP Server Service Denial of Service Vulnerability,CVE-2025-32725,7.5,LOW,QID Available (92275),,
-MS Patch Tuesday June 2025 - DHCP Server Service Denial of Service Vulnerability,CVE-2025-33050,7.5,LOW,QID Available (92275),,
-MS Patch Tuesday June 2025 - Windows Local Security Authority (LSA) Denial of Service Vulnerability,CVE-2025-33056,7.5,LOW,"QID Available (92275, 92272)",,
-MS Patch Tuesday June 2025 - Windows Standards-Based Storage Management Service Denial of Service Vulnerability,CVE-2025-33068,7.5,LOW,QID Available (92275),,
-MS Patch Tuesday June 2025 - Nuance Digital Engagement Platform Spoofing Vulnerability,CVE-2025-47977,7.6,LOW,None,,
-MS Patch Tuesday June 2025 - Win32k Elevation of Privilege Vulnerability,CVE-2025-32712,7.8,MEDIUM,"QID Available (92275, 92272)",,
-MS Patch Tuesday June 2025 - Windows Common Log File System Driver Elevation of Privilege Vulnerability,CVE-2025-32713,7.8,MEDIUM,"QID Available (92275, 92272)",,
-MS Patch Tuesday June 2025 - Windows Installer Elevation of Privilege Vulnerability,CVE-2025-32714,7.8,MEDIUM,"QID Available (92275, 92272)",,
-MS Patch Tuesday June 2025 - Windows Media Elevation of Privilege Vulnerability,CVE-2025-32716,7.8,MEDIUM,"QID Available (92275, 92272)",,
-MS Patch Tuesday June 2025 - Windows SMB Client Elevation of Privilege Vulnerability,CVE-2025-32718,7.8,MEDIUM,"QID Available (92275, 92272)",,
-MS Patch Tuesday June 2025 - Windows Installer Elevation of Privilege Vulnerability,CVE-2025-33075,7.8,MEDIUM,"QID Available (92275, 92272)",,
-MS Patch Tuesday June 2025 - Microsoft Excel Remote Code Execution Vulnerability,CVE-2025-47165,7.8,MEDIUM,QID Available (110495),,
-MS Patch Tuesday June 2025 - Microsoft Word Remote Code Execution Vulnerability,CVE-2025-47168,7.8,MEDIUM,QID Available (110495),,
-MS Patch Tuesday June 2025 - Microsoft Word Remote Code Execution Vulnerability,CVE-2025-47169,7.8,MEDIUM,QID Available (110495),,
-MS Patch Tuesday June 2025 - Microsoft Word Remote Code Execution Vulnerability,CVE-2025-47170,7.8,MEDIUM,QID Available (110495),,
-MS Patch Tuesday June 2025 - Microsoft Office Remote Code Execution Vulnerability,CVE-2025-47173,7.8,MEDIUM,QID Available (110495),,
-MS Patch Tuesday June 2025 - Microsoft Excel Remote Code Execution Vulnerability,CVE-2025-47174,7.8,MEDIUM,QID Available (110495),,
-MS Patch Tuesday June 2025 - Microsoft PowerPoint Remote Code Execution Vulnerability,CVE-2025-47175,7.8,MEDIUM,QID Available (110495),,
-MS Patch Tuesday June 2025 - Microsoft Outlook Remote Code Execution Vulnerability,CVE-2025-47176,7.8,HIGH,QID Available (110497),,
-MS Patch Tuesday June 2025 - Windows Remote Access Connection Manager Elevation of Privilege Vulnerability,CVE-2025-47955,7.8,MEDIUM,None,,
-MS Patch Tuesday June 2025 - Windows SDK Elevation of Privilege Vulnerability,CVE-2025-47962,7.8,MEDIUM,QID Available (383343),,
-MS Patch Tuesday June 2025 - Microsoft AutoUpdate (MAU) Elevation of Privilege Vulnerability,CVE-2025-47968,7.8,MEDIUM,QID Available (383342),,
-MS Patch Tuesday June 2025 - Windows Schannel Remote Code Execution Vulnerability,CVE-2025-29828,8.1,MEDIUM,"QID Available (92275, 92272)",,
-MS Patch Tuesday June 2025 - Windows Remote Desktop Services Remote Code Execution Vulnerability,CVE-2025-32710,8.1,MEDIUM,None,,
-MS Patch Tuesday June 2025 - Windows Netlogon Elevation of Privilege Vulnerability,CVE-2025-33070,8.1,MEDIUM,"QID Available (92275, 92272)",,
-MS Patch Tuesday June 2025 - Windows KDC Proxy Service (KPSSVC) Remote Code Execution Vulnerability,CVE-2025-33071,8.1,MEDIUM,QID Available (92275),,
-MS Patch Tuesday June 2025 - Windows Task Scheduler Elevation of Privilege Vulnerability,CVE-2025-33067,8.4,MEDIUM,"QID Available (92275, 92272)",,
-MS Patch Tuesday June 2025 - Microsoft Office Remote Code Execution Vulnerability,CVE-2025-47162,8.4,MEDIUM,QID Available (110495),,
-MS Patch Tuesday June 2025 - Microsoft Office Remote Code Execution Vulnerability,CVE-2025-47164,8.4,HIGH,QID Available (110495),,
-MS Patch Tuesday June 2025 - Microsoft Office Remote Code Execution Vulnerability,CVE-2025-47167,8.4,MEDIUM,QID Available (110495),,
-MS Patch Tuesday June 2025 - Microsoft Office Remote Code Execution Vulnerability,CVE-2025-47953,8.4,MEDIUM,QID Available (110495),,
-MS Patch Tuesday June 2025 - Microsoft Word Remote Code Execution Vulnerability,CVE-2025-47957,8.4,MEDIUM,QID Available (110495),,
-MS Patch Tuesday June 2025 - Web Distributed Authoring and Versioning (WEBDAV) Remote Code Execution Vulnerability,CVE-2025-33053,8.8,MEDIUM,"QID Available (92275, 92272)",,
-MS Patch Tuesday June 2025 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability,CVE-2025-33064,8.8,HIGH,"QID Available (92275, 92272)",,
-MS Patch Tuesday June 2025 - Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability,CVE-2025-33066,8.8,MEDIUM,"QID Available (92275, 92272)",,
-MS Patch Tuesday June 2025 - Windows SMB Client Elevation of Privilege Vulnerability,CVE-2025-33073,8.8,MEDIUM,"QID Available (92275, 92272)",,
-MS Patch Tuesday June 2025 - Microsoft SharePoint Server Remote Code Execution Vulnerability,CVE-2025-47163,8.8,MEDIUM,QID Available (110496),,
-MS Patch Tuesday June 2025 - Microsoft SharePoint Server Remote Code Execution Vulnerability,CVE-2025-47166,8.8,MEDIUM,QID Available (110496),,
-MS Patch Tuesday June 2025 - Microsoft SharePoint Server Remote Code Execution Vulnerability,CVE-2025-47172,8.8,MEDIUM,QID Available (110496),,
+Brocade Fabric OS Vulnerability,CVE-2025-4661,4.8,not available,None,6/12 CH - Added to the tracker due to ongoing SIR involving Brocade products. Monitoring for QID.,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35814
+"
+Brocade Fabric OS Vulnerability,CVE-2025-4663,6.8,not available,None,6/12 CH - Added to the tracker due to ongoing SIR involving Brocade products. Monitoring for QID.,"
+https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35815"
+Kibana Synthetic Monitor Security Bypass Vulnerability,CVE-2024-43706,7.6,LOW,None,,https://discuss.elastic.co/t/kibana-8-12-1-security-update-esa-2024-21/379064
+Lenovo Multiple Products MediaTek Bluetooth Driver Multiple Vulnerabilities,CVE-2025-20672,9.8,MEDIUM,None,6/12 CH - Monitor for QID,"
+https://support.lenovo.com/us/en/product_security/LEN-195073"
+Lenovo Multiple Products Multiple Vulnerabilities,CVE-2025-23244,7.8,MEDIUM,None,6/12 CH - Monitor for QID,https://support.lenovo.com/us/en/product_security/LEN-195824
+Lenovo Multiple Products Realtek Bluetooth Driver Privilege Escalation Vulnerability,CVE-2024-11857,7.8,MEDIUM,None,6/12 CH - Monitor for QID,https://support.lenovo.com/us/en/product_security/LEN-188339
+Palo Alto Networks (GlobalProtect App) Authenticated Code Injection Through Wildcard on macOS Vulnerability (GPC-21969),CVE-2025-4232,7.8,MEDIUM,Qualys Pipeline,6/12 CH - QID in Pipeline (383354),https://security.paloaltonetworks.com/CVE-2025-4232
+Palo Alto Networks (GlobalProtect App) Interception in Endpoint Traffic Policy Enforcement Vulnerability (GPC-22460),CVE-2025-4227,3.5,LOW,Qualys Pipeline,6/12 CH - QID in Pipeline (383355),https://security.paloaltonetworks.com/CVE-2025-4227
+Palo Alto Networks (PAN-OS) Authenticated Admin Command Injection Vulnerability (PAN-215223),CVE-2025-4231,6.1,not available,Qualys Pipeline,6/12 CH - QID in Pipeline (732628),https://security.paloaltonetworks.com/CVE-2025-4231
+Palo Alto Networks (PAN-OS) Authenticated Admin Command Injection Vulnerability (PAN-271215),CVE-2025-4230,5.7,not available,Qualys Pipeline,6/12 CH - QID in Pipeline (732629),https://security.paloaltonetworks.com/CVE-2025-4230
+Palo Alto Networks (PAN-OS) Traffic Information Disclosure Vulnerability (PAN-284744),CVE-2025-4229,6.5,LOW,Qualys Pipeline,6/12 CH - QID in Pipeline (732630),https://security.paloaltonetworks.com/CVE-2025-4229
+Red Hat grafana-pcp,CVE-2025-22871,9.1,MEDIUM,Qualys QID,"6/12 CH - QID Available (252166, 252165, 252161)","https://access.redhat.com/errata/RHSA-2025:8915
+https://access.redhat.com/errata/RHSA-2025:8916
+https://access.redhat.com/errata/RHSA-2025:8918"
+Red Hat update for dotnet8.0,CVE-2025-30399,7.5,MEDIUM,Qualys QID,"6/12 CH - QID Available (252159, 252153, 252155, 252152, 252156, 252154)","https://access.redhat.com/errata/RHSA-2025:8812
+https://access.redhat.com/errata/RHSA-2025:8813
+https://access.redhat.com/errata/RHSA-2025:8814
+https://access.redhat.com/errata/RHSA-2025:8815
+https://access.redhat.com/errata/RHSA-2025:8816
+https://access.redhat.com/errata/RHSA-2025:8817
+"
+Red Hat update for mod_security,CVE-2025-47947,7.5,LOW,Qualys QID,"6/12 CH - QID Available (252158, 252157)","https://access.redhat.com/errata/RHSA-2025:8837
+https://access.redhat.com/errata/RHSA-2025:8844"
+Red Hat update for thunderbird,CVE-2025-3875,7.5,MEDIUM,Qualys QID,6/12 CH - QID Available (252149),https://access.redhat.com/errata/RHSA-2025:8756
+Red Hat update for thunderbird,CVE-2025-4918,7.5,MEDIUM,Qualys QID,6/12 CH - QID Available (252149),https://access.redhat.com/errata/RHSA-2025:8756
+Red Hat update for thunderbird,CVE-2025-4919,8.8,MEDIUM,Qualys QID,6/12 CH - QID Available (252149),https://access.redhat.com/errata/RHSA-2025:8756
