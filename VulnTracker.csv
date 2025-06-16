@@ -1,28 +1,15 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-InstallShield Privilege Escalation Vulnerability,CVE-2024-7562,7.8,MEDIUM,,,https://community.revenera.com/s/article/cve-2024-7562-privilege-escalation-vulnerability-in-created-msi-packages
-Kibana Synthetic Monitor Security Bypass Vulnerability,CVE-2024-43706,7.6,LOW,,,https://discuss.elastic.co/t/kibana-8-12-1-security-update-esa-2024-21/379064
-Lenovo Multiple Products MediaTek Bluetooth Driver Multiple Vulnerabilities,CVE-2025-20672,9.8,MEDIUM,,,"https://corp.mediatek.com/product-security-bulletin/June-2025
-https://support.lenovo.com/us/en/product_security/LEN-195073"
-Meinberg LANTIME Multiple Vulnerabilities,CVE-2025-32415,7.5,LOW,,,"https://www.meinberg.de/german/news/meinberg-security-advisory-mbgsa-2025-04-lantime-firmware-v7-08-024.htm
-https://www.meinbergglobal.com/english/news/meinberg-security-advisory-mbgsa-2025-04-lantime-firmware-v7-08-024.htm"
-Trend Micro Apex Central Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-49220,9.8,MEDIUM,,,"https://success.trendmicro.com/en-US/solution/KA-0019926
-https://www.zerodayinitiative.com/advisories/ZDI-25-366
-https://www.zerodayinitiative.com/advisories/ZDI-25-367"
-Trend Micro Apex Central Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-49219,9.8,MEDIUM,,,"https://success.trendmicro.com/en-US/solution/KA-0019926
-https://www.zerodayinitiative.com/advisories/ZDI-25-366
-https://www.zerodayinitiative.com/advisories/ZDI-25-367"
-Trend Micro Apex One Multiple Vulnerabilities,CVE-2025-49156,7,MEDIUM,,,"https://success.trendmicro.com/en-US/solution/KA-0019917
-https://www.zerodayinitiative.com/advisories/ZDI-25-362
-https://www.zerodayinitiative.com/advisories/ZDI-25-363
-https://www.zerodayinitiative.com/advisories/ZDI-25-364
-https://www.zerodayinitiative.com/advisories/ZDI-25-365"
-Trend Micro Apex One Multiple Vulnerabilities,CVE-2025-49157,7.8,MEDIUM,,,"https://success.trendmicro.com/en-US/solution/KA-0019917
-https://www.zerodayinitiative.com/advisories/ZDI-25-362
-https://www.zerodayinitiative.com/advisories/ZDI-25-363
-https://www.zerodayinitiative.com/advisories/ZDI-25-364
-https://www.zerodayinitiative.com/advisories/ZDI-25-365"
-Trend Micro Apex One Multiple Vulnerabilities,CVE-2025-49155,8.8,MEDIUM,,,"https://success.trendmicro.com/en-US/solution/KA-0019917
-https://www.zerodayinitiative.com/advisories/ZDI-25-362
-https://www.zerodayinitiative.com/advisories/ZDI-25-363
-https://www.zerodayinitiative.com/advisories/ZDI-25-364
-https://www.zerodayinitiative.com/advisories/ZDI-25-365"
+GitLab Multiple Vulnerabilities,CVE-2025-0673,7.5,LOW,Qualys QID,6/16 CH - QID Available (383356),"https://about.gitlab.com/releases/2025/06/11/patch-release-gitlab-18-0-2-released
+https://gitlab.com/gitlab-org/gitlab/-/issues/520354
+https://gitlab.com/gitlab-org/gitlab/-/issues/520553
+https://hackerone.com/reports/2936949"
+GitLab Multiple Vulnerabilities,CVE-2025-5121,8.5,MEDIUM,Qualys QID,6/16 CH - QID Available (383356),"https://about.gitlab.com/releases/2025/06/11/patch-release-gitlab-18-0-2-released
+https://gitlab.com/gitlab-org/gitlab/-/issues/520354
+https://gitlab.com/gitlab-org/gitlab/-/issues/520553
+https://hackerone.com/reports/2936949"
+GitLab Multiple Vulnerabilities,CVE-2025-2254,8.7,LOW,Qualys QID,6/16 CH - QID Available (383356),"https://about.gitlab.com/releases/2025/06/11/patch-release-gitlab-18-0-2-released
+https://gitlab.com/gitlab-org/gitlab/-/issues/520354
+https://gitlab.com/gitlab-org/gitlab/-/issues/520553
+https://hackerone.com/reports/2936949"
+Microsoft Edge (Chromium-Based) Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-5958,8.8,MEDIUM,Qualys QID,6/16 CH - QID Available (383361),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#june-13-2025
+Microsoft Edge (Chromium-Based) Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-5959,8.8,MEDIUM,Qualys QID,6/16 CH - QID Available (383361),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#june-13-2025
