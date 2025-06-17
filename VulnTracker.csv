@@ -1,15 +1,55 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-GitLab Multiple Vulnerabilities,CVE-2025-0673,7.5,LOW,Qualys QID,6/16 CH - QID Available (383356),"https://about.gitlab.com/releases/2025/06/11/patch-release-gitlab-18-0-2-released
-https://gitlab.com/gitlab-org/gitlab/-/issues/520354
-https://gitlab.com/gitlab-org/gitlab/-/issues/520553
-https://hackerone.com/reports/2936949"
-GitLab Multiple Vulnerabilities,CVE-2025-5121,8.5,MEDIUM,Qualys QID,6/16 CH - QID Available (383356),"https://about.gitlab.com/releases/2025/06/11/patch-release-gitlab-18-0-2-released
-https://gitlab.com/gitlab-org/gitlab/-/issues/520354
-https://gitlab.com/gitlab-org/gitlab/-/issues/520553
-https://hackerone.com/reports/2936949"
-GitLab Multiple Vulnerabilities,CVE-2025-2254,8.7,LOW,Qualys QID,6/16 CH - QID Available (383356),"https://about.gitlab.com/releases/2025/06/11/patch-release-gitlab-18-0-2-released
-https://gitlab.com/gitlab-org/gitlab/-/issues/520354
-https://gitlab.com/gitlab-org/gitlab/-/issues/520553
-https://hackerone.com/reports/2936949"
-Microsoft Edge (Chromium-Based) Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-5958,8.8,MEDIUM,Qualys QID,6/16 CH - QID Available (383361),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#june-13-2025
-Microsoft Edge (Chromium-Based) Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-5959,8.8,MEDIUM,Qualys QID,6/16 CH - QID Available (383361),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#june-13-2025
+Apache Tomcat Multiple Vulnerabilities,CVE-2025-48976,7.5,LOW,Qualys QID,"6/17 CH - QID Available (732663, 732670, 732662)","https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.42
+https://tomcat.apache.org/security-11.html#Fixed_in_Apache_Tomcat_11.0.8
+https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.106"
+IBM Installation Manager Multiple Vulnerabilities,CVE-2025-21587,7.4,MEDIUM,None,,"https://www.ibm.com/support/pages/node/7236508
+https://www.ibm.com/support/pages/node/7236509"
+IBM Installation Manager Multiple Vulnerabilities,CVE-2025-1471,7.8,LOW,None,,"https://www.ibm.com/support/pages/node/7236508
+https://www.ibm.com/support/pages/node/7236509"
+NetApp ONTAP Libxslt Arbitrary Code Execution Vulnerability,CVE-2025-24855,7.8,LOW,None,"Status as of 6/17/2025
+
+No Remediation Available, Monitoring for patches
+
+Affected Products
+ONTAP 9
+
+Products Under Investigation
+Active IQ Unified Manager for Linux
+Active IQ Unified Manager for Microsoft Windows
+Active IQ Unified Manager for VMware vSphere
+NetApp BlueXP
+NetApp SolidFire & HCI Management Node
+NetApp SolidFire & HCI Storage Node (Element Software)
+ONTAP tools for VMware vSphere 10
+SnapCenter Plug-in for VMware vSphere/BlueXP backup and Recovery for Virtual Machine",https://security.netapp.com/advisory/NTAP-20250613-0006
+NetApp ONTAP Libxslt Security Bypass Vulnerability,CVE-2024-55549,7.8,LOW,None,"Status as of 6/17/2025
+
+No Remediation Available, Monitoring for patches
+
+Affected Products
+ONTAP 9
+
+Products Under Investigation
+Active IQ Unified Manager for Linux
+Active IQ Unified Manager for Microsoft Windows
+Active IQ Unified Manager for VMware vSphere
+NetApp BlueXP",https://security.netapp.com/advisory/NTAP-20250613-0007
+Red Hat JBoss Enterprise Application Platform,CVE-2025-48734,8.8,MEDIUM,Qualys QID,6/17 CH - QID Available (252393),"https://access.redhat.com/errata/RHSA-2025:9115
+"
+Red Hat update for kernel,CVE-2025-37750,7.3,LOW,Qualys QID,"6/17 CH - QID Available (252242, 252249)","https://access.redhat.com/errata/RHSA-2025:9079
+https://access.redhat.com/errata/RHSA-2025:9080
+"
+Red Hat update for kernel,CVE-2025-21969,7.8,LOW,Qualys QID,"6/17 CH - QID Available (252242, 252249)","https://access.redhat.com/errata/RHSA-2025:9079
+https://access.redhat.com/errata/RHSA-2025:9080
+"
+Red Hat update for kernel,CVE-2025-21979,7.8,LOW,Qualys QID,"6/17 CH - QID Available (252242, 252249)","https://access.redhat.com/errata/RHSA-2025:9079
+https://access.redhat.com/errata/RHSA-2025:9080
+"
+Red Hat update for kernel,CVE-2025-21999,7.8,LOW,Qualys QID,6/17 CH - QID Available (252249),https://access.redhat.com/errata/RHSA-2025:9080
+Red Hat update for kernel,CVE-2025-21893,7.8,MEDIUM,Qualys QID,6/17 CH - QID Available (252242),"https://access.redhat.com/errata/RHSA-2025:9079
+"
+Red Hat update for kernel,CVE-2025-21764,7.8,LOW,Qualys QID,6/17 CH - QID Available (252242),"https://access.redhat.com/errata/RHSA-2025:9079
+"
+Red Hat update for kernel,CVE-2025-21887,7.8,LOW,Qualys QID,6/17 CH - QID Available (252242),"https://access.redhat.com/errata/RHSA-2025:9079
+"
+Red Hat update for wireshark,CVE-2025-1492,7.8,LOW,Qualys QID,6/17 CH - QID Available (252382),https://access.redhat.com/errata/RHSA-2025:9121
