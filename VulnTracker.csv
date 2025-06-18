@@ -1,55 +1,51 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Apache Tomcat Multiple Vulnerabilities,CVE-2025-48976,7.5,LOW,Qualys QID,"6/17 CH - QID Available (732663, 732670, 732662)","https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.42
-https://tomcat.apache.org/security-11.html#Fixed_in_Apache_Tomcat_11.0.8
-https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.106"
-IBM Installation Manager Multiple Vulnerabilities,CVE-2025-21587,7.4,MEDIUM,None,,"https://www.ibm.com/support/pages/node/7236508
-https://www.ibm.com/support/pages/node/7236509"
-IBM Installation Manager Multiple Vulnerabilities,CVE-2025-1471,7.8,LOW,None,,"https://www.ibm.com/support/pages/node/7236508
-https://www.ibm.com/support/pages/node/7236509"
-NetApp ONTAP Libxslt Arbitrary Code Execution Vulnerability,CVE-2025-24855,7.8,LOW,None,"Status as of 6/17/2025
-
-No Remediation Available, Monitoring for patches
-
-Affected Products
-ONTAP 9
-
-Products Under Investigation
-Active IQ Unified Manager for Linux
-Active IQ Unified Manager for Microsoft Windows
-Active IQ Unified Manager for VMware vSphere
-NetApp BlueXP
-NetApp SolidFire & HCI Management Node
-NetApp SolidFire & HCI Storage Node (Element Software)
-ONTAP tools for VMware vSphere 10
-SnapCenter Plug-in for VMware vSphere/BlueXP backup and Recovery for Virtual Machine",https://security.netapp.com/advisory/NTAP-20250613-0006
-NetApp ONTAP Libxslt Security Bypass Vulnerability,CVE-2024-55549,7.8,LOW,None,"Status as of 6/17/2025
-
-No Remediation Available, Monitoring for patches
-
-Affected Products
-ONTAP 9
-
-Products Under Investigation
-Active IQ Unified Manager for Linux
-Active IQ Unified Manager for Microsoft Windows
-Active IQ Unified Manager for VMware vSphere
-NetApp BlueXP",https://security.netapp.com/advisory/NTAP-20250613-0007
-Red Hat JBoss Enterprise Application Platform,CVE-2025-48734,8.8,MEDIUM,Qualys QID,6/17 CH - QID Available (252393),"https://access.redhat.com/errata/RHSA-2025:9115
+Atlassian Bitbucket Server Apache Tomcat Denial of Service Vulnerability,CVE-2025-31650,7.5,LOW,None,,"https://jira.atlassian.com/browse/BSERV-20066
+https://jira.atlassian.com/browse/CWD-6360
+https://jira.atlassian.com/browse/JSWSERVER-26411"
+Atlassian Bitbucket Server Netty Denial of Service Vulnerability,CVE-2025-24970,7.5,LOW,None,,https://jira.atlassian.com/browse/BSERV-20068
+Atlassian Confluence Json-smart Denial of Service Vulnerability,CVE-2024-57699,7.5,LOW,None,,"https://jira.atlassian.com/browse/BSERV-20067
+https://jira.atlassian.com/browse/CONFSERVER-99835
+https://jira.atlassian.com/browse/CWD-6373"
+Atlassian Confluence Spring Security Authorization Bypass Vulnerability,CVE-2025-22228,7.4,MEDIUM,None,,"https://jira.atlassian.com/browse/BAM-26126
+https://jira.atlassian.com/browse/CONFSERVER-99921"
+Atlassian Crowd Spring Framework Information Disclosure Vulnerability,CVE-2024-38816,7.5,LOW,None,,https://jira.atlassian.com/browse/CWD-6353
+Google Chrome Multiple Vulnerabilities,CVE-2025-6192,High,not available,None,,"
+https://chromereleases.googleblog.com/2025/06/stable-channel-update-for-desktop_17.html"
+Google Chrome Multiple Vulnerabilities,CVE-2025-6191,High,not available,None,,"
+https://chromereleases.googleblog.com/2025/06/stable-channel-update-for-desktop_17.html"
+Portal for ArcGIS Security Bypass Vulnerability,CVE-2025-4967,9.1,LOW,None,,"https://support.esri.com/en-us/patches-updates/2025/portal-for-arcgis-security-2025-update-2-patch
+https://www.esri.com/arcgis-blog/products/trust-arcgis/administration/portal-for-arcgis-security-2025-update-2-patch"
+Red Hat buildah,CVE-2025-22871,9.1,MEDIUM,None,,"https://access.redhat.com/errata/RHSA-2025:9060
+https://access.redhat.com/errata/RHSA-2025:9063
+https://access.redhat.com/errata/RHSA-2025:9106
+https://access.redhat.com/errata/RHSA-2025:9142
+https://access.redhat.com/errata/RHSA-2025:9143
+https://access.redhat.com/errata/RHSA-2025:9144
+https://access.redhat.com/errata/RHSA-2025:9145
+https://access.redhat.com/errata/RHSA-2025:9146
+https://access.redhat.com/errata/RHSA-2025:9147
+https://access.redhat.com/errata/RHSA-2025:9148
+https://access.redhat.com/errata/RHSA-2025:9149
+https://access.redhat.com/errata/RHSA-2025:9150
+https://access.redhat.com/errata/RHSA-2025:9151
+https://access.redhat.com/errata/RHSA-2025:9156"
+Red Hat Satellite Denial of Service Vulnerability,CVE-2024-31755,7.6,LOW,None,,https://access.redhat.com/errata/RHSA-2025:9203
+Red Hat update for gimp,CVE-2025-48798,7.3,MEDIUM,None,,"https://access.redhat.com/errata/RHSA-2025:9162
+https://access.redhat.com/errata/RHSA-2025:9165
 "
-Red Hat update for kernel,CVE-2025-37750,7.3,LOW,Qualys QID,"6/17 CH - QID Available (252242, 252249)","https://access.redhat.com/errata/RHSA-2025:9079
-https://access.redhat.com/errata/RHSA-2025:9080
+Red Hat update for gimp,CVE-2025-5473,7.8,MEDIUM,None,,"https://access.redhat.com/errata/RHSA-2025:9162
+https://access.redhat.com/errata/RHSA-2025:9165
 "
-Red Hat update for kernel,CVE-2025-21969,7.8,LOW,Qualys QID,"6/17 CH - QID Available (252242, 252249)","https://access.redhat.com/errata/RHSA-2025:9079
-https://access.redhat.com/errata/RHSA-2025:9080
+Red Hat update for gimp,CVE-2025-48797,7.3,MEDIUM,None,,"https://access.redhat.com/errata/RHSA-2025:9162
+https://access.redhat.com/errata/RHSA-2025:9165
 "
-Red Hat update for kernel,CVE-2025-21979,7.8,LOW,Qualys QID,"6/17 CH - QID Available (252242, 252249)","https://access.redhat.com/errata/RHSA-2025:9079
-https://access.redhat.com/errata/RHSA-2025:9080
-"
-Red Hat update for kernel,CVE-2025-21999,7.8,LOW,Qualys QID,6/17 CH - QID Available (252249),https://access.redhat.com/errata/RHSA-2025:9080
-Red Hat update for kernel,CVE-2025-21893,7.8,MEDIUM,Qualys QID,6/17 CH - QID Available (252242),"https://access.redhat.com/errata/RHSA-2025:9079
-"
-Red Hat update for kernel,CVE-2025-21764,7.8,LOW,Qualys QID,6/17 CH - QID Available (252242),"https://access.redhat.com/errata/RHSA-2025:9079
-"
-Red Hat update for kernel,CVE-2025-21887,7.8,LOW,Qualys QID,6/17 CH - QID Available (252242),"https://access.redhat.com/errata/RHSA-2025:9079
-"
-Red Hat update for wireshark,CVE-2025-1492,7.8,LOW,Qualys QID,6/17 CH - QID Available (252382),https://access.redhat.com/errata/RHSA-2025:9121
+Red Hat update for libsoup,CVE-2025-32906,7.5,LOW,None,,https://access.redhat.com/errata/RHSA-2025:9179
+Red Hat update for libsoup,CVE-2025-32913,7.5,LOW,None,,https://access.redhat.com/errata/RHSA-2025:9179
+Red Hat update for libsoup,CVE-2025-4948,7.5,LOW,None,,https://access.redhat.com/errata/RHSA-2025:9179
+Red Hat update for libsoup,CVE-2025-32049,7.5,LOW,None,,https://access.redhat.com/errata/RHSA-2025:9179
+Red Hat update for libsoup,CVE-2025-2784,7,LOW,None,,https://access.redhat.com/errata/RHSA-2025:9179
+Red Hat update for libsoup,CVE-2025-32914,7.4,LOW,None,,https://access.redhat.com/errata/RHSA-2025:9179
+Red Hat update for libsoup,CVE-2025-32911,9,MEDIUM,None,,https://access.redhat.com/errata/RHSA-2025:9179
+Veeam Backup & Replication Arbitrary Code Execution Vulnerability,CVE-2025-24286,7.2,not available,None,,"https://www.veeam.com/kb3103
+https://www.veeam.com/kb4743"
+Veeam Backup & Recovery Arbitrary Code Execution Vulnerability,CVE-2025-23121,9.9,MEDIUM,None,,https://www.veeam.com/kb4743
