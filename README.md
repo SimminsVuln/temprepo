@@ -1,4 +1,5 @@
 The What – Results and Impact:
+This year, I’ve maintained a consistently high level of performance across all focus areas by proactively identifying threats, managing risk, and contributing to the security posture of the organization. I’ve worked diligently to meet and exceed expectations, often going beyond routine responsibilities to deliver timely, high-impact results that directly support enterprise-wide objectives.
 
 Vulnerability Intelligence:
 
@@ -36,4 +37,6 @@ Demonstrated ownership and continuous improvement through daily ASM monitoring a
 
 Upheld company values by responding proactively and transparently to security events, including breaches and SIRs.
 
-Ensured compliance with internal risk frameworks and aligned actions with leadership priorities and cyber defense strategy.vulns
+Ensured compliance with internal risk frameworks and aligned actions with leadership priorities and cyber defense strategy.
+
+
