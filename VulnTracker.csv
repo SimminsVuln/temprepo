@@ -1,24 +1,8 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Red Hat update for gimp,CVE-2025-48798,7.3,MEDIUM,Qualys QID,"6/20 CH - QID Available (252397, 252398)","https://access.redhat.com/errata/RHSA-2025:9162
-https://access.redhat.com/errata/RHSA-2025:9165
-"
-Red Hat update for gimp,CVE-2025-48797,7.3,MEDIUM,Qualys QID,"6/20 CH - QID Available (252397, 252398)","https://access.redhat.com/errata/RHSA-2025:9162
-https://access.redhat.com/errata/RHSA-2025:9165
-"
-Atlassian Confluence Spring Security Authorization Bypass Vulnerability,CVE-2025-22228,7.4,MEDIUM,Qualys QID,"6/20 CH - QID Available (732681, 732683)","https://jira.atlassian.com/browse/BAM-26126
-https://jira.atlassian.com/browse/CONFSERVER-99921"
-Atlassian Bitbucket Server Apache Tomcat Denial of Service Vulnerability,CVE-2025-31650,7.5,LOW,Qualys QID,"6/20 CH - QID Available (732684, 732685)","https://jira.atlassian.com/browse/BSERV-20066
-https://jira.atlassian.com/browse/JSWSERVER-26411"
-Atlassian Confluence Json-smart Denial of Service Vulnerability,CVE-2024-57699,7.5,LOW,Qualys QID,"6/20 CH - QID Available (732682, 732686)","https://jira.atlassian.com/browse/BSERV-20067
-https://jira.atlassian.com/browse/CONFSERVER-99835
-"
-Red Hat kea,CVE-2025-32801,7.8,LOW,Qualys QID,6/20 CH - QID Available (252399),"https://access.redhat.com/errata/RHSA-2025:9178
-"
-Red Hat update for gimp,CVE-2025-5473,7.8,MEDIUM,Qualys QID,"6/20 CH - QID Available (252397, 252398)","https://access.redhat.com/errata/RHSA-2025:9162
-https://access.redhat.com/errata/RHSA-2025:9165
-"
-Cisco Meraki MX AnyConnect VPN Denial of Service Vulnerability,CVE-2025-20271,8.6,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-meraki-mx-vpn-dos-sM5GCfm7
-RedHat Update for FreeIPA Security Bypass Vulnerability,CVE-2025-4404,9.1,MEDIUM,Qualys QID,"6/20 CH - QID Available (252401, 252412, 252410)","https://access.redhat.com/errata/RHSA-2025:9184
-https://access.redhat.com/errata/RHSA-2025:9188
-https://access.redhat.com/errata/RHSA-2025:9190
-"
+IBM InfoSphere Information Server Denial of Service Vulnerability,CVE-2025-3221,7.5,LOW,None,6/23 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7235496
+Red Hat libblockdev Rejection Notice,CVE-2025-6019,7,LOW,None,6/23 CH - Monitor for QID,"https://access.redhat.com/errata/RHSA-2025:9327
+https://access.redhat.com/errata/RHSA-2025:9328"
+Red Hat update for kernel,CVE-2025-21919,7.1,LOW,None,6/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:9302
+Red Hat update for kernel,CVE-2025-37738,7.1,LOW,None,6/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:9302
+Red Hat update for mpfr,CVE-2014-9474,9.8,MEDIUM,,,https://access.redhat.com/errata/RHSA-2025:9332
+Stunnel OpenSSL Multiple Vulnerabilities,CVE-2023-3446,7.5,MEDIUM,,,https://www.stunnel.org/NEWS.html
