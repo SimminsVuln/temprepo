@@ -1,8 +1,27 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-IBM InfoSphere Information Server Denial of Service Vulnerability,CVE-2025-3221,7.5,LOW,None,6/23 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7235496
-Red Hat libblockdev Rejection Notice,CVE-2025-6019,7,LOW,None,6/23 CH - Monitor for QID,"https://access.redhat.com/errata/RHSA-2025:9327
+IBM App Connect Enterprise snowflake-connector-nodejs Security Bypass Vulnerability,CVE-2025-46328,7,LOW,,,https://www.ibm.com/support/pages/node/7236824
+IBM InfoSphere Information Server Netty Denial of Service Vulnerability,CVE-2025-24970,7.5,LOW,,,https://www.ibm.com/support/pages/node/7235497
+IBM Power Systems ,CVE-2025-0395,7.5,LOW,,,https://www.ibm.com/support/pages/node/7237214
+IBM Storage Protect Operations Center Multiple Vulnerabilities,CVE-2025-23184,7.5,LOW,,,"https://www.ibm.com/support/pages/node/7236993
+https://www.ibm.com/support/pages/node/7236996
+https://www.ibm.com/support/pages/node/7236997
+https://www.ibm.com/support/pages/node/7236998
+https://www.ibm.com/support/pages/node/7237002
+https://www.ibm.com/support/pages/node/7237491
+https://www.ibm.com/support/pages/node/7237492"
+IBM Storage Protect Operations Center Multiple Vulnerabilities,CVE-2025-1471,7.8,LOW,,,"https://www.ibm.com/support/pages/node/7236993
+https://www.ibm.com/support/pages/node/7236996
+https://www.ibm.com/support/pages/node/7236997
+https://www.ibm.com/support/pages/node/7236998
+https://www.ibm.com/support/pages/node/7237002
+https://www.ibm.com/support/pages/node/7237491
+https://www.ibm.com/support/pages/node/7237492"
+IBM Storage Protect Plus Multiple Vulnerabilities,CVE-2025-27516,7.3,LOW,,,"https://www.ibm.com/support/pages/node/7235491
+https://www.ibm.com/support/pages/node/7237440"
+IBM Storage Protect Plus Multiple Vulnerabilities,CVE-2024-56326,7.3,HIGH,,,https://www.ibm.com/support/pages/node/7237440
+IBM Storage Protect Plus Multiple Vulnerabilities,CVE-2024-56201,8.8,MEDIUM,,,https://www.ibm.com/support/pages/node/7237440
+Red Hat delve update,CVE-2025-22871,9.1,MEDIUM,Qualys QID,6/24 CH - QID Available (252422),https://access.redhat.com/errata/RHSA-2025:9317
+Red Hat libblockdev update,CVE-2025-6019,7,LOW,Qualys QID,"6/24 CH - QID Available (252413, 252429)","https://access.redhat.com/errata/RHSA-2025:9327
 https://access.redhat.com/errata/RHSA-2025:9328"
-Red Hat update for kernel,CVE-2025-21919,7.1,LOW,None,6/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:9302
-Red Hat update for kernel,CVE-2025-37738,7.1,LOW,None,6/23 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:9302
-Red Hat update for mpfr,CVE-2014-9474,9.8,MEDIUM,,,https://access.redhat.com/errata/RHSA-2025:9332
-Stunnel OpenSSL Multiple Vulnerabilities,CVE-2023-3446,7.5,MEDIUM,,,https://www.stunnel.org/NEWS.html
+Red Hat update for kernel,CVE-2025-37738,7.1,LOW,Qualys QID,6/24 CH - QID Available (252436),https://access.redhat.com/errata/RHSA-2025:9348
+Red Hat update for kernel,CVE-2025-21999,7.8,LOW,Qualys QID,6/24 CH - QID Available (252436),https://access.redhat.com/errata/RHSA-2025:9348
