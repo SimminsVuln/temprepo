@@ -28,3 +28,6 @@ Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-6435,Low,LOW,Qualys QID,"6
 https://www.mozilla.org/en-US/security/advisories/mfsa2025-53"
 Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-6436,High,LOW,Qualys QID,"6/25 CH - QID Available (383405, 383404, 383403)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-51
 https://www.mozilla.org/en-US/security/advisories/mfsa2025-53"
+Google Chrome Multiple Vulnerabilities,CVE-2025-6555,Medium,,Qualys QID,6/25 CH - QID Available (383409),https://chromereleases.googleblog.com/2025/06/stable-channel-update-for-desktop_24.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-6556,Low,,Qualys QID,6/25 CH - QID Available (383409),https://chromereleases.googleblog.com/2025/06/stable-channel-update-for-desktop_24.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-6557,Low,,Qualys QID,6/25 CH - QID Available (383409),https://chromereleases.googleblog.com/2025/06/stable-channel-update-for-desktop_24.html
