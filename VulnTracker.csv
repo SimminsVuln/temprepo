@@ -1,33 +1,47 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Red Hat update for emacs,CVE-2024-53920,8.8,HIGH,Qualys QID,6/25 CH - QID Available (252553),https://access.redhat.com/errata/RHSA-2025:9448
-Atlassian Jira Service Management Apache Tomcat Denial of Service Vulnerability,CVE-2025-31650,7.5,LOW,Qualys QID,6/25 CH - QID Available (732684),https://jira.atlassian.com/browse/JSDSERVER-16260
-Red Hat update for mod_auth_openidc,CVE-2025-3891,7.5,LOW,Qualys QID,6/25 CH - QID Available (252435),https://access.redhat.com/errata/RHSA-2025:9396
-Red Hat qt6-qtbase update,CVE-2025-5455,9.3,LOW,Qualys QID,"6/25 CH - QID Available (252552, 252549)","https://access.redhat.com/errata/RHSA-2025:9462
-https://access.redhat.com/errata/RHSA-2025:9486"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-6424,High,MEDIUM,Qualys QID,"6/25 CH - QID Available (383405, 383404, 383403)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-51
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-52
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-53"
-Mozilla Firefox Multiple Vulnerabilities,CVE-2025-6425,High,not available,Qualys QID,6/25 CH - QID Available (383405),https://www.mozilla.org/en-US/security/advisories/mfsa2025-51
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-6426,High,MEDIUM,Qualys QID,"6/25 CH - QID Available (383405, 383404, 383403)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-51
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-53"
-Mozilla Firefox Multiple Vulnerabilities,CVE-2025-6427,Moderate,not available,Qualys QID,6/25 CH - QID Available (383405),https://www.mozilla.org/en-US/security/advisories/mfsa2025-51
-Mozilla Firefox Multiple Vulnerabilities,CVE-2025-6428,Moderate,not available,Qualys QID,6/25 CH - QID Available (383405),https://www.mozilla.org/en-US/security/advisories/mfsa2025-51
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-6429,Moderate,not available,Qualys QID,"6/25 CH - QID Available (383405, 383404, 383403)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-51
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-53"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-6430,Moderate,LOW,Qualys QID,"6/25 CH - QID Available (383405, 383404, 383403)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-51
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-53"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-6431,Low,LOW,Qualys QID,"6/25 CH - QID Available (383405, 383404, 383403)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-51
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-53"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-6432,Low,LOW,Qualys QID,"6/25 CH - QID Available (383405, 383404, 383403)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-51
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-53"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-6433,Low,LOW,Qualys QID,"6/25 CH - QID Available (383405, 383404, 383403)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-51
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-53"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-6434,Low,LOW,Qualys QID,"6/25 CH - QID Available (383405, 383404, 383403)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-51
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-53"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-6435,Low,LOW,Qualys QID,"6/25 CH - QID Available (383405, 383404, 383403)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-51
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-53"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-6436,High,LOW,Qualys QID,"6/25 CH - QID Available (383405, 383404, 383403)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-51
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-53"
-Google Chrome Multiple Vulnerabilities,CVE-2025-6555,Medium,,Qualys QID,6/25 CH - QID Available (383409),https://chromereleases.googleblog.com/2025/06/stable-channel-update-for-desktop_24.html
-Google Chrome Multiple Vulnerabilities,CVE-2025-6556,Low,,Qualys QID,6/25 CH - QID Available (383409),https://chromereleases.googleblog.com/2025/06/stable-channel-update-for-desktop_24.html
-Google Chrome Multiple Vulnerabilities,CVE-2025-6557,Low,,Qualys QID,6/25 CH - QID Available (383409),https://chromereleases.googleblog.com/2025/06/stable-channel-update-for-desktop_24.html
+IBM AIX Multiple Vulnerabilities,CVE-2024-56406,8.6,MEDIUM,,6/27 CH - QID Available (330226),"https://aix.software.ibm.com/aix/efixes/security/perl_fix10.tar
+https://www.ibm.com/support/pages/node/7238159"
+IBM App Connect Enterprise IBM Semeru Runtime Multiple Vulnerabilities,CVE-2025-2900,7.5,LOW,,,https://www.ibm.com/support/pages/node/7237722
+IBM App Connect Enterprise Multer Multiple Denial of Service Vulnerabilities,CVE-2025-47944,7.5,LOW,,,https://www.ibm.com/support/pages/node/7237715
+IBM App Connect Enterprise Multer Multiple Denial of Service Vulnerabilities,CVE-2025-47935,7.5,LOW,,,https://www.ibm.com/support/pages/node/7237715
+IBM InfoSphere Information Server IBM Java Multiple Vulnerabilities,CVE-2025-4447,7,LOW,,,https://www.ibm.com/support/pages/node/7236665
+IBM WebSphere Application Server Deserialization Vulnerability,CVE-2025-36038,9,MEDIUM,,6/27 CH - QID Available (383423),https://www.ibm.com/support/pages/node/7237967
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-6557,7.3,LOW,,6/27 CH - QID Available (383424),"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#june-26-2025
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47182
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47963
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47964"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-6556,7.5,not available,,6/27 CH - QID Available (383424),"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#june-26-2025
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47182
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47963
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47964"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-47182,7.5,LOW,,6/27 CH - QID Available (383424),"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#june-26-2025
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47182
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47963
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47964"
+Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2023-5379,7.4,LOW,,"6/27 CH - QID Available (252555, 252557)","https://access.redhat.com/errata/RHSA-2025:9582
+https://access.redhat.com/errata/RHSA-2025:9583"
+Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2022-3143,7.5,not available,,"6/27 CH - QID Available (252555, 252557)","https://access.redhat.com/errata/RHSA-2025:9582
+https://access.redhat.com/errata/RHSA-2025:9583"
+Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2022-1259,7.5,not available,,"6/27 CH - QID Available (252555, 252557)","https://access.redhat.com/errata/RHSA-2025:9582
+https://access.redhat.com/errata/RHSA-2025:9583"
+Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2024-1249,7.5,not available,,"6/27 CH - QID Available (252555, 252557)","https://access.redhat.com/errata/RHSA-2025:9582
+https://access.redhat.com/errata/RHSA-2025:9583"
+Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2022-4492,9.1,MEDIUM,,"6/27 CH - QID Available (252555, 252557)","https://access.redhat.com/errata/RHSA-2025:9582
+https://access.redhat.com/errata/RHSA-2025:9583"
+Red Hat osbuild-composer Rejection Notice,CVE-2025-22871,7.5,LOW,,"6/27 CH - QID Available (252562, 252560, 252561)","https://access.redhat.com/errata/RHSA-2025:9623
+https://access.redhat.com/errata/RHSA-2025:9634
+https://access.redhat.com/errata/RHSA-2025:9635
+"
+Red Hat Satellite Multiple Denial of Service Vulnerabilities,CVE-2025-46727,7.1,MEDIUM,,,https://access.redhat.com/errata/RHSA-2025:9838
+Red Hat Satellite Multiple Denial of Service Vulnerabilities,CVE-2023-50472,7.5,LOW,,,https://access.redhat.com/errata/RHSA-2025:9838
+Red Hat Satellite Multiple Denial of Service Vulnerabilities,CVE-2024-31755,7.5,not available,,,https://access.redhat.com/errata/RHSA-2025:9838
+Red Hat Satellite Multiple Denial of Service Vulnerabilities,CVE-2023-50471,7.6,LOW,,,https://access.redhat.com/errata/RHSA-2025:9838
+Red Hat Satellite Multiple Denial of Service Vulnerabilities,CVE-2024-4340,8.8,MEDIUM,,,https://access.redhat.com/errata/RHSA-2025:9838
+Red Hat update for Red Hat Ceph Storage,CVE-2025-0938,7.3,LOW,,,https://access.redhat.com/errata/RHSA-2025:9776
+Red Hat update for Red Hat Ceph Storage,CVE-2024-42353,7.5,LOW,,,https://access.redhat.com/errata/RHSA-2025:9775
+Red Hat update for Red Hat Ceph Storage,CVE-2025-24528,7.5,LOW,,,https://access.redhat.com/errata/RHSA-2025:9776
+Red Hat update for Red Hat Ceph Storage,CVE-2019-12900,7.5,LOW,,,https://access.redhat.com/errata/RHSA-2025:9776
+Red Hat update for Red Hat Ceph Storage,CVE-2024-12133,7.5,LOW,,,https://access.redhat.com/errata/RHSA-2025:9776
+Red Hat update for Red Hat Ceph Storage,CVE-2024-24786,7.5,not available,,,https://access.redhat.com/errata/RHSA-2025:9776
+Red Hat update for Red Hat Ceph Storage,CVE-2024-24790,7.5,LOW,,,https://access.redhat.com/errata/RHSA-2025:9776
+Red Hat update for Red Hat Ceph Storage,CVE-2024-24791,9.8,not available,,,https://access.redhat.com/errata/RHSA-2025:9776
