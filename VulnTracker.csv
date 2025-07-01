@@ -1,47 +1,19 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-IBM AIX Multiple Vulnerabilities,CVE-2024-56406,8.6,MEDIUM,,6/27 CH - QID Available (330226),"https://aix.software.ibm.com/aix/efixes/security/perl_fix10.tar
-https://www.ibm.com/support/pages/node/7238159"
-IBM App Connect Enterprise IBM Semeru Runtime Multiple Vulnerabilities,CVE-2025-2900,7.5,LOW,,,https://www.ibm.com/support/pages/node/7237722
-IBM App Connect Enterprise Multer Multiple Denial of Service Vulnerabilities,CVE-2025-47944,7.5,LOW,,,https://www.ibm.com/support/pages/node/7237715
-IBM App Connect Enterprise Multer Multiple Denial of Service Vulnerabilities,CVE-2025-47935,7.5,LOW,,,https://www.ibm.com/support/pages/node/7237715
-IBM InfoSphere Information Server IBM Java Multiple Vulnerabilities,CVE-2025-4447,7,LOW,,,https://www.ibm.com/support/pages/node/7236665
-IBM WebSphere Application Server Deserialization Vulnerability,CVE-2025-36038,9,MEDIUM,,6/27 CH - QID Available (383423),https://www.ibm.com/support/pages/node/7237967
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-6557,7.3,LOW,,6/27 CH - QID Available (383424),"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#june-26-2025
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47182
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47963
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47964"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-6556,7.5,not available,,6/27 CH - QID Available (383424),"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#june-26-2025
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47182
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47963
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47964"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-47182,7.5,LOW,,6/27 CH - QID Available (383424),"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#june-26-2025
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47182
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47963
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47964"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2023-5379,7.4,LOW,,"6/27 CH - QID Available (252555, 252557)","https://access.redhat.com/errata/RHSA-2025:9582
-https://access.redhat.com/errata/RHSA-2025:9583"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2022-3143,7.5,not available,,"6/27 CH - QID Available (252555, 252557)","https://access.redhat.com/errata/RHSA-2025:9582
-https://access.redhat.com/errata/RHSA-2025:9583"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2022-1259,7.5,not available,,"6/27 CH - QID Available (252555, 252557)","https://access.redhat.com/errata/RHSA-2025:9582
-https://access.redhat.com/errata/RHSA-2025:9583"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2024-1249,7.5,not available,,"6/27 CH - QID Available (252555, 252557)","https://access.redhat.com/errata/RHSA-2025:9582
-https://access.redhat.com/errata/RHSA-2025:9583"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2022-4492,9.1,MEDIUM,,"6/27 CH - QID Available (252555, 252557)","https://access.redhat.com/errata/RHSA-2025:9582
-https://access.redhat.com/errata/RHSA-2025:9583"
-Red Hat osbuild-composer Rejection Notice,CVE-2025-22871,7.5,LOW,,"6/27 CH - QID Available (252562, 252560, 252561)","https://access.redhat.com/errata/RHSA-2025:9623
-https://access.redhat.com/errata/RHSA-2025:9634
-https://access.redhat.com/errata/RHSA-2025:9635
-"
-Red Hat Satellite Multiple Denial of Service Vulnerabilities,CVE-2025-46727,7.1,MEDIUM,,,https://access.redhat.com/errata/RHSA-2025:9838
-Red Hat Satellite Multiple Denial of Service Vulnerabilities,CVE-2023-50472,7.5,LOW,,,https://access.redhat.com/errata/RHSA-2025:9838
-Red Hat Satellite Multiple Denial of Service Vulnerabilities,CVE-2024-31755,7.5,not available,,,https://access.redhat.com/errata/RHSA-2025:9838
-Red Hat Satellite Multiple Denial of Service Vulnerabilities,CVE-2023-50471,7.6,LOW,,,https://access.redhat.com/errata/RHSA-2025:9838
-Red Hat Satellite Multiple Denial of Service Vulnerabilities,CVE-2024-4340,8.8,MEDIUM,,,https://access.redhat.com/errata/RHSA-2025:9838
-Red Hat update for Red Hat Ceph Storage,CVE-2025-0938,7.3,LOW,,,https://access.redhat.com/errata/RHSA-2025:9776
-Red Hat update for Red Hat Ceph Storage,CVE-2024-42353,7.5,LOW,,,https://access.redhat.com/errata/RHSA-2025:9775
-Red Hat update for Red Hat Ceph Storage,CVE-2025-24528,7.5,LOW,,,https://access.redhat.com/errata/RHSA-2025:9776
-Red Hat update for Red Hat Ceph Storage,CVE-2019-12900,7.5,LOW,,,https://access.redhat.com/errata/RHSA-2025:9776
-Red Hat update for Red Hat Ceph Storage,CVE-2024-12133,7.5,LOW,,,https://access.redhat.com/errata/RHSA-2025:9776
-Red Hat update for Red Hat Ceph Storage,CVE-2024-24786,7.5,not available,,,https://access.redhat.com/errata/RHSA-2025:9776
-Red Hat update for Red Hat Ceph Storage,CVE-2024-24790,7.5,LOW,,,https://access.redhat.com/errata/RHSA-2025:9776
-Red Hat update for Red Hat Ceph Storage,CVE-2024-24791,9.8,not available,,,https://access.redhat.com/errata/RHSA-2025:9776
+Google Chrome V8 Arbitrary Code Execution Zero Day Vulnerability,CVE-2025-6554,,Critical,not available,,"https://chromereleases.googleblog.com/2025/06/chrome-for-android-update_30.html
+https://chromereleases.googleblog.com/2025/06/stable-channel-update-for-desktop_30.html"
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2025-24970,,7.5,LOW,7/1 CH - QID Available (383436),https://www.ibm.com/support/pages/node/7238163
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-4741,,8.1,MEDIUM,7/1 CH - QID Available (383436),https://www.ibm.com/support/pages/node/7238163
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2025-1302,,9.8,HIGH,7/1 CH - QID Available (383436),https://www.ibm.com/support/pages/node/7238163
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-21534,,9.8,HIGH,7/1 CH - QID Available (383436),https://www.ibm.com/support/pages/node/7238163
+IBM MQ IBM Java Multiple Vulnerabilities,CVE-2025-4447,,7,LOW,"7/1 CH - QID Available (732709, 383432)","https://www.ibm.com/support/pages/node/7236656
+https://www.ibm.com/support/pages/node/7238122
+https://www.ibm.com/support/pages/node/7238312"
+IBM MQ IBM Semeru Runtime Multiple Vulnerabilities,CVE-2025-21587,,7.4,MEDIUM,"7/1 CH - QID Available (732709, 383432)","https://www.dell.com/support/kbdoc/en-us/000337554/dsa-2025-235-dell-powermaxos-dell-powermax-eem-dell-unisphere-for-powermax-dell-unisphere-for-powermax-virtual-appliance-dell-unisphere-360-dell-solutions-enabler-and-dell-solutions-enabler-virtual-appliance-security-update-for-multiple-vulnerabilit
+https://www.ibm.com/support/pages/node/7236656
+https://www.ibm.com/support/pages/node/7238122
+https://www.ibm.com/support/pages/node/7238311
+https://www.ibm.com/support/pages/node/7238312"
+IBM MQ IBM Semeru Runtime Multiple Vulnerabilities,CVE-2025-2900,,7.5,LOW,"7/1 CH - QID Available (732709, 383432)",https://www.ibm.com/support/pages/node/7238311
+NetApp Active IQ Unified Manager for VMware vSphere glibc ,CVE-2025-4802,,7.8,HIGH,,https://security.netapp.com/advisory/NTAP-20250627-0010
+Red Hat kernel ,CVE-2023-52933,,7.1,LOW,7/1 CH - QID Available (252747),https://access.redhat.com/errata/RHSA-2025:9880
+Red Hat libblockdev ,CVE-2025-6019,,7,MEDIUM,7/1 CH - QID Available (252636),https://access.redhat.com/errata/RHSA-2025:9878
