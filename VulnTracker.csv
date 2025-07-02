@@ -1,19 +1,18 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Google Chrome V8 Arbitrary Code Execution Zero Day Vulnerability,CVE-2025-6554,,Critical,not available,,"https://chromereleases.googleblog.com/2025/06/chrome-for-android-update_30.html
-https://chromereleases.googleblog.com/2025/06/stable-channel-update-for-desktop_30.html"
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2025-24970,,7.5,LOW,7/1 CH - QID Available (383436),https://www.ibm.com/support/pages/node/7238163
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-4741,,8.1,MEDIUM,7/1 CH - QID Available (383436),https://www.ibm.com/support/pages/node/7238163
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2025-1302,,9.8,HIGH,7/1 CH - QID Available (383436),https://www.ibm.com/support/pages/node/7238163
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2024-21534,,9.8,HIGH,7/1 CH - QID Available (383436),https://www.ibm.com/support/pages/node/7238163
-IBM MQ IBM Java Multiple Vulnerabilities,CVE-2025-4447,,7,LOW,"7/1 CH - QID Available (732709, 383432)","https://www.ibm.com/support/pages/node/7236656
-https://www.ibm.com/support/pages/node/7238122
-https://www.ibm.com/support/pages/node/7238312"
-IBM MQ IBM Semeru Runtime Multiple Vulnerabilities,CVE-2025-21587,,7.4,MEDIUM,"7/1 CH - QID Available (732709, 383432)","https://www.dell.com/support/kbdoc/en-us/000337554/dsa-2025-235-dell-powermaxos-dell-powermax-eem-dell-unisphere-for-powermax-dell-unisphere-for-powermax-virtual-appliance-dell-unisphere-360-dell-solutions-enabler-and-dell-solutions-enabler-virtual-appliance-security-update-for-multiple-vulnerabilit
-https://www.ibm.com/support/pages/node/7236656
-https://www.ibm.com/support/pages/node/7238122
-https://www.ibm.com/support/pages/node/7238311
-https://www.ibm.com/support/pages/node/7238312"
-IBM MQ IBM Semeru Runtime Multiple Vulnerabilities,CVE-2025-2900,,7.5,LOW,"7/1 CH - QID Available (732709, 383432)",https://www.ibm.com/support/pages/node/7238311
-NetApp Active IQ Unified Manager for VMware vSphere glibc ,CVE-2025-4802,,7.8,HIGH,,https://security.netapp.com/advisory/NTAP-20250627-0010
-Red Hat kernel ,CVE-2023-52933,,7.1,LOW,7/1 CH - QID Available (252747),https://access.redhat.com/errata/RHSA-2025:9880
-Red Hat libblockdev ,CVE-2025-6019,,7,MEDIUM,7/1 CH - QID Available (252636),https://access.redhat.com/errata/RHSA-2025:9878
+Apache Drill Parquet Update,CVE-2025-30065,,9,MEDIUM,,"https://drill.apache.org/docs/apache-drill-1-22-0-release-notes/
+https://issues.apache.org/jira/browse/DRILL-8521"
+IBM Multiple Products Multiple Vulnerabilities,CVE-2024-4076,,7.5,LOW,7/2 CH - Task to Storage,https://www.ibm.com/support/pages/node/7237155
+IBM Multiple Products Multiple Vulnerabilities,CVE-2024-1737,,7.5,LOW,7/2 CH - Task to Storage,https://www.ibm.com/support/pages/node/7237155
+IBM Multiple Products Multiple Vulnerabilities,CVE-2024-1975,,7.5,LOW,7/2 CH - Task to Storage,https://www.ibm.com/support/pages/node/7237155
+IBM Multiple Products Multiple Vulnerabilities,CVE-2025-24970,,7.5,LOW,7/2 CH - Task to Storage,https://www.ibm.com/support/pages/node/7237155
+IBM Multiple Products Multiple Vulnerabilities,CVE-2025-0160,,8.1,MEDIUM,7/2 CH - Task to Storage,https://www.ibm.com/support/pages/node/7237155
+IBM Multiple Products Multiple Vulnerabilities,CVE-2025-0159,,9.1,MEDIUM,7/2 CH - Task to Storage,https://www.ibm.com/support/pages/node/7237155
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-6554,,8.1,MEDIUM,7/2 CH - Added to vulnerability Alert,"https://chromereleases.googleblog.com/2025/06/chrome-for-android-update_30.html
+https://chromereleases.googleblog.com/2025/06/stable-channel-update-for-desktop_30.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#july-1-2025"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-49713,,not available,not available,7/2 CH - Added to vulnerability Alert,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#july-1-2025
+Red Hat AMQ Streams Multiple Vulnerabilities,CVE-2024-13009,,7.2,LOW,7/2 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:9922
+Red Hat AMQ Streams Multiple Vulnerabilities,CVE-2025-27817,,7.5,LOW,7/2 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:9922
+Red Hat AMQ Streams Multiple Vulnerabilities,CVE-2023-1370,,7.5,LOW,7/2 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:9922
+Red Hat AMQ Streams Multiple Vulnerabilities,CVE-2025-1634,,7.5,LOW,7/2 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:9922
+Red Hat AMQ Streams Multiple Vulnerabilities,CVE-2024-31141,,8.1,LOW,7/2 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:9922
