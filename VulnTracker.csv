@@ -1,18 +1,36 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Apache Drill Parquet Update,CVE-2025-30065,,9,MEDIUM,,"https://drill.apache.org/docs/apache-drill-1-22-0-release-notes/
-https://issues.apache.org/jira/browse/DRILL-8521"
-IBM Multiple Products Multiple Vulnerabilities,CVE-2024-4076,,7.5,LOW,7/2 CH - Task to Storage,https://www.ibm.com/support/pages/node/7237155
-IBM Multiple Products Multiple Vulnerabilities,CVE-2024-1737,,7.5,LOW,7/2 CH - Task to Storage,https://www.ibm.com/support/pages/node/7237155
-IBM Multiple Products Multiple Vulnerabilities,CVE-2024-1975,,7.5,LOW,7/2 CH - Task to Storage,https://www.ibm.com/support/pages/node/7237155
-IBM Multiple Products Multiple Vulnerabilities,CVE-2025-24970,,7.5,LOW,7/2 CH - Task to Storage,https://www.ibm.com/support/pages/node/7237155
-IBM Multiple Products Multiple Vulnerabilities,CVE-2025-0160,,8.1,MEDIUM,7/2 CH - Task to Storage,https://www.ibm.com/support/pages/node/7237155
-IBM Multiple Products Multiple Vulnerabilities,CVE-2025-0159,,9.1,MEDIUM,7/2 CH - Task to Storage,https://www.ibm.com/support/pages/node/7237155
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-6554,,8.1,MEDIUM,7/2 CH - Added to vulnerability Alert,"https://chromereleases.googleblog.com/2025/06/chrome-for-android-update_30.html
-https://chromereleases.googleblog.com/2025/06/stable-channel-update-for-desktop_30.html
-https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#july-1-2025"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-49713,,not available,not available,7/2 CH - Added to vulnerability Alert,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#july-1-2025
-Red Hat AMQ Streams Multiple Vulnerabilities,CVE-2024-13009,,7.2,LOW,7/2 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:9922
-Red Hat AMQ Streams Multiple Vulnerabilities,CVE-2025-27817,,7.5,LOW,7/2 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:9922
-Red Hat AMQ Streams Multiple Vulnerabilities,CVE-2023-1370,,7.5,LOW,7/2 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:9922
-Red Hat AMQ Streams Multiple Vulnerabilities,CVE-2025-1634,,7.5,LOW,7/2 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:9922
-Red Hat AMQ Streams Multiple Vulnerabilities,CVE-2024-31141,,8.1,LOW,7/2 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:9922
+Cisco Unified Communications Manager Static SSH Credentials Vulnerability,CVE-2025-20309,,10,HIGH,7/3 CH - QID Available (317668) Discussing Vuln Alert,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cucm-ssh-m4UBdpE7
+Red Hat python-setuptools Update,CVE-2025-47273,,8.8,MEDIUM,7/3 CH - QID Available (252772),https://access.redhat.com/errata/RHSA-2025:9940
+Red Hat update for firefox,CVE-2025-6424,,8.8,HIGH,"7/3 CH - QID Available (252809, 252803, 252769, 252796)","https://access.redhat.com/errata/RHSA-2025:10072
+https://access.redhat.com/errata/RHSA-2025:10073
+https://access.redhat.com/errata/RHSA-2025:10074
+https://access.redhat.com/errata/RHSA-2025:10181"
+Red Hat update for pam,CVE-2025-6020,,7.8,MEDIUM,7/3 CH - QID Available (252812),https://access.redhat.com/errata/RHSA-2025:10027
+Red Hat update for python3.9,CVE-2025-4138,,7.5,LOW,"7/3 CH - QID Available (252770, 252766, 252782, 252778,252807, 252799, 252798 )","https://access.redhat.com/errata/RHSA-2025:10026
+https://access.redhat.com/errata/RHSA-2025:10031
+https://access.redhat.com/errata/RHSA-2025:10128
+https://access.redhat.com/errata/RHSA-2025:10136
+https://access.redhat.com/errata/RHSA-2025:10140
+https://access.redhat.com/errata/RHSA-2025:10148
+https://access.redhat.com/errata/RHSA-2025:10189"
+Red Hat update for python3.9,CVE-2025-4435,,7.5,LOW,"7/3 CH - QID Available (252770, 252766, 252782, 252778,252807, 252799, 252798 )","https://access.redhat.com/errata/RHSA-2025:10026
+https://access.redhat.com/errata/RHSA-2025:10031
+https://access.redhat.com/errata/RHSA-2025:10128
+https://access.redhat.com/errata/RHSA-2025:10136
+https://access.redhat.com/errata/RHSA-2025:10140
+https://access.redhat.com/errata/RHSA-2025:10148
+https://access.redhat.com/errata/RHSA-2025:10189"
+Red Hat update for python3.9,CVE-2024-12718,,7.6,LOW,"7/3 CH - QID Available (252770, 252766, 252782, 252778,252807, 252799, 252798 )","https://access.redhat.com/errata/RHSA-2025:10026
+https://access.redhat.com/errata/RHSA-2025:10031
+https://access.redhat.com/errata/RHSA-2025:10128
+https://access.redhat.com/errata/RHSA-2025:10136
+https://access.redhat.com/errata/RHSA-2025:10140
+https://access.redhat.com/errata/RHSA-2025:10148
+https://access.redhat.com/errata/RHSA-2025:10189"
+Red Hat update for python3.9,CVE-2025-4517,,9.4,MEDIUM,"7/3 CH - QID Available (252770, 252766, 252782, 252778,252807, 252799, 252798 )","https://access.redhat.com/errata/RHSA-2025:10026
+https://access.redhat.com/errata/RHSA-2025:10031
+https://access.redhat.com/errata/RHSA-2025:10128
+https://access.redhat.com/errata/RHSA-2025:10136
+https://access.redhat.com/errata/RHSA-2025:10140
+https://access.redhat.com/errata/RHSA-2025:10148
+https://access.redhat.com/errata/RHSA-2025:10189"
