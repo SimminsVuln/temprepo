@@ -1,36 +1,37 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Cisco Unified Communications Manager Static SSH Credentials Vulnerability,CVE-2025-20309,,10,HIGH,7/3 CH - QID Available (317668) Discussing Vuln Alert,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cucm-ssh-m4UBdpE7
-Red Hat python-setuptools Update,CVE-2025-47273,,8.8,MEDIUM,7/3 CH - QID Available (252772),https://access.redhat.com/errata/RHSA-2025:9940
-Red Hat update for firefox,CVE-2025-6424,,8.8,HIGH,"7/3 CH - QID Available (252809, 252803, 252769, 252796)","https://access.redhat.com/errata/RHSA-2025:10072
-https://access.redhat.com/errata/RHSA-2025:10073
-https://access.redhat.com/errata/RHSA-2025:10074
-https://access.redhat.com/errata/RHSA-2025:10181"
-Red Hat update for pam,CVE-2025-6020,,7.8,MEDIUM,7/3 CH - QID Available (252812),https://access.redhat.com/errata/RHSA-2025:10027
-Red Hat update for python3.9,CVE-2025-4138,,7.5,LOW,"7/3 CH - QID Available (252770, 252766, 252782, 252778,252807, 252799, 252798 )","https://access.redhat.com/errata/RHSA-2025:10026
-https://access.redhat.com/errata/RHSA-2025:10031
-https://access.redhat.com/errata/RHSA-2025:10128
-https://access.redhat.com/errata/RHSA-2025:10136
-https://access.redhat.com/errata/RHSA-2025:10140
-https://access.redhat.com/errata/RHSA-2025:10148
-https://access.redhat.com/errata/RHSA-2025:10189"
-Red Hat update for python3.9,CVE-2025-4435,,7.5,LOW,"7/3 CH - QID Available (252770, 252766, 252782, 252778,252807, 252799, 252798 )","https://access.redhat.com/errata/RHSA-2025:10026
-https://access.redhat.com/errata/RHSA-2025:10031
-https://access.redhat.com/errata/RHSA-2025:10128
-https://access.redhat.com/errata/RHSA-2025:10136
-https://access.redhat.com/errata/RHSA-2025:10140
-https://access.redhat.com/errata/RHSA-2025:10148
-https://access.redhat.com/errata/RHSA-2025:10189"
-Red Hat update for python3.9,CVE-2024-12718,,7.6,LOW,"7/3 CH - QID Available (252770, 252766, 252782, 252778,252807, 252799, 252798 )","https://access.redhat.com/errata/RHSA-2025:10026
-https://access.redhat.com/errata/RHSA-2025:10031
-https://access.redhat.com/errata/RHSA-2025:10128
-https://access.redhat.com/errata/RHSA-2025:10136
-https://access.redhat.com/errata/RHSA-2025:10140
-https://access.redhat.com/errata/RHSA-2025:10148
-https://access.redhat.com/errata/RHSA-2025:10189"
-Red Hat update for python3.9,CVE-2025-4517,,9.4,MEDIUM,"7/3 CH - QID Available (252770, 252766, 252782, 252778,252807, 252799, 252798 )","https://access.redhat.com/errata/RHSA-2025:10026
-https://access.redhat.com/errata/RHSA-2025:10031
-https://access.redhat.com/errata/RHSA-2025:10128
-https://access.redhat.com/errata/RHSA-2025:10136
-https://access.redhat.com/errata/RHSA-2025:10140
-https://access.redhat.com/errata/RHSA-2025:10148
-https://access.redhat.com/errata/RHSA-2025:10189"
+Docker Desktop Update,CVE-2025-6587,not available,LOW,Qualys QID,7/8 CH - QID Available (383480),https://docs.docker.com/desktop/release-notes/#4430
+IBM Hardware Management Console (HMC) Multiple Vulnerabilities,CVE-2025-21587,7.4,MEDIUM,None,,"https://www.ibm.com/support/pages/node/7238984
+https://www.ibm.com/support/pages/node/7238985
+https://www.ibm.com/support/pages/node/7238986
+https://www.ibm.com/support/pages/node/7238987"
+IBM Hardware Management Console (HMC) Multiple Vulnerabilities,CVE-2024-8176,7.5,LOW,None,,"https://www.ibm.com/support/pages/node/7238984
+https://www.ibm.com/support/pages/node/7238985
+https://www.ibm.com/support/pages/node/7238986
+https://www.ibm.com/support/pages/node/7238987"
+IBM Hardware Management Console (HMC) Multiple Vulnerabilities,CVE-2025-2900,7.5,LOW,None,,"https://www.ibm.com/support/pages/node/7238984
+https://www.ibm.com/support/pages/node/7238985
+https://www.ibm.com/support/pages/node/7238986
+https://www.ibm.com/support/pages/node/7238987"
+IBM Hardware Management Console (HMC) Multiple Vulnerabilities,CVE-2024-56171,7.8,LOW,None,,"https://www.ibm.com/support/pages/node/7238984
+https://www.ibm.com/support/pages/node/7238985
+https://www.ibm.com/support/pages/node/7238986
+https://www.ibm.com/support/pages/node/7238987"
+IBM Hardware Management Console (HMC) Multiple Vulnerabilities,CVE-2025-24928,7.8,LOW,None,,"https://www.ibm.com/support/pages/node/7238984
+https://www.ibm.com/support/pages/node/7238985
+https://www.ibm.com/support/pages/node/7238986
+https://www.ibm.com/support/pages/node/7238987"
+IBM Hardware Management Console (HMC) Multiple Vulnerabilities,CVE-2025-27363,8.1,not available,None,,"https://www.ibm.com/support/pages/node/7238984
+https://www.ibm.com/support/pages/node/7238985
+https://www.ibm.com/support/pages/node/7238986
+https://www.ibm.com/support/pages/node/7238987"
+Red Hat python-setuptools Update,CVE-2025-47273,8.8,MEDIUM,Qualys QID,7/8 CH - QID Available (252855),https://access.redhat.com/errata/RHSA-2025:10407
+Red Hat update for kernel,CVE-2025-37799,7.1,LOW,Qualys QID,7/8 CH - QID Available (252831),https://access.redhat.com/errata/RHSA-2025:10371
+Red Hat update for kernel,CVE-2025-21759,7.8,LOW,Qualys QID,7/8 CH - QID Available (252831),https://access.redhat.com/errata/RHSA-2025:10371
+Red Hat update for pam,CVE-2025-6020,7.8,MEDIUM,Qualys QID,7/8 CH - QID Available (252850),https://access.redhat.com/errata/RHSA-2025:10357
+Red Hat update for socat,CVE-2024-54661,9.8,HIGH,Qualys QID,7/8 CH - QID Available (252847),https://access.redhat.com/errata/RHSA-2025:10353
+Red Hat update for tigervnc,CVE-2025-49179,7.3,LOW,Qualys QID,"7/8 CH - QID Available (252837, 252846)","https://access.redhat.com/errata/RHSA-2025:10360
+https://access.redhat.com/errata/RHSA-2025:10375"
+Red Hat update for tigervnc,CVE-2025-49176,7.3,LOW,Qualys QID,"7/8 CH - QID Available (252837, 252846)","https://access.redhat.com/errata/RHSA-2025:10360
+https://access.redhat.com/errata/RHSA-2025:10375"
+Red Hat update for tigervnc,CVE-2025-49180,7.8,LOW,Qualys QID,"7/8 CH - QID Available (252837, 252846)","https://access.redhat.com/errata/RHSA-2025:10360
+https://access.redhat.com/errata/RHSA-2025:10375"
