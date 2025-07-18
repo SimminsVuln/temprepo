@@ -1,29 +1,13 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Atlassian Bamboo Apache Commons BeanUtils Security Bypass Vulnerability,CVE-2025-48734,8.8,MEDIUM,Qualys QID,7/17 CH - QID Available (732770),"https://jira.atlassian.com/browse/BAM-26152
-https://www.oracle.com/security-alerts/cpujul2025.html#AppendixCAGBU
-https://www.oracle.com/security-alerts/cpujul2025.html#AppendixEM
-https://www.oracle.com/security-alerts/cpujul2025.html#AppendixFMW
-https://www.oracle.com/security-alerts/cpujul2025verbose.html"
-Atlassian Bamboo Eclipse Jetty Security Bypass Vulnerability,CVE-2024-13009,7.2,LOW,Qualys QID,7/17 CH - QID Available (732770),https://jira.atlassian.com/browse/BAM-26154
-Atlassian Bamboo PostgreSQL JDBC Driver Security Bypass Vulnerability,CVE-2025-49146,8.2,LOW,Qualys QID,7/17 CH - QID Available (732770),"https://jira.atlassian.com/browse/BAM-26150
-https://www.oracle.com/security-alerts/cpujul2025.html#AppendixFMW
-https://www.oracle.com/security-alerts/cpujul2025verbose.html"
-Atlassian Jira Apache Tomcat Security Bypass Vulnerability,CVE-2025-46701,7.3,MEDIUM,Qualys Pipeline,"7/17 CH - QID Available (383604, 732775)","https://jira.atlassian.com/browse/BSERV-20095
-https://jira.atlassian.com/browse/JSDSERVER-16311
-https://jira.atlassian.com/browse/JSWSERVER-26442
-https://www.openwall.com/lists/oss-security/2025/05/12/1
-https://www.oracle.com/security-alerts/bulletinjul2025.html"
-Atlassian Jira PSL Security Bypass Vulnerability,CVE-2025-27820,7.5,LOW,Qualys Pipeline,"7/17 CH - QID Available (383604, 732775)","https://jira.atlassian.com/browse/BAM-26153
-https://jira.atlassian.com/browse/CONFSERVER-100164
-https://jira.atlassian.com/browse/JSWSERVER-26468
-https://www.oracle.com/security-alerts/cpujul2025.html#AppendixGG
-https://www.oracle.com/security-alerts/cpujul2025verbose.html"
-Atlassian Jira spring-security-crypto Security Bypass Vulnerability,CVE-2025-22228,7.4,MEDIUM,Qualys Pipeline,"7/17 CH - QID Available (383604, 732775)","https://jira.atlassian.com/browse/JSDSERVER-16310
-https://jira.atlassian.com/browse/JSWSERVER-26443"
-Cisco Identity Services Engine Unauthenticated Remote Code Execution Vulnerabilities,CVE-2025-20281,10,HIGH,None,"7/17 CH - Trending vulnerability. PoC Code available, discuss alert",https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-unauth-rce-ZAd2GnJ6
-Cisco Identity Services Engine Unauthenticated Remote Code Execution Vulnerabilities,CVE-2025-20282,10,HIGH,None,"7/17 CH - Trending vulnerability. PoC Code available, discuss alert",https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-unauth-rce-ZAd2GnJ6
-Cisco Identity Services Engine Unauthenticated Remote Code Execution Vulnerabilities,CVE-2025-20337,10,HIGH,None,"7/17 CH - Trending vulnerability. PoC Code available, discuss alert",https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-unauth-rce-ZAd2GnJ6
-IBM Sterling Connect:Direct for UNIX Multiple Vulnerabilities,CVE-2025-4447,7,LOW,Qualys Pipeline,7/17 CH - QID in Pipeline (383573),"https://www.ibm.com/support/pages/node/7238753
+Atlassian Crowd Serialization Security Bypass Vulnerability,CVE-2017-1000034,9.8,,,,"https://doc.akka.io/libraries/akka-core/2.4/security/2017-02-10-java-serialization.html
+https://jira.atlassian.com/browse/CWD-6374"
+F5 BIG-IP Edge Client Libexpat Rejection Notice,CVE-2024-8176,7.5,,,,https://my.f5.com/manage/s/article/K000151869
+IBM AIX / Virtual I/O Server libxml2 Multiple Denial of Service Vulnerabilities,CVE-2025-49795,7.5,,,7/18 CH - QID Available (330227),https://www.ibm.com/support/pages/node/7239960
+IBM AIX / Virtual I/O Server libxml2 Multiple Denial of Service Vulnerabilities,CVE-2025-6021,7.5,,,7/18 CH - QID Available (330227),https://www.ibm.com/support/pages/node/7239960
+IBM AIX / Virtual I/O Server libxml2 Multiple Denial of Service Vulnerabilities,CVE-2025-49794,9.1,,,7/18 CH - QID Available (330227),https://www.ibm.com/support/pages/node/7239960
+IBM AIX / Virtual I/O Server libxml2 Multiple Denial of Service Vulnerabilities,CVE-2025-49796,9.1,,,7/18 CH - QID Available (330227),https://www.ibm.com/support/pages/node/7239960
+IBM AIX / Virtual I/O Server RPM Rejection Notice,CVE-2025-29087,7.5,,,7/18 CH - QID Available (330228),https://www.ibm.com/support/pages/node/7239958
+IBM Sterling Connect:Direct for UNIX Multiple Vulnerabilities,CVE-2025-4447,7,,,7/18 CH - QID Available (383573),"https://www.ibm.com/support/pages/node/7238753
 https://www.ibm.com/support/pages/node/7238755
 https://www.ibm.com/support/pages/node/7239103
 https://www.ibm.com/support/pages/node/7239492
@@ -33,7 +17,7 @@ https://www.ibm.com/support/pages/node/7239645
 https://www.ibm.com/support/pages/node/7239755
 https://www.ibm.com/support/pages/node/7239757
 https://www.ibm.com/support/pages/node/7239816"
-IBM Sterling Connect:Direct for UNIX Multiple Vulnerabilities,CVE-2025-21587,7.4,MEDIUM,Qualys Pipeline,7/17 CH - QID in Pipeline (383573),"https://www.ibm.com/support/pages/node/7238753
+IBM Sterling Connect:Direct for UNIX Multiple Vulnerabilities,CVE-2025-21587,7.4,,,7/18 CH - QID Available (383573),"https://www.ibm.com/support/pages/node/7238753
 https://www.ibm.com/support/pages/node/7238755
 https://www.ibm.com/support/pages/node/7239492
 https://www.ibm.com/support/pages/node/7239598
@@ -42,33 +26,13 @@ https://www.ibm.com/support/pages/node/7239645
 https://www.ibm.com/support/pages/node/7239755
 https://www.ibm.com/support/pages/node/7239757
 https://www.ibm.com/support/pages/node/7239816"
-IBM Sterling Connect:Direct for UNIX Multiple Vulnerabilities,CVE-2025-2900,7.5,LOW,Qualys Pipeline,7/17 CH - QID in Pipeline (383573),"https://www.ibm.com/support/pages/node/7238753
+IBM Sterling Connect:Direct for UNIX Multiple Vulnerabilities,CVE-2025-2900,7.5,,,7/18 CH - QID Available (383573),"https://www.ibm.com/support/pages/node/7238753
 https://www.ibm.com/support/pages/node/7238755
 https://www.ibm.com/support/pages/node/7239617
 https://www.ibm.com/support/pages/node/7239816"
-IBM Tivoli Business Service Manager Multiple Vulnerabilities,CVE-2025-23184,7.5,LOW,,,"https://www.ibm.com/support/pages/node/7238746
-https://www.ibm.com/support/pages/node/7238747
-https://www.ibm.com/support/pages/node/7238748"
-IBM Tivoli Business Service Manager Multiple Vulnerabilities,CVE-2025-48734,8.8,MEDIUM,,,"https://jira.atlassian.com/browse/BAM-26152
-https://www.ibm.com/support/pages/node/7238746
-https://www.ibm.com/support/pages/node/7238747
-https://www.ibm.com/support/pages/node/7238748
-https://www.oracle.com/security-alerts/cpujul2025.html#AppendixCAGBU
-https://www.oracle.com/security-alerts/cpujul2025.html#AppendixEM
-https://www.oracle.com/security-alerts/cpujul2025.html#AppendixFMW
-https://www.oracle.com/security-alerts/cpujul2025verbose.html"
-IBM Tivoli Composite Application Manager for Applications WebSphere MQ Monitoring Agent IBM Java Multiple Vulnerabilities,CVE-2023-33850,7.5,LOW,,,https://www.ibm.com/support/pages/node/7239103
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-6558,8.8,MEDIUM,Qualys Pipeline,7/17 CH - QID in Pipeline (383597),"https://chromereleases.googleblog.com/2025/07/chrome-for-android-update.html
-https://chromereleases.googleblog.com/2025/07/stable-channel-update-for-desktop_15.html
-https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#july-16-2025"
-Red Hat update for glib2,CVE-2024-52533,9.8,HIGH,Qualys Pipeline,7/17 CH - QID in Pipeline (252943),https://access.redhat.com/errata/RHSA-2025:11140
-Red Hat update for java-17-openjdk,CVE-2025-50106,8.1,LOW,Qualys Pipeline,7/17 CH - QID in Pipeline (252944),"https://access.redhat.com/errata/RHSA-2025:10867
-"
-Red Hat update for java-17-openjdk,CVE-2025-30749,8.1,MEDIUM,Qualys Pipeline,7/17 CH - QID in Pipeline (252944),"https://access.redhat.com/errata/RHSA-2025:10867
-"
-Red Hat update for java-17-openjdk,CVE-2025-50059,8.6,LOW,Qualys Pipeline,7/17 CH - QID in Pipeline (252944),"https://access.redhat.com/errata/RHSA-2025:10867
-"
-Red Hat update for kernel,CVE-2025-23150,7.1,LOW,Qualys Pipeline,7/17 CH - QID in Pipeline (252953),https://access.redhat.com/errata/RHSA-2025:11298
-Red Hat update for kernel,CVE-2022-49788,7.1,LOW,Qualys Pipeline,7/17 CH - QID in Pipeline (252953),https://access.redhat.com/errata/RHSA-2025:11298
-Red Hat update for kernel,CVE-2025-37738,7.1,LOW,Qualys Pipeline,7/17 CH - QID in Pipeline (252953),https://access.redhat.com/errata/RHSA-2025:11298
-Red Hat update for kernel,CVE-2025-22004,7.8,LOW,Qualys Pipeline,7/17 CH - QID in Pipeline (252953),https://access.redhat.com/errata/RHSA-2025:11298
+IBM WebSphere Application Server / WebSphere Application Server Liberty Denial of Service Vulnerability,CVE-2025-36097,7.5,,,"7/18 CH - QID Available (383600, 383659)",https://www.ibm.com/support/pages/node/7239856
+"Node.js ""normalize()"" Security Bypass Vulnerability",CVE-2025-27210,not available,,,"7/18 CH - QID Available (383592, 383593)","https://hackerone.com/reports/3160912
+https://nodejs.org/en/blog/release/v20.19.4
+https://nodejs.org/en/blog/release/v22.17.1"
+OpenJDK Multiple Vulnerabilities,CVE-2025-27113,7.5,,,,https://openjdk.org/groups/vulnerability/advisories/2025-07-15
+OpenJDK Multiple Vulnerabilities,CVE-2025-24855,7.8,,,,https://openjdk.org/groups/vulnerability/advisories/2025-07-15
