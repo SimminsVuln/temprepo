@@ -1,38 +1,37 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Atlassian Crowd Serialization Security Bypass Vulnerability,CVE-2017-1000034,9.8,,,,"https://doc.akka.io/libraries/akka-core/2.4/security/2017-02-10-java-serialization.html
+Red Hat update for valkey,CVE-2025-32023,7,,Qualys QID,"7/22 CH - QID Available (253086, 253102)","https://access.redhat.com/errata/RHSA-2025:11401
+https://access.redhat.com/errata/RHSA-2025:11453"
+Red Hat update for valkey,CVE-2025-48367,7.5,,Qualys QID,"7/22 CH - QID Available (253086, 253102)","https://access.redhat.com/errata/RHSA-2025:11401
+https://access.redhat.com/errata/RHSA-2025:11453"
+Red Hat update for kernel,CVE-2024-58002,7,,Qualys QID,"7/22 CH - QID Available (253090, 253105)","https://access.redhat.com/errata/RHSA-2025:11411
+https://access.redhat.com/errata/RHSA-2025:11428"
+Red Hat update for kernel,CVE-2025-38089,7.1,,Qualys QID,"7/22 CH - QID Available (253090, 253105)","https://access.redhat.com/errata/RHSA-2025:11411
+https://access.redhat.com/errata/RHSA-2025:11428"
+Red Hat update for kernel,CVE-2024-50154,7,,Qualys QID,7/22 CH - QID Available (253099),https://access.redhat.com/errata/RHSA-2025:11455
+Atlassian Crowd Serialization Security Bypass Vulnerability,CVE-2017-1000034,9.8,,Qualys QID,7/22 CH - QID Available (732778),"
 https://jira.atlassian.com/browse/CWD-6374"
-F5 BIG-IP Edge Client Libexpat Rejection Notice,CVE-2024-8176,7.5,,,,https://my.f5.com/manage/s/article/K000151869
-IBM AIX / Virtual I/O Server libxml2 Multiple Denial of Service Vulnerabilities,CVE-2025-49795,7.5,,,7/18 CH - QID Available (330227),https://www.ibm.com/support/pages/node/7239960
-IBM AIX / Virtual I/O Server libxml2 Multiple Denial of Service Vulnerabilities,CVE-2025-6021,7.5,,,7/18 CH - QID Available (330227),https://www.ibm.com/support/pages/node/7239960
-IBM AIX / Virtual I/O Server libxml2 Multiple Denial of Service Vulnerabilities,CVE-2025-49794,9.1,,,7/18 CH - QID Available (330227),https://www.ibm.com/support/pages/node/7239960
-IBM AIX / Virtual I/O Server libxml2 Multiple Denial of Service Vulnerabilities,CVE-2025-49796,9.1,,,7/18 CH - QID Available (330227),https://www.ibm.com/support/pages/node/7239960
-IBM AIX / Virtual I/O Server RPM Rejection Notice,CVE-2025-29087,7.5,,,7/18 CH - QID Available (330228),https://www.ibm.com/support/pages/node/7239958
-IBM Sterling Connect:Direct for UNIX Multiple Vulnerabilities,CVE-2025-4447,7,,,7/18 CH - QID Available (383573),"https://www.ibm.com/support/pages/node/7238753
-https://www.ibm.com/support/pages/node/7238755
-https://www.ibm.com/support/pages/node/7239103
-https://www.ibm.com/support/pages/node/7239492
-https://www.ibm.com/support/pages/node/7239598
-https://www.ibm.com/support/pages/node/7239617
-https://www.ibm.com/support/pages/node/7239645
-https://www.ibm.com/support/pages/node/7239755
-https://www.ibm.com/support/pages/node/7239757
-https://www.ibm.com/support/pages/node/7239816"
-IBM Sterling Connect:Direct for UNIX Multiple Vulnerabilities,CVE-2025-21587,7.4,,,7/18 CH - QID Available (383573),"https://www.ibm.com/support/pages/node/7238753
-https://www.ibm.com/support/pages/node/7238755
-https://www.ibm.com/support/pages/node/7239492
-https://www.ibm.com/support/pages/node/7239598
-https://www.ibm.com/support/pages/node/7239617
-https://www.ibm.com/support/pages/node/7239645
-https://www.ibm.com/support/pages/node/7239755
-https://www.ibm.com/support/pages/node/7239757
-https://www.ibm.com/support/pages/node/7239816"
-IBM Sterling Connect:Direct for UNIX Multiple Vulnerabilities,CVE-2025-2900,7.5,,,7/18 CH - QID Available (383573),"https://www.ibm.com/support/pages/node/7238753
-https://www.ibm.com/support/pages/node/7238755
-https://www.ibm.com/support/pages/node/7239617
-https://www.ibm.com/support/pages/node/7239816"
-IBM WebSphere Application Server / WebSphere Application Server Liberty Denial of Service Vulnerability,CVE-2025-36097,7.5,,,"7/18 CH - QID Available (383600, 383659)",https://www.ibm.com/support/pages/node/7239856
-"Node.js ""normalize()"" Security Bypass Vulnerability",CVE-2025-27210,not available,,,"7/18 CH - QID Available (383592, 383593)","https://hackerone.com/reports/3160912
-https://nodejs.org/en/blog/release/v20.19.4
-https://nodejs.org/en/blog/release/v22.17.1"
-OpenJDK Multiple Vulnerabilities,CVE-2025-27113,7.5,,,,https://openjdk.org/groups/vulnerability/advisories/2025-07-15
-OpenJDK Multiple Vulnerabilities,CVE-2025-24855,7.8,,,,https://openjdk.org/groups/vulnerability/advisories/2025-07-15
+IBM i OpenSSL Multiple Vulnerabilities,CVE-2023-5678,7.5,,,,https://www.ibm.com/support/pages/node/7239954
+IBM i OpenSSL Multiple Vulnerabilities,CVE-2024-4741,8.1,,,,https://www.ibm.com/support/pages/node/7239954
+IBM Tivoli Netcool/OMNIbus Multiple Vulnerabilities,CVE-2025-4447,7,,,,"https://www.ibm.com/support/pages/node/7239860
+https://www.ibm.com/support/pages/node/7239961
+https://www.ibm.com/support/pages/node/7239965
+https://www.ibm.com/support/pages/node/7239966
+https://www.ibm.com/support/pages/node/7240047
+https://www.ibm.com/support/pages/node/7240122
+https://www.ibm.com/support/pages/node/7240124"
+IBM Tivoli Netcool/OMNIbus Multiple Vulnerabilities,CVE-2025-21587,7.4,,,,"https://www.ibm.com/support/pages/node/7239860
+https://www.ibm.com/support/pages/node/7239961
+https://www.ibm.com/support/pages/node/7239965
+https://www.ibm.com/support/pages/node/7239966
+https://www.ibm.com/support/pages/node/7240047
+https://www.ibm.com/support/pages/node/7240122
+https://www.ibm.com/support/pages/node/7240124"
+IBM Tivoli Netcool/OMNIbus Multiple Vulnerabilities,CVE-2025-1471,7.8,,,,"https://www.ibm.com/support/pages/node/7239961
+https://www.ibm.com/support/pages/node/7239965
+https://www.ibm.com/support/pages/node/7239966"
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2025-50106,8.1,,,,"https://learn.microsoft.com/en-gb/java/openjdk/release-notes#openjdk-11028
+https://learn.microsoft.com/en-gb/java/openjdk/release-notes#openjdk-17016"
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2025-30749,8.1,,,,"https://learn.microsoft.com/en-gb/java/openjdk/release-notes#openjdk-11028
+https://learn.microsoft.com/en-gb/java/openjdk/release-notes#openjdk-17016"
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2025-50059,8.6,,,,"https://learn.microsoft.com/en-gb/java/openjdk/release-notes#openjdk-11028
+https://learn.microsoft.com/en-gb/java/openjdk/release-notes#openjdk-17016"
