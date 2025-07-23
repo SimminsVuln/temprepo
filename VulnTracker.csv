@@ -1,37 +1,47 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Red Hat update for valkey,CVE-2025-32023,7,,Qualys QID,"7/22 CH - QID Available (253086, 253102)","https://access.redhat.com/errata/RHSA-2025:11401
-https://access.redhat.com/errata/RHSA-2025:11453"
-Red Hat update for valkey,CVE-2025-48367,7.5,,Qualys QID,"7/22 CH - QID Available (253086, 253102)","https://access.redhat.com/errata/RHSA-2025:11401
-https://access.redhat.com/errata/RHSA-2025:11453"
-Red Hat update for kernel,CVE-2024-58002,7,,Qualys QID,"7/22 CH - QID Available (253090, 253105)","https://access.redhat.com/errata/RHSA-2025:11411
-https://access.redhat.com/errata/RHSA-2025:11428"
-Red Hat update for kernel,CVE-2025-38089,7.1,,Qualys QID,"7/22 CH - QID Available (253090, 253105)","https://access.redhat.com/errata/RHSA-2025:11411
-https://access.redhat.com/errata/RHSA-2025:11428"
-Red Hat update for kernel,CVE-2024-50154,7,,Qualys QID,7/22 CH - QID Available (253099),https://access.redhat.com/errata/RHSA-2025:11455
-Atlassian Crowd Serialization Security Bypass Vulnerability,CVE-2017-1000034,9.8,,Qualys QID,7/22 CH - QID Available (732778),"
-https://jira.atlassian.com/browse/CWD-6374"
-IBM i OpenSSL Multiple Vulnerabilities,CVE-2023-5678,7.5,,,,https://www.ibm.com/support/pages/node/7239954
-IBM i OpenSSL Multiple Vulnerabilities,CVE-2024-4741,8.1,,,,https://www.ibm.com/support/pages/node/7239954
-IBM Tivoli Netcool/OMNIbus Multiple Vulnerabilities,CVE-2025-4447,7,,,,"https://www.ibm.com/support/pages/node/7239860
-https://www.ibm.com/support/pages/node/7239961
-https://www.ibm.com/support/pages/node/7239965
-https://www.ibm.com/support/pages/node/7239966
-https://www.ibm.com/support/pages/node/7240047
-https://www.ibm.com/support/pages/node/7240122
-https://www.ibm.com/support/pages/node/7240124"
-IBM Tivoli Netcool/OMNIbus Multiple Vulnerabilities,CVE-2025-21587,7.4,,,,"https://www.ibm.com/support/pages/node/7239860
-https://www.ibm.com/support/pages/node/7239961
-https://www.ibm.com/support/pages/node/7239965
-https://www.ibm.com/support/pages/node/7239966
-https://www.ibm.com/support/pages/node/7240047
-https://www.ibm.com/support/pages/node/7240122
-https://www.ibm.com/support/pages/node/7240124"
-IBM Tivoli Netcool/OMNIbus Multiple Vulnerabilities,CVE-2025-1471,7.8,,,,"https://www.ibm.com/support/pages/node/7239961
-https://www.ibm.com/support/pages/node/7239965
-https://www.ibm.com/support/pages/node/7239966"
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2025-50106,8.1,,,,"https://learn.microsoft.com/en-gb/java/openjdk/release-notes#openjdk-11028
-https://learn.microsoft.com/en-gb/java/openjdk/release-notes#openjdk-17016"
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2025-30749,8.1,,,,"https://learn.microsoft.com/en-gb/java/openjdk/release-notes#openjdk-11028
-https://learn.microsoft.com/en-gb/java/openjdk/release-notes#openjdk-17016"
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2025-50059,8.6,,,,"https://learn.microsoft.com/en-gb/java/openjdk/release-notes#openjdk-11028
-https://learn.microsoft.com/en-gb/java/openjdk/release-notes#openjdk-17016"
+Dell Latitude Multiple Products BIOS Security Bypass Vulnerability,CVE-2025-36579,5.1,,,,https://www.dell.com/support/kbdoc/en-us/000300450/dsa-2025-153
+F5OS-A GO Security Bypass Vulnerability,CVE-2024-45341,6.1,,,,https://my.f5.com/manage/s/article/K000152658
+Google Chrome V8 Vulnerabilites,CVE-2025-8010,High,,,7/23 CH - QID Available (383636),https://chromereleases.googleblog.com/2025/07/stable-channel-update-for-desktop_22.html
+Google Chrome V8 Vulnerabilites,CVE-2025-8011,High,,,7/23 CH - QID Available (383636),https://chromereleases.googleblog.com/2025/07/stable-channel-update-for-desktop_22.html
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-8027,High,,,"7/23 CH - QID Available (383639, 383635, 383641)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-57
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-58
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-59"
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-8028,High,,,"7/23 CH - QID Available (383639, 383635, 383641)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-57
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-58
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-59"
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-8034,High,,,"7/23 CH - QID Available (383639, 383635, 383641)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-57
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-58
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-59"
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-8035,High,,,"7/23 CH - QID Available (383639, 383635, 383641)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-58
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-59"
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-8040,High,,,"7/23 CH - QID Available (383639, 383635, 383641)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-59"
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-8038,Low,,,"7/23 CH - QID Available (383639, 383635, 383641)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-59"
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-8029,Moderate,,,"7/23 CH - QID Available (383639, 383635, 383641)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-58
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-59"
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-8031,Moderate,,,"7/23 CH - QID Available (383639, 383635, 383641)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-58
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-59"
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-8032,Moderate,,,"7/23 CH - QID Available (383639, 383635, 383641)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-58
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-59"
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-8036,Moderate,,,"7/23 CH - QID Available (383639, 383635, 383641)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-59"
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-8037,Moderate,,,"7/23 CH - QID Available (383639, 383635, 383641)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-59"
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-8044,High,,,7/23 CH - QID Available 383640),https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-8041,Moderate,,,7/23 CH - QID Available 383640),https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-8042,Moderate,,,7/23 CH - QID Available 383640),https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-8043,Moderate,,,7/23 CH - QID Available 383640),https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
+Red Hat update for git,CVE-2025-48385,8.3,,,7/23 CH - QID Available (253109),"https://access.redhat.com/errata/RHSA-2025:11462
+https://access.redhat.com/errata/RHSA-2025:11533"
+Red Hat update for git,CVE-2025-46835,8.5,,,7/23 CH - QID Available (253109),"https://access.redhat.com/errata/RHSA-2025:11462
+https://access.redhat.com/errata/RHSA-2025:11533"
+Red Hat update for git,CVE-2025-27614,8.6,,,7/23 CH - QID Available (253109),"https://access.redhat.com/errata/RHSA-2025:11462
+https://access.redhat.com/errata/RHSA-2025:11533"
