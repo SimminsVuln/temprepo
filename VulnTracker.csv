@@ -1,47 +1,6 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Dell Latitude Multiple Products BIOS Security Bypass Vulnerability,CVE-2025-36579,5.1,,,,https://www.dell.com/support/kbdoc/en-us/000300450/dsa-2025-153
-F5OS-A GO Security Bypass Vulnerability,CVE-2024-45341,6.1,,,,https://my.f5.com/manage/s/article/K000152658
-Google Chrome V8 Vulnerabilites,CVE-2025-8010,High,,,7/23 CH - QID Available (383636),https://chromereleases.googleblog.com/2025/07/stable-channel-update-for-desktop_22.html
-Google Chrome V8 Vulnerabilites,CVE-2025-8011,High,,,7/23 CH - QID Available (383636),https://chromereleases.googleblog.com/2025/07/stable-channel-update-for-desktop_22.html
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-8027,High,,,"7/23 CH - QID Available (383639, 383635, 383641)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-57
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-58
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-59"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-8028,High,,,"7/23 CH - QID Available (383639, 383635, 383641)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-57
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-58
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-59"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-8034,High,,,"7/23 CH - QID Available (383639, 383635, 383641)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-57
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-58
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-59"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-8035,High,,,"7/23 CH - QID Available (383639, 383635, 383641)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-58
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-59"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-8040,High,,,"7/23 CH - QID Available (383639, 383635, 383641)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-59"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-8038,Low,,,"7/23 CH - QID Available (383639, 383635, 383641)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-59"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-8029,Moderate,,,"7/23 CH - QID Available (383639, 383635, 383641)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-58
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-59"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-8031,Moderate,,,"7/23 CH - QID Available (383639, 383635, 383641)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-58
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-59"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-8032,Moderate,,,"7/23 CH - QID Available (383639, 383635, 383641)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-58
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-59"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-8036,Moderate,,,"7/23 CH - QID Available (383639, 383635, 383641)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-59"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-8037,Moderate,,,"7/23 CH - QID Available (383639, 383635, 383641)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-59"
-Mozilla Firefox Multiple Vulnerabilities,CVE-2025-8044,High,,,7/23 CH - QID Available 383640),https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
-Mozilla Firefox Multiple Vulnerabilities,CVE-2025-8041,Moderate,,,7/23 CH - QID Available 383640),https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
-Mozilla Firefox Multiple Vulnerabilities,CVE-2025-8042,Moderate,,,7/23 CH - QID Available 383640),https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
-Mozilla Firefox Multiple Vulnerabilities,CVE-2025-8043,Moderate,,,7/23 CH - QID Available 383640),https://www.mozilla.org/en-US/security/advisories/mfsa2025-56
-Red Hat update for git,CVE-2025-48385,8.3,,,7/23 CH - QID Available (253109),"https://access.redhat.com/errata/RHSA-2025:11462
-https://access.redhat.com/errata/RHSA-2025:11533"
-Red Hat update for git,CVE-2025-46835,8.5,,,7/23 CH - QID Available (253109),"https://access.redhat.com/errata/RHSA-2025:11462
-https://access.redhat.com/errata/RHSA-2025:11533"
-Red Hat update for git,CVE-2025-27614,8.6,,,7/23 CH - QID Available (253109),"https://access.redhat.com/errata/RHSA-2025:11462
-https://access.redhat.com/errata/RHSA-2025:11533"
+Broadcom Multiple Products GNU Glibc Update,CVE-2025-0395,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35919
+GitLab Multiple Vulnerabilities,CVE-2025-4439,7.7,,,,https://about.gitlab.com/releases/2025/07/23/patch-release-gitlab-18-2-1-released
+GitLab Multiple Vulnerabilities,CVE-2025-4700,8.7,,,,https://about.gitlab.com/releases/2025/07/23/patch-release-gitlab-18-2-1-released
+IBM Tivoli Monitoring Deserialization Security Bypass Vulnerability,CVE-2025-36038,9,,,,https://www.ibm.com/support/pages/node/7240276
+Red Hat update for sudo,CVE-2025-32463,9.3,,,7/24 CH - QID Available (253113),https://access.redhat.com/errata/RHSA-2025:11537
