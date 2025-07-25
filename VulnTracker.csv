@@ -1,6 +1,57 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Broadcom Multiple Products GNU Glibc Update,CVE-2025-0395,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35919
-GitLab Multiple Vulnerabilities,CVE-2025-4439,7.7,,,,https://about.gitlab.com/releases/2025/07/23/patch-release-gitlab-18-2-1-released
-GitLab Multiple Vulnerabilities,CVE-2025-4700,8.7,,,,https://about.gitlab.com/releases/2025/07/23/patch-release-gitlab-18-2-1-released
-IBM Tivoli Monitoring Deserialization Security Bypass Vulnerability,CVE-2025-36038,9,,,,https://www.ibm.com/support/pages/node/7240276
-Red Hat update for sudo,CVE-2025-32463,9.3,,,7/24 CH - QID Available (253113),https://access.redhat.com/errata/RHSA-2025:11537
+IBM App Connect Enterprise Multiple Denial of Service Vulnerabilities,CVE-2025-48997,7.5,,,,https://www.ibm.com/support/pages/node/7240500
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2022-21803 ,7.3,,,7/25 CH - QID Available (383588),https://www.ibm.com/support/pages/node/6615285
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2021-44532 ,7.4,,,7/25 CH - QID Available (383588),https://www.ibm.com/support/pages/node/6615285
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2021-3749 ,7.5,,,7/25 CH - QID Available (383588),https://www.ibm.com/support/pages/node/6615285
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2020-36518 ,7.5,,,7/25 CH - QID Available (383588),https://www.ibm.com/support/pages/node/6615285
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2020-28469 ,7.5,,,7/25 CH - QID Available (383588),https://www.ibm.com/support/pages/node/6615285
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2021-3807 ,7.5,,,7/25 CH - QID Available (383588),https://www.ibm.com/support/pages/node/6615285
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2022-30614 ,7.5,,,7/25 CH - QID Available (383588),https://www.ibm.com/support/pages/node/6615285
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2022-36773,8.1,,,7/25 CH - QID Available (383588),https://www.ibm.com/support/pages/node/6615285
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2021-28918 ,9.1,,,7/25 CH - QID Available (383588),https://www.ibm.com/support/pages/node/6615285
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2022-29078 ,9.8,,,7/25 CH - QID Available (383588),https://www.ibm.com/support/pages/node/6615285
+IBM Cognos Analytics Multiple Vulnerabilities,CVE-2021-23438 ,9.8,,,7/25 CH - QID Available (383588),https://www.ibm.com/support/pages/node/6615285
+IBM i Security Bypass Vulnerability,CVE-2025-33109,7.5,,,,https://www.ibm.com/support/pages/node/7240410
+Red Hat update for git,CVE-2025-48384,8,,,"7/25 CH - QID Available (253122, 253125)","https://access.redhat.com/errata/RHSA-2025:11534
+https://access.redhat.com/errata/RHSA-2025:11688"
+Red Hat update for git,CVE-2025-48385,8.3,,,7/25 CH - QID Available (253122),https://access.redhat.com/errata/RHSA-2025:11534
+Red Hat update for git,CVE-2025-46835,8.5,,,7/25 CH - QID Available (253122),https://access.redhat.com/errata/RHSA-2025:11534
+Red Hat update for git,CVE-2025-27614,8.6,,,7/25 CH - QID Available (253122),https://access.redhat.com/errata/RHSA-2025:11534
+Red Hat update for OpenShift Container 4.15,CVE-2025-22871,7.9,,,"7/25 CH - QID Available (253123, 770347)","https://access.redhat.com/errata/RHSA-2025:11352
+https://access.redhat.com/errata/RHSA-2025:10271"
+VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-46701,7.3,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
+VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-53506,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
+VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-4138,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
+VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-48988,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
+VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2023-36617,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
+VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-48976,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
+VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-46727,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
+VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2023-28756,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
+VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-27220,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
+VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2023-28755,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
+VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-27219,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
+VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-4435,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
+VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-49125,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
+VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-52434,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
+VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2022-25647,7.7,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
+VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-49146,8.2,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
+VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2024-52587,8.8,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
+VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-4517,9.4,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
+VMware Tanzu Isolation Segment Multiple Vulnerabilities,CVE-2025-22868,7.5,,,,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
+https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35974"
+VMware Tanzu Isolation Segment Multiple Vulnerabilities,CVE-2025-22874,7.5,,,,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
+https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35974"
+VMware Tanzu Isolation Segment Multiple Vulnerabilities,CVE-2025-30204,7.5,,,,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
+https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35974"
+VMware Tanzu Isolation Segment Multiple Vulnerabilities,CVE-2024-53427,8.1,,,,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
+https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35974"
+VMware Tanzu Operations Manager Jammy Stemcells Multiple Vulnerabilities,CVE-2025-37997,7,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35984
+VMware Tanzu Operations Manager Jammy Stemcells Multiple Vulnerabilities,CVE-2025-38000,7,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35984
+VMware Tanzu Operations Manager Jammy Stemcells Multiple Vulnerabilities,CVE-2025-22055,7.1,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35984
+VMware Tanzu Operations Manager Jammy Stemcells Multiple Vulnerabilities,CVE-2025-39735,7.8,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35984
+VMware Tanzu Operations Manager Jammy Stemcells Multiple Vulnerabilities,CVE-2024-50047,7.8,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35984
+VMware Tanzu Operations Manager Jammy Stemcells Multiple Vulnerabilities,CVE-2025-22004,7.8,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35984
+VMware Tanzu Operations Manager Jammy Stemcells Multiple Vulnerabilities,CVE-2025-6020,7.8,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35984
+VMware Tanzu Operations Manager Jammy Stemcells Multiple Vulnerabilities,CVE-2025-22071,not available,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35984
+VMware Tanzu Operations Manager Jammy Stemcells Multiple Vulnerabilities,CVE-2025-22073,not available,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35984
+VMware Tanzu Operations Manager Jammy Stemcells Multiple Vulnerabilities,CVE-2025-38575,not available,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35984
