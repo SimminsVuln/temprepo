@@ -1,57 +1,46 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-IBM App Connect Enterprise Multiple Denial of Service Vulnerabilities,CVE-2025-48997,7.5,,,,https://www.ibm.com/support/pages/node/7240500
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2022-21803 ,7.3,,,7/25 CH - QID Available (383588),https://www.ibm.com/support/pages/node/6615285
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2021-44532 ,7.4,,,7/25 CH - QID Available (383588),https://www.ibm.com/support/pages/node/6615285
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2021-3749 ,7.5,,,7/25 CH - QID Available (383588),https://www.ibm.com/support/pages/node/6615285
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2020-36518 ,7.5,,,7/25 CH - QID Available (383588),https://www.ibm.com/support/pages/node/6615285
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2020-28469 ,7.5,,,7/25 CH - QID Available (383588),https://www.ibm.com/support/pages/node/6615285
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2021-3807 ,7.5,,,7/25 CH - QID Available (383588),https://www.ibm.com/support/pages/node/6615285
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2022-30614 ,7.5,,,7/25 CH - QID Available (383588),https://www.ibm.com/support/pages/node/6615285
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2022-36773,8.1,,,7/25 CH - QID Available (383588),https://www.ibm.com/support/pages/node/6615285
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2021-28918 ,9.1,,,7/25 CH - QID Available (383588),https://www.ibm.com/support/pages/node/6615285
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2022-29078 ,9.8,,,7/25 CH - QID Available (383588),https://www.ibm.com/support/pages/node/6615285
-IBM Cognos Analytics Multiple Vulnerabilities,CVE-2021-23438 ,9.8,,,7/25 CH - QID Available (383588),https://www.ibm.com/support/pages/node/6615285
 IBM i Security Bypass Vulnerability,CVE-2025-33109,7.5,,,,https://www.ibm.com/support/pages/node/7240410
-Red Hat update for git,CVE-2025-48384,8,,,"7/25 CH - QID Available (253122, 253125)","https://access.redhat.com/errata/RHSA-2025:11534
-https://access.redhat.com/errata/RHSA-2025:11688"
-Red Hat update for git,CVE-2025-48385,8.3,,,7/25 CH - QID Available (253122),https://access.redhat.com/errata/RHSA-2025:11534
-Red Hat update for git,CVE-2025-46835,8.5,,,7/25 CH - QID Available (253122),https://access.redhat.com/errata/RHSA-2025:11534
-Red Hat update for git,CVE-2025-27614,8.6,,,7/25 CH - QID Available (253122),https://access.redhat.com/errata/RHSA-2025:11534
-Red Hat update for OpenShift Container 4.15,CVE-2025-22871,7.9,,,"7/25 CH - QID Available (253123, 770347)","https://access.redhat.com/errata/RHSA-2025:11352
-https://access.redhat.com/errata/RHSA-2025:10271"
-VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-46701,7.3,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
-VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-53506,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
-VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-4138,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
-VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-48988,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
-VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2023-36617,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
-VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-48976,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
-VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-46727,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
-VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2023-28756,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
-VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-27220,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
-VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2023-28755,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
-VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-27219,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
-VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-4435,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
-VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-49125,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
-VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-52434,7.5,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
-VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2022-25647,7.7,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
-VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-49146,8.2,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
-VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2024-52587,8.8,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
-VMware Tanzu Application Service for VMs Multiple Vulnerabilities,CVE-2025-4517,9.4,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
-VMware Tanzu Isolation Segment Multiple Vulnerabilities,CVE-2025-22868,7.5,,,,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35974"
-VMware Tanzu Isolation Segment Multiple Vulnerabilities,CVE-2025-22874,7.5,,,,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35974"
-VMware Tanzu Isolation Segment Multiple Vulnerabilities,CVE-2025-30204,7.5,,,,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35974"
-VMware Tanzu Isolation Segment Multiple Vulnerabilities,CVE-2024-53427,8.1,,,,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35966
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35974"
-VMware Tanzu Operations Manager Jammy Stemcells Multiple Vulnerabilities,CVE-2025-37997,7,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35984
-VMware Tanzu Operations Manager Jammy Stemcells Multiple Vulnerabilities,CVE-2025-38000,7,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35984
-VMware Tanzu Operations Manager Jammy Stemcells Multiple Vulnerabilities,CVE-2025-22055,7.1,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35984
-VMware Tanzu Operations Manager Jammy Stemcells Multiple Vulnerabilities,CVE-2025-39735,7.8,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35984
-VMware Tanzu Operations Manager Jammy Stemcells Multiple Vulnerabilities,CVE-2024-50047,7.8,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35984
-VMware Tanzu Operations Manager Jammy Stemcells Multiple Vulnerabilities,CVE-2025-22004,7.8,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35984
-VMware Tanzu Operations Manager Jammy Stemcells Multiple Vulnerabilities,CVE-2025-6020,7.8,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35984
-VMware Tanzu Operations Manager Jammy Stemcells Multiple Vulnerabilities,CVE-2025-22071,not available,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35984
-VMware Tanzu Operations Manager Jammy Stemcells Multiple Vulnerabilities,CVE-2025-22073,not available,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35984
-VMware Tanzu Operations Manager Jammy Stemcells Multiple Vulnerabilities,CVE-2025-38575,not available,,,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/35984
+Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2025-48988,7.5,,Qualys QID,7/29 CH - QID Available (253150),"https://access.redhat.com/errata/RHSA-2025:11695
+https://access.redhat.com/errata/RHSA-2025:11696"
+Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2025-52434,7.5,,Qualys QID,7/29 CH - QID Available (253150),"https://access.redhat.com/errata/RHSA-2025:11695
+https://access.redhat.com/errata/RHSA-2025:11696"
+Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2025-52520,7.5,,Qualys QID,7/29 CH - QID Available (253150),"https://access.redhat.com/errata/RHSA-2025:11695
+https://access.redhat.com/errata/RHSA-2025:11696"
+Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2025-48976,7.5,,Qualys QID,7/29 CH - QID Available (253150),"https://access.redhat.com/errata/RHSA-2025:11695
+https://access.redhat.com/errata/RHSA-2025:11696"
+Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2025-49125,7.5,,Qualys QID,7/29 CH - QID Available (253150),"https://access.redhat.com/errata/RHSA-2025:11695
+https://access.redhat.com/errata/RHSA-2025:11696"
+Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2025-53506,7.5,,Qualys QID,7/29 CH - QID Available (253150),"https://access.redhat.com/errata/RHSA-2025:11695
+https://access.redhat.com/errata/RHSA-2025:11696"
+Red Hat kernel Rejection Notice,CVE-2022-49977,7,,Qualys QID,7/29 CH - QID Available (253149),https://access.redhat.com/errata/RHSA-2025:11850
+Red Hat kernel Rejection Notice,CVE-2025-21919,7,,Qualys QID,7/29 CH - QID Available (253149),https://access.redhat.com/errata/RHSA-2025:11850
+Red Hat update for firefox,CVE-2025-8028,7.6,,Qualys QID,7/29 CH - QID Available (253132),https://access.redhat.com/errata/RHSA-2025:11797
+Red Hat update for firefox,CVE-2025-8029,8.1,,Qualys QID,7/29 CH - QID Available (253132),https://access.redhat.com/errata/RHSA-2025:11797
+Red Hat update for firefox,CVE-2025-8032,8.1,,Qualys QID,7/29 CH - QID Available (253132),https://access.redhat.com/errata/RHSA-2025:11797
+Red Hat update for firefox,CVE-2025-8030,8.1,,Qualys QID,7/29 CH - QID Available (253132),https://access.redhat.com/errata/RHSA-2025:11797
+Red Hat update for firefox,CVE-2025-8035,8.8,,Qualys QID,7/29 CH - QID Available (253132),https://access.redhat.com/errata/RHSA-2025:11797
+Red Hat update for firefox,CVE-2025-8034,8.8,,Qualys QID,7/29 CH - QID Available (253132),https://access.redhat.com/errata/RHSA-2025:11797
+Red Hat update for firefox,CVE-2025-8031,9.8,,Qualys QID,7/29 CH - QID Available (253132),https://access.redhat.com/errata/RHSA-2025:11797
+Red Hat update for icu,CVE-2025-5222,7,,Qualys QID,7/29 CH - QID Available (253147),https://access.redhat.com/errata/RHSA-2025:11888
+Red Hat update for kernel,CVE-2025-22091,7,,Qualys QID,"7/29 CH - QID Available (253148, 253143)","https://access.redhat.com/errata/RHSA-2025:11855
+https://access.redhat.com/errata/RHSA-2025:11861"
+Red Hat update for kernel,CVE-2025-38086,7,,Qualys QID,7/29 CH - QID Available (253143),https://access.redhat.com/errata/RHSA-2025:11861
+Red Hat update for kernel,CVE-2025-37797,7,,Qualys QID,"7/29 CH - QID Available (253148, 253143)","https://access.redhat.com/errata/RHSA-2025:11855
+https://access.redhat.com/errata/RHSA-2025:11861"
+Red Hat update for kernel,CVE-2025-38088,7,,Qualys QID,7/29 CH - QID Available (253148),https://access.redhat.com/errata/RHSA-2025:11855
+Red Hat update for kernel,CVE-2025-22121,7.1,,Qualys QID,"7/29 CH - QID Available (253148, 253143)","https://access.redhat.com/errata/RHSA-2025:11855
+https://access.redhat.com/errata/RHSA-2025:11861"
+Red Hat update for kernel,CVE-2025-22113,7.1,,Qualys QID,7/29 CH - QID Available (253143),https://access.redhat.com/errata/RHSA-2025:11861
+Red Hat update for kernel,CVE-2025-22085,7.8,,Qualys QID,7/29 CH - QID Available (253143),https://access.redhat.com/errata/RHSA-2025:11861
+Red Hat update for redis:6,CVE-2025-32023,7,,Qualys QID,"7/29 CH - QID Available (253156, 253154)","https://access.redhat.com/errata/RHSA-2025:12006
+https://access.redhat.com/errata/RHSA-2025:12008"
+Red Hat update for redis:6,CVE-2025-48367,7.5,,Qualys QID,"7/29 CH - QID Available (253156, 253154)","https://access.redhat.com/errata/RHSA-2025:12006
+https://access.redhat.com/errata/RHSA-2025:12008"
+Red Hat update for unbound,CVE-2025-5994,7.5,,Qualys QID,"7/29 CH - QID Available (253146, 253142)","https://access.redhat.com/errata/RHSA-2025:11849
+https://access.redhat.com/errata/RHSA-2025:11884"
+Tableau Server Multiple Security Bypass Vulnerabilities,CVE-2025-52446,8,,Qualys Pipeline,7/29 CH - QID in Pipeline (383706),https://help.salesforce.com/s/articleView?id=005105043&type=1
+Tableau Server Multiple Security Bypass Vulnerabilities,CVE-2025-52448,8.1,,Qualys Pipeline,7/29 CH - QID in Pipeline (383706),https://help.salesforce.com/s/articleView?id=005105043&type=1
+Tableau Server Multiple Security Bypass Vulnerabilities,CVE-2025-52447,8.1,,Qualys Pipeline,7/29 CH - QID in Pipeline (383706),https://help.salesforce.com/s/articleView?id=005105043&type=1
+Tableau Server Multiple Security Bypass Vulnerabilities,CVE-2025-52453,8.2,,Qualys Pipeline,7/29 CH - QID in Pipeline (383706),https://help.salesforce.com/s/articleView?id=005105043&type=1
+Tableau Server Multiple Security Bypass Vulnerabilities,CVE-2025-52449,8.5,,Qualys Pipeline,7/29 CH - QID in Pipeline (383706),https://help.salesforce.com/s/articleView?id=005105043&type=1
+Tableau Server Multiple Security Bypass Vulnerabilities,CVE-2025-52452,8.5,,Qualys Pipeline,7/29 CH - QID in Pipeline (383706),https://help.salesforce.com/s/articleView?id=005105043&type=1
