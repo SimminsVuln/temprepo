@@ -1,46 +1,223 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-IBM i Security Bypass Vulnerability,CVE-2025-33109,7.5,,,,https://www.ibm.com/support/pages/node/7240410
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2025-48988,7.5,,Qualys QID,7/29 CH - QID Available (253150),"https://access.redhat.com/errata/RHSA-2025:11695
-https://access.redhat.com/errata/RHSA-2025:11696"
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2025-52434,7.5,,Qualys QID,7/29 CH - QID Available (253150),"https://access.redhat.com/errata/RHSA-2025:11695
-https://access.redhat.com/errata/RHSA-2025:11696"
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2025-52520,7.5,,Qualys QID,7/29 CH - QID Available (253150),"https://access.redhat.com/errata/RHSA-2025:11695
-https://access.redhat.com/errata/RHSA-2025:11696"
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2025-48976,7.5,,Qualys QID,7/29 CH - QID Available (253150),"https://access.redhat.com/errata/RHSA-2025:11695
-https://access.redhat.com/errata/RHSA-2025:11696"
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2025-49125,7.5,,Qualys QID,7/29 CH - QID Available (253150),"https://access.redhat.com/errata/RHSA-2025:11695
-https://access.redhat.com/errata/RHSA-2025:11696"
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2025-53506,7.5,,Qualys QID,7/29 CH - QID Available (253150),"https://access.redhat.com/errata/RHSA-2025:11695
-https://access.redhat.com/errata/RHSA-2025:11696"
-Red Hat kernel Rejection Notice,CVE-2022-49977,7,,Qualys QID,7/29 CH - QID Available (253149),https://access.redhat.com/errata/RHSA-2025:11850
-Red Hat kernel Rejection Notice,CVE-2025-21919,7,,Qualys QID,7/29 CH - QID Available (253149),https://access.redhat.com/errata/RHSA-2025:11850
-Red Hat update for firefox,CVE-2025-8028,7.6,,Qualys QID,7/29 CH - QID Available (253132),https://access.redhat.com/errata/RHSA-2025:11797
-Red Hat update for firefox,CVE-2025-8029,8.1,,Qualys QID,7/29 CH - QID Available (253132),https://access.redhat.com/errata/RHSA-2025:11797
-Red Hat update for firefox,CVE-2025-8032,8.1,,Qualys QID,7/29 CH - QID Available (253132),https://access.redhat.com/errata/RHSA-2025:11797
-Red Hat update for firefox,CVE-2025-8030,8.1,,Qualys QID,7/29 CH - QID Available (253132),https://access.redhat.com/errata/RHSA-2025:11797
-Red Hat update for firefox,CVE-2025-8035,8.8,,Qualys QID,7/29 CH - QID Available (253132),https://access.redhat.com/errata/RHSA-2025:11797
-Red Hat update for firefox,CVE-2025-8034,8.8,,Qualys QID,7/29 CH - QID Available (253132),https://access.redhat.com/errata/RHSA-2025:11797
-Red Hat update for firefox,CVE-2025-8031,9.8,,Qualys QID,7/29 CH - QID Available (253132),https://access.redhat.com/errata/RHSA-2025:11797
-Red Hat update for icu,CVE-2025-5222,7,,Qualys QID,7/29 CH - QID Available (253147),https://access.redhat.com/errata/RHSA-2025:11888
-Red Hat update for kernel,CVE-2025-22091,7,,Qualys QID,"7/29 CH - QID Available (253148, 253143)","https://access.redhat.com/errata/RHSA-2025:11855
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43186,7.8,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43219,7.8,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43239,7.8,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43209,8.8,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43210,8.8,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-31229,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-31278,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43184,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43185,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43187,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43188,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43189,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43191,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43192,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43193,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43194,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43195,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43196,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43197,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43198,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43199,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43202,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43206,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43211,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43212,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43220,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43222,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43223,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43225,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43227,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43228,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43229,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43230,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43232,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43233,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43234,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43235,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43236,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43237,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43238,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43240,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43241,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43243,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43244,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43245,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43246,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43247,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43248,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43249,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43250,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43251,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43252,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43253,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43254,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43256,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43257,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43259,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43260,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43261,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43265,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43266,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43267,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43268,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43270,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43273,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43274,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43275,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43276,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Apple iOS and iPad Multiple vulnerabilities,CVE-2025-43277,n/a,,None,7/30 CH - Discuss updating iOS Mobile device restrictions.,https://support.apple.com/en-us/124147
+Google Chrome Multiple Vulnerabilities,CVE-2025-8292,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383715),"https://chromereleases.googleblog.com/2025/07/chrome-for-android-update_29.html
+https://chromereleases.googleblog.com/2025/07/stable-channel-update-for-desktop_29.html"
+IBM Db2 / Db2 Connect db2fm Privilege Escalation Vulnerability,CVE-2025-33092,7.8,,None,7/30 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7240940
+IBM Db2 Corosync Stack-Based Buffer Overflow Vulnerability,CVE-2025-30472,9.8,,Qualys QID,7/30 CH - QID Available (20491),https://www.ibm.com/support/pages/node/7240977
+IBM Db2 Expat Multiple Vulnerabilities,CVE-2024-45491,7.3,,None,7/30 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7240946
+IBM Db2 Expat Multiple Vulnerabilities,CVE-2024-45492,7.3,,None,7/30 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7240946
+IBM Db2 Netty Denial of Service Vulnerability,CVE-2025-24970,7.5,,None,7/30 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7240952
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43186,7.8,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43219,7.8,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43239,7.8,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-7424,7.8,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-7425,7.8,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43209,8.8,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43214,8.8,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-6558,8.8,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-31243,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-31273,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-31275,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-31277,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-31278,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-31279,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43185,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43187,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43188,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43189,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43191,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43192,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43193,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43194,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43195,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43196,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43197,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43198,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43199,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43202,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43206,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43211,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43212,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43213,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43216,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43220,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43222,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43223,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43225,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43226,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43227,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43229,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43230,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43232,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43233,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43234,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43235,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43236,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43237,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43240,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43241,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43243,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43244,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43245,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43246,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43247,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43248,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43249,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43250,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43251,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43252,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43253,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43254,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43256,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43257,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43259,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43260,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43261,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43265,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43266,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43267,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43268,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43270,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43273,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43274,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43275,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43276,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sequoia Multiple Vulnerabilities,CVE-2025-43277,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383714),https://support.apple.com/en-us/124149
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43186,7.8,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43239,7.8,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-7424,7.8,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43209,8.8,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43210,8.8,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-24119,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-31243,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-31279,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43184,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43187,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43189,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43191,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43192,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43193,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43194,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43195,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43196,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43197,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43198,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43199,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43206,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43220,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43222,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43223,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43225,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43226,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43232,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43233,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43236,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43238,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43241,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43243,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43244,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43245,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43246,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43247,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43248,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43249,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43250,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43253,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43254,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43256,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43259,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43260,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43261,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43266,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43270,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+MacOS Sonoma Multiple Vulnerabilities,CVE-2025-43275,n/a,,Qualys Pipeline,7/30 CH - QID in Pipeline (383713),https://support.apple.com/en-us/124150
+Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2025-48976,7.5,,Qualys QID,7/30 CH - QID Available (253150),"https://access.redhat.com/errata/RHSA-2025:11695
+"
+Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2025-48988,7.5,,Qualys QID,7/30 CH - QID Available (253150),https://access.redhat.com/errata/RHSA-2025:11695
+Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2025-49125,7.5,,Qualys QID,7/30 CH - QID Available (253150),https://access.redhat.com/errata/RHSA-2025:11695
+Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2025-52434,7.5,,Qualys QID,7/30 CH - QID Available (253150),https://access.redhat.com/errata/RHSA-2025:11695
+Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2025-52520,7.5,,Qualys QID,7/30 CH - QID Available (253150),https://access.redhat.com/errata/RHSA-2025:11695
+Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2025-53506,7.5,,Qualys QID,7/30 CH - QID Available (253150),https://access.redhat.com/errata/RHSA-2025:11695
+Red Hat update for icu,CVE-2025-5222,7,,Qualys QID,"7/30 CH - QID Available (253157, 253147)",https://access.redhat.com/errata/RHSA-2025:12083
+Red Hat update for kernel,CVE-2025-22091,7,,Qualys QID,"7/30 CH - QID Available (253143, 253148)","https://access.redhat.com/errata/RHSA-2025:11855
 https://access.redhat.com/errata/RHSA-2025:11861"
-Red Hat update for kernel,CVE-2025-38086,7,,Qualys QID,7/29 CH - QID Available (253143),https://access.redhat.com/errata/RHSA-2025:11861
-Red Hat update for kernel,CVE-2025-37797,7,,Qualys QID,"7/29 CH - QID Available (253148, 253143)","https://access.redhat.com/errata/RHSA-2025:11855
+Red Hat update for kernel,CVE-2025-37797,7,,Qualys QID,"7/30 CH - QID Available (253143, 253148)","https://access.redhat.com/errata/RHSA-2025:11855
 https://access.redhat.com/errata/RHSA-2025:11861"
-Red Hat update for kernel,CVE-2025-38088,7,,Qualys QID,7/29 CH - QID Available (253148),https://access.redhat.com/errata/RHSA-2025:11855
-Red Hat update for kernel,CVE-2025-22121,7.1,,Qualys QID,"7/29 CH - QID Available (253148, 253143)","https://access.redhat.com/errata/RHSA-2025:11855
+Red Hat update for kernel,CVE-2025-22121,7.1,,Qualys QID,"7/30 CH - QID Available (253143, 253148)","https://access.redhat.com/errata/RHSA-2025:11855
 https://access.redhat.com/errata/RHSA-2025:11861"
-Red Hat update for kernel,CVE-2025-22113,7.1,,Qualys QID,7/29 CH - QID Available (253143),https://access.redhat.com/errata/RHSA-2025:11861
-Red Hat update for kernel,CVE-2025-22085,7.8,,Qualys QID,7/29 CH - QID Available (253143),https://access.redhat.com/errata/RHSA-2025:11861
-Red Hat update for redis:6,CVE-2025-32023,7,,Qualys QID,"7/29 CH - QID Available (253156, 253154)","https://access.redhat.com/errata/RHSA-2025:12006
-https://access.redhat.com/errata/RHSA-2025:12008"
-Red Hat update for redis:6,CVE-2025-48367,7.5,,Qualys QID,"7/29 CH - QID Available (253156, 253154)","https://access.redhat.com/errata/RHSA-2025:12006
-https://access.redhat.com/errata/RHSA-2025:12008"
-Red Hat update for unbound,CVE-2025-5994,7.5,,Qualys QID,"7/29 CH - QID Available (253146, 253142)","https://access.redhat.com/errata/RHSA-2025:11849
-https://access.redhat.com/errata/RHSA-2025:11884"
-Tableau Server Multiple Security Bypass Vulnerabilities,CVE-2025-52446,8,,Qualys Pipeline,7/29 CH - QID in Pipeline (383706),https://help.salesforce.com/s/articleView?id=005105043&type=1
-Tableau Server Multiple Security Bypass Vulnerabilities,CVE-2025-52448,8.1,,Qualys Pipeline,7/29 CH - QID in Pipeline (383706),https://help.salesforce.com/s/articleView?id=005105043&type=1
-Tableau Server Multiple Security Bypass Vulnerabilities,CVE-2025-52447,8.1,,Qualys Pipeline,7/29 CH - QID in Pipeline (383706),https://help.salesforce.com/s/articleView?id=005105043&type=1
-Tableau Server Multiple Security Bypass Vulnerabilities,CVE-2025-52453,8.2,,Qualys Pipeline,7/29 CH - QID in Pipeline (383706),https://help.salesforce.com/s/articleView?id=005105043&type=1
-Tableau Server Multiple Security Bypass Vulnerabilities,CVE-2025-52449,8.5,,Qualys Pipeline,7/29 CH - QID in Pipeline (383706),https://help.salesforce.com/s/articleView?id=005105043&type=1
-Tableau Server Multiple Security Bypass Vulnerabilities,CVE-2025-52452,8.5,,Qualys Pipeline,7/29 CH - QID in Pipeline (383706),https://help.salesforce.com/s/articleView?id=005105043&type=1
+Red Hat update for Red Hat Ceph Storage,CVE-2025-47273,8.8,,Qualys QID,"7/30 CH - QID Available (253143, 253148)","https://access.redhat.com/errata/RHSA-2025:11889
+https://access.redhat.com/errata/RHSA-2025:11984"
+Red Hat update for thunderbird,CVE-2025-8028,7.5,,Qualys QID,7/30 CH - QID Available (253162),https://access.redhat.com/errata/RHSA-2025:12188
+Red Hat update for thunderbird,CVE-2025-8029,8.1,,Qualys QID,7/30 CH - QID Available (253162),https://access.redhat.com/errata/RHSA-2025:12188
+Red Hat update for thunderbird,CVE-2025-8030,8.1,,Qualys QID,7/30 CH - QID Available (253162),https://access.redhat.com/errata/RHSA-2025:12188
+Red Hat update for thunderbird,CVE-2025-8034,8.8,,Qualys QID,7/30 CH - QID Available (253162),https://access.redhat.com/errata/RHSA-2025:12188
+Red Hat update for thunderbird,CVE-2025-8035,8.8,,Qualys QID,7/30 CH - QID Available (253162),https://access.redhat.com/errata/RHSA-2025:12188
+Red Hat update for thunderbird,CVE-2025-8031,9.8,,Qualys QID,7/30 CH - QID Available (253162),https://access.redhat.com/errata/RHSA-2025:12188
