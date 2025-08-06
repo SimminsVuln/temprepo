@@ -1,75 +1,77 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Google Chrome Multiple Vulnerabilities,CVE-2025-8581,Low,,Qualys QID,8/6 CH - QID Available (383738),https://chromereleases.googleblog.com/2025/08/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2025-8580,Low,,Qualys QID,8/6 CH - QID Available (383738),https://chromereleases.googleblog.com/2025/08/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2025-8582,Low,,Qualys QID,8/6 CH - QID Available (383738),https://chromereleases.googleblog.com/2025/08/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2025-8579,Low,,Qualys QID,8/6 CH - QID Available (383738),https://chromereleases.googleblog.com/2025/08/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2025-8583,Low,,Qualys QID,8/6 CH - QID Available (383738),https://chromereleases.googleblog.com/2025/08/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2025-8577,Medium,,Qualys QID,8/6 CH - QID Available (383738),https://chromereleases.googleblog.com/2025/08/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2025-8576,Medium,,Qualys QID,8/6 CH - QID Available (383738),https://chromereleases.googleblog.com/2025/08/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2025-8578,Medium,,Qualys QID,8/6 CH - QID Available (383738),https://chromereleases.googleblog.com/2025/08/stable-channel-update-for-desktop.html
-IBM Tivoli Monitoring Head Based Overflow Vulnerability,CVE-2025-3320,8.1,,Qualys Pipeline,8/6 CH - QID in Pipeline (383940),https://www.ibm.com/support/pages/node/7241472
-IBM Tivoli Monitoring Head Based Overflow Vulnerability,CVE-2025-3354,7.1,,Qualys Pipeline,8/6 CH - QID in Pipeline (383940),https://www.ibm.com/support/pages/node/7241472
-IBM Java Multiple Vulnerabilities,CVE-2025-50106,8.1,,Qualys QID,8/6 CH - QID Available (383731),https://www.ibm.com/support/pages/node/7241306
-IBM Java Multiple Vulnerabilities,CVE-2025-30749,8.1,,Qualys QID,8/6 CH - QID Available (383731),https://www.ibm.com/support/pages/node/7241306
-Red Hat jq Update,CVE-2025-48060,7.5,,Qualys QID,8/6 CH - QID Available (253316),https://access.redhat.com/errata/RHSA-2025:12882
-Red Hat ncurses Update,CVE-2022-29458,7.1,,Qualys QID,8/6 CH - QID Available (253314),https://access.redhat.com/errata/RHSA-2025:12876
-Red Hat opentelemetry-collector Update,CVE-2025-22871,9.1,,Qualys QID,"8/6 CH - QID Available (253291, 253293)","https://access.redhat.com/errata/RHSA-2025:12831
+Google Chrome Multiple Vulnerabilities,CVE-2025-8581,Low,LOW,Qualys QID,8/6 CH - QID Available (383738),https://chromereleases.googleblog.com/2025/08/stable-channel-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-8580,Low,LOW,Qualys QID,8/6 CH - QID Available (383738),https://chromereleases.googleblog.com/2025/08/stable-channel-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-8582,Low,LOW,Qualys QID,8/6 CH - QID Available (383738),https://chromereleases.googleblog.com/2025/08/stable-channel-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-8579,Low,LOW,Qualys QID,8/6 CH - QID Available (383738),https://chromereleases.googleblog.com/2025/08/stable-channel-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-8583,Low,LOW,Qualys QID,8/6 CH - QID Available (383738),https://chromereleases.googleblog.com/2025/08/stable-channel-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-8577,Medium,LOW,Qualys QID,8/6 CH - QID Available (383738),https://chromereleases.googleblog.com/2025/08/stable-channel-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-8576,Medium,LOW,Qualys QID,8/6 CH - QID Available (383738),https://chromereleases.googleblog.com/2025/08/stable-channel-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-8578,Medium,LOW,Qualys QID,8/6 CH - QID Available (383738),https://chromereleases.googleblog.com/2025/08/stable-channel-update-for-desktop.html
+IBM Tivoli Monitoring Head Based Overflow Vulnerability,CVE-2025-3320,8.1,LOW,Qualys Pipeline,8/6 CH - QID in Pipeline (383940),https://www.ibm.com/support/pages/node/7241472
+IBM Tivoli Monitoring Head Based Overflow Vulnerability,CVE-2025-3354,7.1,LOW,Qualys Pipeline,8/6 CH - QID in Pipeline (383940),https://www.ibm.com/support/pages/node/7241472
+IBM Java Multiple Vulnerabilities,CVE-2025-50106,8.1,LOW,Qualys QID,8/6 CH - QID Available (383731),https://www.ibm.com/support/pages/node/7241306
+IBM Java Multiple Vulnerabilities,CVE-2025-30749,8.1,LOW,Qualys QID,8/6 CH - QID Available (383731),https://www.ibm.com/support/pages/node/7241306
+Red Hat jq Update,CVE-2025-48060,7.5,LOW,Qualys QID,8/6 CH - QID Available (253316),https://access.redhat.com/errata/RHSA-2025:12882
+Red Hat ncurses Update,CVE-2022-29458,7.1,LOW,Qualys QID,8/6 CH - QID Available (253314),https://access.redhat.com/errata/RHSA-2025:12876
+Red Hat opentelemetry-collector Update,CVE-2025-22871,9.1,LOW,Qualys QID,"8/6 CH - QID Available (253291, 253293)","https://access.redhat.com/errata/RHSA-2025:12831
 https://access.redhat.com/errata/RHSA-2025:12850"
-Red Hat python3.12-setuptools Update,CVE-2025-47273,8.8,,Qualys QID,8/6 CH - QID Available (253297),https://access.redhat.com/errata/RHSA-2025:12834
-Red Hat update for gdk-pixbuf2,CVE-2025-7345,7.5,,Qualys QID,"8/6 CH - QID Available (253319, 253321)","https://access.redhat.com/errata/RHSA-2025:12841
+Red Hat python3.12-setuptools Update,CVE-2025-47273,8.8,LOW,Qualys QID,8/6 CH - QID Available (253297),https://access.redhat.com/errata/RHSA-2025:12834
+Red Hat update for gdk-pixbuf2,CVE-2025-7345,7.5,LOW,Qualys QID,"8/6 CH - QID Available (253319, 253321)","https://access.redhat.com/errata/RHSA-2025:12841
 https://access.redhat.com/errata/RHSA-2025:12862"
-Red Hat update for kernel,CVE-2025-37890,7,,Qualys QID,"8/6 CH - QID Available (253289, 253309, 253302)","https://access.redhat.com/errata/RHSA-2025:12662
+Red Hat update for kernel,CVE-2025-37890,7,LOW,Qualys QID,"8/6 CH - QID Available (253289, 253309, 253302)","https://access.redhat.com/errata/RHSA-2025:12662
 https://access.redhat.com/errata/RHSA-2025:12746
 https://access.redhat.com/errata/RHSA-2025:12752
 https://git.kernel.org/stable/c/0bf04c874fcb1ae46a863034296e4b33d8fbd66c
 https://lore.kernel.org/linux-cve-announce/2025070937-CVE-2025-38264-ffd2@gregkh/"
-Red Hat update for kernel,CVE-2025-38086,7,,Qualys QID,"8/6 CH - QID Available (253289, 253309, 253302)","https://access.redhat.com/errata/RHSA-2025:12662
+Red Hat update for kernel,CVE-2025-38086,7,LOW,Qualys QID,"8/6 CH - QID Available (253289, 253309, 253302)","https://access.redhat.com/errata/RHSA-2025:12662
 https://git.kernel.org/stable/c/0bf04c874fcb1ae46a863034296e4b33d8fbd66c
 https://lore.kernel.org/linux-cve-announce/2025070937-CVE-2025-38264-ffd2@gregkh/"
-Red Hat update for kernel,CVE-2025-22020,7,,Qualys QID,"8/6 CH - QID Available (253289, 253309, 253302)","https://access.redhat.com/errata/RHSA-2025:12662
+Red Hat update for kernel,CVE-2025-22020,7,LOW,Qualys QID,"8/6 CH - QID Available (253289, 253309, 253302)","https://access.redhat.com/errata/RHSA-2025:12662
 https://access.redhat.com/errata/RHSA-2025:12746
 https://access.redhat.com/errata/RHSA-2025:12752
 https://git.kernel.org/stable/c/0bf04c874fcb1ae46a863034296e4b33d8fbd66c
 https://lore.kernel.org/linux-cve-announce/2025070937-CVE-2025-38264-ffd2@gregkh/"
-Red Hat update for kernel,CVE-2025-38079,7,,Qualys QID,8/6 CH - QID Available (253302),https://access.redhat.com/errata/RHSA-2025:12752
-Red Hat update for kernel,CVE-2022-50020,7,,Qualys QID,8/6 CH - QID Available (253302),https://access.redhat.com/errata/RHSA-2025:12752
-Red Hat update for kernel,CVE-2025-38264,7.1,,Qualys QID,8/6 CH - QID Available (253289),"https://access.redhat.com/errata/RHSA-2025:12662
+Red Hat update for kernel,CVE-2025-38079,7,LOW,Qualys QID,8/6 CH - QID Available (253302),https://access.redhat.com/errata/RHSA-2025:12752
+Red Hat update for kernel,CVE-2022-50020,7,LOW,Qualys QID,8/6 CH - QID Available (253302),https://access.redhat.com/errata/RHSA-2025:12752
+Red Hat update for kernel,CVE-2025-38264,7.1,LOW,Qualys QID,8/6 CH - QID Available (253289),"https://access.redhat.com/errata/RHSA-2025:12662
 https://git.kernel.org/stable/c/0bf04c874fcb1ae46a863034296e4b33d8fbd66c
 https://lore.kernel.org/linux-cve-announce/2025070937-CVE-2025-38264-ffd2@gregkh/"
-Red Hat update for kernel,CVE-2025-22113,7.1,,Qualys QID,8/6 CH - QID Available (253289),"https://access.redhat.com/errata/RHSA-2025:12662
+Red Hat update for kernel,CVE-2025-22113,7.1,LOW,Qualys QID,8/6 CH - QID Available (253289),"https://access.redhat.com/errata/RHSA-2025:12662
 https://git.kernel.org/stable/c/0bf04c874fcb1ae46a863034296e4b33d8fbd66c
 https://lore.kernel.org/linux-cve-announce/2025070937-CVE-2025-38264-ffd2@gregkh/"
-Red Hat update for kernel,CVE-2022-49788,7.1,,Qualys QID,8/6 CH - QID Available (253309),https://access.redhat.com/errata/RHSA-2025:12746
-Red Hat update for kernel,CVE-2025-38087,7.8,,Qualys QID,"8/6 CH - QID Available (253289, 253309)","https://access.redhat.com/errata/RHSA-2025:12662
+Red Hat update for kernel,CVE-2022-49788,7.1,LOW,Qualys QID,8/6 CH - QID Available (253309),https://access.redhat.com/errata/RHSA-2025:12746
+Red Hat update for kernel,CVE-2025-38087,7.8,LOW,Qualys QID,"8/6 CH - QID Available (253289, 253309)","https://access.redhat.com/errata/RHSA-2025:12662
 https://access.redhat.com/errata/RHSA-2025:12746
 https://git.kernel.org/stable/c/0bf04c874fcb1ae46a863034296e4b33d8fbd66c
 https://lore.kernel.org/linux-cve-announce/2025070937-CVE-2025-38264-ffd2@gregkh/"
-Red Hat update for kernel,CVE-2025-21928,7.8,,Qualys QID,"8/6 CH - QID Available (253289, 253309)","https://access.redhat.com/errata/RHSA-2025:12662
-https://access.redhat.com/errata/RHSA-2025:12746
-https://access.redhat.com/errata/RHSA-2025:12752
-https://git.kernel.org/stable/c/0bf04c874fcb1ae46a863034296e4b33d8fbd66c
-https://lore.kernel.org/linux-cve-announce/2025070937-CVE-2025-38264-ffd2@gregkh/"
-Red Hat update for kernel,CVE-2025-21727,7.8,,Qualys QID,"8/6 CH - QID Available (253289, 253309)","https://access.redhat.com/errata/RHSA-2025:12662
-https://access.redhat.com/errata/RHSA-2025:12746
-https://git.kernel.org/stable/c/0bf04c874fcb1ae46a863034296e4b33d8fbd66c
-https://lore.kernel.org/linux-cve-announce/2025070937-CVE-2025-38264-ffd2@gregkh/"
-Red Hat update for kernel,CVE-2025-38052,7.8,,Qualys QID,"8/6 CH - QID Available (253289, 253309)","https://access.redhat.com/errata/RHSA-2025:12662
+Red Hat update for kernel,CVE-2025-21928,7.8,LOW,Qualys QID,"8/6 CH - QID Available (253289, 253309)","https://access.redhat.com/errata/RHSA-2025:12662
 https://access.redhat.com/errata/RHSA-2025:12746
 https://access.redhat.com/errata/RHSA-2025:12752
 https://git.kernel.org/stable/c/0bf04c874fcb1ae46a863034296e4b33d8fbd66c
 https://lore.kernel.org/linux-cve-announce/2025070937-CVE-2025-38264-ffd2@gregkh/"
-Red Hat update for kernel,CVE-2025-21929,7.8,,Qualys QID,"8/6 CH - QID Available (253289, 253309)","https://access.redhat.com/errata/RHSA-2025:12662
+Red Hat update for kernel,CVE-2025-21727,7.8,LOW,Qualys QID,"8/6 CH - QID Available (253289, 253309)","https://access.redhat.com/errata/RHSA-2025:12662
 https://access.redhat.com/errata/RHSA-2025:12746
 https://git.kernel.org/stable/c/0bf04c874fcb1ae46a863034296e4b33d8fbd66c
 https://lore.kernel.org/linux-cve-announce/2025070937-CVE-2025-38264-ffd2@gregkh/"
-Red Hat update for kernel,CVE-2025-22085,7.8,,Qualys QID,"8/6 CH - QID Available (253289, 253309)","https://access.redhat.com/errata/RHSA-2025:12662
+Red Hat update for kernel,CVE-2025-38052,7.8,LOW,Qualys QID,"8/6 CH - QID Available (253289, 253309)","https://access.redhat.com/errata/RHSA-2025:12662
+https://access.redhat.com/errata/RHSA-2025:12746
+https://access.redhat.com/errata/RHSA-2025:12752
 https://git.kernel.org/stable/c/0bf04c874fcb1ae46a863034296e4b33d8fbd66c
 https://lore.kernel.org/linux-cve-announce/2025070937-CVE-2025-38264-ffd2@gregkh/"
-Red Hat update for kpatch-patch-5_14_0-570_17_1,CVE-2025-38089,7.1,,Qualys QID,8/6 CH - QID Available (253315),https://access.redhat.com/errata/RHSA-2025:12976
-Red Hat update for mod_security,CVE-2025-48866,7.5,,Qualys QID,8/6 CH - QID Available (253317),https://access.redhat.com/errata/RHSA-2025:12838
-Trend Micro Apex One Management Console Multiple OS Command Injection Vulnerabilities,CVE-2025-54987,9.8,,Qualys Pipeline,8/6 CH - QID in Pipeline (383740),"https://success.trendmicro.com/en-US/solution/KA-0020652
+Red Hat update for kernel,CVE-2025-21929,7.8,LOW,Qualys QID,"8/6 CH - QID Available (253289, 253309)","https://access.redhat.com/errata/RHSA-2025:12662
+https://access.redhat.com/errata/RHSA-2025:12746
+https://git.kernel.org/stable/c/0bf04c874fcb1ae46a863034296e4b33d8fbd66c
+https://lore.kernel.org/linux-cve-announce/2025070937-CVE-2025-38264-ffd2@gregkh/"
+Red Hat update for kernel,CVE-2025-22085,7.8,LOW,Qualys QID,"8/6 CH - QID Available (253289, 253309)","https://access.redhat.com/errata/RHSA-2025:12662
+https://git.kernel.org/stable/c/0bf04c874fcb1ae46a863034296e4b33d8fbd66c
+https://lore.kernel.org/linux-cve-announce/2025070937-CVE-2025-38264-ffd2@gregkh/"
+Red Hat update for kpatch-patch-5_14_0-570_17_1,CVE-2025-38089,7.1,LOW,Qualys QID,8/6 CH - QID Available (253315),https://access.redhat.com/errata/RHSA-2025:12976
+Red Hat update for mod_security,CVE-2025-48866,7.5,LOW,Qualys QID,8/6 CH - QID Available (253317),https://access.redhat.com/errata/RHSA-2025:12838
+Trend Micro Apex One Management Console Multiple OS Command Injection Vulnerabilities,CVE-2025-54987,9.8,HIGH,Qualys Pipeline,"8/6 CH - QID in Pipeline (383740)
+8/6 CH - Exploitation Reported","https://success.trendmicro.com/en-US/solution/KA-0020652
 https://www.zerodayinitiative.com/advisories/ZDI-25-771/
 https://www.zerodayinitiative.com/advisories/ZDI-25-772/"
-Trend Micro Apex One Management Console Multiple OS Command Injection Vulnerabilities,CVE-2025-54948,9.8,,Qualys Pipeline,8/6 CH - QID in Pipeline (383740),"https://success.trendmicro.com/en-US/solution/KA-0020652
+Trend Micro Apex One Management Console Multiple OS Command Injection Vulnerabilities,CVE-2025-54948,9.8,HIGH,Qualys Pipeline,"8/6 CH - QID in Pipeline (383740)
+8/6 CH - Exploitation Reported","https://success.trendmicro.com/en-US/solution/KA-0020652
 https://www.zerodayinitiative.com/advisories/ZDI-25-771/
 https://www.zerodayinitiative.com/advisories/ZDI-25-772/"
