@@ -1,0 +1,37 @@
+timestamp,title,cve_ids,CVSS,Column4,risk_rating,exploitation_state,exploit_availability,detection,analyst comment,Refs,predicted_risk_rating,cisa_known_exploited
+8/8/2025,IBM App Connect Enterprise Multiple Node.js Denial of Service Vulnerabilities,CVE-2025-23165,3.7,,not available,No Known,No Known,,,https://www.ibm.com/support/pages/node/7241699,LOW,not available
+8/8/2025,IBM App Connect Enterprise Multiple Node.js Denial of Service Vulnerabilities,CVE-2025-23166,7.5,,LOW,No Known,No Known,,,https://www.ibm.com/support/pages/node/7241699,LOW,not available
+8/8/2025,IBM Db2 ICU Multiple Vulnerabilities,CVE-2014-7923,not available,,MEDIUM,No Known,No Known,,,https://www.ibm.com/support/pages/node/7241823,not available,not available
+8/8/2025,IBM Db2 ICU Multiple Vulnerabilities,CVE-2017-7867,7.5,,LOW,No Known,No Known,,,https://www.ibm.com/support/pages/node/7241823,not available,not available
+8/8/2025,IBM Db2 ICU Multiple Vulnerabilities,CVE-2020-21913,5.5,,LOW,No Known,No Known,,,https://www.ibm.com/support/pages/node/7241823,not available,not available
+8/8/2025,IBM Db2 ICU Multiple Vulnerabilities,CVE-2017-7868,7.5,,LOW,No Known,No Known,,,https://www.ibm.com/support/pages/node/7241823,not available,not available
+8/8/2025,IBM Db2 ICU Multiple Vulnerabilities,CVE-2017-15422,6.3,,LOW,No Known,No Known,,,https://www.ibm.com/support/pages/node/7241823,not available,not available
+8/8/2025,IBM Db2 ICU Multiple Vulnerabilities,CVE-2020-10531,8.8,,MEDIUM,No Known,No Known,,,https://www.ibm.com/support/pages/node/7241823,not available,not available
+8/8/2025,IBM Db2 ICU Multiple Vulnerabilities,CVE-2016-6293,9.8,,LOW,No Known,No Known,,,https://www.ibm.com/support/pages/node/7241823,not available,not available
+8/8/2025,IBM Db2 ICU Multiple Vulnerabilities,CVE-2017-15396,6.3,,MEDIUM,No Known,No Known,,,https://www.ibm.com/support/pages/node/7241823,not available,not available
+8/8/2025,IBM Db2 ICU Multiple Vulnerabilities,CVE-2011-4599,not available,,MEDIUM,No Known,No Known,,,https://www.ibm.com/support/pages/node/7241823,not available,not available
+8/8/2025,IBM Db2 ICU Multiple Vulnerabilities,CVE-2016-7415,9.8,,MEDIUM,No Known,No Known,,,https://www.ibm.com/support/pages/node/7241823,not available,not available
+8/8/2025,IBM Db2 ICU Multiple Vulnerabilities,CVE-2017-14952,9.8,,LOW,No Known,No Known,,,https://www.ibm.com/support/pages/node/7241823,not available,not available
+8/8/2025,IBM Db2 ICU Multiple Vulnerabilities,CVE-2017-17484,9.8,,MEDIUM,No Known,Publicly Available,,,https://www.ibm.com/support/pages/node/7241823,not available,not available
+8/8/2025,IBM i DCM Security Bypass Vulnerability,CVE-2025-36119,7.1,,not available,No Known,No Known,,,https://www.ibm.com/support/pages/node/7241008,LOW,not available
+8/8/2025,IBM i IBM Java SDK Multiple Vulnerabilities,CVE-2025-21587,7.4,,not available,No Known,No Known,,,"https://www.ibm.com/support/pages/node/7241656
+https://www.ibm.com/support/pages/node/7241709",MEDIUM,not available
+8/8/2025,IBM i IBM Java SDK Multiple Vulnerabilities,CVE-2025-30698,5.6,,not available,No Known,No Known,,,"https://www.ibm.com/support/pages/node/7241656
+https://www.ibm.com/support/pages/node/7241709",LOW,not available
+8/8/2025,IBM i IBM Java SDK Multiple Vulnerabilities,CVE-2025-4447,7,,not available,No Known,No Known,,,"https://www.ibm.com/support/pages/node/7241656
+https://www.ibm.com/support/pages/node/7241709",LOW,not available
+8/8/2025,IBM WebSphere Application Server / WebSphere Application Server Liberty IBM Java Vulnerability,CVE-2025-30754,4.8,,not available,No Known,No Known,,,https://www.ibm.com/support/pages/node/7241769,LOW,not available
+8/8/2025,Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-8578,8.8,,MEDIUM,No Known,No Known,,,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#august-7-2025,MEDIUM,not available
+8/8/2025,Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-8581,4.3,,LOW,No Known,No Known,,,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#august-7-2025,LOW,not available
+8/8/2025,Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-8577,4.3,,LOW,No Known,No Known,,,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#august-7-2025,not available,not available
+8/8/2025,Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-8576,8.8,,MEDIUM,No Known,No Known,,,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#august-7-2025,MEDIUM,not available
+8/8/2025,Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-8583,4.3,,LOW,No Known,No Known,,,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#august-7-2025,LOW,not available
+8/8/2025,Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-8579,4.3,,LOW,No Known,No Known,,,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#august-7-2025,not available,not available
+8/8/2025,Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-8580,4.3,,LOW,No Known,No Known,,,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#august-7-2025,not available,not available
+8/8/2025,Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-8582,4.3,,LOW,No Known,No Known,,,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#august-7-2025,LOW,not available
+8/8/2025,Red Hat Satellite Denial of Service Vulnerability,CVE-2024-49761,7.5,,not available,No Known,No Known,,,https://access.redhat.com/errata/RHSA-2025:13269,LOW,not available
+8/8/2025,Red Hat update for libxml2,CVE-2025-7425,7.8,,not available,No Known,No Known,,,https://access.redhat.com/errata/RHSA-2025:13464,LOW,not available
+8/8/2025,Red Hat update for libxml2,CVE-2025-32414,7.5,,not available,No Known,No Known,,,"https://access.redhat.com/errata/RHSA-2025:13428
+https://access.redhat.com/errata/RHSA-2025:13429",LOW,not available
+8/8/2025,Red Hat update for libxml2,CVE-2025-32415,7.5,,not available,No Known,No Known,,,"https://access.redhat.com/errata/RHSA-2025:13428
+https://access.redhat.com/errata/RHSA-2025:13429",LOW,not available
