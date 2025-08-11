@@ -1,2 +1,5 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-WinRar Path Traversal Vulnerability,CVE-2025-8088,7.8,MEDIUM,Qualys Pipeline,8/11 CH - QID in Pipeline ,https://www.win-rar.com/singlenewsview.html?&L=0&tx_ttnews%5Btt_news%5D=283&cHash=a64b4a8f662d3639dec8d65f47bc93c5
+WinRar Path Traversal Vulnerability,CVE-2025-8088,7.8,MEDIUM,Qualys Pipeline,8/11 CH - QID in Pipeline (383966),https://www.win-rar.com/singlenewsview.html?&L=0&tx_ttnews%5Btt_news%5D=283&cHash=a64b4a8f662d3639dec8d65f47bc93c5
+7-zip Symlink Security Bypass Vulnerability,CVE-2025-55188,3.6,LOW,Qualys Pipeline,8/11 CH - QID in Pipeline (383967),https://www.7-zip.org/history.txt
+Red Hat python3.11-setuptools Rejection Notice,CVE-2025-47273,8.8,MEDIUM,Qualys Pipeline,8/11 CH - QID in Pipeline (253963),https://access.redhat.com/errata/RHSA-2025:13578
+F5 Multiple Products Apache HTTP Server Security Bypass Vulnerability,CVE-2024-43204,7.9,MEDIUM,Qualys Pipeline,8/11 CH - QID in Pipeline (383965),https://my.f5.com/manage/s/article/K000152924
