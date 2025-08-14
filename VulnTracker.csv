@@ -1,15 +1,26 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Adobe InCopy CC Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-54215,7.8,,Qualys QID,,https://helpx.adobe.com/security/products/incopy/apsb25-80.html
-Adobe InCopy CC Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-54223,7.8,,Qualys QID,,https://helpx.adobe.com/security/products/incopy/apsb25-80.html
-Adobe InCopy CC Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-54220,7.8,,Qualys QID,,https://helpx.adobe.com/security/products/incopy/apsb25-80.html
-Adobe InCopy CC Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-54216,7.8,,Qualys QID,,https://helpx.adobe.com/security/products/incopy/apsb25-80.html
-Adobe InCopy CC Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-54221,7.8,,Qualys QID,,https://helpx.adobe.com/security/products/incopy/apsb25-80.html
-Adobe InCopy CC Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-54217,7.8,,Qualys QID,,https://helpx.adobe.com/security/products/incopy/apsb25-80.html
-Adobe InCopy CC Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-54219,7.8,,Qualys QID,,https://helpx.adobe.com/security/products/incopy/apsb25-80.html
-Adobe InCopy CC Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-54218,7.8,,Qualys QID,,https://helpx.adobe.com/security/products/incopy/apsb25-80.html
-Adobe Photoshop CC Arbitrary Code Execution Vulnerability,CVE-2025-49570,7.8,,Qualys QID,,https://helpx.adobe.com/security/products/photoshop/apsb25-75.html
-Adobe Illustrator Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-49563,7.8,,Qualys QID,,https://helpx.adobe.com/security/products/illustrator/apsb25-74.html
-Adobe Illustrator Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-49568,5.5,,Qualys QID,,https://helpx.adobe.com/security/products/illustrator/apsb25-74.html
-Adobe Illustrator Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-49564,7.8,,Qualys QID,,https://helpx.adobe.com/security/products/illustrator/apsb25-74.html
-Adobe Animate CC Multiple Vulnerabilities,CVE-2025-49561,7.8,,Qualys QID,,https://helpx.adobe.com/security/products/animate/apsb25-73.html
-Adobe Animate CC Multiple Vulnerabilities,CVE-2025-49562,5.5,,Qualys QID,,https://helpx.adobe.com/security/products/animate/apsb25-73.html
+Palo Alto Networks PAN-OS PA-7500 Update,CVE-2025-2182,3.3,,Qualys QID,8/14 CH - QID Available (732896),https://security.paloaltonetworks.com/CVE-2025-2182
+Palo Alto Networks GlobalProtect Certificate Handling Security Bypass Vulnerability,CVE-2025-2183,4.5,,Qualys QID,8/14 CH - QID Available (384383),https://security.paloaltonetworks.com/CVE-2025-2183
+Red Hat update for webkit2gtk3,CVE-2025-31273,8.8,,Qualys QID,"8/14 CH - QID Available (253997, 254000)","https://access.redhat.com/errata/RHSA-2025:13780
+https://access.redhat.com/errata/RHSA-2025:13782"
+Red Hat update for webkit2gtk3,CVE-2025-31278,8.8,,Qualys QID,"8/14 CH - QID Available (253997, 254000)","https://access.redhat.com/errata/RHSA-2025:13780
+https://access.redhat.com/errata/RHSA-2025:13782"
+Red Hat update for libxml2,CVE-2025-32415,7.5,,Qualys QID,8/14 CH - QID Available (254001),https://access.redhat.com/errata/RHSA-2025:13789
+IBM Multiple Products SSH Privilege Escalation Vulnerability,CVE-2025-36120,8.8,,None,8/14 CH - Task to Storage,https://www.ibm.com/support/pages/node/7240796
+IBM WebSphere Application Server Liberty JMS messaging Security Bypass Vulnerability,CVE-2025-36124,5.9,,Qualys QID,8/14 CH - QID Available (384375),https://www.ibm.com/support/pages/node/7242027
+Red Hat update for webkit2gtk3,CVE-2025-43211,6.2,,Qualys QID,"8/14 CH - QID Available (253997, 254000)","https://access.redhat.com/errata/RHSA-2025:13780
+https://access.redhat.com/errata/RHSA-2025:13782"
+Red Hat update for webkit2gtk3,CVE-2025-43212,6.5,,Qualys QID,"8/14 CH - QID Available (253997, 254000)","https://access.redhat.com/errata/RHSA-2025:13780
+https://access.redhat.com/errata/RHSA-2025:13782"
+Red Hat update for webkit2gtk3,CVE-2025-43216,6.5,,Qualys QID,"8/14 CH - QID Available (253997, 254000)","https://access.redhat.com/errata/RHSA-2025:13780
+https://access.redhat.com/errata/RHSA-2025:13782"
+Red Hat update for webkit2gtk3,CVE-2025-43227,7.5,,Qualys QID,"8/14 CH - QID Available (253997, 254000)","https://access.redhat.com/errata/RHSA-2025:13780
+https://access.redhat.com/errata/RHSA-2025:13782"
+Red Hat update for webkit2gtk3,CVE-2025-43240,6.2,,Qualys QID,"8/14 CH - QID Available (253997, 254000)","https://access.redhat.com/errata/RHSA-2025:13780
+https://access.redhat.com/errata/RHSA-2025:13782"
+Red Hat update for webkit2gtk3,CVE-2025-43265,4,,Qualys QID,"8/14 CH - QID Available (253997, 254000)","https://access.redhat.com/errata/RHSA-2025:13780
+https://access.redhat.com/errata/RHSA-2025:13782"
+F5 BIG-IP Access Policy Manager (APM) TMM Denial of Service Vulnerability,CVE-2025-46405,7.5,,Qualys QID,8/14 CH - QID Available (384380),https://my.f5.com/manage/s/article/K000151546
+F5 BIG-IP Access Policy Manager VPN Browser Client Privilege Escalation Vulnerability,CVE-2025-48500,7.3,,Qualys QID,8/14 CH - QID Available (384381),https://my.f5.com/manage/s/article/K000151782
+F5 Multiple BIG-IP Products Diffie-Hellman Update,CVE-2025-52585,7.5,,Qualys QID,8/14 CH - QID Available (384382),https://my.f5.com/manage/s/article/K000141436
+F5 Multiple BIG-IP Products HTTP/2 Denial of Service Vulnerability,CVE-2025-54500,5.3,,Qualys QID,8/14 CH - QID Available (384379),https://my.f5.com/manage/s/article/K000152001
