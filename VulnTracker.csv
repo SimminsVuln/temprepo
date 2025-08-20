@@ -1,24 +1,69 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Cisco IOS/IOS XE Multiple Denial of Service Vulnerabilities,CVE-2025-20224,5.8,LOW,,8/19 CH - QID Available (317688),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asa-ftd-ios-dos-DOESHWHy
-Cisco IOS/IOS XE Multiple Denial of Service Vulnerabilities,CVE-2025-20225,5.8,LOW,,8/19 CH - QID Available (317688),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asa-ftd-ios-dos-DOESHWHy
-Cisco IOS/IOS XE Multiple Denial of Service Vulnerabilities,CVE-2025-20239,8.6,LOW,,8/19 CH - QID Available (317688),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asa-ftd-ios-dos-DOESHWHy
-Cisco IOS/IOS XE Multiple Denial of Service Vulnerabilities,CVE-2025-20252,5.8,LOW,,8/19 CH - QID Available (317688),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asa-ftd-ios-dos-DOESHWHy
-Cisco IOS/IOS XE Multiple Denial of Service Vulnerabilities,CVE-2025-20253,8.6,LOW,,8/19 CH - QID Available (317688),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asa-ftd-ios-dos-DOESHWHy
-Cisco IOS/IOS XE Multiple Denial of Service Vulnerabilities,CVE-2025-20254,5.8,LOW,,8/19 CH - QID Available (317688),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asa-ftd-ios-dos-DOESHWHy
-Red Hat update for kernel,CVE-2025-21867,7.8,LOW,,8/19 CH - QID Available (254016),https://access.redhat.com/errata/RHSA-2025:14009
-Red Hat update for kernel,CVE-2025-22097,7.8,LOW,,8/19 CH - QID Available (254008),https://access.redhat.com/errata/RHSA-2025:13960
-IBM Sterling B2B Integrator Multiple Vulnerabilities,CVE-2025-23184,7.5,LOW,,,"https://www.ibm.com/support/pages/node/7242246
-https://www.ibm.com/support/pages/node/7242247
-https://www.ibm.com/support/pages/node/7242248"
-Red Hat update for kernel,CVE-2025-37914,7,LOW,,8/19 CH - QID Available (254008),https://access.redhat.com/errata/RHSA-2025:13960
-Red Hat update for kernel,CVE-2025-38124,7,LOW,,8/19 CH - QID Available (254016),https://access.redhat.com/errata/RHSA-2025:14009
-Red Hat update for kernel,CVE-2025-38250,7.3,LOW,,"8/19 CH - QID Available (254016, 254008)","https://access.redhat.com/errata/RHSA-2025:13960
+Google Chrome V8 Arbitrary Code Execution Vulnerability,CVE-2025-9132,High,MEDIUM,Qualys QID,8/20 CH - QID Available (384566),https://chromereleases.googleblog.com/2025/08/stable-channel-update-for-desktop_19.html
+Atlassian Crowd Center and Server Apache Tomcat Denial of Service Vulnerability,CVE-2025-52520,7.5,LOW,Qualys QID,8/20 CH - QID Available (732925),"https://jira.atlassian.com/browse/CWD-6408
+https://jira.atlassian.com/browse/CWD-6409
+https://jira.atlassian.com/browse/CWD-6410"
+Atlassian Crowd Center and Server Apache Tomcat Denial of Service Vulnerability,CVE-2025-53506,7.5,LOW,Qualys QID,8/20 CH - QID Available (732925),"https://jira.atlassian.com/browse/CWD-6408
+https://jira.atlassian.com/browse/CWD-6409
+https://jira.atlassian.com/browse/CWD-6411"
+Atlassian Crowd Form-Data Security Bypass Vulnerability,CVE-2025-7783,8.7,MEDIUM,Qualys QID,"8/20 CH - QID Available (732922), PoC Code Publicly Available",https://jira.atlassian.com/browse/CWD-6415
+Atlassian Crowd Apache Tomcat Denial of Service Vulnerability,CVE-2025-48976,7.5,LOW,Qualys QID,"8/20 CH - QID Available (732924, 732923), PoC Code Publicly Available",https://jira.atlassian.com/browse/CWD-6405
+Mozilla Firefox Thunderbird/ESR Multiple Vulnerabilities,CVE-2025-9179,High,LOW,Qualys QID,"8/20 CH - QID Available (384567, 384568, 384569, 384570, 384571, 384572, 384573)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-64
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-65
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-66
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-67
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-70
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-71
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-72"
+Mozilla Firefox Thunderbird/ESR Multiple Vulnerabilities,CVE-2025-9180,High,LOW,Qualys QID,"8/20 CH - QID Available (384567, 384568, 384569, 384570, 384571, 384572, 384573)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-64
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-65
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-66
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-67
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-70
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-71
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-73"
+Mozilla Firefox Thunderbird/ESR Multiple Vulnerabilities,CVE-2025-9181,Moderate,LOW,Qualys QID,"8/20 CH - QID Available (384567, 384568, 384569, 384570, 384571, 384572, 384573)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-64
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-65
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-66
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-67
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-70
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-71
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-74"
+Mozilla Firefox Thunderbird/ESR Multiple Vulnerabilities,CVE-2025-9182,Low,LOW,Qualys QID,"8/20 CH - QID Available (384567, 384568, 384569, 384570, 384571, 384572, 384573)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-64
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-65
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-66
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-67
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-70
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-71
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-75"
+Mozilla Firefox Thunderbird/ESR Multiple Vulnerabilities,CVE-2025-9184,High,MEDIUM,Qualys QID,"8/20 CH - QID Available (384567, 384568, 384569, 384570, 384571, 384572, 384573)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-64
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-65
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-66
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-67
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-70
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-71
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-76"
+Mozilla Firefox Thunderbird/ESR Multiple Vulnerabilities,CVE-2025-9185,High,MEDIUM,Qualys QID,"8/20 CH - QID Available (384567, 384568, 384569, 384570, 384571, 384572, 384573)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-64
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-65
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-66
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-67
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-70
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-71
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-77"
+Red Hat xterm Update,CVE-2022-24130,5.5,LOW,Qualys QID,8/20 CH - QID Available (254234),https://access.redhat.com/errata/RHSA-2025:14075
+Red Hat update for kernel,CVE-2025-38250,7.3,LOW,Qualys QID,"8/20 CH - QID Available (254008, 254018, 254016)","https://access.redhat.com/errata/RHSA-2025:13960
+https://access.redhat.com/errata/RHSA-2025:13962
 https://access.redhat.com/errata/RHSA-2025:14009"
-Red Hat update for kernel,CVE-2025-38380,7,LOW,,"8/19 CH - QID Available (254016, 254008)","https://access.redhat.com/errata/RHSA-2025:13960
+Red Hat update for kernel,CVE-2025-38471,7.4,LOW,Qualys QID,8/20 CH - QID Available (254018),https://access.redhat.com/errata/RHSA-2025:13962
+Red Hat update for kernel,CVE-2025-38124,7,LOW,Qualys QID,8/20 CH - QID Available (254018),https://access.redhat.com/errata/RHSA-2025:13962
+Red Hat update for kernel,CVE-2024-28956,5.6,LOW,Qualys QID,8/20 CH - QID Available (254018),https://access.redhat.com/errata/RHSA-2025:13962
+Red Hat update for kernel,CVE-2025-38159,7.1,LOW,Qualys QID,8/20 CH - QID Available (254018),https://access.redhat.com/errata/RHSA-2025:13962
+Red Hat update for kernel,CVE-2025-38380,7,LOW,Qualys QID,"8/20 CH - QID Available (254008, 254018, 254016)","https://access.redhat.com/errata/RHSA-2025:13960
+https://access.redhat.com/errata/RHSA-2025:13962
 https://access.redhat.com/errata/RHSA-2025:14009"
-Red Hat update for kernel,CVE-2025-38471,7.4,LOW,,8/19 CH - QID Available (254016),https://access.redhat.com/errata/RHSA-2025:14009
-IBM Integration Bus for z/OS Multiple Vulnerabilities,CVE-2025-48976,7.5,LOW,,8/19 CH - QID Available (384519),https://www.ibm.com/support/pages/node/7242150
-IBM Integration Bus for z/OS Multiple Vulnerabilities,CVE-2025-48988,7.5,LOW,,8/19 CH - QID Available (384519),https://www.ibm.com/support/pages/node/7242150
-IBM Integration Bus for z/OS Multiple Vulnerabilities,CVE-2025-49125 ,7.5,LOW,,8/19 CH - QID Available (384519),https://www.ibm.com/support/pages/node/7242150
-CA Aion Business Rules Expert LibXML2 Unspecified Vulnerability,,,,,,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36041
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36046"
+Red Hat update for kernel,CVE-2025-38085,7.1,LOW,Qualys QID,8/20 CH - QID Available (254018),https://access.redhat.com/errata/RHSA-2025:13962
+Red Hat update for kernel,CVE-2025-38084,7.1,LOW,Qualys QID,8/20 CH - QID Available (254018),https://access.redhat.com/errata/RHSA-2025:13962
+Red Hat update for kernel,CVE-2025-21867,7.8,LOW,Qualys QID,8/20 CH - QID Available (254018),https://access.redhat.com/errata/RHSA-2025:13962
+Red Hat update for golang,CVE-2025-4674,8.6,LOW,Qualys QID,"8/20 CH - QID Available (254007, 254004, 254010)","https://access.redhat.com/errata/RHSA-2025:13935
+https://access.redhat.com/errata/RHSA-2025:13940
+https://access.redhat.com/errata/RHSA-2025:13941"
