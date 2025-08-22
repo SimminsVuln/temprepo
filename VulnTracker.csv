@@ -1,34 +1,10 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Red Hat update for pki-deps:10.6,CVE-2025-52999,7.5,LOW,Qualys QID,8/21 CH - QID Available (254242),https://access.redhat.com/errata/RHSA-2025:14126
-Red Hat update for libarchive,CVE-2025-5914,9.8,MEDIUM,Qualys QID,"8/21 CH - QID Available (254249, 254244, 254247)","https://access.redhat.com/errata/RHSA-2025:14130
-https://access.redhat.com/errata/RHSA-2025:14135
-https://access.redhat.com/errata/RHSA-2025:14137"
-Red Hat update for tomcat9,CVE-2025-48976,7.5,LOW,Qualys QID,"8/21 CH - QID Available (254250, 254252)","https://access.redhat.com/errata/RHSA-2025:14178
-https://access.redhat.com/errata/RHSA-2025:14181"
-Red Hat update for tomcat9,CVE-2025-48989,7.5,LOW,Qualys QID,"8/21 CH - QID Available (254250, 254252)","https://access.redhat.com/errata/RHSA-2025:14178
-https://access.redhat.com/errata/RHSA-2025:14181"
-Red Hat update for tomcat9,CVE-2025-48988,7.5,LOW,Qualys QID,"8/21 CH - QID Available (254250, 254252)","https://access.redhat.com/errata/RHSA-2025:14178
-https://access.redhat.com/errata/RHSA-2025:14181"
-Red Hat update for tomcat9,CVE-2025-52434,7.5,LOW,Qualys QID,"8/21 CH - QID Available (254250, 254252)","https://access.redhat.com/errata/RHSA-2025:14178
-https://access.redhat.com/errata/RHSA-2025:14181"
-Red Hat update for tomcat9,CVE-2025-52520,7.5,LOW,Qualys QID,"8/21 CH - QID Available (254250, 254252)","https://access.redhat.com/errata/RHSA-2025:14178
-https://access.redhat.com/errata/RHSA-2025:14181"
-Red Hat update for tomcat9,CVE-2025-53506,7.5,LOW,Qualys QID,"8/21 CH - QID Available (254250, 254252)","https://access.redhat.com/errata/RHSA-2025:14178
-https://access.redhat.com/errata/RHSA-2025:14181"
-Red Hat update for tomcat9,CVE-2025-49125,7.5,LOW,Qualys QID,"8/21 CH - QID Available (254250, 254252)","https://access.redhat.com/errata/RHSA-2025:14178
-https://access.redhat.com/errata/RHSA-2025:14181"
-IBM AIX Python Multiple Security Bypass Vulnerabilities,CVE-2025-4138,7.5,LOW,Qualys QID,8/21 CH - QID Available (330229),"https://aix.software.ibm.com/aix/efixes/security/python_advisory16.asc
-https://www.ibm.com/support/pages/node/7242672"
-IBM AIX Python Multiple Security Bypass Vulnerabilities,CVE-2025-4517,9.4,MEDIUM,Qualys QID,8/21 CH - QID Available (330229),"https://aix.software.ibm.com/aix/efixes/security/python_advisory16.asc
-https://www.ibm.com/support/pages/node/7242672"
-Docker Desktop Update,CVE-2025-9074,9.3,MEDIUM,Qualys QID,8/21 CH - QID Available (384617),https://docs.docker.com/desktop/release-notes/#4443
-Commvault Multiple Vulnerabilities,CVE-2025-57790,6.8,MEDIUM,None,8/21 CH - Monitor for QID,"https://documentation.commvault.com/securityadvisories/CV_2025_08_1.html
-https://documentation.commvault.com/securityadvisories/CV_2025_08_2.html
-https://documentation.commvault.com/securityadvisories/CV_2025_08_3.html"
-Commvault Multiple Vulnerabilities,CVE-2025-57791,6.9,not available,None,8/21 CH - Monitor for QID,"https://documentation.commvault.com/securityadvisories/CV_2025_08_1.html
-https://documentation.commvault.com/securityadvisories/CV_2025_08_2.html
-https://documentation.commvault.com/securityadvisories/CV_2025_08_3.html"
-Commvault Multiple Vulnerabilities,CVE-2025-57788,8.7,not available,None,8/21 CH - Monitor for QID | No Risk Rating Available (Exploitation Trivial),"https://documentation.commvault.com/securityadvisories/CV_2025_08_1.html
-https://documentation.commvault.com/securityadvisories/CV_2025_08_2.html
-https://documentation.commvault.com/securityadvisories/CV_2025_08_3.html"
-ManageEngine ServiceDesk Plus Security Bypass Vulnerability,CVE-2025-8309,8.1,LOW,,,https://www.manageengine.com/products/service-desk/cve-2025-8309.html
+F5 Multiple BIG-IP Products Python HTTP Header Injection Vulnerability,CVE-2019-18348,7.5,LOW,Qualys QID,8/22 CH - QID Available (384620),https://my.f5.com/manage/s/article/K000153042
+F5 Multiple BIG-IP Products Python HTTP Header Injection Vulnerability,CVE-2019-9740,7.5,LOW,Qualys QID,8/22 CH - QID Available (384621),https://my.f5.com/manage/s/article/K000153040
+F5 Multiple BIG-IP Products Python HTTP Header Injection Vulnerability,CVE-2024-42516,7.5,LOW,Qualys QID,8/22 CH - QID Available (3846222),https://my.f5.com/manage/s/article/K000153074
+Cisco Secure Firewall Threat Defense (FTD) Software Access Control Rules Bypass Vulnerability,CVE-2025-20219,5.3,LOW,Qualys QID,8/22 CH - QID Available (317703),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asa-ftd-acl-bypass-mtPze9Yh
+Cisco Secure Firewall Management Center Software Authorization Bypass Vulnerabilities,CVE-2025-20301,6.5,LOW,Qualys QID,8/22 CH - QID Available (317702),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-authz-bypass-M7xhnAu
+Cisco Secure Firewall Management Center Software Authorization Bypass Vulnerabilities,CVE-2025-20302,6.5,LOW,Qualys QID,8/22 CH - QID Available (317702),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-authz-bypass-M7xhnAu
+Cisco Secure Firewall Threat Defense (FTD) Software Authenticated Command Injection Vulnerabilities,CVE-2025-20237,6,LOW,Qualys QID,8/22 CH - QID Available (317704),http://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-cmdinj-VEhFeZQ3
+Cisco Secure Firewall Threat Defense (FTD) Software Authenticated Command Injection Vulnerabilities,CVE-2025-20238,6,LOW,Qualys QID,8/22 CH - QID Available (317704),http://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-cmdinj-VEhFeZQ3
+Microsoft Edge Based on Chromium Prior to 139.0.3405.111/Extended Stable 138.0.3351.144 Multiple Vulnerabilities,CVE-2025-9132,8.8,MEDIUM,Qualys QID,8/22 CH - QID Available (384624),https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#august-21-2025
