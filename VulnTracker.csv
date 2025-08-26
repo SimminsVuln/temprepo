@@ -1,18 +1,16 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Red Hat Update for firefox,CVE-2025-9179,8.8,MEDIUM,Qualys QID,"8/25 CH - QID Available (254263, 254264, 254275)",https://access.redhat.com/errata/RHSA-2025:14442
-Red Hat Update for firefox,CVE-2025-9180,6.3,MEDIUM,Qualys QID,"8/25 CH - QID Available (254263, 254264, 254275)",https://access.redhat.com/errata/RHSA-2025:14442
-Red Hat Update for firefox,CVE-2025-9181,6.5,LOW,Qualys QID,"8/25 CH - QID Available (254263, 254264, 254275)",https://access.redhat.com/errata/RHSA-2025:14442
-Red Hat Update for firefox,CVE-2025-9182,7.5,LOW,Qualys QID,"8/25 CH - QID Available (254263, 254264, 254275)",https://access.redhat.com/errata/RHSA-2025:14442
-Red Hat Update for firefox,CVE-2025-9185,8.1,MEDIUM,Qualys QID,"8/25 CH - QID Available (254263, 254264, 254275)",https://access.redhat.com/errata/RHSA-2025:14442
-Red Hat Update for webkit2gtk3,CVE-2025-6558,8.8,MEDIUM,Qualys QID,"8/25 CH - QID Available (254260, 254261, 254268, 254270, 254271, 254273)",https://access.redhat.com/errata/RHSA-2025:14433
-Red Hat Update for webkit2gtk4,CVE-2025-31273,8.8,MEDIUM,Qualys QID,"8/25 CH - QID Available (254260, 254261, 254268, 254270, 254271, 254273)",https://access.redhat.com/errata/RHSA-2025:14433
-Red Hat Update for webkit2gtk5,CVE-2025-31278,8.8,MEDIUM,Qualys QID,"8/25 CH - QID Available (254260, 254261, 254268, 254270, 254271, 254273)",https://access.redhat.com/errata/RHSA-2025:14433
-Red Hat Update for webkit2gtk6,CVE-2025-43211,6.2,LOW,Qualys QID,"8/25 CH - QID Available (254260, 254261, 254268, 254270, 254271, 254273)",https://access.redhat.com/errata/RHSA-2025:14433
-Red Hat Update for webkit2gtk7,CVE-2025-43212,6.5,LOW,Qualys QID,"8/25 CH - QID Available (254260, 254261, 254268, 254270, 254271, 254273)",https://access.redhat.com/errata/RHSA-2025:14433
-Red Hat Update for webkit2gtk8,CVE-2025-43216,6.5,LOW,Qualys QID,"8/25 CH - QID Available (254260, 254261, 254268, 254270, 254271, 254273)",https://access.redhat.com/errata/RHSA-2025:14433
-Red Hat Update for webkit2gtk9,CVE-2025-43227,7.5,LOW,Qualys QID,"8/25 CH - QID Available (254260, 254261, 254268, 254270, 254271, 254273)",https://access.redhat.com/errata/RHSA-2025:14433
-Red Hat Update for webkit2gtk10,CVE-2025-43240,6.2,LOW,Qualys QID,"8/25 CH - QID Available (254260, 254261, 254268, 254270, 254271, 254273)",https://access.redhat.com/errata/RHSA-2025:14433
-Red Hat Update for webkit2gtk11,CVE-2025-43265,4,LOW,Qualys QID,"8/25 CH - QID Available (254260, 254261, 254268, 254270, 254271, 254273)",https://access.redhat.com/errata/RHSA-2025:14433
-Cisco Identity Services Engine Unauthenticated Remote Code Execution Vulnerabilities,CVE-2025-20281,10,HIGH,Qualys Pipeline,8/25 CH - QID in Pipeline (530425),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-unauth-rce-ZAd2GnJ6
-Cisco Identity Services Engine Unauthenticated Remote Code Execution Vulnerabilities,CVE-2025-20282,10,HIGH,Qualys Pipeline,8/25 CH - QID in Pipeline (530425),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-unauth-rce-ZAd2GnJ7
-Cisco Identity Services Engine Unauthenticated Remote Code Execution Vulnerabilities,CVE-2025-20337,10,HIGH,Qualys Pipeline,8/25 CH - QID in Pipeline (530425),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-unauth-rce-ZAd2GnJ8
+Red Hat update for go-toolset and golang,CVE-2023-39325,7.5,LOW,None,8/26 CH - Monitor for QID,"https://access.redhat.com/errata/RHSA-2023:5721
+https://access.redhat.com/errata/RHSA-2023:5738"
+Red Hat update for go-toolset and golang,CVE-2023-44487,7.5,LOW,None,8/26 CH - Monitor for QID,"https://access.redhat.com/errata/RHSA-2023:5721
+https://access.redhat.com/errata/RHSA-2023:5738"
+Red Hat update for squid,CVE-2021-28651,7.4,LOW,None,8/26 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:14414
+Red Hat update for squid,CVE-2025-54574,9.3,MEDIUM,None,8/26 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:14414
+Red Hat update for kernel,CVE-2025-22058,7.1,LOW,None,8/26 CH - Monitor for QID,"https://access.redhat.com/errata/RHSA-2025:14420
+https://access.redhat.com/errata/RHSA-2025:14438"
+Red Hat update for kernel,CVE-2025-37914,7,LOW,None,8/26 CH - Monitor for QID,"https://access.redhat.com/errata/RHSA-2025:14420
+https://access.redhat.com/errata/RHSA-2025:14510"
+Red Hat update for kernel,CVE-2025-38200,7,LOW,None,8/26 CH - Monitor for QID,"https://access.redhat.com/errata/RHSA-2025:14438
+https://access.redhat.com/errata/RHSA-2025:14510"
+Red Hat update for kpatch-patch-5_14_0-570_17_1,CVE-2025-38471,7.4,LOW,None,8/26 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:14497
+IBM App Connect Enterprise / IBM Integration Bus Apache Kafka Multiple Vulnerabilities,CVE-2025-27817,7.5,LOW,None,8/26 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7242900
+IBM App Connect Enterprise / IBM Integration Bus Apache Kafka Multiple Vulnerabilities,CVE-2025-27818,8.8,MEDIUM,None,8/26 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7242900
