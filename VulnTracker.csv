@@ -1,11 +1,43 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Google Chrome ANGLE Arbitrary Code Execution Vulnerability,CVE-2025-9478,Critical,MEDIUM,Qualys Pipeline,8/27 CH - QID in Pipeline (384700),https://chromereleases.googleblog.com/2025/08/stable-channel-update-for-desktop_26.html
-IBM Cognos Command Center Multiple Vulnerabilities,CVE-2025-4447,7,LOW,None,8/27 CH - Monitor for QID ,https://www.ibm.com/support/pages/node/7242159
-IBM Cognos Command Center Multiple Vulnerabilities,CVE-2025-21587,7.4,MEDIUM,None,8/27 CH - Monitor for QID ,https://www.ibm.com/support/pages/node/7242159
-IBM Cognos Command Center Multiple Vulnerabilities,CVE-2025-2697,7.4,LOW,None,8/27 CH - Monitor for QID ,https://www.ibm.com/support/pages/node/7242159
-IBM Cognos Command Center Multiple Vulnerabilities,CVE-2025-2900,7.5,LOW,None,8/27 CH - Monitor for QID ,https://www.ibm.com/support/pages/node/7242159
-IBM Cognos Command Center Multiple Vulnerabilities,CVE-2025-1994,7.8,LOW,None,8/27 CH - Monitor for QID ,https://www.ibm.com/support/pages/node/7242159
-Tableau Server / Desktop Multiple Security Bypass Vulnerabilities,CVE-2025-26497,7.3,MEDIUM,Qualys Pipeline,8/27 CH - QID in Pipeline (384647) ,https://help.salesforce.com/s/articleView?id=005132575&type=1
-Tableau Server / Desktop Multiple Security Bypass Vulnerabilities,CVE-2025-26498,7.3,MEDIUM,Qualys Pipeline,8/27 CH - QID in Pipeline (384647) ,https://help.salesforce.com/s/articleView?id=005132575&type=1
-Tableau Server / Desktop Multiple Security Bypass Vulnerabilities,CVE-2025-52451,8.5,LOW,Qualys Pipeline,8/27 CH - QID in Pipeline (384647) ,https://help.salesforce.com/s/articleView?id=005132575&type=1
-Tableau Server / Desktop Multiple Security Bypass Vulnerabilities,CVE-2025-26496,9.3,MEDIUM,Qualys Pipeline,8/27 CH - QID in Pipeline (384647) ,https://help.salesforce.com/s/articleView?id=005132575&type=1
+Cisco Integrated Management Controller (IMC) Open Redirect Vulnerability,CVE-2025-20317,7.1,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ucs-vkvmorv-CnKrV7HK
+Cisco Integrated Management Controller (IMC) vKVM Script Insertion Vulnerability,CVE-2025-20342,5.4,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ucs-kvmsxss-6h7AnUyk
+Cisco Multiple Products CLI Command Injection Vulnerability,CVE-2025-20292,4.4,LOW,None,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-cmdinj-qhNze5Ss
+Cisco Multiple Products NX-OS / UCS Update,CVE-2025-20290,5.5,LOW,None,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-infodis-TEcTYSFG
+Cisco Nexus 9000 / 3000 Series Switches IS-IS Denial of Service Vulnerability,CVE-2025-20241,7.4,LOW,None,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-n39k-isis-dos-JhJA8Rfx
+Cisco Nexus 9000 / 3000 Series Switches NX-OS Denial of Service Vulnerability,CVE-2025-20262,5,LOW,None,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxospc-pim6-vG4jFPh#fs
+Cisco Nexus Dashboard Fabric Controller REST API Multiple Security Bypass Vulnerabilities,CVE-2025-20347,5.4,LOW,None,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nshs-urapi-gJuBVFpu
+Cisco Nexus Dashboard Fabric Controller REST API Multiple Security Bypass Vulnerabilities,CVE-2025-20348,5.4,LOW,None,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nshs-urapi-gJuBVFpu
+GitLab Multiple Vulnerabilities,CVE-2025-5101,5,LOW,None,8/28 CH - Monitor for QID,https://about.gitlab.com/releases/2025/08/27/patch-release-gitlab-18-3-1-released
+GitLab Multiple Vulnerabilities,CVE-2025-4225,5.3,LOW,None,8/28 CH - Monitor for QID,https://about.gitlab.com/releases/2025/08/27/patch-release-gitlab-18-3-1-released
+GitLab Multiple Vulnerabilities,CVE-2025-2246,5.8,LOW,None,8/28 CH - Monitor for QID,https://about.gitlab.com/releases/2025/08/27/patch-release-gitlab-18-3-1-released
+GitLab Multiple Vulnerabilities,CVE-2025-3601,6.5,LOW,None,8/28 CH - Monitor for QID,https://about.gitlab.com/releases/2025/08/27/patch-release-gitlab-18-3-1-released
+IBM Sterling Connect:Direct for Microsoft Windows Multiple Vulnerabilities,CVE-2025-30754,4.8,LOW,None,8/28 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7243144
+https://www.ibm.com/support/pages/node/7243146
+https://www.ibm.com/support/pages/node/7243151"
+IBM Sterling Connect:Direct for Microsoft Windows Multiple Vulnerabilities,CVE-2025-30698,5.6,LOW,None,8/28 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7243144
+https://www.ibm.com/support/pages/node/7243146
+https://www.ibm.com/support/pages/node/7243151"
+IBM Sterling Connect:Direct for Microsoft Windows Multiple Vulnerabilities,CVE-2025-30761,5.9,MEDIUM,None,8/28 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7243144
+https://www.ibm.com/support/pages/node/7243146
+https://www.ibm.com/support/pages/node/7243151"
+IBM Sterling Connect:Direct for Microsoft Windows Multiple Vulnerabilities,CVE-2025-41234,6.5,LOW,None,8/28 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7243144
+https://www.ibm.com/support/pages/node/7243146
+https://www.ibm.com/support/pages/node/7243151"
+IBM Sterling Connect:Direct for Microsoft Windows Multiple Vulnerabilities,CVE-2025-4447,7,LOW,None,8/28 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7243144
+https://www.ibm.com/support/pages/node/7243146
+https://www.ibm.com/support/pages/node/7243151"
+IBM Sterling Connect:Direct for Microsoft Windows Multiple Vulnerabilities,CVE-2025-21587,7.4,MEDIUM,None,8/28 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7243144
+https://www.ibm.com/support/pages/node/7243146
+https://www.ibm.com/support/pages/node/7243151"
+IBM Sterling Connect:Direct for Microsoft Windows Multiple Vulnerabilities,CVE-2025-2900,7.5,LOW,None,8/28 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7243144
+https://www.ibm.com/support/pages/node/7243146
+https://www.ibm.com/support/pages/node/7243151"
+IBM Sterling Connect:Direct for Microsoft Windows Multiple Vulnerabilities,CVE-2025-50106,8.1,MEDIUM,None,8/28 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7243144
+https://www.ibm.com/support/pages/node/7243146
+https://www.ibm.com/support/pages/node/7243151"
+IBM Sterling Connect:Direct for Microsoft Windows Multiple Vulnerabilities,CVE-2025-30749,8.1,MEDIUM,None,8/28 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7243144
+https://www.ibm.com/support/pages/node/7243146
+https://www.ibm.com/support/pages/node/7243151"
+IBM Sterling Connect:Direct for Microsoft Windows Multiple Vulnerabilities,CVE-2025-50059,8.6,LOW,None,8/28 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7243144
+https://www.ibm.com/support/pages/node/7243146
+https://www.ibm.com/support/pages/node/7243151"
