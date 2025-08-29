@@ -1,43 +1,8 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Cisco Integrated Management Controller (IMC) Open Redirect Vulnerability,CVE-2025-20317,7.1,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ucs-vkvmorv-CnKrV7HK
-Cisco Integrated Management Controller (IMC) vKVM Script Insertion Vulnerability,CVE-2025-20342,5.4,LOW,,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ucs-kvmsxss-6h7AnUyk
-Cisco Multiple Products CLI Command Injection Vulnerability,CVE-2025-20292,4.4,LOW,None,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-cmdinj-qhNze5Ss
-Cisco Multiple Products NX-OS / UCS Update,CVE-2025-20290,5.5,LOW,None,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-infodis-TEcTYSFG
-Cisco Nexus 9000 / 3000 Series Switches IS-IS Denial of Service Vulnerability,CVE-2025-20241,7.4,LOW,None,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-n39k-isis-dos-JhJA8Rfx
-Cisco Nexus 9000 / 3000 Series Switches NX-OS Denial of Service Vulnerability,CVE-2025-20262,5,LOW,None,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxospc-pim6-vG4jFPh#fs
-Cisco Nexus Dashboard Fabric Controller REST API Multiple Security Bypass Vulnerabilities,CVE-2025-20347,5.4,LOW,None,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nshs-urapi-gJuBVFpu
-Cisco Nexus Dashboard Fabric Controller REST API Multiple Security Bypass Vulnerabilities,CVE-2025-20348,5.4,LOW,None,,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nshs-urapi-gJuBVFpu
-GitLab Multiple Vulnerabilities,CVE-2025-5101,5,LOW,None,8/28 CH - Monitor for QID,https://about.gitlab.com/releases/2025/08/27/patch-release-gitlab-18-3-1-released
-GitLab Multiple Vulnerabilities,CVE-2025-4225,5.3,LOW,None,8/28 CH - Monitor for QID,https://about.gitlab.com/releases/2025/08/27/patch-release-gitlab-18-3-1-released
-GitLab Multiple Vulnerabilities,CVE-2025-2246,5.8,LOW,None,8/28 CH - Monitor for QID,https://about.gitlab.com/releases/2025/08/27/patch-release-gitlab-18-3-1-released
-GitLab Multiple Vulnerabilities,CVE-2025-3601,6.5,LOW,None,8/28 CH - Monitor for QID,https://about.gitlab.com/releases/2025/08/27/patch-release-gitlab-18-3-1-released
-IBM Sterling Connect:Direct for Microsoft Windows Multiple Vulnerabilities,CVE-2025-30754,4.8,LOW,None,8/28 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7243144
-https://www.ibm.com/support/pages/node/7243146
-https://www.ibm.com/support/pages/node/7243151"
-IBM Sterling Connect:Direct for Microsoft Windows Multiple Vulnerabilities,CVE-2025-30698,5.6,LOW,None,8/28 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7243144
-https://www.ibm.com/support/pages/node/7243146
-https://www.ibm.com/support/pages/node/7243151"
-IBM Sterling Connect:Direct for Microsoft Windows Multiple Vulnerabilities,CVE-2025-30761,5.9,MEDIUM,None,8/28 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7243144
-https://www.ibm.com/support/pages/node/7243146
-https://www.ibm.com/support/pages/node/7243151"
-IBM Sterling Connect:Direct for Microsoft Windows Multiple Vulnerabilities,CVE-2025-41234,6.5,LOW,None,8/28 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7243144
-https://www.ibm.com/support/pages/node/7243146
-https://www.ibm.com/support/pages/node/7243151"
-IBM Sterling Connect:Direct for Microsoft Windows Multiple Vulnerabilities,CVE-2025-4447,7,LOW,None,8/28 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7243144
-https://www.ibm.com/support/pages/node/7243146
-https://www.ibm.com/support/pages/node/7243151"
-IBM Sterling Connect:Direct for Microsoft Windows Multiple Vulnerabilities,CVE-2025-21587,7.4,MEDIUM,None,8/28 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7243144
-https://www.ibm.com/support/pages/node/7243146
-https://www.ibm.com/support/pages/node/7243151"
-IBM Sterling Connect:Direct for Microsoft Windows Multiple Vulnerabilities,CVE-2025-2900,7.5,LOW,None,8/28 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7243144
-https://www.ibm.com/support/pages/node/7243146
-https://www.ibm.com/support/pages/node/7243151"
-IBM Sterling Connect:Direct for Microsoft Windows Multiple Vulnerabilities,CVE-2025-50106,8.1,MEDIUM,None,8/28 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7243144
-https://www.ibm.com/support/pages/node/7243146
-https://www.ibm.com/support/pages/node/7243151"
-IBM Sterling Connect:Direct for Microsoft Windows Multiple Vulnerabilities,CVE-2025-30749,8.1,MEDIUM,None,8/28 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7243144
-https://www.ibm.com/support/pages/node/7243146
-https://www.ibm.com/support/pages/node/7243151"
-IBM Sterling Connect:Direct for Microsoft Windows Multiple Vulnerabilities,CVE-2025-50059,8.6,LOW,None,8/28 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7243144
-https://www.ibm.com/support/pages/node/7243146
-https://www.ibm.com/support/pages/node/7243151"
+Microsoft Edge (Chromium-Based) Arbitrary Code Execution Vulnerability,CVE-2025-9478,8.8,MEDIUM,Qualys QID,8/29 CH QID Available (384706),https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#august-28-2025
+Red Hat Update for pam (RHSA-2025:14557),CVE-2025-6020,7.8,MEDIUM,Qualys QID,8/29 CH - QID Available (254285),https://access.redhat.com/errata/RHSA-2025:14557
+Red Hat Update for aide (RHSA-2025:14573),CVE-2025-54389,6.2,LOW,Qualys QID,8/29 CH - QID Available (254289),https://access.redhat.com/errata/RHSA-2025:14573
+Red Hat Update for gdk-pixbuf2 (RHSA-2025:14575),CVE-2025-7345,7.5,LOW,Qualys QID,8/29 CH - QID Available (254290),https://access.redhat.com/errata/RHSA-2025:14575
+Red Hat Update for python3 (RHSA-2025:14560),CVE-2025-8194,7.5,LOW,Qualys QID,8/29 CH - QID Available (254284),https://access.redhat.com/errata/RHSA-2025:14560
+Red Hat Update for python-cryptography (RHSA-2025:14553),CVE-2023-49083,5.3,LOW,Qualys QID,8/29 CH - QID Available (254282),https://access.redhat.com/errata/RHSA-2025:14553
+Red Hat Update for libarchive (RHSA-2025:14525),CVE-2025-5914,9.8,MEDIUM,Qualys QID,8/29 CH - QID Available (254281),https://access.redhat.com/errata/RHSA-2025:14525
