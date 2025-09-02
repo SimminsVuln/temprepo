@@ -1,8 +1,34 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Microsoft Edge (Chromium-Based) Arbitrary Code Execution Vulnerability,CVE-2025-9478,8.8,MEDIUM,Qualys QID,8/29 CH QID Available (384706),https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#august-28-2025
-Red Hat Update for pam (RHSA-2025:14557),CVE-2025-6020,7.8,MEDIUM,Qualys QID,8/29 CH - QID Available (254285),https://access.redhat.com/errata/RHSA-2025:14557
-Red Hat Update for aide (RHSA-2025:14573),CVE-2025-54389,6.2,LOW,Qualys QID,8/29 CH - QID Available (254289),https://access.redhat.com/errata/RHSA-2025:14573
-Red Hat Update for gdk-pixbuf2 (RHSA-2025:14575),CVE-2025-7345,7.5,LOW,Qualys QID,8/29 CH - QID Available (254290),https://access.redhat.com/errata/RHSA-2025:14575
-Red Hat Update for python3 (RHSA-2025:14560),CVE-2025-8194,7.5,LOW,Qualys QID,8/29 CH - QID Available (254284),https://access.redhat.com/errata/RHSA-2025:14560
-Red Hat Update for python-cryptography (RHSA-2025:14553),CVE-2023-49083,5.3,LOW,Qualys QID,8/29 CH - QID Available (254282),https://access.redhat.com/errata/RHSA-2025:14553
-Red Hat Update for libarchive (RHSA-2025:14525),CVE-2025-5914,9.8,MEDIUM,Qualys QID,8/29 CH - QID Available (254281),https://access.redhat.com/errata/RHSA-2025:14525
+Red Hat update for gdk-pixbuf2,CVE-2025-7345,7.5,LOW,Qualys QID,9/2 QID Available (254291),https://access.redhat.com/errata/RHSA-2025:14683
+Red Hat update for kernel,CVE-2022-50020,7,LOW,Qualys QID,9/2 QID Available (254320),https://access.redhat.com/errata/RHSA-2025:14748
+Red Hat update for kernel,CVE-2025-38000,7,LOW,Qualys QID,9/2 QID Available (254320),https://access.redhat.com/errata/RHSA-2025:14748
+Red Hat update for kernel,CVE-2022-50022,7,LOW,Qualys QID,9/2 QID Available (254320),https://access.redhat.com/errata/RHSA-2025:14748
+Red Hat update for kernel,CVE-2025-38177,7,LOW,Qualys QID,9/2 QID Available (254320),https://access.redhat.com/errata/RHSA-2025:14748
+Red Hat update for kernel,CVE-2022-49788,7.1,LOW,Qualys QID,9/2 QID Available (254320),https://access.redhat.com/errata/RHSA-2025:14748
+Red Hat update for kernel,CVE-2025-23150,7.1,LOW,Qualys QID,9/2 QID Available (254320),https://access.redhat.com/errata/RHSA-2025:14748
+Red Hat update for kernel,CVE-2025-21928,7.8,LOW,Qualys QID,9/2 QID Available (254320),https://access.redhat.com/errata/RHSA-2025:14748
+Red Hat update for kernel,CVE-2025-38350,8.8,MEDIUM,Qualys QID,9/2 QID Available (254320),https://access.redhat.com/errata/RHSA-2025:14748
+Red Hat update for libarchive,CVE-2025-5914,9.8,MEDIUM,Qualys QID,9/2 QID Available (254308),https://access.redhat.com/errata/RHSA-2025:14828
+Red Hat update for mod_http2,CVE-2025-49630,7.5,LOW,Qualys QID,9/2 QID Available (254293),https://access.redhat.com/errata/RHSA-2025:14625
+Red Hat update for postgresql16,CVE-2025-8715,8.8,MEDIUM,Qualys QID,"9/2 QID Available (254306, 254309, 254310, 254312, 254313)","https://access.redhat.com/errata/RHSA-2025:14826
+https://access.redhat.com/errata/RHSA-2025:14827
+https://access.redhat.com/errata/RHSA-2025:14862
+https://access.redhat.com/errata/RHSA-2025:14878
+https://access.redhat.com/errata/RHSA-2025:14899"
+Red Hat update for postgresql16,CVE-2025-8714,8.8,MEDIUM,Qualys QID,"9/2 QID Available (254306, 254309, 254310, 254312, 254313)","https://access.redhat.com/errata/RHSA-2025:14826
+https://access.redhat.com/errata/RHSA-2025:14827
+https://access.redhat.com/errata/RHSA-2025:14862
+https://access.redhat.com/errata/RHSA-2025:14878
+https://access.redhat.com/errata/RHSA-2025:14899"
+Red Hat update for python3.11,CVE-2025-8194,7.5,LOW,Qualys QID,"9/2 QID Available (254318, 254311)","https://access.redhat.com/errata/RHSA-2025:14841
+https://access.redhat.com/errata/RHSA-2025:14900"
+Red Hat update for python39:3.9,CVE-2025-47273,8.8,MEDIUM,Qualys QID,9/2 QID Available (254311),https://access.redhat.com/errata/RHSA-2025:14900
+Red Hat update for thunderbird,CVE-2025-9182,7.5,LOW,Qualys QID,"9/2 QID Available (254297, 254292, 254305)","https://access.redhat.com/errata/RHSA-2025:14640
+https://access.redhat.com/errata/RHSA-2025:14743
+https://access.redhat.com/errata/RHSA-2025:14844"
+Red Hat update for thunderbird,CVE-2025-9185,8.1,MEDIUM,Qualys QID,"9/2 QID Available (254297, 254292, 254305)","https://access.redhat.com/errata/RHSA-2025:14640
+https://access.redhat.com/errata/RHSA-2025:14743
+https://access.redhat.com/errata/RHSA-2025:14844"
+Red Hat update for thunderbird,CVE-2025-9179,8.8,MEDIUM,Qualys QID,"9/2 QID Available (254297, 254292, 254305)","https://access.redhat.com/errata/RHSA-2025:14640
+https://access.redhat.com/errata/RHSA-2025:14743
+https://access.redhat.com/errata/RHSA-2025:14844"
