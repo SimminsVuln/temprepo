@@ -1,7 +1,26 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-IBM Storage Scale PostgreSQL JDBC Driver Security Bypass Vulnerability,CVE-2025-49146,8.2,LOW,None,9/3 CH - ,https://www.ibm.com/support/pages/node/7243824
-Google Chrome Multiple Vulnerabilities,CVE-2025-9866,MEDIUM,LOW,Qualys Pipeline,9/3 CH - QID in Pipeline (385056),https://chromereleases.googleblog.com/2025/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2025-9867,MEDIUM,LOW,Qualys Pipeline,9/3 CH - QID in Pipeline (385056),https://chromereleases.googleblog.com/2025/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2025-9864,HIGH,MEDIUM,Qualys Pipeline,9/3 CH - QID in Pipeline (385056),https://chromereleases.googleblog.com/2025/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2025-9865,MEDIUM,LOW,Qualys Pipeline,9/3 CH - QID in Pipeline (385056),https://chromereleases.googleblog.com/2025/09/stable-channel-update-for-desktop.html
-NextJs Authorization ByPass Vulnerability,CVE-2025-29927,9.1,MEDIUM,None,,https://github.com/vercel/next.js/releases/tag/v13.5.9
+Red Hat update for Satellite 6 Client,CVE-2024-49761,7.5,LOW,Qualys QID,9/8 CH - QID Available (254394),https://access.redhat.com/errata/RHSA-2025:15371
+Red Hat update for postgresql:12,CVE-2025-8714,8.8,MEDIUM,Qualys QID,9/8 CH - QID Available (254385),https://access.redhat.com/errata/RHSA-2025:15115
+Red Hat update for postgresql:12,CVE-2025-8715,8.8,MEDIUM,Qualys QID,9/8 CH - QID Available (254385),https://access.redhat.com/errata/RHSA-2025:15115
+Red Hat update for httpd:2.4,CVE-2024-47252,7.5,LOW,Qualys QID,"9/8 CH - QID Available (254374, 254386)","https://access.redhat.com/errata/RHSA-2025:15095
+https://access.redhat.com/errata/RHSA-2025:15123"
+Red Hat update for httpd:2.4,CVE-2025-23048,9.1,MEDIUM,Qualys QID,"9/8 CH - QID Available (254374, 254386)","https://access.redhat.com/errata/RHSA-2025:15095
+https://access.redhat.com/errata/RHSA-2025:15123"
+Red Hat update for httpd:2.4,CVE-2025-49812,7.4,MEDIUM,Qualys QID,"9/8 CH - QID Available (254374, 254386)","https://access.redhat.com/errata/RHSA-2025:15095
+https://access.redhat.com/errata/RHSA-2025:15123"
+Red Hat update for pam,CVE-2025-8941,7.8,LOW,Qualys QID,"9/8 CH - QID Available (254378, 254380)","https://access.redhat.com/errata/RHSA-2025:15099
+https://access.redhat.com/errata/RHSA-2025:15106
+https://bugzilla.redhat.com/show_bug.cgi?id=2388220"
+Red Hat update for pam,CVE-2025-6020,7.8,MEDIUM,Qualys QID,9/8 CH - QID Available (254378),"https://access.redhat.com/errata/RHSA-2025:15099
+"
+Red Hat update for kernel,CVE-2025-37803,7,LOW,Qualys QID,9/8 CH - QID Available (254417),https://access.redhat.com/errata/RHSA-2025:15429
+Red Hat update for kernel,CVE-2025-38392,7.3,LOW,Qualys QID,9/8 CH - QID Available (254417),https://access.redhat.com/errata/RHSA-2025:15429
+Apache Jackrabbit JndiRepositoryFactory Rejection Notice,CVE-2025-58782,not available,MEDIUM,Qualys QID,,https://lists.apache.org/thread/t4wdrost6dh17dh406g792j9wq6xmy6v
+IBM Sterling Secure Proxy Multiple Vulnerabilities,CVE-2024-13009,7.2,LOW,Qualys Pipeline,9/8 CH - QID in Pipeline (384716),https://www.ibm.com/support/pages/node/7243373
+IBM Sterling Secure Proxy Multiple Vulnerabilities,CVE-2025-1470,5.5,LOW,Qualys Pipeline,9/8 CH - QID in Pipeline (384716),https://www.ibm.com/support/pages/node/7243373
+IBM Sterling Secure Proxy Multiple Vulnerabilities,CVE-2025-1471,7.8,LOW,Qualys Pipeline,9/8 CH - QID in Pipeline (384716),https://www.ibm.com/support/pages/node/7243373
+IBM Sterling Secure Proxy Multiple Vulnerabilities,CVE-2025-21587,7.4,MEDIUM,Qualys Pipeline,9/8 CH - QID in Pipeline (384716),https://www.ibm.com/support/pages/node/7243373
+IBM Sterling Secure Proxy Multiple Vulnerabilities,CVE-2025-30698,5.6,LOW,Qualys Pipeline,9/8 CH - QID in Pipeline (384716),https://www.ibm.com/support/pages/node/7243373
+IBM Sterling Secure Proxy Multiple Vulnerabilities,CVE-2025-4447,7,LOW,Qualys Pipeline,9/8 CH - QID in Pipeline (384716),https://www.ibm.com/support/pages/node/7243373
+IBM Sterling Secure Proxy Multiple Vulnerabilities,CVE-2025-27152,7.5,LOW,Qualys Pipeline,9/8 CH - QID in Pipeline (384716),https://www.ibm.com/support/pages/node/7243373
+IBM Sterling Secure Proxy Multiple Vulnerabilities,CVE-2025-27533,7.5,LOW,Qualys Pipeline,9/8 CH - QID in Pipeline (384716),https://www.ibm.com/support/pages/node/7243373
