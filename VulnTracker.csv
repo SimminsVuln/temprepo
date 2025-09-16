@@ -1,14 +1,28 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Adobe Dreamweaver Cross-Site Request Forgery Vulnerability,CVE-2025-54256,8.6,MEDIUM,Qualys QID,9/11 CH - QID Available (385099),https://helpx.adobe.com/security/products/dreamweaver/apsb25-91.html
-Adobe Experience Manager (AEM) Multiple Vulnerabilities,CVE-2025-54248,7.7,LOW,None,9/11 CH - Monitor for QID,https://helpx.adobe.com/security/products/experience-manager/apsb25-90.html
-Adobe Premiere Pro Arbitrary Code Execution Vulnerability,CVE-2025-54242,7.8,MEDIUM,Qualys QID,9/11 CH - QID Available (385092),https://helpx.adobe.com/security/products/premiere_pro/apsb25-87.html
-Cisco Multiple Products IOS XR ARP Denial of Service Vulnerability,CVE-2025-20340,7.4,LOW,Qualys Pipeline,9/11 CH - QID in Pipeline (317718),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxr-arp-storm-EjUU55yM
-Magento Security Bypass Vulnerability,CVE-2025-54236,9.1,MEDIUM,None,9/9 CH - Confirmed not in use by Scenaca,https://helpx.adobe.com/security/products/magento/apsb25-88.html
-Red Hat update for kernel,CVE-2025-38332,7,LOW,Qualys QID,"9/11 CH - QID Available (254470, 254469)",https://access.redhat.com/errata/RHSA-2025:15648
-Red Hat update for kernel,CVE-2025-38352,8.4,MEDIUM,Qualys QID,"9/11 CH - QID Available (254470, 254469)",https://access.redhat.com/errata/RHSA-2025:15648
-Red Hat update for python3.12-cryptography,CVE-2024-26130,7.5,LOW,Qualys QID,9/11 CH - QID Available (254465),https://access.redhat.com/errata/RHSA-2025:15608
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,                                                                                                  ,
+Red Hat update for kpatch-patch-5_14_0-570_17_1 and kpatch-patch-5_14_0-570_39_1,CVE-2025-38352,,,,,https://access.redhat.com/errata/RHSA-2025:15798
+Red Hat update for kpatch-patch-5_14_0-570_17_1 and kpatch-patch-5_14_0-570_39_1,CVE-2025-38052,,,,,https://access.redhat.com/errata/RHSA-2025:15798
+Red Hat update for kernel,CVE-2025-38332,,,,,https://access.redhat.com/errata/RHSA-2025:15782
+Red Hat update for kernel,CVE-2025-38498,,,,,https://access.redhat.com/errata/RHSA-2025:15782
+Red Hat update for kernel,CVE-2025-38392,,,,,"https://access.redhat.com/errata/RHSA-2025:15782
+https://access.redhat.com/errata/RHSA-2025:15785"
+Red Hat update for kernel,CVE-2025-38550,,,,,"https://access.redhat.com/errata/RHSA-2025:15740
+https://access.redhat.com/errata/RHSA-2025:15782"
+Red Hat update for kernel,CVE-2025-38500,,,,,https://access.redhat.com/errata/RHSA-2025:15782
+Red Hat update for kernel,CVE-2025-22068,,,,,https://access.redhat.com/errata/RHSA-2025:15782
+Red Hat update for kernel,CVE-2025-38463,,,,,https://access.redhat.com/errata/RHSA-2025:15782
+Red Hat update for kernel,CVE-2025-38449,,,,,https://access.redhat.com/errata/RHSA-2025:15785
+Red Hat update for kernel,CVE-2025-38350,,,,,https://access.redhat.com/errata/RHSA-2025:15785
+Red Hat update for kernel,CVE-2023-53125,,,,,https://access.redhat.com/errata/RHSA-2025:15785
+Red Hat update for aide,CVE-2025-54389,,,,,https://access.redhat.com/errata/RHSA-2025:15728
+NetApp Active IQ Unified Manager for Microsoft Windows Python Denial of Service Vulnerability,CVE-2025-6069,,,,,https://security.netapp.com/advisory/ntap-20250718-0005/
+NetApp Active IQ Unified Manager for VMware vSphere GNUTLS Vulnerability,CVE-2025-32988,,,,,https://security.netapp.com/advisory/ntap-20250725-0009/
+NetApp Active IQ Unified Manager for VMware vSphere GNUTLS Denial of Service Vulnerability,CVE-2025-6395,,,,,https://security.netapp.com/advisory/ntap-20250725-0007/
+Red Hat update for webkitgtk4,CVE-2025-43265,,,,,https://access.redhat.com/errata/RHSA-2025:15729
+Red Hat update for webkitgtk4,CVE-2025-31278,,,,,https://access.redhat.com/errata/RHSA-2025:15729
+Red Hat update for webkitgtk4,CVE-2025-43240,,,,,https://access.redhat.com/errata/RHSA-2025:15729
+Red Hat update for webkitgtk4,CVE-2025-6558,,,,,https://access.redhat.com/errata/RHSA-2025:15729
+Red Hat update for webkitgtk4,CVE-2025-43216,,,,,https://access.redhat.com/errata/RHSA-2025:15729
+Red Hat update for webkitgtk4,CVE-2025-43211,,,,,https://access.redhat.com/errata/RHSA-2025:15729
+Red Hat update for webkitgtk4,CVE-2025-43227,,,,,https://access.redhat.com/errata/RHSA-2025:15729
+Red Hat update for webkitgtk4,CVE-2025-43212,,,,,https://access.redhat.com/errata/RHSA-2025:15729
+Red Hat update for webkitgtk4,CVE-2025-31273,,,,,https://access.redhat.com/errata/RHSA-2025:15729
