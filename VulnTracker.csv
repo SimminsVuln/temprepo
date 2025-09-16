@@ -1,28 +1,18 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Red Hat update for kpatch-patch-5_14_0-570_17_1 and kpatch-patch-5_14_0-570_39_1,CVE-2025-38352,,,,,https://access.redhat.com/errata/RHSA-2025:15798
-Red Hat update for kpatch-patch-5_14_0-570_17_1 and kpatch-patch-5_14_0-570_39_1,CVE-2025-38052,,,,,https://access.redhat.com/errata/RHSA-2025:15798
-Red Hat update for kernel,CVE-2025-38332,,,,,https://access.redhat.com/errata/RHSA-2025:15782
-Red Hat update for kernel,CVE-2025-38498,,,,,https://access.redhat.com/errata/RHSA-2025:15782
-Red Hat update for kernel,CVE-2025-38392,,,,,"https://access.redhat.com/errata/RHSA-2025:15782
-https://access.redhat.com/errata/RHSA-2025:15785"
-Red Hat update for kernel,CVE-2025-38550,,,,,"https://access.redhat.com/errata/RHSA-2025:15740
+Apache Jackrabbit XML External Entity (XXE) Injection Vulnerability,CVE-2025-53689,8.8,,Qualys QID,9/16 CH - QID Available (733178),https://lists.apache.org/thread/5pf9n76ny13pzzk765og2h3gxdxw7p24
+Red Hat update for kernel,CVE-2025-38550,7.1,LOW,Qualys QID,"9/16 CH - QID Available (254753, 254758)","https://access.redhat.com/errata/RHSA-2025:15740
 https://access.redhat.com/errata/RHSA-2025:15782"
-Red Hat update for kernel,CVE-2025-38500,,,,,https://access.redhat.com/errata/RHSA-2025:15782
-Red Hat update for kernel,CVE-2025-22068,,,,,https://access.redhat.com/errata/RHSA-2025:15782
-Red Hat update for kernel,CVE-2025-38463,,,,,https://access.redhat.com/errata/RHSA-2025:15782
-Red Hat update for kernel,CVE-2025-38449,,,,,https://access.redhat.com/errata/RHSA-2025:15785
-Red Hat update for kernel,CVE-2025-38350,,,,,https://access.redhat.com/errata/RHSA-2025:15785
-Red Hat update for kernel,CVE-2023-53125,,,,,https://access.redhat.com/errata/RHSA-2025:15785
-Red Hat update for aide,CVE-2025-54389,,,,,https://access.redhat.com/errata/RHSA-2025:15728
-NetApp Active IQ Unified Manager for Microsoft Windows Python Denial of Service Vulnerability,CVE-2025-6069,,,,,https://security.netapp.com/advisory/ntap-20250718-0005/
-NetApp Active IQ Unified Manager for VMware vSphere GNUTLS Vulnerability,CVE-2025-32988,,,,,https://security.netapp.com/advisory/ntap-20250725-0009/
-NetApp Active IQ Unified Manager for VMware vSphere GNUTLS Denial of Service Vulnerability,CVE-2025-6395,,,,,https://security.netapp.com/advisory/ntap-20250725-0007/
-Red Hat update for webkitgtk4,CVE-2025-43265,,,,,https://access.redhat.com/errata/RHSA-2025:15729
-Red Hat update for webkitgtk4,CVE-2025-31278,,,,,https://access.redhat.com/errata/RHSA-2025:15729
-Red Hat update for webkitgtk4,CVE-2025-43240,,,,,https://access.redhat.com/errata/RHSA-2025:15729
-Red Hat update for webkitgtk4,CVE-2025-6558,,,,,https://access.redhat.com/errata/RHSA-2025:15729
-Red Hat update for webkitgtk4,CVE-2025-43216,,,,,https://access.redhat.com/errata/RHSA-2025:15729
-Red Hat update for webkitgtk4,CVE-2025-43211,,,,,https://access.redhat.com/errata/RHSA-2025:15729
-Red Hat update for webkitgtk4,CVE-2025-43227,,,,,https://access.redhat.com/errata/RHSA-2025:15729
-Red Hat update for webkitgtk4,CVE-2025-43212,,,,,https://access.redhat.com/errata/RHSA-2025:15729
-Red Hat update for webkitgtk4,CVE-2025-31273,,,,,https://access.redhat.com/errata/RHSA-2025:15729
+Red Hat update for kernel,CVE-2025-38332,7,LOW,Qualys QID,9/16 CH - QID Available (254753),https://access.redhat.com/errata/RHSA-2025:15782
+Red Hat update for kernel,CVE-2025-38498,7,LOW,Qualys QID,9/16 CH - QID Available (254753),https://access.redhat.com/errata/RHSA-2025:15782
+Red Hat update for kernel,CVE-2025-38500,7.8,LOW,Qualys QID,9/16 CH - QID Available (254753),https://access.redhat.com/errata/RHSA-2025:15782
+Red Hat update for kernel,CVE-2025-38463,8.1,LOW,Qualys QID,9/16 CH - QID Available (254753),https://access.redhat.com/errata/RHSA-2025:15782
+Red Hat update for kernel,CVE-2025-38392,7.3,LOW,Qualys QID,"9/16 CH - QID Available (254753, 254758)","https://access.redhat.com/errata/RHSA-2025:15782
+https://access.redhat.com/errata/RHSA-2025:15785"
+Red Hat update for kernel,CVE-2025-38449,7,LOW,Qualys QID,9/16 CH - QID Available (254754),https://access.redhat.com/errata/RHSA-2025:15785
+Red Hat update for kernel,CVE-2025-38350,8.8,MEDIUM,Qualys QID,9/16 CH - QID Available (254754),https://access.redhat.com/errata/RHSA-2025:15785
+Red Hat update for kpatch-patch-5_14_0-570_17_1 and kpatch-patch-5_14_0-570_39_1,CVE-2025-38052,7.8,LOW,Qualys QID,9/16 CH - QID Available (254755),https://access.redhat.com/errata/RHSA-2025:15798
+Red Hat update for kpatch-patch-5_14_0-570_17_1 and kpatch-patch-5_14_0-570_39_1,CVE-2025-38352,8.4,MEDIUM,Qualys QID,9/16 CH - QID Available (254755),https://access.redhat.com/errata/RHSA-2025:15798
+Red Hat update for webkitgtk4,CVE-2025-43227,7.5,LOW,Qualys QID,9/16 CH - QID Available (254759),https://access.redhat.com/errata/RHSA-2025:15729
+Red Hat update for webkitgtk4,CVE-2025-31278,8.8,MEDIUM,Qualys QID,9/16 CH - QID Available (254759),https://access.redhat.com/errata/RHSA-2025:15729
+Red Hat update for webkitgtk4,CVE-2025-6558,8.8,MEDIUM,Qualys QID,9/16 CH - QID Available (254759),https://access.redhat.com/errata/RHSA-2025:15729
+Red Hat update for webkitgtk4,CVE-2025-31273,8.8,MEDIUM,Qualys QID,9/16 CH - QID Available (254759),https://access.redhat.com/errata/RHSA-2025:15729
