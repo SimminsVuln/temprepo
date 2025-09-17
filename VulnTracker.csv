@@ -1,69 +1,36 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Apple Safari Multiple Vulnerabilities,CVE-2025-31254,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125113
-Apple Safari Multiple Vulnerabilities,CVE-2025-43272,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125113
-Apple Safari Multiple Vulnerabilities,CVE-2025-43327,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125113
-Apple Safari Multiple Vulnerabilities,CVE-2025-43342,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125113
-Apple Safari Multiple Vulnerabilities,CVE-2025-43343,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125113
-Apple Safari Multiple Vulnerabilities,CVE-2025-43356,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125113
-Apple Safari Multiple Vulnerabilities,CVE-2025-43368,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125113
-iOS and iPadOS 18.7 Multiple Vulnerabilities,CVE-2025-43203,not listed,,None,9/16 CH - No Exploit/Poc Code. Discuss if block enforcement needed,https://support.apple.com/en-us/125109
-iOS and iPadOS 18.7 Multiple Vulnerabilities,CVE-2025-43295,not listed,,None,9/16 CH - No Exploit/Poc Code. Discuss if block enforcement needed,https://support.apple.com/en-us/125109
-iOS and iPadOS 18.7 Multiple Vulnerabilities,CVE-2025-43299,not listed,,None,9/16 CH - No Exploit/Poc Code. Discuss if block enforcement needed,https://support.apple.com/en-us/125109
-iOS and iPadOS 18.7 Multiple Vulnerabilities,CVE-2025-43302,not listed,,None,9/16 CH - No Exploit/Poc Code. Discuss if block enforcement needed,https://support.apple.com/en-us/125109
-iOS and iPadOS 18.7 Multiple Vulnerabilities,CVE-2025-43342,not listed,,None,9/16 CH - No Exploit/Poc Code. Discuss if block enforcement needed,https://support.apple.com/en-us/125109
-iOS and iPadOS 18.7 Multiple Vulnerabilities,CVE-2025-43346,not listed,,None,9/16 CH - No Exploit/Poc Code. Discuss if block enforcement needed,https://support.apple.com/en-us/125109
-iOS and iPadOS 18.7 Multiple Vulnerabilities,CVE-2025-43349,not listed,,None,9/16 CH - No Exploit/Poc Code. Discuss if block enforcement needed,https://support.apple.com/en-us/125109
-iOS and iPadOS 18.7 Multiple Vulnerabilities,CVE-2025-43355,not listed,,None,9/16 CH - No Exploit/Poc Code. Discuss if block enforcement needed,https://support.apple.com/en-us/125109
-iOS and iPadOS 18.7 Multiple Vulnerabilities,CVE-2025-43356,not listed,,None,9/16 CH - No Exploit/Poc Code. Discuss if block enforcement needed,https://support.apple.com/en-us/125109
-iOS and iPadOS 18.7 Multiple Vulnerabilities,CVE-2025-43358,not listed,,None,9/16 CH - No Exploit/Poc Code. Discuss if block enforcement needed,https://support.apple.com/en-us/125109
-iOS and iPadOS 18.7 Multiple Vulnerabilities,CVE-2025-43359,not listed,,None,9/16 CH - No Exploit/Poc Code. Discuss if block enforcement needed,https://support.apple.com/en-us/125109
-iOS and iPadOS 18.7 Multiple Vulnerabilities,CVE-2025-43362,not listed,,None,9/16 CH - No Exploit/Poc Code. Discuss if block enforcement needed,https://support.apple.com/en-us/125109
-macOS Sequoia Multiple Vulnerabilities,CVE-2024-27280,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-24197,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31255,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31259,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-31268,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-40909,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43190,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43285,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43286,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43291,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43292,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43293,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43295,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43298,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43299,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43301,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43302,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43304,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43305,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43308,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43310,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43311,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43312,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43314,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43315,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43319,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43321,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43326,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43330,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43332,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43349,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43353,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43355,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43358,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-macOS Sequoia Multiple Vulnerabilities,CVE-2025-43359,not listed,,None,9/16 CH - Monitor for QID,https://support.apple.com/en-us/125111
-,,,,,,
-,,,,,,
-CVE-2025-43203,9/16 CH - Notes image view with physical access to unlocked device ? AV:P. — Exploited / PoC: No public reports of active exploitation or public PoC ,,,,,
-CVE-2025-43295,"9/16 CH - libc DoS by local app ? AV:L, PR:L, A:L. — Exploited / PoC: No public reports of active exploitation or public PoC ",,,,,
-CVE-2025-43299,"9/16 CH - libc DoS by local app ? AV:L, PR:L, A:L. — Exploited / PoC: No public reports of active exploitation or public PoC ",,,,,
-CVE-2025-43302,"9/16 CH - IOHIDFamily local crash ? AV:L, PR:L, A:L. — Exploited / PoC: No public reports of active exploitation or public PoC ",,,,,
-CVE-2025-43342,"9/16 CH - WebKit crash (DoS) via web content ? AV:N, UI:R, A:L. — Exploited / PoC: No authoritative public reports of active exploitation or widely published PoC ",,,,,
-CVE-2025-43346,"9/16 CH - Audio: crafted media ? app crash/corruption, AV:N, UI:R. — Exploited / PoC: No public reports of active exploitation or public PoC ",,,,,
-CVE-2025-43349,"9/16 CH - CoreAudio: crafted video ? crash, AV:N, UI:R. — Exploited / PoC: No public reports of active exploitation or public PoC ",,,,,
-CVE-2025-43355,"9/16 CH - MobileStorageMounter DoS (type confusion) ? AV:L, PR:L. — Exploited / PoC: No public reports of active exploitation or public PoC ",,,,,
-CVE-2025-43356,"9/16 CH - Website can access sensor info (privacy) ? AV:N, UI:N/R, C:L. — Exploited / PoC: No public reports of active exploitation or public PoC ",,,,,
-CVE-2025-43358,"9/16 CH - Shortcuts sandbox bypass ? AV:L, PR:L, I:L. — Exploited / PoC: No public reports of active exploitation or public PoC ",,,,,
-CVE-2025-43359,9/16 CH - Kernel UDP bind logic issue ? potential exposure/misbind (local impact). — Exploited / PoC: No public reports of active exploitation or public PoC ,,,,,
-CVE-2025-43362,9/16 CH - LaunchServices keystroke monitoring ? local info disclosure (C:H). — Exploited / PoC: No public reports of active exploitation or public PoC ,,,,,
+Atlassian Confluence Apache Commons BeanUtils Security Bypass Vulnerability,CVE-2025-48734,8.8,MEDIUM,Qualys Pipeline,9/17 CH - QID in Pipeline (733184),https://jira.atlassian.com/browse/CONFSERVER-100795
+Atlassian Jira Apache Tomcat Denial of Service Vulnerability,CVE-2025-53506,7.5,LOW,Qualys Pipeline,9/17 CH - QID in Pipeline (733186),"https://jira.atlassian.com/browse/JSDSERVER-16369
+https://jira.atlassian.com/browse/JSWSERVER-26500"
+Atlassian Jira Apache Tomcat Denial of Service Vulnerability,CVE-2025-52520,7.5,LOW,Qualys Pipeline,9/17 CH - QID in Pipeline (733185),"https://jira.atlassian.com/browse/JSDSERVER-16367
+https://jira.atlassian.com/browse/JSWSERVER-26499"
+Autodesk Multiple Products Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-8893,7.8,MEDIUM,None,9/17 CH - Monitor for QID,https://www.autodesk.com/trust/security-advisories/adsk-sa-2025-0018
+Autodesk Multiple Products Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-8894,7.8,MEDIUM,None,9/17 CH - Monitor for QID,https://www.autodesk.com/trust/security-advisories/adsk-sa-2025-0018
+IBM AIX / Virtual I/O Server Kerberos Privilege Escalation Vulnerability,CVE-2025-36244,7.4,MEDIUM,Qualys Pipeline,9/17 CH - QID in Pipeline (330231),"https://aix.software.ibm.com/aix/efixes/security/nas_advisory4.asc
+https://www.ibm.com/support/pages/node/7245092"
+IBM Tivoli Business Service Manager IBM Java Multiple Vulnerabilities,CVE-2025-30749,8.1,MEDIUM,None,9/17 CH - Monitor for QID,"https://security.netapp.com/advisory/ntap-20250724-0013/
+https://www.ibm.com/support/pages/node/7244987"
+IBM Tivoli Business Service Manager IBM Java Multiple Vulnerabilities,CVE-2025-50106,8.1,MEDIUM,None,9/17 CH - Monitor for QID,"https://security.netapp.com/advisory/ntap-20250724-0013/
+https://www.ibm.com/support/pages/node/7244987"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2025-10527,7.1,LOW,Qualys QID,"9/17 CH - QID Available (385154, 385156, 385157, 385158)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-73
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-75
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-78"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2025-10536,8.4,LOW,Qualys QID,"9/17 CH - QID Available (385154, 385156, 385157, 385158)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-73
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-75
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-78"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2025-10528,8.8,LOW,Qualys QID,"9/17 CH - QID Available (385154, 385156, 385157, 385158)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-73
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-75
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-78"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2025-10537,8.8,MEDIUM,Qualys QID,"9/17 CH - QID Available (385154, 385156, 385157, 385158)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-73
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-75
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-78"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2025-10533,8.8,MEDIUM,Qualys QID,"9/17 CH - QID Available (385154, 385156, 385157, 385158)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-73
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-74
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-75
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-78"
+Red Hat update for mysql:8.4,CVE-2025-5399,7.5,LOW,None,9/17 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:16046
