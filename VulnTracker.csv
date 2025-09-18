@@ -1,36 +1,19 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Atlassian Confluence Apache Commons BeanUtils Security Bypass Vulnerability,CVE-2025-48734,8.8,MEDIUM,Qualys Pipeline,9/17 CH - QID in Pipeline (733184),https://jira.atlassian.com/browse/CONFSERVER-100795
-Atlassian Jira Apache Tomcat Denial of Service Vulnerability,CVE-2025-53506,7.5,LOW,Qualys Pipeline,9/17 CH - QID in Pipeline (733186),"https://jira.atlassian.com/browse/JSDSERVER-16369
-https://jira.atlassian.com/browse/JSWSERVER-26500"
-Atlassian Jira Apache Tomcat Denial of Service Vulnerability,CVE-2025-52520,7.5,LOW,Qualys Pipeline,9/17 CH - QID in Pipeline (733185),"https://jira.atlassian.com/browse/JSDSERVER-16367
-https://jira.atlassian.com/browse/JSWSERVER-26499"
-Autodesk Multiple Products Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-8893,7.8,MEDIUM,None,9/17 CH - Monitor for QID,https://www.autodesk.com/trust/security-advisories/adsk-sa-2025-0018
-Autodesk Multiple Products Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-8894,7.8,MEDIUM,None,9/17 CH - Monitor for QID,https://www.autodesk.com/trust/security-advisories/adsk-sa-2025-0018
-IBM AIX / Virtual I/O Server Kerberos Privilege Escalation Vulnerability,CVE-2025-36244,7.4,MEDIUM,Qualys Pipeline,9/17 CH - QID in Pipeline (330231),"https://aix.software.ibm.com/aix/efixes/security/nas_advisory4.asc
-https://www.ibm.com/support/pages/node/7245092"
-IBM Tivoli Business Service Manager IBM Java Multiple Vulnerabilities,CVE-2025-30749,8.1,MEDIUM,None,9/17 CH - Monitor for QID,"https://security.netapp.com/advisory/ntap-20250724-0013/
-https://www.ibm.com/support/pages/node/7244987"
-IBM Tivoli Business Service Manager IBM Java Multiple Vulnerabilities,CVE-2025-50106,8.1,MEDIUM,None,9/17 CH - Monitor for QID,"https://security.netapp.com/advisory/ntap-20250724-0013/
-https://www.ibm.com/support/pages/node/7244987"
-Mozilla Thunderbird Multiple Vulnerabilities,CVE-2025-10527,7.1,LOW,Qualys QID,"9/17 CH - QID Available (385154, 385156, 385157, 385158)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-73
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-75
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-77
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-78"
-Mozilla Thunderbird Multiple Vulnerabilities,CVE-2025-10536,8.4,LOW,Qualys QID,"9/17 CH - QID Available (385154, 385156, 385157, 385158)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-73
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-75
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-77
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-78"
-Mozilla Thunderbird Multiple Vulnerabilities,CVE-2025-10528,8.8,LOW,Qualys QID,"9/17 CH - QID Available (385154, 385156, 385157, 385158)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-73
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-75
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-77
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-78"
-Mozilla Thunderbird Multiple Vulnerabilities,CVE-2025-10537,8.8,MEDIUM,Qualys QID,"9/17 CH - QID Available (385154, 385156, 385157, 385158)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-73
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-75
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-77
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-78"
-Mozilla Thunderbird Multiple Vulnerabilities,CVE-2025-10533,8.8,MEDIUM,Qualys QID,"9/17 CH - QID Available (385154, 385156, 385157, 385158)","https://www.mozilla.org/en-US/security/advisories/mfsa2025-73
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-74
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-75
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-77
-https://www.mozilla.org/en-US/security/advisories/mfsa2025-78"
-Red Hat update for mysql:8.4,CVE-2025-5399,7.5,LOW,None,9/17 CH - Monitor for QID,https://access.redhat.com/errata/RHSA-2025:16046
+Red Hat update for python3,CVE-2025-8194,7.5,LOW,Qualys QID,9/18 CH - QID Available (255802),https://access.redhat.com/errata/RHSA-2025:16117
+Red Hat update for firefox,CVE-2025-10531,5.4,LOW,Qualys QID,9/18 CH - QID Available (255800),https://access.redhat.com/errata/RHSA-2025:16109
+Red Hat update for firefox,CVE-2025-10533,8.8,MEDIUM,Qualys QID,9/18 CH - QID Available (255800),https://access.redhat.com/errata/RHSA-2025:16109
+Red Hat update for firefox,CVE-2025-10528,8.8,MEDIUM,Qualys QID,9/18 CH - QID Available (255800),https://access.redhat.com/errata/RHSA-2025:16109
+Red Hat update for firefox,CVE-2025-10529,6.3,LOW,Qualys QID,9/18 CH - QID Available (255800),https://access.redhat.com/errata/RHSA-2025:16109
+Red Hat update for firefox,CVE-2025-10537,8.8,MEDIUM,Qualys QID,9/18 CH - QID Available (255800),https://access.redhat.com/errata/RHSA-2025:16109
+Red Hat update for firefox,CVE-2025-10532,6.3,LOW,Qualys QID,9/18 CH - QID Available (255800),https://access.redhat.com/errata/RHSA-2025:16109
+Red Hat update for firefox,CVE-2025-10534,4.3,LOW,Qualys QID,9/18 CH - QID Available (255800),https://access.redhat.com/errata/RHSA-2025:16109
+Red Hat update for firefox,CVE-2025-10536,8.4,LOW,Qualys QID,9/18 CH - QID Available (255800),https://access.redhat.com/errata/RHSA-2025:16109
+Red Hat update for firefox,CVE-2025-10527,7.1,LOW,Qualys QID,9/18 CH - QID Available (255800),https://access.redhat.com/errata/RHSA-2025:16109
+Red Hat update for firefox,CVE-2025-10530,4.3,LOW,Qualys QID,9/18 CH - QID Available (255800),https://access.redhat.com/errata/RHSA-2025:16109
+Red Hat update for postgresql,CVE-2025-8714,8.8,MEDIUM,Qualys QID,9/18 CH - QID Available (255796),https://access.redhat.com/errata/RHSA-2025:16099
+Red Hat update for gnutls,CVE-2025-6395,6.5,LOW,Qualys QID,9/18 CH - QID Available (255799),https://access.redhat.com/errata/RHSA-2025:16115
+Red Hat update for gnutls,CVE-2025-32988,6.5,LOW,Qualys QID,9/18 CH - QID Available (255799),https://access.redhat.com/errata/RHSA-2025:16115
+Red Hat update for gnutls,CVE-2025-32990,6.5,LOW,Qualys QID,9/18 CH - QID Available (255799),https://access.redhat.com/errata/RHSA-2025:16115
+Red Hat update for gnutls,CVE-2025-32989,5.3,LOW,Qualys QID,9/18 CH - QID Available (255799),https://access.redhat.com/errata/RHSA-2025:16115
+WatchGuard Fireware IKEv2 VPN Arbitrary Code Execution Vulnerability,CVE-2025-9242,9.3,MEDIUM,Qualys Pipeline,9/18 CH - QID in Pipeline (733198),https://www.watchguard.com/wgrd-psirt/advisory/wgsa-2025-00015
+,,,,,9/18 CH - QID Available (255979),RHSA 046
