@@ -1,19 +1,90 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Red Hat update for python3,CVE-2025-8194,7.5,LOW,Qualys QID,9/18 CH - QID Available (255802),https://access.redhat.com/errata/RHSA-2025:16117
-Red Hat update for firefox,CVE-2025-10531,5.4,LOW,Qualys QID,9/18 CH - QID Available (255800),https://access.redhat.com/errata/RHSA-2025:16109
-Red Hat update for firefox,CVE-2025-10533,8.8,MEDIUM,Qualys QID,9/18 CH - QID Available (255800),https://access.redhat.com/errata/RHSA-2025:16109
-Red Hat update for firefox,CVE-2025-10528,8.8,MEDIUM,Qualys QID,9/18 CH - QID Available (255800),https://access.redhat.com/errata/RHSA-2025:16109
-Red Hat update for firefox,CVE-2025-10529,6.3,LOW,Qualys QID,9/18 CH - QID Available (255800),https://access.redhat.com/errata/RHSA-2025:16109
-Red Hat update for firefox,CVE-2025-10537,8.8,MEDIUM,Qualys QID,9/18 CH - QID Available (255800),https://access.redhat.com/errata/RHSA-2025:16109
-Red Hat update for firefox,CVE-2025-10532,6.3,LOW,Qualys QID,9/18 CH - QID Available (255800),https://access.redhat.com/errata/RHSA-2025:16109
-Red Hat update for firefox,CVE-2025-10534,4.3,LOW,Qualys QID,9/18 CH - QID Available (255800),https://access.redhat.com/errata/RHSA-2025:16109
-Red Hat update for firefox,CVE-2025-10536,8.4,LOW,Qualys QID,9/18 CH - QID Available (255800),https://access.redhat.com/errata/RHSA-2025:16109
-Red Hat update for firefox,CVE-2025-10527,7.1,LOW,Qualys QID,9/18 CH - QID Available (255800),https://access.redhat.com/errata/RHSA-2025:16109
-Red Hat update for firefox,CVE-2025-10530,4.3,LOW,Qualys QID,9/18 CH - QID Available (255800),https://access.redhat.com/errata/RHSA-2025:16109
-Red Hat update for postgresql,CVE-2025-8714,8.8,MEDIUM,Qualys QID,9/18 CH - QID Available (255796),https://access.redhat.com/errata/RHSA-2025:16099
-Red Hat update for gnutls,CVE-2025-6395,6.5,LOW,Qualys QID,9/18 CH - QID Available (255799),https://access.redhat.com/errata/RHSA-2025:16115
-Red Hat update for gnutls,CVE-2025-32988,6.5,LOW,Qualys QID,9/18 CH - QID Available (255799),https://access.redhat.com/errata/RHSA-2025:16115
-Red Hat update for gnutls,CVE-2025-32990,6.5,LOW,Qualys QID,9/18 CH - QID Available (255799),https://access.redhat.com/errata/RHSA-2025:16115
-Red Hat update for gnutls,CVE-2025-32989,5.3,LOW,Qualys QID,9/18 CH - QID Available (255799),https://access.redhat.com/errata/RHSA-2025:16115
-WatchGuard Fireware IKEv2 VPN Arbitrary Code Execution Vulnerability,CVE-2025-9242,9.3,MEDIUM,Qualys Pipeline,9/18 CH - QID in Pipeline (733198),https://www.watchguard.com/wgrd-psirt/advisory/wgsa-2025-00015
-,,,,,9/18 CH - QID Available (255979),RHSA 046
+VMware Photon OS Security Update,CVE-2025-39737,7,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38470,7,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39709,7,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39683,7,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38664,7,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39794,7,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38617,7,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38177,7,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38668,7,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38676,7,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38694,7,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38671,7,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38468,7,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38535,7,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38713,7.1,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39703,7.5,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38555,7.5,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38708,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39783,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39751,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38482,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38538,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39766,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39756,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39788,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38724,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39724,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38729,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38696,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38478,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38604,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38684,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39757,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39782,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39743,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38608,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39752,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38695,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38487,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39787,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38700,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39736,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39795,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38718,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-37932,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38473,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38577,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38693,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38581,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38623,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39798,7.8,MEDIUM,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38612,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38569,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39749,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38687,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38601,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38563,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38639,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38630,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38565,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38488,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39691,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38635,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38483,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38497,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38095,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39714,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38650,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38480,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38476,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38572,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39742,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39676,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38727,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-39730,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38698,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38624,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38529,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38474,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38677,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38699,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38666,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38715,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38680,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-37798,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38375,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38548,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38683,7.8,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
+VMware Photon OS Security Update,CVE-2025-38691,8.1,LOW,Qualys QID,9/19 CH - QID in Pipeline (6082360),https://github.com/vmware/photon/wiki/Security-Update-4.0-864
