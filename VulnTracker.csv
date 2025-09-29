@@ -1,15 +1,14 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Cisco IOS XE Software Simple Network Management Protocol Denial of Service Vulnerability,CVE-2025-20312,7.7,LOW,None,9/24 CH - Monitor for QID,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-snmpwred-x3MJyf5M
-Cisco IOS and IOS XE Software SNMP Denial of Service and Remote Code Execution Vulnerability,CVE-2025-20352,7.7,LOW,None,9/24 CH - Monitor for QID,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-snmp-x4LPhte
-Cisco IOS XE Software Secure Boot Bypass Vulnerabilities,CVE-2025-20313,6.7,LOW,None,9/24 CH - Monitor for QID,https://sec.cloudapps.cisco.com/security/center/viewErp.x?alertId=ERP-75295
-Cisco IOS XE Software Secure Boot Bypass Vulnerabilities,CVE-2025-20314,6.7,LOW,None,9/24 CH - Monitor for QID,https://sec.cloudapps.cisco.com/security/center/viewErp.x?alertId=ERP-75296
-Cisco IOS XE Software Network-Based Application Recognition Denial of Service Vulnerability,CVE-2025-20315,8.6,LOW,None,9/24 CH - Monitor for QID,https://sec.cloudapps.cisco.com/security/center/viewErp.x?alertId=ERP-75296
-Cisco IOS XE Software HTTP API Command Injection Vulnerability,CVE-2025-20334,8.8,MEDIUM,None,9/24 CH - Monitor for QID,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ios-xe-cmd-inject-rPJM8BGL
-Cisco IOS and IOS XE Software TACACS+ Authentication Bypass Vulnerability,CVE-2025-20160,8.1,MEDIUM,None,9/24 CH - Monitor for QID,https://sec.cloudapps.cisco.com/security/center/viewErp.x?alertId=ERP-75296
-Cisco IOS Software Industrial Ethernet Switch Device Manager Denial of Service Vulnerability,CVE-2025-20327,7.7,LOW,None,9/24 CH - Monitor for QID,https://sec.cloudapps.cisco.com/security/center/viewErp.x?alertId=ERP-75296
-Cisco IOS XE Software for Catalyst 9000 Series Switches Denial of Service Vulnerability,CVE-2025-20311,7.4,LOW,None,9/24 CH - Monitor for QID,https://sec.cloudapps.cisco.com/security/center/viewErp.x?alertId=ERP-75296
-Cisco IOS XE Software Web UI Reflected Cross-Site Scripting Vulnerability,CVE-2025-20240,6.1,LOW,None,9/24 CH - Monitor for QID,https://sec.cloudapps.cisco.com/security/center/viewErp.x?alertId=ERP-75296
-Cisco IOS XE Software CLI Argument Injection Vulnerability,CVE-2025-20338,6,LOW,None,9/24 CH - Monitor for QID,https://sec.cloudapps.cisco.com/security/center/viewErp.x?alertId=ERP-75296
-Cisco IOS and IOS XE Software CLI Denial of Service Vulnerability,CVE-2025-20149,6.5,LOW,None,9/24 CH - Monitor for QID,https://sec.cloudapps.cisco.com/security/center/viewErp.x?alertId=ERP-75296
-Cisco IOS XE Software on Cisco Catalyst 9500X/9600X Virtual Interface ACL Bypass Vulnerability,CVE-2025-20316,5.3,LOW,None,9/24 CH - Monitor for QID,https://sec.cloudapps.cisco.com/security/center/viewErp.x?alertId=ERP-75296
-Cisco IOS XE Software for Catalyst 9800 Series Wireless Controller for Cloud Unauthenticated Access to Certificate Enrollment Service Vulnerability,CVE-2025-20293,5.3,LOW,None,9/24 CH - Monitor for QID,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-9800cl-openscep-SB4xtxzP
+Red Hat Update for JBoss Enterprise Application Platform 7.1.1 on 7.1.1 ,CVE-2020-10705,7.5,LOW,Qualys QID,9/29 CH - QID Available (6043349),https://access.redhat.com/errata/RHSA-2025:16668
+Red Hat Update for JBoss Enterprise Application Platform 7.1.1 on 7.1.1 ,CVE-2023-44487,7.5,LOW,Qualys QID,9/29 CH - QID Available (6043349),https://access.redhat.com/errata/RHSA-2025:16668
+Red Hat Update for JBoss Enterprise Application Platform 7.1.1 on 7.1.1 ,CVE-2024-27316,7.5,LOW,Qualys QID,9/29 CH - QID Available (6043349),https://access.redhat.com/errata/RHSA-2025:16668
+Red Hat Update for JBoss Enterprise Application Platform 7.1.1 on 7.1.1 ,CVE-2024-51127,7.1,LOW,Qualys QID,9/29 CH - QID Available (6043349),https://access.redhat.com/errata/RHSA-2025:16668
+Red Hat Update for JBoss Enterprise Application Platform 7.1.1 on 7.1.1 ,CVE-2025-48734,8.8,MEDIUM,Qualys QID,9/29 CH - QID Available (6043349),https://access.redhat.com/errata/RHSA-2025:16668
+Red Hat Update for JBoss Enterprise Application Platform 7.3.1 on 7.3.1 ,CVE-2024-7885,7.5,LOW,Qualys QID,9/29 CH - QID Available (6043347),https://access.redhat.com/errata/RHSA-2025:16667
+Red Hat Update for JBoss Enterprise Application Platform 7.3.1 on 7.3.1 ,CVE-2024-27316,7.5,LOW,Qualys QID,9/29 CH - QID Available (6043347),https://access.redhat.com/errata/RHSA-2025:16667
+Red Hat Update for JBoss Enterprise Application Platform 7.3.1 on 7.3.1 ,CVE-2024-51127,7.1,LOW,Qualys QID,9/29 CH - QID Available (6043347),https://access.redhat.com/errata/RHSA-2025:16667
+Red Hat Update for JBoss Enterprise Application Platform 7.3.1 on 7.3.1 ,CVE-2025-48734,8.8,MEDIUM,Qualys QID,9/29 CH - QID Available (6043347),https://access.redhat.com/errata/RHSA-2025:16667
+Red Hat Update for kpatch-patch-5_14_0-427_31_1,CVE-2025-37890,7,LOW,Qualys QID,9/29 CH - QID Available (6043020),https://access.redhat.com/errata/RHSA-2025:16540
+Red Hat Update for kpatch-patch-5_14_0-427_31_1,CVE-2025-38000,7,LOW,Qualys QID,9/29 CH - QID Available (6043020),https://access.redhat.com/errata/RHSA-2025:16540
+Red Hat Update for kpatch-patch-5_14_0-427_31_1,CVE-2025-38001,7,LOW,Qualys QID,9/29 CH - QID Available (6043020),https://access.redhat.com/errata/RHSA-2025:16540
+Red Hat Update for kpatch-patch-5_14_0-427_31_1,CVE-2025-38350,8.8,MEDIUM,Qualys QID,9/29 CH - QID Available (6043020),https://access.redhat.com/errata/RHSA-2025:16540
