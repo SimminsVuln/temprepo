@@ -1,11 +1,17 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Red Hat Update forCups,CVE-2025-58060,8,MEDIUM,Qualys QID,10/2CH - QID Available (6044051),https://access.redhat.com/errata/RHSA-2025:17164
-Red Hat Update for perl-json-xs ,CVE-2025-40928,7.5,LOW,Qualys QID,10/2CH - QID Available (6044050),https://access.redhat.com/errata/RHSA-2025:17162
-Red Hat Update for kernel-rt,CVE-2022-49969,7,LOW,Qualys QID,10/2CH - QID Available (6044052),https://access.redhat.com/errata/RHSA-2025:17192
-Red Hat Update for kernel-rt,CVE-2022-50211,7,LOW,Qualys QID,10/2CH - QID Available (6044052),https://access.redhat.com/errata/RHSA-2025:17192
-Red Hat Update for kernel-rt,CVE-2025-38211,7.3,LOW,Qualys QID,10/2CH - QID Available (6044052),https://access.redhat.com/errata/RHSA-2025:17192
-Red Hat Update for kernel-rt,CVE-2025-38449,7.3,LOW,Qualys QID,10/2CH - QID Available (6044052),https://access.redhat.com/errata/RHSA-2025:17192
-Red Hat Update for kernel-rt,CVE-2025-38461,7.3,LOW,Qualys QID,10/2CH - QID Available (6044052),https://access.redhat.com/errata/RHSA-2025:17192
-VMware Aria Operations Information Disclosure Vulnerability,CVE-2025-41244,7.8,MEDIUM,Qualys QID,"10/2CH - QID Available (733250, 385437)",https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36149
-IBM Integration Bus Eclipse JGit Vulnerability,CVE-2025-4949,7.9,MEDIUM,Qualys Pipeline,10/2CH - QID Available (385429),https://www.ibm.com/support/pages/node/7246566
-,,,,,,
+IBM Advanced Interactive eXecutive (AIX) Rpm Vulnerability ,CVE-2025-6965,7.7,,Qualys QID,10/7CH - QID Available (330232),https://aix.software.ibm.com/aix/efixes/security/rpm_advisory4.asc
+Red Hat Update for httpd:2.4,CVE-2025-49812,7.4,,Qualys QID,"10/7CH - QID Available (6044077, 6044080,6044084)","https://access.redhat.com/errata/RHSA-2025:15684
+https://access.redhat.com/errata/RHSA-2025:15619
+https://access.redhat.com/errata/RHSA-2025:15698"
+Red Hat Update for httpd:2.4,CVE-2024-47252,7.5,,Qualys QID,"10/7CH - QID Available (6044077, 6044080,6044084)","https://access.redhat.com/errata/RHSA-2025:15684
+https://access.redhat.com/errata/RHSA-2025:15619
+https://access.redhat.com/errata/RHSA-2025:15698"
+Red Hat Update for httpd:2.4,CVE-2025-49630,7.5,,Qualys QID,"10/7CH - QID Available (6044077, 6044080,6044084)","https://access.redhat.com/errata/RHSA-2025:15684
+https://access.redhat.com/errata/RHSA-2025:15619
+https://access.redhat.com/errata/RHSA-2025:15698"
+Red Hat Update for httpd:2.4,CVE-2025-23048,9.1,,Qualys QID,"10/7CH - QID Available (6044077, 6044080,6044084)","https://access.redhat.com/errata/RHSA-2025:15684
+https://access.redhat.com/errata/RHSA-2025:15619
+https://access.redhat.com/errata/RHSA-2025:15698"
+Red Hat Update for Hypertext Preprocessor (PHP):8.2,CVE-2025-1217,7.3,,Qualys QID,10/7CH - QID Available (6044091),https://access.redhat.com/errata/RHSA-2025:15687
+Red Hat Update for Hypertext Preprocessor (PHP):8.2,CVE-2025-1736,7.3,,Qualys QID,10/7CH - QID Available (6044091),https://access.redhat.com/errata/RHSA-2025:15687
+VMware vCenter Server 7.0 Update 7.0 U3w,CVE-2025-41250,8.5,,Qualys QID,10/7CH - QID Available (216353),https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36150
