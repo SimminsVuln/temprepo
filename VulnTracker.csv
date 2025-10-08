@@ -1,17 +1,7 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-IBM Advanced Interactive eXecutive (AIX) Rpm Vulnerability ,CVE-2025-6965,7.7,,Qualys QID,10/7CH - QID Available (330232),https://aix.software.ibm.com/aix/efixes/security/rpm_advisory4.asc
-Red Hat Update for httpd:2.4,CVE-2025-49812,7.4,,Qualys QID,"10/7CH - QID Available (6044077, 6044080,6044084)","https://access.redhat.com/errata/RHSA-2025:15684
-https://access.redhat.com/errata/RHSA-2025:15619
-https://access.redhat.com/errata/RHSA-2025:15698"
-Red Hat Update for httpd:2.4,CVE-2024-47252,7.5,,Qualys QID,"10/7CH - QID Available (6044077, 6044080,6044084)","https://access.redhat.com/errata/RHSA-2025:15684
-https://access.redhat.com/errata/RHSA-2025:15619
-https://access.redhat.com/errata/RHSA-2025:15698"
-Red Hat Update for httpd:2.4,CVE-2025-49630,7.5,,Qualys QID,"10/7CH - QID Available (6044077, 6044080,6044084)","https://access.redhat.com/errata/RHSA-2025:15684
-https://access.redhat.com/errata/RHSA-2025:15619
-https://access.redhat.com/errata/RHSA-2025:15698"
-Red Hat Update for httpd:2.4,CVE-2025-23048,9.1,,Qualys QID,"10/7CH - QID Available (6044077, 6044080,6044084)","https://access.redhat.com/errata/RHSA-2025:15684
-https://access.redhat.com/errata/RHSA-2025:15619
-https://access.redhat.com/errata/RHSA-2025:15698"
-Red Hat Update for Hypertext Preprocessor (PHP):8.2,CVE-2025-1217,7.3,,Qualys QID,10/7CH - QID Available (6044091),https://access.redhat.com/errata/RHSA-2025:15687
-Red Hat Update for Hypertext Preprocessor (PHP):8.2,CVE-2025-1736,7.3,,Qualys QID,10/7CH - QID Available (6044091),https://access.redhat.com/errata/RHSA-2025:15687
-VMware vCenter Server 7.0 Update 7.0 U3w,CVE-2025-41250,8.5,,Qualys QID,10/7CH - QID Available (216353),https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36150
+Dell UnityVSA Pre-Auth RemoteCode Execution,CVE-2025-36604,7.3,,Qualys QID,10/8CH - QID Available (733266),https://www.dell.com/support/kbdoc/en-si/000350756/dsa-2025-281-security-update-for-dell-unity-dell-unityvsa-and-dell-unity-xt-security-update-for-multiple-vulnerabilities
+Apache HTTP Server Multiple Vulnerabilities,CVE-2024-38476,7.9,,Qualys Pipeline,10/8CH - QID in the Pipeline (520074),https://httpd.apache.org/security/vulnerabilities_24.html
+GoogleChrome Prior to 141.0.7390.65 Multiple Vulnerabilities,CVE-2025-11458,High,,Qualys QID,10/8CH - QID Available (385502),https://chromereleases.googleblog.com/2025/10/stable-channel-update-for-desktop.html
+GoogleChrome Prior to 141.0.7390.65 Multiple Vulnerabilities,CVE-2025-11460,High,,Qualys QID,10/8CH - QID Available (385502),https://chromereleases.googleblog.com/2025/10/stable-channel-update-for-desktop.html
+GoogleChrome Prior to 141.0.7390.65 Multiple Vulnerabilities,CVE-2025-11211,Medium,,Qualys QID,10/8CH - QID Available (385502),https://chromereleases.googleblog.com/2025/10/stable-channel-update-for-desktop.html
+Veeam Backup and Replication Authentication ByPass Vulnerability,CVE-2022-26504,8.8,,Qualys Pipeline,10/8CH - QID in the Pipeline (385503),http://veeam.com/kb4290
