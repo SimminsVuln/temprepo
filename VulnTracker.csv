@@ -1,7 +1,12 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Dell UnityVSA Pre-Auth RemoteCode Execution,CVE-2025-36604,7.3,,Qualys QID,10/8CH - QID Available (733266),https://www.dell.com/support/kbdoc/en-si/000350756/dsa-2025-281-security-update-for-dell-unity-dell-unityvsa-and-dell-unity-xt-security-update-for-multiple-vulnerabilities
-Apache HTTP Server Multiple Vulnerabilities,CVE-2024-38476,7.9,,Qualys Pipeline,10/8CH - QID in the Pipeline (520074),https://httpd.apache.org/security/vulnerabilities_24.html
-GoogleChrome Prior to 141.0.7390.65 Multiple Vulnerabilities,CVE-2025-11458,High,,Qualys QID,10/8CH - QID Available (385502),https://chromereleases.googleblog.com/2025/10/stable-channel-update-for-desktop.html
-GoogleChrome Prior to 141.0.7390.65 Multiple Vulnerabilities,CVE-2025-11460,High,,Qualys QID,10/8CH - QID Available (385502),https://chromereleases.googleblog.com/2025/10/stable-channel-update-for-desktop.html
-GoogleChrome Prior to 141.0.7390.65 Multiple Vulnerabilities,CVE-2025-11211,Medium,,Qualys QID,10/8CH - QID Available (385502),https://chromereleases.googleblog.com/2025/10/stable-channel-update-for-desktop.html
-Veeam Backup and Replication Authentication ByPass Vulnerability,CVE-2022-26504,8.8,,Qualys Pipeline,10/8CH - QID in the Pipeline (385503),http://veeam.com/kb4290
+GitLab Multiple Vulnerabilities,CVE-2025-10004,7.5,,None,10/9 CH - Monitor for QID,https://about.gitlab.com/releases/2025/10/08/patch-release-gitlab-18-4-2-released
+GitLab Multiple Vulnerabilities,CVE-2025-11340,7.7,,None,10/9 CH - Monitor for QID,https://about.gitlab.com/releases/2025/10/08/patch-release-gitlab-18-4-2-released
+IBM Steling Direct-Connect Java 8 Multiple Vulnerabilities,CVE-2025-50106,8.1,,Qualys QID,10/9 CH - QID Available (385447),https://www.ibm.com/support/pages/node/7246872
+IBM Steling Direct-Connect Java 8 Multiple Vulnerabilities,CVE-2025-30749,8.1,,Qualys QID,10/9 CH - QID Available (385447),https://www.ibm.com/support/pages/node/7246872
+IBM App Connect Enterprise Vulnerability,CVE-2025-50059,8.6,,Qualys QID,10/9 CH - QID Available (385430),https://www.ibm.com/support/pages/node/7246562
+Juniper Junos OS RPD Denial of Service Vulnerability,CVE-2025-60004,7.5,,None,10/9 CH - Monitor for QID,https://supportportal.juniper.net/s/article/2025-10-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-Specific-BGP-EVPN-update-message-causes-rpd-crash-CVE-2025-60004
+Red Hat update for kernel,CVE-2024-50301,7,,Qualys QID,10/9 CH - QID Available (6044075),https://access.redhat.com/errata/RHSA-2025:17377
+Red Hat update for kernel,CVE-2025-38351,7.1,,Qualys QID,10/9 CH - QID Available (6044075),https://access.redhat.com/errata/RHSA-2025:17377
+Red Hat update for kernel,CVE-2025-39761,7.1,,Qualys QID,10/9 CH - QID Available (6044075),https://access.redhat.com/errata/RHSA-2025:17377
+Red Hat update for kernel,CVE-2025-39730,7,,Qualys QID,10/9 CH - QID Available (6044074),https://access.redhat.com/errata/RHSA-2025:17397
+Red Hat update for kernel,CVE-2025-38527,8.7,,Qualys QID,10/9 CH - QID Available (6044074),https://access.redhat.com/errata/RHSA-2025:17397
