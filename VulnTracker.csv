@@ -1,12 +1,24 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-GitLab Multiple Vulnerabilities,CVE-2025-10004,7.5,,None,10/9 CH - Monitor for QID,https://about.gitlab.com/releases/2025/10/08/patch-release-gitlab-18-4-2-released
-GitLab Multiple Vulnerabilities,CVE-2025-11340,7.7,,None,10/9 CH - Monitor for QID,https://about.gitlab.com/releases/2025/10/08/patch-release-gitlab-18-4-2-released
-IBM Steling Direct-Connect Java 8 Multiple Vulnerabilities,CVE-2025-50106,8.1,,Qualys QID,10/9 CH - QID Available (385447),https://www.ibm.com/support/pages/node/7246872
-IBM Steling Direct-Connect Java 8 Multiple Vulnerabilities,CVE-2025-30749,8.1,,Qualys QID,10/9 CH - QID Available (385447),https://www.ibm.com/support/pages/node/7246872
-IBM App Connect Enterprise Vulnerability,CVE-2025-50059,8.6,,Qualys QID,10/9 CH - QID Available (385430),https://www.ibm.com/support/pages/node/7246562
-Juniper Junos OS RPD Denial of Service Vulnerability,CVE-2025-60004,7.5,,None,10/9 CH - Monitor for QID,https://supportportal.juniper.net/s/article/2025-10-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-Specific-BGP-EVPN-update-message-causes-rpd-crash-CVE-2025-60004
-Red Hat update for kernel,CVE-2024-50301,7,,Qualys QID,10/9 CH - QID Available (6044075),https://access.redhat.com/errata/RHSA-2025:17377
-Red Hat update for kernel,CVE-2025-38351,7.1,,Qualys QID,10/9 CH - QID Available (6044075),https://access.redhat.com/errata/RHSA-2025:17377
-Red Hat update for kernel,CVE-2025-39761,7.1,,Qualys QID,10/9 CH - QID Available (6044075),https://access.redhat.com/errata/RHSA-2025:17377
-Red Hat update for kernel,CVE-2025-39730,7,,Qualys QID,10/9 CH - QID Available (6044074),https://access.redhat.com/errata/RHSA-2025:17397
-Red Hat update for kernel,CVE-2025-38527,8.7,,Qualys QID,10/9 CH - QID Available (6044074),https://access.redhat.com/errata/RHSA-2025:17397
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-11458,8.8,,Qualys QID,10/10 CH - QID Available (385511),"https://chromereleases.googleblog.com/2025/10/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2025/10/stable-channel-update-for-desktop.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-9-2025
+https://www.ibm.com/support/pages/node/7247526"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-11460,8.8,,Qualys QID,10/10 CH - QID Available (385511),"https://chromereleases.googleblog.com/2025/10/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2025/10/stable-channel-update-for-desktop.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-9-2025
+https://www.ibm.com/support/pages/node/7247526"
+PAN-OS  Improper Neutralization of Input in the Management Web Interface,CVE-2025-4615,4.5,,Qualys Pipeline,10/10 CH - QID in Pipeline (733271),https://security.paloaltonetworks.com/CVE-2025-4615
+Red Hat Satellite Multiple Vulnerabilities,CVE-2025-57833,7.1,,Qualys QID,"10/10 CH - QID Available (6044111, 6044108, 6044107)","https://access.redhat.com/errata/RHSA-2025:17606
+https://access.redhat.com/errata/RHSA-2025:17613
+https://access.redhat.com/errata/RHSA-2025:17614"
+Red Hat Satellite Multiple Vulnerabilities,CVE-2024-49761,7.5,,Qualys QID,10/10 CH - QID Available (6044108),https://access.redhat.com/errata/RHSA-2025:17614
+Red Hat Satellite Multiple Vulnerabilities,CVE-2025-57052,9.8,,Qualys QID,"10/10 CH - QID Available (6044111, 6044108, 6044107)","https://access.redhat.com/errata/RHSA-2025:17606
+https://access.redhat.com/errata/RHSA-2025:17613
+https://access.redhat.com/errata/RHSA-2025:17614
+"
+Red Hat update for compat-libtiff3,CVE-2025-9900,8.8,,Qualys QID,"10/10 CH - QID Available (6044121, 6044118, 6044116)","https://access.redhat.com/errata/RHSA-2025:17675
+https://access.redhat.com/errata/RHSA-2025:17710"
+Red Hat update for ipa,CVE-2025-7493,9.1,,Qualys QID,10/10 CH - QID Available (6044119),https://access.redhat.com/errata/RHSA-2025:17649
+Red Hat update for puppet-agent,CVE-2025-10990,7.5,,Qualys QID,"10/10 CH - QID Available (6044111, 6044107, 6044120)","https://access.redhat.com/errata/RHSA-2025:17606
+https://access.redhat.com/errata/RHSA-2025:17613
+https://access.redhat.com/errata/RHSA-2025:17693"
