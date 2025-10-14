@@ -1,24 +1,16 @@
 title,cve_ids,cvss_v3,Column4,Column2,Column1,Refs
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-11458,8.8,,Qualys QID,10/10 CH - QID Available (385511),"https://chromereleases.googleblog.com/2025/10/chrome-for-android-update.html
-https://chromereleases.googleblog.com/2025/10/stable-channel-update-for-desktop.html
-https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-9-2025
-https://www.ibm.com/support/pages/node/7247526"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-11460,8.8,,Qualys QID,10/10 CH - QID Available (385511),"https://chromereleases.googleblog.com/2025/10/chrome-for-android-update.html
-https://chromereleases.googleblog.com/2025/10/stable-channel-update-for-desktop.html
-https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-9-2025
-https://www.ibm.com/support/pages/node/7247526"
-PAN-OS  Improper Neutralization of Input in the Management Web Interface,CVE-2025-4615,4.5,,Qualys Pipeline,10/10 CH - QID in Pipeline (733271),https://security.paloaltonetworks.com/CVE-2025-4615
-Red Hat Satellite Multiple Vulnerabilities,CVE-2025-57833,7.1,,Qualys QID,"10/10 CH - QID Available (6044111, 6044108, 6044107)","https://access.redhat.com/errata/RHSA-2025:17606
-https://access.redhat.com/errata/RHSA-2025:17613
-https://access.redhat.com/errata/RHSA-2025:17614"
-Red Hat Satellite Multiple Vulnerabilities,CVE-2024-49761,7.5,,Qualys QID,10/10 CH - QID Available (6044108),https://access.redhat.com/errata/RHSA-2025:17614
-Red Hat Satellite Multiple Vulnerabilities,CVE-2025-57052,9.8,,Qualys QID,"10/10 CH - QID Available (6044111, 6044108, 6044107)","https://access.redhat.com/errata/RHSA-2025:17606
-https://access.redhat.com/errata/RHSA-2025:17613
-https://access.redhat.com/errata/RHSA-2025:17614
-"
-Red Hat update for compat-libtiff3,CVE-2025-9900,8.8,,Qualys QID,"10/10 CH - QID Available (6044121, 6044118, 6044116)","https://access.redhat.com/errata/RHSA-2025:17675
-https://access.redhat.com/errata/RHSA-2025:17710"
-Red Hat update for ipa,CVE-2025-7493,9.1,,Qualys QID,10/10 CH - QID Available (6044119),https://access.redhat.com/errata/RHSA-2025:17649
-Red Hat update for puppet-agent,CVE-2025-10990,7.5,,Qualys QID,"10/10 CH - QID Available (6044111, 6044107, 6044120)","https://access.redhat.com/errata/RHSA-2025:17606
-https://access.redhat.com/errata/RHSA-2025:17613
-https://access.redhat.com/errata/RHSA-2025:17693"
+IBM AIX / Virtual I/O Server Xorg Multiple Vulnerabilities,CVE-2025-49179,7.3,,Qualys QID,10/14 CH - QID in Pipeline (330233),"https://aix.software.ibm.com/aix/efixes/security/xorg_advisory4.asc
+https://www.ibm.com/support/pages/node/7247777"
+IBM AIX / Virtual I/O Server Xorg Multiple Vulnerabilities,CVE-2025-49176,7.3,,Qualys Pipeline,10/14 CH - QID in Pipeline (330233),"https://aix.software.ibm.com/aix/efixes/security/xorg_advisory4.asc
+https://www.ibm.com/support/pages/node/7247777"
+IBM Tivoli Monitoring Systems,CVE-2025-48976,7.5,,Qualys Pipeline,10/14 CH - QID in Pipeline (385455),https://www.ibm.com/support/pages/node/7247015
+Red Hat update for kernel,CVE-2023-53305,7,,Qualys Pipeline,10/14 CH - QID in Pipeline (6044132),https://access.redhat.com/errata/RHSA-2025:17797
+Red Hat update for kernel,CVE-2025-39757,7,,Qualys Pipeline,"10/14 CH - QID in Pipeline (6044131, 6044133)","https://access.redhat.com/errata/RHSA-2025:17760
+https://access.redhat.com/errata/RHSA-2025:17776"
+Red Hat update for kernel,CVE-2025-39761,7,,Qualys Pipeline,10/14 CH - QID in Pipeline (6044133),https://access.redhat.com/errata/RHSA-2025:17776
+Red Hat update for kernel,CVE-2025-38556,7.1,,Qualys Pipeline,"10/14 CH - QID in Pipeline (6044131, 6044133)","https://access.redhat.com/errata/RHSA-2025:17760
+https://access.redhat.com/errata/RHSA-2025:17776"
+Red Hat update for kernel,CVE-2023-53373,not available,,Qualys Pipeline,10/14 CH - QID in Pipeline (6044131),https://access.redhat.com/errata/RHSA-2025:17760
+Red Hat update for kernel,CVE-2025-38614,not available,,Qualys Pipeline,10/14 CH - QID in Pipeline (6044131),https://access.redhat.com/errata/RHSA-2025:17760
+Red Hat webkit2gtk3 Security Update,CVE-2025-43342,8.8,,Qualys Pipeline,10/14 CH - QID in Pipeline (6044134),https://access.redhat.com/errata/RHSA-2025:17802
+Red Hat webkit2gtk3 Security Update,CVE-2025-43272,8.8,,Qualys Pipeline,10/14 CH - QID in Pipeline (6044134),https://access.redhat.com/errata/RHSA-2025:17802
