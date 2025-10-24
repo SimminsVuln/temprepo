@@ -1,47 +1,15 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Atlassian Confluence Denial of Service Vulnerability,CVE-2025-22166,7.5,LOW,Qualys Pipeline,10/23 CH - QID in Pipeline (733304),https://jira.atlassian.com/browse/CONFSERVER-100907
-Atlassian Jira Jakarta Mail SMTP Injection Vulnerability,CVE-2025-7962,7.5,LOW,Qualys Pipeline,"10/23 CH - QID in Pipeline (385601, 733311, 733308)","https://jira.atlassian.com/browse/JSDSERVER-16410
-https://jira.atlassian.com/browse/JSWSERVER-26567"
-Atlassian Jira Service Management Apache Tomcat Denial of Service Vulnerability,CVE-2025-48989,7.5,LOW,Qualys Pipeline,"10/23 CH - QID in Pipeline (385601, 733311, 733308)","https://jira.atlassian.com/browse/BAM-26217
-https://jira.atlassian.com/browse/JSDSERVER-16408
-https://jira.atlassian.com/browse/JSWSERVER-26538"
-Atlassian Jira Service Management io.netty:netty-codec-http Denial of Service Vulnerability,CVE-2025-58057,7.5,LOW,Qualys Pipeline,"10/23 CH - QID in Pipeline (385599, 733310)","https://jira.atlassian.com/browse/JSDSERVER-16412
-https://jira.atlassian.com/browse/JSWSERVER-26564"
-Atlassian Jira Service Management io.netty:netty-codec-http HTTP Request Smuggling Vulnerability,CVE-2025-58056,7.5,LOW,Qualys Pipeline,"10/23 CH - QID in Pipeline (385603, 733309)","https://jira.atlassian.com/browse/JSDSERVER-16413
-https://jira.atlassian.com/browse/JSWSERVER-26565"
-Atlassian Jira Service Management Security Bypass Vulnerability,CVE-2025-22167,7.5,not available,Qualys Pipeline,"10/23 CH - QID in Pipeline (385597, 733306)","https://jira.atlassian.com/browse/JSDSERVER-16409
-https://jira.atlassian.com/browse/JSWSERVER-26552"
-Azul Zulu Multiple Vulnerabilities,CVE-2025-53066,7.5,LOW,Qualys Pipeline,10/23 CH - QID in Pipeline (385604),"https://docs.azul.com/core/pdfs/october-2025/azul-zulu-ca-release-notes-october-2025-rev1.0.pdf
-https://openjdk.org/groups/vulnerability/advisories/2025-10-21
-https://www.oracle.com/security-alerts/cpuoct2025.html#AppendixJAVA
-https://www.oracle.com/security-alerts/cpuoct2025verbose.html"
-GitLab Multiple Vulnerabilities,CVE-2025-11447,7.5,LOW,Qualys Pipeline,10/23 CH - QID in Pipeline (385602),https://about.gitlab.com/releases/2025/10/22/patch-release-gitlab-18-5-1-released
-GitLab Multiple Vulnerabilities,CVE-2025-10497,7.5,LOW,Qualys Pipeline,10/23 CH - QID in Pipeline (385602),https://about.gitlab.com/releases/2025/10/22/patch-release-gitlab-18-5-1-released
-GitLab Multiple Vulnerabilities,CVE-2025-11702,8.5,MEDIUM,Qualys Pipeline,10/23 CH - QID in Pipeline (385602),https://about.gitlab.com/releases/2025/10/22/patch-release-gitlab-18-5-1-released
-Google Chrome V8 Unspecified Vulnerability,CVE-2025-12036,8.8,MEDIUM,Qualys QID,10/23 CH - QID Available (385594),"https://chromereleases.googleblog.com/2025/10/chrome-for-android-update_0101005581.html
-https://chromereleases.googleblog.com/2025/10/stable-channel-update-for-desktop_21.html"
-Oracle Database Server Multiple Vulnerabilities,CVE-2024-12254,7.5,LOW,Qualys QID,"10/23 CH - QID Available (20511, 20509)","https://www.oracle.com/security-alerts/cpuoct2025.html#AppendixDB
-https://www.oracle.com/security-alerts/cpuoct2025verbose.html"
-Oracle Database Server Multiple Vulnerabilities,CVE-2025-4949,7.9,MEDIUM,Qualys QID,"10/23 CH - QID Available (20511, 20509)","https://www.oracle.com/security-alerts/cpuoct2025.html#AppendixDB
-https://www.oracle.com/security-alerts/cpuoct2025verbose.html"
-Oracle Java SE Multiple Vulnerabilities,CVE-2025-43227,7.5,LOW,Qualys QID,10/23 CH - QID Available (385593),"https://www.oracle.com/security-alerts/cpuoct2025.html#AppendixJAVA
-https://www.oracle.com/security-alerts/cpuoct2025verbose.html"
-Oracle Java SE Multiple Vulnerabilities,CVE-2025-31273,8.8,MEDIUM,Qualys QID,10/23 CH - QID Available (385593),"https://www.oracle.com/security-alerts/cpuoct2025.html#AppendixJAVA
-https://www.oracle.com/security-alerts/cpuoct2025verbose.html"
-Oracle Java SE Multiple Vulnerabilities,CVE-2025-31278,8.8,MEDIUM,Qualys QID,10/23 CH - QID Available (385593),"https://www.oracle.com/security-alerts/cpuoct2025.html#AppendixJAVA
-https://www.oracle.com/security-alerts/cpuoct2025verbose.html"
-Oracle Java SE Multiple Vulnerabilities,CVE-2025-24189,8.8,MEDIUM,Qualys QID,10/23 CH - QID Available (385593),"https://www.oracle.com/security-alerts/cpuoct2025.html#AppendixJAVA
-https://www.oracle.com/security-alerts/cpuoct2025verbose.html"
-Oracle WebLogic Server Multiple Vulnerabilities,CVE-2025-61752,7.5,LOW,Qualys QID,"10/23 CH - QID Available (87593, 530586)","https://www.oracle.com/security-alerts/cpuoct2025.html#AppendixFMW
-https://www.oracle.com/security-alerts/cpuoct2025verbose.html"
-Red Hat Ansible Automation Platform Security Bypass Vulnerability,CVE-2025-59343,7.5,LOW,Qualys QID,10/23 CH - QID Available (6044577),https://access.redhat.com/errata/RHSA-2025:18979
-Red Hat update for thunderbird,CVE-2025-11714,8.8,MEDIUM,Qualys QID,"10/23 CH - QID Available (6044573, 6044573)","https://access.redhat.com/errata/RHSA-2025:18320
-https://access.redhat.com/errata/RHSA-2025:18321"
-Red Hat update for thunderbird,CVE-2025-11715,8.8,MEDIUM,Qualys QID,"10/23 CH - QID Available (6044573, 6044573)","https://access.redhat.com/errata/RHSA-2025:18320
-https://access.redhat.com/errata/RHSA-2025:18321"
-Red Hat update for thunderbird,CVE-2025-11710,9.8,MEDIUM,Qualys QID,"10/23 CH - QID Available (6044573, 6044573)","https://access.redhat.com/errata/RHSA-2025:18320
-https://access.redhat.com/errata/RHSA-2025:18321"
-Red Hat update for thunderbird,CVE-2025-11708,9.8,HIGH,Qualys QID,"10/23 CH - QID Available (6044573, 6044573)","https://access.redhat.com/errata/RHSA-2025:18320
-https://access.redhat.com/errata/RHSA-2025:18321"
-Red Hat update for thunderbird,CVE-2025-11709,9.8,MEDIUM,Qualys QID,"10/23 CH - QID Available (6044573, 6044573)","https://access.redhat.com/errata/RHSA-2025:18320
-https://access.redhat.com/errata/RHSA-2025:18321"
+Red Hat update for java-21-openjdk,CVE-2025-53066,7.5,,"10/24 CH - QID Available (6044578, 6044579, 6044580, 6044584, 6044585)","https://access.redhat.com/errata/RHSA-2025:18814
+https://access.redhat.com/errata/RHSA-2025:18817
+https://access.redhat.com/errata/RHSA-2025:18821
+https://access.redhat.com/errata/RHSA-2025:18823
+https://access.redhat.com/errata/RHSA-2025:18824
+https://access.redhat.com/errata/RHSA-2025:18826",
+Red Hat update for java-21-openjdk,CVE-2025-61748,7,,"10/24 CH - QID Available (385613, 385614, 6044578)","https://access.redhat.com/errata/RHSA-2025:18824
+https://access.redhat.com/errata/RHSA-2025:18826",
+Red Hat update for java-21-openjdk,CVE-2025-53057,7.9,,"10/24 CH - QID Available (6044578, 6044579, 6044580, 6044584, 6044585)","https://access.redhat.com/errata/RHSA-2025:18814
+https://access.redhat.com/errata/RHSA-2025:18817
+https://access.redhat.com/errata/RHSA-2025:18821
+https://access.redhat.com/errata/RHSA-2025:18823
+https://access.redhat.com/errata/RHSA-2025:18824
+https://access.redhat.com/errata/RHSA-2025:18826",
