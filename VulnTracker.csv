@@ -1,15 +1,28 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Red Hat update for java-21-openjdk,CVE-2025-53066,7.5,,"10/24 CH - QID Available (6044578, 6044579, 6044580, 6044584, 6044585)","https://access.redhat.com/errata/RHSA-2025:18814
-https://access.redhat.com/errata/RHSA-2025:18817
-https://access.redhat.com/errata/RHSA-2025:18821
-https://access.redhat.com/errata/RHSA-2025:18823
-https://access.redhat.com/errata/RHSA-2025:18824
-https://access.redhat.com/errata/RHSA-2025:18826",
-Red Hat update for java-21-openjdk,CVE-2025-61748,7,,"10/24 CH - QID Available (385613, 385614, 6044578)","https://access.redhat.com/errata/RHSA-2025:18824
-https://access.redhat.com/errata/RHSA-2025:18826",
-Red Hat update for java-21-openjdk,CVE-2025-53057,7.9,,"10/24 CH - QID Available (6044578, 6044579, 6044580, 6044584, 6044585)","https://access.redhat.com/errata/RHSA-2025:18814
-https://access.redhat.com/errata/RHSA-2025:18817
-https://access.redhat.com/errata/RHSA-2025:18821
-https://access.redhat.com/errata/RHSA-2025:18823
-https://access.redhat.com/errata/RHSA-2025:18824
-https://access.redhat.com/errata/RHSA-2025:18826",
+Apache Tomcat Multiple Vulnerabilities,CVE-2025-55752,7.5,,Qualys Pipeline,"10/28 CH - QID in Pipeline (733332, 733334, 733335)","https://lists.apache.org/thread/j7w54hqbkfcn0xb9xy0wnx8w5nymcbqd
+https://lists.apache.org/thread/n05kjcwyj1s45ovs8ll1qrrojhfb1tog
+https://lists.apache.org/thread/wm9mx8brmx9g4zpywm06ryrtvd3160pp"
+IBM MQ Appliance Multiple Vulnerabilities,CVE-2025-48976,7.5,,Qualys QID,10/28 CH - QID Available (733320),https://www.ibm.com/support/pages/node/7248784
+IBM MQ Appliance Multiple Vulnerabilities,CVE-2025-8058,5.9,,Qualys QID,10/28 CH - QID Available (733320),https://www.ibm.com/support/pages/node/7248596
+IBM MQ Appliance Multiple Vulnerabilities,CVE-2025-7425,7.8,,Qualys QID,10/28 CH - QID Available (733320),https://www.ibm.com/support/pages/node/7248596
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2025-4447,7,,Qualys QID,10/28 CH - QID Available (385652),https://www.ibm.com/support/pages/node/7249126
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2025-21587,7.4,,Qualys QID,10/28 CH - QID Available (385652),https://www.ibm.com/support/pages/node/7249126
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2025-36097,7.5,,Qualys QID,10/28 CH - QID Available (385652),https://www.ibm.com/support/pages/node/7249126
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2024-7254,7.5,,Qualys QID,10/28 CH - QID Available (385652),https://www.ibm.com/support/pages/node/7249126
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2025-27533,7.5,,Qualys QID,10/28 CH - QID Available (385652),https://www.ibm.com/support/pages/node/7249126
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2025-23184,7.5,,Qualys QID,10/28 CH - QID Available (385652),https://www.ibm.com/support/pages/node/7249126
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2025-2900,7.5,,Qualys QID,10/28 CH - QID Available (385652),https://www.ibm.com/support/pages/node/7249126
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2025-50106,8.1,,Qualys QID,10/28 CH - QID Available (385652),https://www.ibm.com/support/pages/node/7249126
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2025-30749,8.1,,Qualys QID,10/28 CH - QID Available (385652),https://www.ibm.com/support/pages/node/7249126
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2025-50059,8.6,,Qualys QID,10/28 CH - QID Available (385652),https://www.ibm.com/support/pages/node/7249126
+IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2025-48734,8.8,,Qualys QID,10/28 CH - QID Available (385652),https://www.ibm.com/support/pages/node/7249126
+Red Hat update for kernel,CVE-2023-53297,7,,Qualys QID,10/28 CH - QID Available (6044591),https://access.redhat.com/errata/RHSA-2025:19102
+Red Hat update for kernel,CVE-2025-39817,7,,Qualys QID,10/28 CH - QID Available (6044591),https://access.redhat.com/errata/RHSA-2025:19102
+Red Hat update for kernel,CVE-2022-50386,7,,Qualys QID,10/28 CH - QID Available (6044591),https://access.redhat.com/errata/RHSA-2025:19102
+"Gitlab Multiple Vulnerabilities (prior to gitlab- 18.5.1, 18.4.3, 18.3.5)",CVE-2025-11974,6.5,,Qualys QID,10/28 CH - QID Available (385602),https://about.gitlab.com/releases/2025/10/22/patch-release-gitlab-18-5-1-released/
+"Gitlab Multiple Vulnerabilities (prior to gitlab- 18.5.1, 18.4.3, 18.3.5)",CVE-2025-11702,8.5,,Qualys QID,10/28 CH - QID Available (385602),https://about.gitlab.com/releases/2025/10/22/patch-release-gitlab-18-5-1-released/
+"Gitlab Multiple Vulnerabilities (prior to gitlab- 18.5.1, 18.4.3, 18.3.5)",CVE-2025-6601,3.8,,Qualys QID,10/28 CH - QID Available (385602),https://about.gitlab.com/releases/2025/10/22/patch-release-gitlab-18-5-1-released/
+"Gitlab Multiple Vulnerabilities (prior to gitlab- 18.5.1, 18.4.3, 18.3.5)",CVE-2025-11989,3.7,,Qualys QID,10/28 CH - QID Available (385602),https://about.gitlab.com/releases/2025/10/22/patch-release-gitlab-18-5-1-released/
+"Gitlab Multiple Vulnerabilities (prior to gitlab- 18.5.1, 18.4.3, 18.3.5)",CVE-2025-10497,7.5,,Qualys QID,10/28 CH - QID Available (385602),https://about.gitlab.com/releases/2025/10/22/patch-release-gitlab-18-5-1-released/
+"Gitlab Multiple Vulnerabilities (prior to gitlab- 18.5.1, 18.4.3, 18.3.5)",CVE-2025-11971,6.5,,Qualys QID,10/28 CH - QID Available (385602),https://about.gitlab.com/releases/2025/10/22/patch-release-gitlab-18-5-1-released/
+"Gitlab Multiple Vulnerabilities (prior to gitlab- 18.5.1, 18.4.3, 18.3.5)",CVE-2025-11447,7.5,,Qualys QID,10/28 CH - QID Available (385602),https://about.gitlab.com/releases/2025/10/22/patch-release-gitlab-18-5-1-released/
