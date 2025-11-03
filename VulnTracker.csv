@@ -1,28 +1,24 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Apache Tomcat Multiple Vulnerabilities,CVE-2025-55752,7.5,,Qualys Pipeline,"10/28 CH - QID in Pipeline (733332, 733334, 733335)","https://lists.apache.org/thread/j7w54hqbkfcn0xb9xy0wnx8w5nymcbqd
-https://lists.apache.org/thread/n05kjcwyj1s45ovs8ll1qrrojhfb1tog
-https://lists.apache.org/thread/wm9mx8brmx9g4zpywm06ryrtvd3160pp"
-IBM MQ Appliance Multiple Vulnerabilities,CVE-2025-48976,7.5,,Qualys QID,10/28 CH - QID Available (733320),https://www.ibm.com/support/pages/node/7248784
-IBM MQ Appliance Multiple Vulnerabilities,CVE-2025-8058,5.9,,Qualys QID,10/28 CH - QID Available (733320),https://www.ibm.com/support/pages/node/7248596
-IBM MQ Appliance Multiple Vulnerabilities,CVE-2025-7425,7.8,,Qualys QID,10/28 CH - QID Available (733320),https://www.ibm.com/support/pages/node/7248596
-IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2025-4447,7,,Qualys QID,10/28 CH - QID Available (385652),https://www.ibm.com/support/pages/node/7249126
-IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2025-21587,7.4,,Qualys QID,10/28 CH - QID Available (385652),https://www.ibm.com/support/pages/node/7249126
-IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2025-36097,7.5,,Qualys QID,10/28 CH - QID Available (385652),https://www.ibm.com/support/pages/node/7249126
-IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2024-7254,7.5,,Qualys QID,10/28 CH - QID Available (385652),https://www.ibm.com/support/pages/node/7249126
-IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2025-27533,7.5,,Qualys QID,10/28 CH - QID Available (385652),https://www.ibm.com/support/pages/node/7249126
-IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2025-23184,7.5,,Qualys QID,10/28 CH - QID Available (385652),https://www.ibm.com/support/pages/node/7249126
-IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2025-2900,7.5,,Qualys QID,10/28 CH - QID Available (385652),https://www.ibm.com/support/pages/node/7249126
-IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2025-50106,8.1,,Qualys QID,10/28 CH - QID Available (385652),https://www.ibm.com/support/pages/node/7249126
-IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2025-30749,8.1,,Qualys QID,10/28 CH - QID Available (385652),https://www.ibm.com/support/pages/node/7249126
-IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2025-50059,8.6,,Qualys QID,10/28 CH - QID Available (385652),https://www.ibm.com/support/pages/node/7249126
-IBM Tivoli Netcool/Impact Multiple Vulnerabilities,CVE-2025-48734,8.8,,Qualys QID,10/28 CH - QID Available (385652),https://www.ibm.com/support/pages/node/7249126
-Red Hat update for kernel,CVE-2023-53297,7,,Qualys QID,10/28 CH - QID Available (6044591),https://access.redhat.com/errata/RHSA-2025:19102
-Red Hat update for kernel,CVE-2025-39817,7,,Qualys QID,10/28 CH - QID Available (6044591),https://access.redhat.com/errata/RHSA-2025:19102
-Red Hat update for kernel,CVE-2022-50386,7,,Qualys QID,10/28 CH - QID Available (6044591),https://access.redhat.com/errata/RHSA-2025:19102
-"Gitlab Multiple Vulnerabilities (prior to gitlab- 18.5.1, 18.4.3, 18.3.5)",CVE-2025-11974,6.5,,Qualys QID,10/28 CH - QID Available (385602),https://about.gitlab.com/releases/2025/10/22/patch-release-gitlab-18-5-1-released/
-"Gitlab Multiple Vulnerabilities (prior to gitlab- 18.5.1, 18.4.3, 18.3.5)",CVE-2025-11702,8.5,,Qualys QID,10/28 CH - QID Available (385602),https://about.gitlab.com/releases/2025/10/22/patch-release-gitlab-18-5-1-released/
-"Gitlab Multiple Vulnerabilities (prior to gitlab- 18.5.1, 18.4.3, 18.3.5)",CVE-2025-6601,3.8,,Qualys QID,10/28 CH - QID Available (385602),https://about.gitlab.com/releases/2025/10/22/patch-release-gitlab-18-5-1-released/
-"Gitlab Multiple Vulnerabilities (prior to gitlab- 18.5.1, 18.4.3, 18.3.5)",CVE-2025-11989,3.7,,Qualys QID,10/28 CH - QID Available (385602),https://about.gitlab.com/releases/2025/10/22/patch-release-gitlab-18-5-1-released/
-"Gitlab Multiple Vulnerabilities (prior to gitlab- 18.5.1, 18.4.3, 18.3.5)",CVE-2025-10497,7.5,,Qualys QID,10/28 CH - QID Available (385602),https://about.gitlab.com/releases/2025/10/22/patch-release-gitlab-18-5-1-released/
-"Gitlab Multiple Vulnerabilities (prior to gitlab- 18.5.1, 18.4.3, 18.3.5)",CVE-2025-11971,6.5,,Qualys QID,10/28 CH - QID Available (385602),https://about.gitlab.com/releases/2025/10/22/patch-release-gitlab-18-5-1-released/
-"Gitlab Multiple Vulnerabilities (prior to gitlab- 18.5.1, 18.4.3, 18.3.5)",CVE-2025-11447,7.5,,Qualys QID,10/28 CH - QID Available (385602),https://about.gitlab.com/releases/2025/10/22/patch-release-gitlab-18-5-1-released/
+IBM InfoSphere Information Server Multiple Vulnerabilities,CVE-2025-9784,7.5,,None,11/3 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7249492
+https://www.ibm.com/support/pages/node/7249493
+https://www.ibm.com/support/pages/node/7249764
+https://www.ibm.com/support/pages/node/7249766"
+IBM InfoSphere Information Server Multiple Vulnerabilities,CVE-2025-58754,7.5,,None,11/3 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7249492
+https://www.ibm.com/support/pages/node/7249493
+https://www.ibm.com/support/pages/node/7249764
+https://www.ibm.com/support/pages/node/7249766"
+IBM InfoSphere Information Server Multiple Vulnerabilities,CVE-2025-48976,7.5,,None,11/3 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7249492
+https://www.ibm.com/support/pages/node/7249493
+https://www.ibm.com/support/pages/node/7249764
+https://www.ibm.com/support/pages/node/7249766"
+IBM InfoSphere Information Server Multiple Vulnerabilities,CVE-2025-41249,7.5,,None,11/3 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7249492
+https://www.ibm.com/support/pages/node/7249493
+https://www.ibm.com/support/pages/node/7249764
+https://www.ibm.com/support/pages/node/7249766"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-12036,8.8,,Qualys QID,11/3 CH - QID Available (385791),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-31-2025
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-12432,8.8,,Qualys QID,11/3 CH - QID Available (385791),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-31-2025
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-12433,8.8,,Qualys QID,11/3 CH - QID Available (385791),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-31-2025
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-12430,8.8,,Qualys QID,11/3 CH - QID Available (385791),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-31-2025
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-12428,8.8,,Qualys QID,11/3 CH - QID Available (385791),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-31-2025
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-12431,8.8,,Qualys QID,11/3 CH - QID Available (385791),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-31-2025
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2025-12429,8.8,,Qualys QID,11/3 CH - QID Available (385791),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-31-2025
