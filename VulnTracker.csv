@@ -1,64 +1,116 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Microsoft Patch Tuesday November 2025: Nuance PowerScribe 360 Information Disclosure Vulnerability,CVE-2025-30398,8.1,LOW,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Critical,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-30398
-Microsoft Patch Tuesday November 2025: Configuration Manager Elevation of Privilege Vulnerability,CVE-2025-47179,6.7,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-47179
-Microsoft Patch Tuesday November 2025: Microsoft Excel Information Disclosure Vulnerability,CVE-2025-59240,5.5,LOW,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59240
-Microsoft Patch Tuesday November 2025: Microsoft SQL Server Elevation of Privilege Vulnerability,CVE-2025-59499,8.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59499
-Microsoft Patch Tuesday November 2025: Azure Monitor Agent Remote Code Execution Vulnerability,CVE-2025-59504,7.3,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Unlikely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59504
-Microsoft Patch Tuesday November 2025: Windows Smart Card Reader Elevation of Privilege Vulnerability,CVE-2025-59505,7.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59505
-Microsoft Patch Tuesday November 2025: DirectX Graphics Kernel Elevation of Privilege Vulnerability,CVE-2025-59506,7,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Unlikely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59506
-Microsoft Patch Tuesday November 2025: Windows Speech Runtime Elevation of Privilege Vulnerability,CVE-2025-59507,7,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Unlikely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59507
-Microsoft Patch Tuesday November 2025: Windows Speech Recognition Elevation of Privilege Vulnerability,CVE-2025-59508,7,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Unlikely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59508
-Microsoft Patch Tuesday November 2025: Windows Speech Recognition Information Disclosure Vulnerability,CVE-2025-59509,5.5,LOW,None,11/11 CH - Exploit assessment: Exploitation Unlikely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59509
-Microsoft Patch Tuesday November 2025: Windows Routing and Remote Access Service (RRAS) Denial of Service Vulnerability,CVE-2025-59510,5.5,LOW,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59510
-Microsoft Patch Tuesday November 2025: Windows WLAN Service Elevation of Privilege Vulnerability,CVE-2025-59511,7.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59511
-Microsoft Patch Tuesday November 2025: Customer Experience Improvement Program (CEIP) Elevation of Privilege Vulnerability,CVE-2025-59512,7.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation More Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59512
-Microsoft Patch Tuesday November 2025: Windows Bluetooth RFCOM Protocol Driver Information Disclosure Vulnerability,CVE-2025-59513,5.5,LOW,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59513
-Microsoft Patch Tuesday November 2025: Microsoft Streaming Service Proxy Elevation of Privilege Vulnerability,CVE-2025-59514,7.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Unlikely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59514
-Microsoft Patch Tuesday November 2025: Windows Broadcast DVR User Service Elevation of Privilege Vulnerability,CVE-2025-59515,7,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-59515
-Microsoft Patch Tuesday November 2025: Windows Remote Desktop Services Elevation of Privilege Vulnerability,CVE-2025-60703,7.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Unlikely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60703
-Microsoft Patch Tuesday November 2025: Windows Kerberos Elevation of Privilege Vulnerability,CVE-2025-60704,7.5,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60704
-Microsoft Patch Tuesday November 2025: Windows Client-Side Caching Elevation of Privilege Vulnerability,CVE-2025-60705,7.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation More Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60705
-Microsoft Patch Tuesday November 2025: Windows Hyper-V Information Disclosure Vulnerability,CVE-2025-60706,5.5,LOW,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60706
-Microsoft Patch Tuesday November 2025: Multimedia Class Scheduler Service (MMCSS) Driver Elevation of Privilege Vulnerability,CVE-2025-60707,7.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60707
-Microsoft Patch Tuesday November 2025: Storvsp.sys Driver Denial of Service Vulnerability,CVE-2025-60708,6.5,LOW,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60708
-Microsoft Patch Tuesday November 2025: Windows Common Log File System Driver Elevation of Privilege Vulnerability,CVE-2025-60709,7.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60709
-Microsoft Patch Tuesday November 2025: Host Process for Windows Tasks Elevation of Privilege Vulnerability,CVE-2025-60710,7.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60710
-Microsoft Patch Tuesday November 2025: Windows Routing and Remote Access Service (RRAS) Elevation of Privilege Vulnerability,CVE-2025-60713,7.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Unlikely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60713
-Microsoft Patch Tuesday November 2025: Windows OLE Remote Code Execution Vulnerability,CVE-2025-60714,7.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60714
-Microsoft Patch Tuesday November 2025: Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability,CVE-2025-60715,8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Unlikely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60715
-Microsoft Patch Tuesday November 2025: DirectX Graphics Kernel Elevation of Privilege Vulnerability,CVE-2025-60716,7,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Critical,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60716
-Microsoft Patch Tuesday November 2025: Windows Broadcast DVR User Service Elevation of Privilege Vulnerability,CVE-2025-60717,7,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60717
-Microsoft Patch Tuesday November 2025: Windows Administrator Protection Elevation of Privilege Vulnerability,CVE-2025-60718,7.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60718
-Microsoft Patch Tuesday November 2025: Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability,CVE-2025-60719,7,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation More Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60719
-Microsoft Patch Tuesday November 2025: Windows Transport Driver Interface (TDI) Translation Driver Elevation of Privilege Vulnerability,CVE-2025-60720,7.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Unlikely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60720
-Microsoft Patch Tuesday November 2025: Windows Administrator Protection Elevation of Privilege Vulnerability,CVE-2025-60721,7.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60721
-Microsoft Patch Tuesday November 2025: Microsoft OneDrive for Android Elevation of Privilege Vulnerability,CVE-2025-60722,6.5,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Unlikely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60722
-Microsoft Patch Tuesday November 2025: DirectX Graphics Kernel Denial of Service Vulnerability,CVE-2025-60723,6.3,LOW,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60723
-Microsoft Patch Tuesday November 2025: GDI+ Remote Code Execution Vulnerability,CVE-2025-60724,9.8,HIGH,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Critical,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60724
-Microsoft Patch Tuesday November 2025: Microsoft Excel Information Disclosure Vulnerability,CVE-2025-60726,7.1,LOW,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60726
-Microsoft Patch Tuesday November 2025: Microsoft Excel Remote Code Execution Vulnerability,CVE-2025-60727,7.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60727
-Microsoft Patch Tuesday November 2025: Microsoft Excel Information Disclosure Vulnerability,CVE-2025-60728,4.3,LOW,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-60728
-Microsoft Patch Tuesday November 2025: Microsoft Office Remote Code Execution Vulnerability,CVE-2025-62199,7.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Critical,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62199
-Microsoft Patch Tuesday November 2025: Microsoft Excel Remote Code Execution Vulnerability,CVE-2025-62200,7.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62200
-Microsoft Patch Tuesday November 2025: Microsoft Excel Remote Code Execution Vulnerability,CVE-2025-62201,7.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62201
-Microsoft Patch Tuesday November 2025: Microsoft Excel Information Disclosure Vulnerability,CVE-2025-62202,7.1,LOW,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62202
-Microsoft Patch Tuesday November 2025: Microsoft Excel Remote Code Execution Vulnerability,CVE-2025-62203,7.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Unlikely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62203
-Microsoft Patch Tuesday November 2025: Microsoft SharePoint Remote Code Execution Vulnerability,CVE-2025-62204,8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62204
-Microsoft Patch Tuesday November 2025: Microsoft Office Remote Code Execution Vulnerability,CVE-2025-62205,7.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62205
-Microsoft Patch Tuesday November 2025: Microsoft Dynamics 365 (On-Premises) Information Disclosure Vulnerability,CVE-2025-62206,6.5,LOW,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62206
-Microsoft Patch Tuesday November 2025: Windows License Manager Information Disclosure Vulnerability,CVE-2025-62208,5.5,LOW,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62208
-Microsoft Patch Tuesday November 2025: Windows License Manager Information Disclosure Vulnerability,CVE-2025-62209,5.5,LOW,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62209
-Microsoft Patch Tuesday November 2025: Dynamics 365 Field Service (online) Spoofing Vulnerability,CVE-2025-62210,8.7,LOW,None,11/11 CH - Exploit assessment: Exploitation Unlikely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62210
-Microsoft Patch Tuesday November 2025: Dynamics 365 Field Service (online) Spoofing Vulnerability,CVE-2025-62211,8.7,LOW,None,11/11 CH - Exploit assessment: Exploitation Unlikely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62211
-Microsoft Patch Tuesday November 2025: Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability,CVE-2025-62213,7,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation More Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62213
-Microsoft Patch Tuesday November 2025: Visual Studio Remote Code Execution Vulnerability,CVE-2025-62214,6.7,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Critical,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62214
-Microsoft Patch Tuesday November 2025: Windows Kernel Elevation of Privilege Vulnerability,CVE-2025-62215,7,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Detected | Exploited: Yes | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62215
-Microsoft Patch Tuesday November 2025: Microsoft Office Remote Code Execution Vulnerability,CVE-2025-62216,7.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Unlikely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62216
-Microsoft Patch Tuesday November 2025: Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability,CVE-2025-62217,7,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation More Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62217
-Microsoft Patch Tuesday November 2025: Microsoft Wireless Provisioning System Elevation of Privilege Vulnerability,CVE-2025-62218,7,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62218
-Microsoft Patch Tuesday November 2025: Microsoft Wireless Provisioning System Elevation of Privilege Vulnerability,CVE-2025-62219,7,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Unlikely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62219
-Microsoft Patch Tuesday November 2025: Windows Subsystem for Linux GUI Remote Code Execution Vulnerability,CVE-2025-62220,8.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Unlikely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62220
-Microsoft Patch Tuesday November 2025: Agentic AI and Visual Studio Code Remote Code Execution Vulnerability,CVE-2025-62222,8.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62222
-Microsoft Patch Tuesday November 2025: Microsoft Visual Studio Code CoPilot Chat Extension Security Feature Bypass Vulnerability,CVE-2025-62449,6.8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62449
-Microsoft Patch Tuesday November 2025: Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability,CVE-2025-62452,8,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62452
-Microsoft Patch Tuesday November 2025: GitHub Copilot and Visual Studio Code Security Feature Bypass Vulnerability,CVE-2025-62453,5,MEDIUM,None,11/11 CH - Exploit assessment: Exploitation Less Likely | Exploited: No | Severity: Important,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2025-62453
+Red Hat update for podman,CVE-2025-47907,7,,Qualys QID,11/12 CH - QID available (20909),https://access.redhat.com/errata/RHSA-2025:20909
+Red Hat update for bind,CVE-2025-8677,7.5,,Qualys QID,"11/12 CH - QID available (6044675, 6044692)","https://access.redhat.com/errata/RHSA-2025:19912
+https://access.redhat.com/errata/RHSA-2025:19950"
+Red Hat update for bind,CVE-2025-40780,8.6,,Qualys QID,"11/12 CH - QID available (6044675, 6044692, 6044688)","https://access.redhat.com/errata/RHSA-2025:19912
+https://access.redhat.com/errata/RHSA-2025:19950
+https://access.redhat.com/errata/RHSA-2025:19951"
+F5 Multiple Products BIND Data Manipulation Vulnerability,CVE-2025-40778,8.6,,Qualys QID,"11/12 CH - QID available (6044675, 6044692, 6044688)",https://my.f5.com/manage/s/article/K000157334
+Red Hat webkitgtk4 Update,CVE-2025-43343,9.8,,Qualys QID,11/12 CH - QID available (6044666),https://access.redhat.com/errata/RHSA-2025:19920
+Red Hat update for kernel,CVE-2022-50367,7,,Qualys QID,11/12 CH - QID available (6044680),https://access.redhat.com/errata/RHSA-2025:19931
+Red Hat update for kernel,CVE-2023-53178,7.3,,Qualys QID,11/12 CH - QID available (6044680),https://access.redhat.com/errata/RHSA-2025:19931
+Red Hat update for kernel,CVE-2025-39864,7,,Qualys QID,11/12 CH - QID available (6044683),https://access.redhat.com/errata/RHSA-2025:19962
+Red Hat JBoss Enterprise Application Platform Denial of Service Vulnerability,CVE-2024-7254,7.5,,Qualys QID,11/12 CH - QID available (6044695),https://access.redhat.com/errata/RHSA-2025:20052
+Red Hat update for kernel,CVE-2024-53147,7.1,,Qualys QID,11/12 CH - QID available (6044715),https://access.redhat.com/errata/RHSA-2025:20095
+Red Hat update for kernel,CVE-2024-57984,7.8,,Qualys QID,11/12 CH - QID available (6044715),https://access.redhat.com/errata/RHSA-2025:20095
+Red Hat update for kernel,CVE-2024-58004,7.8,,Qualys QID,11/12 CH - QID available (6044715),https://access.redhat.com/errata/RHSA-2025:20095
+Red Hat update for kernel,CVE-2024-58013,7.8,,Qualys QID,11/12 CH - QID available (6044715),https://access.redhat.com/errata/RHSA-2025:20095
+Red Hat update for kernel,CVE-2024-58069,7.8,,Qualys QID,11/12 CH - QID available (6044715),https://access.redhat.com/errata/RHSA-2025:20095
+Red Hat update for kernel,CVE-2025-21652,7.8,,Qualys QID,11/12 CH - QID available (6044715),https://access.redhat.com/errata/RHSA-2025:20095
+Red Hat update for kernel,CVE-2025-21680,7.8,,Qualys QID,11/12 CH - QID available (6044715),https://access.redhat.com/errata/RHSA-2025:20095
+Red Hat update for kernel,CVE-2025-21741,7.1,,Qualys QID,11/12 CH - QID available (6044715),https://access.redhat.com/errata/RHSA-2025:20095
+Red Hat update for kernel,CVE-2025-21742,7.1,,Qualys QID,11/12 CH - QID available (6044715),https://access.redhat.com/errata/RHSA-2025:20095
+Red Hat update for kernel,CVE-2025-21743,7.1,,Qualys QID,11/12 CH - QID available (6044715),https://access.redhat.com/errata/RHSA-2025:20095
+Red Hat update for kernel,CVE-2025-21761,7.8,,Qualys QID,11/12 CH - QID available (6044715),https://access.redhat.com/errata/RHSA-2025:20095
+Red Hat update for kernel,CVE-2025-21785,7.8,,Qualys QID,11/12 CH - QID available (6044715),https://access.redhat.com/errata/RHSA-2025:20095
+Red Hat update for kernel,CVE-2024-49570,7.8,,Qualys QID,"11/12 CH - QID available (6044715, 6044703)","https://access.redhat.com/errata/RHSA-2025:20095
+https://access.redhat.com/errata/RHSA-2025:20518"
+Red Hat update for kernel,CVE-2024-53216,7.8,,Qualys QID,"11/12 CH - QID available (6044715, 6044703)","https://access.redhat.com/errata/RHSA-2025:20095
+https://access.redhat.com/errata/RHSA-2025:20518"
+Red Hat update for kernel,CVE-2024-54456,7.8,,Qualys QID,"11/12 CH - QID available (6044715, 6044703)","https://access.redhat.com/errata/RHSA-2025:20095
+https://access.redhat.com/errata/RHSA-2025:20518"
+Red Hat update for kernel,CVE-2024-56675,7.8,,Qualys QID,"11/12 CH - QID available (6044715, 6044703)","https://access.redhat.com/errata/RHSA-2025:20095
+https://access.redhat.com/errata/RHSA-2025:20518"
+Red Hat update for kernel,CVE-2024-57995,7.8,,Qualys QID,"11/12 CH - QID available (6044715, 6044703)","https://access.redhat.com/errata/RHSA-2025:20095
+https://access.redhat.com/errata/RHSA-2025:20518"
+Red Hat update for kernel,CVE-2024-58014,7.8,,Qualys QID,"11/12 CH - QID available (6044715, 6044703)","https://access.redhat.com/errata/RHSA-2025:20095
+https://access.redhat.com/errata/RHSA-2025:20518"
+Red Hat update for kernel,CVE-2024-58015,7.1,,Qualys QID,"11/12 CH - QID available (6044715, 6044703)","https://access.redhat.com/errata/RHSA-2025:20095
+https://access.redhat.com/errata/RHSA-2025:20518"
+Red Hat update for kernel,CVE-2025-21647,7.1,,Qualys QID,"11/12 CH - QID available (6044715, 6044703)","https://access.redhat.com/errata/RHSA-2025:20095
+https://access.redhat.com/errata/RHSA-2025:20518"
+Red Hat update for kernel,CVE-2025-21671,7.8,,Qualys QID,"11/12 CH - QID available (6044715, 6044703)","https://access.redhat.com/errata/RHSA-2025:20095
+https://access.redhat.com/errata/RHSA-2025:20518"
+Red Hat update for kernel,CVE-2025-21693,7.8,,Qualys QID,"11/12 CH - QID available (6044715, 6044703)","https://access.redhat.com/errata/RHSA-2025:20095
+https://access.redhat.com/errata/RHSA-2025:20518"
+Red Hat update for kernel,CVE-2025-21702,7,,Qualys QID,"11/12 CH - QID available (6044715, 6044703)","https://access.redhat.com/errata/RHSA-2025:20095
+https://access.redhat.com/errata/RHSA-2025:20518"
+Red Hat update for kernel,CVE-2025-21726,7.8,,Qualys QID,"11/12 CH - QID available (6044715, 6044703)","https://access.redhat.com/errata/RHSA-2025:20095
+https://access.redhat.com/errata/RHSA-2025:20518"
+Red Hat update for kernel,CVE-2025-21786,7.8,,Qualys QID,"11/12 CH - QID available (6044715, 6044703)","https://access.redhat.com/errata/RHSA-2025:20095
+https://access.redhat.com/errata/RHSA-2025:20518"
+Red Hat update for kernel,CVE-2025-21791,7.8,,Qualys QID,"11/12 CH - QID available (6044715, 6044703)","https://access.redhat.com/errata/RHSA-2025:20095
+https://access.redhat.com/errata/RHSA-2025:20518"
+Red Hat update for kernel,CVE-2025-21796,7.8,,Qualys QID,"11/12 CH - QID available (6044715, 6044703)","https://access.redhat.com/errata/RHSA-2025:20095
+https://access.redhat.com/errata/RHSA-2025:20518"
+Red Hat update for kernel,CVE-2025-21855,7.8,,Qualys QID,"11/12 CH - QID available (6044715, 6044703)","https://access.redhat.com/errata/RHSA-2025:20095
+https://access.redhat.com/errata/RHSA-2025:20518"
+Red Hat update for kernel,CVE-2025-21863,7.8,,Qualys QID,"11/12 CH - QID available (6044715, 6044703)","https://access.redhat.com/errata/RHSA-2025:20095
+https://access.redhat.com/errata/RHSA-2025:20518"
+Red Hat update for kernel,CVE-2025-22056,7.8,,Qualys QID,"11/12 CH - QID available (6044715, 6044703)","https://access.redhat.com/errata/RHSA-2025:20095
+https://access.redhat.com/errata/RHSA-2025:20518"
+Red Hat update for pam,CVE-2025-6020,7.8,,Qualys QID,11/12 CH - QID available (6044701),https://access.redhat.com/errata/RHSA-2025:20181
+Red Hat update for kernel,CVE-2022-49623,7.1,,Qualys QID,11/12 CH - QID available (6044703),https://access.redhat.com/errata/RHSA-2025:20518
+Red Hat update for kernel,CVE-2024-47727,7.8,,Qualys QID,11/12 CH - QID available (6044703),https://access.redhat.com/errata/RHSA-2025:20518
+Red Hat update for kernel,CVE-2024-53170,7.8,,Qualys QID,11/12 CH - QID available (6044703),https://access.redhat.com/errata/RHSA-2025:20518
+Red Hat update for kernel,CVE-2024-56603,7.8,,Qualys QID,11/12 CH - QID available (6044703),https://access.redhat.com/errata/RHSA-2025:20518
+Red Hat update for kernel,CVE-2024-56672,7.8,,Qualys QID,11/12 CH - QID available (6044703),https://access.redhat.com/errata/RHSA-2025:20518
+Red Hat update for kernel,CVE-2024-57990,7.8,,Qualys QID,11/12 CH - QID available (6044703),https://access.redhat.com/errata/RHSA-2025:20518
+Red Hat update for kernel,CVE-2024-58083,7.8,,Qualys QID,11/12 CH - QID available (6044703),https://access.redhat.com/errata/RHSA-2025:20518
+Red Hat update for kernel,CVE-2025-21631,7.8,,Qualys QID,11/12 CH - QID available (6044703),https://access.redhat.com/errata/RHSA-2025:20518
+Red Hat update for kernel,CVE-2025-21714,7.8,,Qualys QID,11/12 CH - QID available (6044703),https://access.redhat.com/errata/RHSA-2025:20518
+Red Hat update for kernel,CVE-2025-21729,7.8,,Qualys QID,11/12 CH - QID available (6044703),https://access.redhat.com/errata/RHSA-2025:20518
+Red Hat update for kernel,CVE-2025-21739,7.8,,Qualys QID,11/12 CH - QID available (6044703),https://access.redhat.com/errata/RHSA-2025:20518
+Red Hat update for kernel,CVE-2025-38396,7.8,,Qualys QID,11/12 CH - QID available (6044703),https://access.redhat.com/errata/RHSA-2025:20518
+Red Hat update for libtiff,CVE-2023-52355,7.5,,Qualys QID,11/12 CH - QID available (6044708),https://access.redhat.com/errata/RHSA-2025:20801
+Red Hat update for libtiff,CVE-2023-52356,7.5,,Qualys QID,11/12 CH - QID available (6044708),https://access.redhat.com/errata/RHSA-2025:20801
+Red Hat update for podman,CVE-2025-9566,8.1,,Qualys QID,11/12 CH - QID available (6044711),https://access.redhat.com/errata/RHSA-2025:20909
+Red Hat redis Update,CVE-2025-46817,7,,Qualys QID,11/12 CH - QID available (6044709),https://access.redhat.com/errata/RHSA-2025:20926
+Red Hat redis Update,CVE-2025-49844,9.8,,Qualys QID,11/12 CH - QID available (6044709),https://access.redhat.com/errata/RHSA-2025:20926
+Red Hat update for ipa,CVE-2025-7493,9.1,,Qualys QID,11/12 CH - QID available (6044707),https://access.redhat.com/errata/RHSA-2025:20928
+Red Hat update for squid,CVE-2025-62168,10,,Qualys QID,11/12 CH - QID available (6044712),https://access.redhat.com/errata/RHSA-2025:20935
+Red Hat sqlite Update,CVE-2025-6965,7.7,,Qualys QID,11/12 CH - QID available (6044700),https://access.redhat.com/errata/RHSA-2025:20936
+Red Hat update for libtiff,CVE-2025-9900,8.8,,Qualys QID,11/12 CH - QID available (6044713),https://access.redhat.com/errata/RHSA-2025:20956
+Red Hat update for xorg-x11-server-Xwayland,CVE-2025-62229,7.8,,Qualys QID,11/12 CH - QID available (6044706),https://access.redhat.com/errata/RHSA-2025:20960
+Red Hat update for xorg-x11-server-Xwayland,CVE-2025-62230,7.8,,Qualys QID,11/12 CH - QID available (6044706),https://access.redhat.com/errata/RHSA-2025:20960
+Red Hat update for xorg-x11-server-Xwayland,CVE-2025-62231,7.8,,Qualys QID,11/12 CH - QID available (6044706),https://access.redhat.com/errata/RHSA-2025:20960
+Adobe Illustrator Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-61820,7.8,,Qualys Pipeline,11/12 CH - QID in Pipeline (385933),https://helpx.adobe.com/security/products/illustrator/apsb25-109.html
+Adobe Illustrator Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-61831,7.8,,Qualys Pipeline,11/12 CH - QID in Pipeline (385933),https://helpx.adobe.com/security/products/illustrator/apsb25-109.html
+Adobe InCopy Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-61816,7.8,,Qualys Pipeline,11/12 CH - QID in Pipeline (385935),https://helpx.adobe.com/security/products/incopy/apsb25-107.html
+Adobe InCopy Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-61817,7.8,,Qualys Pipeline,11/12 CH - QID in Pipeline (385935),https://helpx.adobe.com/security/products/incopy/apsb25-107.html
+Adobe InCopy Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-61818,7.8,,Qualys Pipeline,11/12 CH - QID in Pipeline (385935),https://helpx.adobe.com/security/products/incopy/apsb25-107.html
+Adobe InDesign CC Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-61814,7.8,,Qualys Pipeline,11/12 CH - QID in Pipeline (385934),https://helpx.adobe.com/security/products/indesign/apsb25-106.html
+Adobe InDesign CC Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-61815,7.8,,Qualys Pipeline,11/12 CH - QID in Pipeline (385934),https://helpx.adobe.com/security/products/indesign/apsb25-106.html
+Adobe InDesign CC Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-61824,7.8,,Qualys Pipeline,11/12 CH - QID in Pipeline (385934),https://helpx.adobe.com/security/products/indesign/apsb25-106.html
+Adobe InDesign CC Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-61832,7.8,,Qualys Pipeline,11/12 CH - QID in Pipeline (385934),https://helpx.adobe.com/security/products/indesign/apsb25-106.html
+Adobe Photoshop CC Arbitrary Code Execution Vulnerability,CVE-2025-61819,7.8,,Qualys Pipeline,11/12 CH - QID in Pipeline (385936),https://helpx.adobe.com/security/products/photoshop/apsb25-108.html
+IBM Db2 json-smart Denial of Service Vulnerability,CVE-2024-57699,7.5,,Qualys Pipeline,11/12 CH - QID in Pipeline (20518),https://www.ibm.com/support/pages/node/7250474
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-13021,High,,,,https://www.mozilla.org/en-US/security/advisories/mfsa2025-87
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-13022,High,,,,https://www.mozilla.org/en-US/security/advisories/mfsa2025-87
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-13023,High,,,,https://www.mozilla.org/en-US/security/advisories/mfsa2025-87
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-13024,High,,,,https://www.mozilla.org/en-US/security/advisories/mfsa2025-87
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-13025,High,,,,https://www.mozilla.org/en-US/security/advisories/mfsa2025-87
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-13026,High,,,,https://www.mozilla.org/en-US/security/advisories/mfsa2025-87
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-13027,High,,,,https://www.mozilla.org/en-US/security/advisories/mfsa2025-87
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-13016,High,,,,"https://www.mozilla.org/en-US/security/advisories/mfsa2025-87
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-88"
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-13018,Moderate,,,,"https://www.mozilla.org/en-US/security/advisories/mfsa2025-87
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-88"
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-13020,Moderate,,,,"https://www.mozilla.org/en-US/security/advisories/mfsa2025-87
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-88"
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-13012,High,,,,"https://www.mozilla.org/en-US/security/advisories/mfsa2025-87
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-88
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-89"
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-13014,High,,,,"https://www.mozilla.org/en-US/security/advisories/mfsa2025-87
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-88
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-89"
