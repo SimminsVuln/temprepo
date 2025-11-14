@@ -1,36 +1,20 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Red Hat update for podman,CVE-2025-47907,7,,Qualys QID,"11/13 CH - QID Available (6044711, 6044732)","https://access.redhat.com/errata/RHSA-2025:20909
-https://access.redhat.com/errata/RHSA-2025:20983"
-Red Hat sssd Update,CVE-2025-11561,8.8,,Qualys QID,"11/13 CH - QID Available (6044725, 6044735)","https://access.redhat.com/errata/RHSA-2025:20954
-https://access.redhat.com/errata/RHSA-2025:21020"
-Red Hat update for runc,CVE-2025-52565,8.2,,Qualys QID,11/13 CH - QID Available (6044716),https://access.redhat.com/errata/RHSA-2025:20957
-Red Hat update for runc,CVE-2025-52881,8.2,,Qualys QID,11/13 CH - QID Available (6044716),https://access.redhat.com/errata/RHSA-2025:20957
-Red Hat update for runc,CVE-2025-31133,8.2,,Qualys QID,11/13 CH - QID Available (6044716),https://access.redhat.com/errata/RHSA-2025:20957
-Rocky Linux update for xorg-x11-server,CVE-2025-62229,7.8,,Qualys QID,"11/13 CH - QID Available (6044734, 6044736, 6044727)","https://access.redhat.com/errata/RHSA-2025:20958
-https://access.redhat.com/errata/RHSA-2025:20961
-https://access.redhat.com/errata/RHSA-2025:21035"
-Rocky Linux update for xorg-x11-server,CVE-2025-62231,7.8,,Qualys QID,"11/13 CH - QID Available (6044734, 6044736, 6044727)","https://access.redhat.com/errata/RHSA-2025:20958
-https://access.redhat.com/errata/RHSA-2025:20961
-https://access.redhat.com/errata/RHSA-2025:21035"
-Rocky Linux update for xorg-x11-server,CVE-2025-62230,7.8,,Qualys QID,"11/13 CH - QID Available (6044734, 6044736, 6044727)","https://access.redhat.com/errata/RHSA-2025:20958
-https://access.redhat.com/errata/RHSA-2025:20961
-https://access.redhat.com/errata/RHSA-2025:21035"
-Red Hat update for libsoup,CVE-2025-11021,7.5,,Qualys QID,"11/13 CH - QID Available (6044729, 6044727)","https://access.redhat.com/errata/RHSA-2025:20959
-https://access.redhat.com/errata/RHSA-2025:21032"
-Red Hat update for podman,CVE-2025-9566,8.1,,Qualys QID,11/13 CH - QID Available (6044732),https://access.redhat.com/errata/RHSA-2025:20983
-Red Hat update for ipa,CVE-2025-7493,9.1,,Qualys QID,11/13 CH - QID Available (6044738),https://access.redhat.com/errata/RHSA-2025:20994
-Red Hat update for libtiff,CVE-2025-9900,8.8,,Qualys QID,11/13 CH - QID Available (6044720),https://access.redhat.com/errata/RHSA-2025:20998
-Red Hat update for squid,CVE-2025-62168,10,,Qualys QID,11/13 CH - QID Available (6044726),https://access.redhat.com/errata/RHSA-2025:21002
-Red Hat update for kea,CVE-2025-40779,7.5,,Qualys QID,11/13 CH - QID Available (6044728),https://access.redhat.com/errata/RHSA-2025:21006
-Red Hat update for expat,CVE-2025-59375,7.5,,Qualys QID,11/13 CH - QID Available (6044721),https://access.redhat.com/errata/RHSA-2025:21030
-Red Hat update for bind,CVE-2025-40778,8.6,,Qualys QID,"11/13 CH - QID Available (6044724, 6044750, 6044757)","https://access.redhat.com/errata/RHSA-2025:21034
-https://access.redhat.com/errata/RHSA-2025:21110
-https://access.redhat.com/errata/RHSA-2025:21111"
-Red Hat update for bind,CVE-2025-40780,8.6,,Qualys QID,"11/13 CH - QID Available (6044724, 6044750, 6044757)","https://access.redhat.com/errata/RHSA-2025:21034
-https://access.redhat.com/errata/RHSA-2025:21110
-https://access.redhat.com/errata/RHSA-2025:21111"
-Red Hat update for bind9.18,CVE-2025-8677,7.5,,Qualys QID,"11/13 CH - QID Available (6044724, 6044757)","https://access.redhat.com/errata/RHSA-2025:21034
-https://access.redhat.com/errata/RHSA-2025:21111"
-Red Hat update for qt6-qtsvg,CVE-2025-10729,8.6,,Qualys QID,11/13 CH - QID Available (6044737),https://access.redhat.com/errata/RHSA-2025:21037
-PAN-OS Firewall Denial of Service Vulnerability,CVE-2025-4619,6.6,,Qualys Pipeline,11/13 CH - QID in Pipeline (733395),https://security.paloaltonetworks.com/CVE-2025-4619
-Citrix NetScaler ADC / Gateway Cross-Site Scripting Vulnerability,CVE-2025-12101,5.9,,Qualys Pipeline,11/13 CH - QID in Pipeline (733401),https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX695486
+Apache OpenOffice Multiple Vulnerabilities,CVE-2025-64404,7.5,,Qualys QID,11/14 CH - QID Available (385947),"https://openoffice.apache.org/blog/announcing-apache-openoffice-4-1-16.html
+"
+Apache OpenOffice Multiple Vulnerabilities,CVE-2025-64405,7.5,,Qualys QID,11/14 CH - QID Available (385947),"https://openoffice.apache.org/blog/announcing-apache-openoffice-4-1-16.html
+"
+Apache OpenOffice Multiple Vulnerabilities,CVE-2025-64403,8.1,,Qualys QID,11/14 CH - QID Available (385947),"https://openoffice.apache.org/blog/announcing-apache-openoffice-4-1-16.html
+"
+GitLab Multiple Vulnerabilities,CVE-2025-11224,7.7,,Qualys QID,11/14 CH - QID Available (385945),https://about.gitlab.com/releases/2025/11/12/patch-release-gitlab-18-5-2-released
+GitLab Multiple Vulnerabilities,CVE-2024-55549,7.8,,Qualys QID,11/14 CH - QID Available (385945),https://about.gitlab.com/releases/2025/11/12/patch-release-gitlab-18-5-2-released
+GitLab Multiple Vulnerabilities,CVE-2025-24855,7.8,,Qualys QID,11/14 CH - QID Available (385945),https://about.gitlab.com/releases/2025/11/12/patch-release-gitlab-18-5-2-released
+Microsoft Edge (Chromium-Based) V8 Unspecified Vulnerability,CVE-2025-13042,8.8,,Qualys QID,11/14 CH - QID Available (385953),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-13-2025
+Splunk Enterprise Multiple Vulnerabilities,CVE-2025-52999,7.5,,Qualys Pipeline,11/14 CH - QID in Pipeline (385942),"https://advisory.splunk.com//advisories/SVD-2025-1101
+https://advisory.splunk.com//advisories/SVD-2025-1102
+https://advisory.splunk.com//advisories/SVD-2025-1103"
+IBM Advanced Interactive eXecutive (AIX) Nim Multiple Vulnerabilities,CVE-2025-36251,8.8,,Qualys Pipeline,11/14 CH - QID in Pipeline (330234),https://aix.software.ibm.com/aix/efixes/security/nim_advisory2.asc
+IBM Advanced Interactive eXecutive (AIX) Nim Multiple Vulnerabilities,CVE-2025-36250,8.8,,Qualys Pipeline,11/14 CH - QID in Pipeline (330234),https://aix.software.ibm.com/aix/efixes/security/nim_advisory2.asc
+IBM Advanced Interactive eXecutive (AIX) Nim Multiple Vulnerabilities,CVE-2025-36096,9,,Qualys Pipeline,11/14 CH - QID in Pipeline (330234),https://aix.software.ibm.com/aix/efixes/security/nim_advisory2.asc
+IBM Advanced Interactive eXecutive (AIX) Nim Multiple Vulnerabilities,CVE-2025-36236,8.8,,Qualys Pipeline,11/14 CH - QID in Pipeline (330234),https://aix.software.ibm.com/aix/efixes/security/nim_advisory2.asc
+IBM Advanced Interactive eXecutive (AIX) Nim Multiple Vulnerabilities,CVE-2024-56347,8.8,,Qualys Pipeline,11/14 CH - QID in Pipeline (330234),https://aix.software.ibm.com/aix/efixes/security/nim_advisory2.asc
+IBM Advanced Interactive eXecutive (AIX) Nim Multiple Vulnerabilities,CVE-2024-56346,8.8,,Qualys Pipeline,11/14 CH - QID in Pipeline (330234),https://aix.software.ibm.com/aix/efixes/security/nim_advisory2.asc
