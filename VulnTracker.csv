@@ -1,20 +1,14 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Apache OpenOffice Multiple Vulnerabilities,CVE-2025-64404,7.5,,Qualys QID,11/14 CH - QID Available (385947),"https://openoffice.apache.org/blog/announcing-apache-openoffice-4-1-16.html
-"
-Apache OpenOffice Multiple Vulnerabilities,CVE-2025-64405,7.5,,Qualys QID,11/14 CH - QID Available (385947),"https://openoffice.apache.org/blog/announcing-apache-openoffice-4-1-16.html
-"
-Apache OpenOffice Multiple Vulnerabilities,CVE-2025-64403,8.1,,Qualys QID,11/14 CH - QID Available (385947),"https://openoffice.apache.org/blog/announcing-apache-openoffice-4-1-16.html
-"
-GitLab Multiple Vulnerabilities,CVE-2025-11224,7.7,,Qualys QID,11/14 CH - QID Available (385945),https://about.gitlab.com/releases/2025/11/12/patch-release-gitlab-18-5-2-released
-GitLab Multiple Vulnerabilities,CVE-2024-55549,7.8,,Qualys QID,11/14 CH - QID Available (385945),https://about.gitlab.com/releases/2025/11/12/patch-release-gitlab-18-5-2-released
-GitLab Multiple Vulnerabilities,CVE-2025-24855,7.8,,Qualys QID,11/14 CH - QID Available (385945),https://about.gitlab.com/releases/2025/11/12/patch-release-gitlab-18-5-2-released
-Microsoft Edge (Chromium-Based) V8 Unspecified Vulnerability,CVE-2025-13042,8.8,,Qualys QID,11/14 CH - QID Available (385953),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-13-2025
-Splunk Enterprise Multiple Vulnerabilities,CVE-2025-52999,7.5,,Qualys Pipeline,11/14 CH - QID in Pipeline (385942),"https://advisory.splunk.com//advisories/SVD-2025-1101
-https://advisory.splunk.com//advisories/SVD-2025-1102
-https://advisory.splunk.com//advisories/SVD-2025-1103"
-IBM Advanced Interactive eXecutive (AIX) Nim Multiple Vulnerabilities,CVE-2025-36251,8.8,,Qualys Pipeline,11/14 CH - QID in Pipeline (330234),https://aix.software.ibm.com/aix/efixes/security/nim_advisory2.asc
-IBM Advanced Interactive eXecutive (AIX) Nim Multiple Vulnerabilities,CVE-2025-36250,8.8,,Qualys Pipeline,11/14 CH - QID in Pipeline (330234),https://aix.software.ibm.com/aix/efixes/security/nim_advisory2.asc
-IBM Advanced Interactive eXecutive (AIX) Nim Multiple Vulnerabilities,CVE-2025-36096,9,,Qualys Pipeline,11/14 CH - QID in Pipeline (330234),https://aix.software.ibm.com/aix/efixes/security/nim_advisory2.asc
-IBM Advanced Interactive eXecutive (AIX) Nim Multiple Vulnerabilities,CVE-2025-36236,8.8,,Qualys Pipeline,11/14 CH - QID in Pipeline (330234),https://aix.software.ibm.com/aix/efixes/security/nim_advisory2.asc
-IBM Advanced Interactive eXecutive (AIX) Nim Multiple Vulnerabilities,CVE-2024-56347,8.8,,Qualys Pipeline,11/14 CH - QID in Pipeline (330234),https://aix.software.ibm.com/aix/efixes/security/nim_advisory2.asc
-IBM Advanced Interactive eXecutive (AIX) Nim Multiple Vulnerabilities,CVE-2024-56346,8.8,,Qualys Pipeline,11/14 CH - QID in Pipeline (330234),https://aix.software.ibm.com/aix/efixes/security/nim_advisory2.asc
+Red Hat update for lasso,CVE-2025-47151,9.8,,Qualys QID,"11/18 CH - QID Available (6044779, 6045048)","https://access.redhat.com/errata/RHSA-2025:21404
+https://access.redhat.com/errata/RHSA-2025:21462"
+Red Hat update for libtiff,CVE-2025-9900,8.8,,Qualys QID,11/18 CH - QID Available (6045039),https://access.redhat.com/errata/RHSA-2025:21407
+Red Hat update for kernel,CVE-2025-39864,7,,Qualys QID,11/18 CH - QID Available (6045049),https://access.redhat.com/errata/RHSA-2025:21463
+Red Hat update for kernel,CVE-2025-39903,7.3,,Qualys QID,11/18 CH - QID Available (6045049),https://access.redhat.com/errata/RHSA-2025:21463
+Red Hat update for kernel,CVE-2025-38498,7.3,,Qualys QID,11/18 CH - QID Available (6045051),https://access.redhat.com/errata/RHSA-2025:21469
+Red Hat update for kernel,CVE-2025-39697,7.5,,Qualys QID,11/18 CH - QID Available (6045051),https://access.redhat.com/errata/RHSA-2025:21469
+Red Hat update for kernel,CVE-2025-39982,7.5,,Qualys QID,11/18 CH - QID Available (6045051),https://access.redhat.com/errata/RHSA-2025:21469
+Red Hat update for kernel,CVE-2025-39881,7.3,,Qualys QID,11/18 CH - QID Available (6045051),https://access.redhat.com/errata/RHSA-2025:21469
+Red Hat update for kernel,CVE-2025-40047,7.8,,Qualys QID,11/18 CH - QID Available (6045051),https://access.redhat.com/errata/RHSA-2025:21469
+Red Hat update for java-25-openjdk,CVE-2025-53066,7.5,,Qualys QID,11/18 CH - QID Available (6045054),https://access.redhat.com/errata/RHSA-2025:21485
+Google Chrome Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-13223,High,,Qualys Pipeline,11/18 CH - QID in Pipeline (386014) | Exploited in the wild,https://chromereleases.googleblog.com/2025/11/stable-channel-update-for-desktop_17.html
+Google Chrome Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-13224,High,,Qualys Pipeline,11/18 CH - QID in Pipeline (386014),https://chromereleases.googleblog.com/2025/11/stable-channel-update-for-desktop_17.html
