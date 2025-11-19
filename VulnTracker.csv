@@ -1,14 +1,27 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Red Hat update for lasso,CVE-2025-47151,9.8,,Qualys QID,"11/18 CH - QID Available (6044779, 6045048)","https://access.redhat.com/errata/RHSA-2025:21404
-https://access.redhat.com/errata/RHSA-2025:21462"
-Red Hat update for libtiff,CVE-2025-9900,8.8,,Qualys QID,11/18 CH - QID Available (6045039),https://access.redhat.com/errata/RHSA-2025:21407
-Red Hat update for kernel,CVE-2025-39864,7,,Qualys QID,11/18 CH - QID Available (6045049),https://access.redhat.com/errata/RHSA-2025:21463
-Red Hat update for kernel,CVE-2025-39903,7.3,,Qualys QID,11/18 CH - QID Available (6045049),https://access.redhat.com/errata/RHSA-2025:21463
-Red Hat update for kernel,CVE-2025-38498,7.3,,Qualys QID,11/18 CH - QID Available (6045051),https://access.redhat.com/errata/RHSA-2025:21469
-Red Hat update for kernel,CVE-2025-39697,7.5,,Qualys QID,11/18 CH - QID Available (6045051),https://access.redhat.com/errata/RHSA-2025:21469
-Red Hat update for kernel,CVE-2025-39982,7.5,,Qualys QID,11/18 CH - QID Available (6045051),https://access.redhat.com/errata/RHSA-2025:21469
-Red Hat update for kernel,CVE-2025-39881,7.3,,Qualys QID,11/18 CH - QID Available (6045051),https://access.redhat.com/errata/RHSA-2025:21469
-Red Hat update for kernel,CVE-2025-40047,7.8,,Qualys QID,11/18 CH - QID Available (6045051),https://access.redhat.com/errata/RHSA-2025:21469
-Red Hat update for java-25-openjdk,CVE-2025-53066,7.5,,Qualys QID,11/18 CH - QID Available (6045054),https://access.redhat.com/errata/RHSA-2025:21485
-Google Chrome Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-13223,High,,Qualys Pipeline,11/18 CH - QID in Pipeline (386014) | Exploited in the wild,https://chromereleases.googleblog.com/2025/11/stable-channel-update-for-desktop_17.html
-Google Chrome Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-13224,High,,Qualys Pipeline,11/18 CH - QID in Pipeline (386014),https://chromereleases.googleblog.com/2025/11/stable-channel-update-for-desktop_17.html
+Red Hat update for libsoup,CVE-2025-2784,7,,Qualys QID,11/19 CH - QID Available (6045062),https://access.redhat.com/errata/RHSA-2025:21657
+Red Hat update for libsoup,CVE-2025-32914,7.4,,Qualys QID,11/19 CH - QID Available (6045062),https://access.redhat.com/errata/RHSA-2025:21657
+Red Hat update for libsoup,CVE-2025-32913,7.5,,Qualys QID,11/19 CH - QID Available (6045062),https://access.redhat.com/errata/RHSA-2025:21657
+Red Hat update for libsoup,CVE-2025-11021,7.5,,Qualys QID,11/19 CH - QID Available (6045062),https://access.redhat.com/errata/RHSA-2025:21657
+Red Hat update for libsoup,CVE-2025-32906,7.5,,Qualys QID,11/19 CH - QID Available (6045062),https://access.redhat.com/errata/RHSA-2025:21657
+Red Hat update for libsoup,CVE-2025-4948,7.5,,Qualys QID,11/19 CH - QID Available (6045062),https://access.redhat.com/errata/RHSA-2025:21657
+Red Hat update for libsoup,CVE-2025-32049,7.5,,Qualys QID,11/19 CH - QID Available (6045062),https://access.redhat.com/errata/RHSA-2025:21657
+Red Hat update for libsoup,CVE-2025-32911,9,,Qualys QID,11/19 CH - QID Available (6045062),https://access.redhat.com/errata/RHSA-2025:21657
+Atlassian Confluence tar-fs Security Bypass Vulnerability,CVE-2025-48387,8.7,,Qualys QID,11/19 CH - QID Available (733426),https://jira.atlassian.com/browse/CONFSERVER-101479
+Atlassian Confluence Security Bypass Vulnerability,CVE-2022-46175,7.1,,Qualys QID,11/19 CH - QID Available (386039),https://jira.atlassian.com/browse/CONFSERVER-101487
+Atlassian Confluence Security Update,CVE-2023-42282,8,,Qualys Pipeline,"11/19 CH - QID in Pipeline (733426,733425, 386023)",https://jira.atlassian.com/browse/CONFSERVER-101488
+Atlassian Jira Apache Commons FileUpload Denial of Service Vulnerability,CVE-2025-48976,7.5,,Qualys Pipeline,"11/19 CH - QID in Pipeline (386052,733427)","https://jira.atlassian.com/browse/JSDSERVER-16435
+https://jira.atlassian.com/browse/JSWSERVER-26537"
+Microsoft Edge (Chromium-Based) Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-13223,8.8,,Qualys QID,11/19 CH - QID Available (386021),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-18-2025
+Microsoft Edge (Chromium-Based) Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-13224,8.8,,Qualys QID,11/19 CH - QID Available (386021),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-18-2025
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-13025,7.5,,Qualys QID,11/19 CH - QID Available (386065),https://www.mozilla.org/en-US/security/advisories/mfsa2025-87
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-13027,8.1,,Qualys QID,11/19 CH - QID Available (386065),https://www.mozilla.org/en-US/security/advisories/mfsa2025-87
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-13026,8.1,,Qualys QID,11/19 CH - QID Available (386065),https://www.mozilla.org/en-US/security/advisories/mfsa2025-87
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-13022,8.8,,Qualys QID,11/19 CH - QID Available (386065),https://www.mozilla.org/en-US/security/advisories/mfsa2025-87
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-13021,8.8,,Qualys QID,11/19 CH - QID Available (386065),https://www.mozilla.org/en-US/security/advisories/mfsa2025-87
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-13023,9.6,,Qualys QID,11/19 CH - QID Available (386065),https://www.mozilla.org/en-US/security/advisories/mfsa2025-87
+Mozilla Firefox Multiple Vulnerabilities,CVE-2025-13024,9.8,,Qualys QID,11/19 CH - QID Available (386065),https://www.mozilla.org/en-US/security/advisories/mfsa2025-87
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-13016,7.5,,Qualys QID,11/19 CH - QID Available (386066),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-87
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-88"
+Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-13016,7.5,,Qualys QID,11/19 CH - QID Available (386066),"https://www.mozilla.org/en-US/security/advisories/mfsa2025-87
+https://www.mozilla.org/en-US/security/advisories/mfsa2025-89"
