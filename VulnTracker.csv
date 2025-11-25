@@ -1,19 +1,23 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Red Hat update for expat,CVE-2025-59375,7.5,,Qualys QID,11/20 CH - QID Available (6045082),https://access.redhat.com/errata/RHSA-2025:21776
-Red Hat update for haproxy,CVE-2025-11230,7.5,,Qualys QID,"11/20 CH - QID Available (6045064, 6045068)","https://access.redhat.com/errata/RHSA-2025:21691
-https://access.redhat.com/errata/RHSA-2025:21693"
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2025-59530,7.5,,Qualys QID,11/20 CH - QID Available (6045081),https://access.redhat.com/errata/RHSA-2025:21768
-Red Hat update for webkit2gtk3,CVE-2025-43342,9.8,,Qualys QID,11/20 CH - QID Available (6044710),https://access.redhat.com/errata/RHSA-2025:20922
-Red Hat update for webkit2gtk3,CVE-2025-43343,9.8,,Qualys QID,11/20 CH - QID Available (6044710),https://access.redhat.com/errata/RHSA-2025:20922
-Serv-U Update,CVE-2025-40547,9.1,,Qualys QID,11/20 CH - QID Available (386053),"https://documentation.solarwinds.com/en/success_center/servu/content/release_notes/servu_15-5-3_release_notes.htm
-https://www.solarwinds.com/trust-center/security-advisories/cve-2025-40547
-https://www.solarwinds.com/trust-center/security-advisories/cve-2025-40548
-https://www.solarwinds.com/trust-center/security-advisories/cve-2025-40549"
-Serv-U Update,CVE-2025-40549,9.1,,Qualys QID,11/20 CH - QID Available (386053),"https://documentation.solarwinds.com/en/success_center/servu/content/release_notes/servu_15-5-3_release_notes.htm
-https://www.solarwinds.com/trust-center/security-advisories/cve-2025-40547
-https://www.solarwinds.com/trust-center/security-advisories/cve-2025-40548
-https://www.solarwinds.com/trust-center/security-advisories/cve-2025-40549"
-Serv-U Update,CVE-2025-40548,9.1,,Qualys QID,11/20 CH - QID Available (386053),"https://documentation.solarwinds.com/en/success_center/servu/content/release_notes/servu_15-5-3_release_notes.htm
-https://www.solarwinds.com/trust-center/security-advisories/cve-2025-40547
-https://www.solarwinds.com/trust-center/security-advisories/cve-2025-40548
-https://www.solarwinds.com/trust-center/security-advisories/cve-2025-40549"
+Red Hat update for gimp,CVE-2025-10920,,7.8,,11/25 CH - QID Available (6045112),https://access.redhat.com/errata/RHSA-2025:21968
+Red Hat update for gimp,CVE-2025-10925,,7.8,,11/25 CH - QID Available (6045112),https://access.redhat.com/errata/RHSA-2025:21968
+Red Hat update for gimp,CVE-2025-10934,,7.8,,11/25 CH - QID Available (6045112),https://access.redhat.com/errata/RHSA-2025:21968
+Red Hat update for gimp,CVE-2025-10922,,7.8,,11/25 CH - QID Available (6045112),https://access.redhat.com/errata/RHSA-2025:21968
+Red Hat update for gimp,CVE-2025-10923,,7.8,,11/25 CH - QID Available (6045112),https://access.redhat.com/errata/RHSA-2025:21968
+Red Hat update for gimp,CVE-2025-10924,,7.8,,11/25 CH - QID Available (6045112),https://access.redhat.com/errata/RHSA-2025:21968
+Red Hat update for gimp,CVE-2025-10921,,7.8,,11/25 CH - QID Available (6045112),https://access.redhat.com/errata/RHSA-2025:21968
+Red Hat update for kernel,CVE-2023-53297,,7,,11/25 CH - QID Available (6045117),https://access.redhat.com/errata/RHSA-2025:22006
+Red Hat update for kernel,CVE-2022-50386,,7,,11/25 CH - QID Available (6045117),https://access.redhat.com/errata/RHSA-2025:22006
+Red Hat update for kernel,CVE-2022-50356,,7,,11/25 CH - QID Available (6045117),https://access.redhat.com/errata/RHSA-2025:22006
+Red Hat update for kernel,CVE-2023-53393,,7,,11/25 CH - QID Available (6045117),https://access.redhat.com/errata/RHSA-2025:22006
+Red Hat update for kernel,CVE-2023-53354,,7,,11/25 CH - QID Available (6045117),https://access.redhat.com/errata/RHSA-2025:22006
+Red Hat update for kernel,CVE-2023-53365,,7,,11/25 CH - QID Available (6045117),https://access.redhat.com/errata/RHSA-2025:22006
+Red Hat update for kernel,CVE-2025-39757,,7,,11/25 CH - QID Available (6045117),https://access.redhat.com/errata/RHSA-2025:22006
+Red Hat update for kernel,CVE-2022-50341,,7,,11/25 CH - QID Available (6045117),https://access.redhat.com/errata/RHSA-2025:22006
+Red Hat update for kernel,CVE-2023-53232,,7,,11/25 CH - QID Available (6045117),https://access.redhat.com/errata/RHSA-2025:22006
+Red Hat update for kernel,CVE-2025-38718,,7.5,,11/25 CH - QID Available (6045117),https://access.redhat.com/errata/RHSA-2025:22006
+Red Hat update for kernel,CVE-2023-53257,,7.5,,11/25 CH - QID Available (6045117),https://access.redhat.com/errata/RHSA-2025:22006
+Red Hat update for expat,CVE-2025-59375,,7.5,,11/25 CH - QID Available (6045127),https://access.redhat.com/errata/RHSA-2025:22035
+Red Hat update for expat,CVE-2024-8176,,7.5,,11/25 CH - QID Available (6045127),https://access.redhat.com/errata/RHSA-2025:22035
+Red Hat update for expat,CVE-2023-52425,,7.5,,11/25 CH - QID Available (6045127),https://access.redhat.com/errata/RHSA-2025:22035
+Red Hat update for expat,CVE-2013-0340,,9.1,,11/25 CH - QID Available (6045127),https://access.redhat.com/errata/RHSA-2025:22035
