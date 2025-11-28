@@ -1,23 +1,11 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Red Hat update for gimp,CVE-2025-10920,,7.8,,11/25 CH - QID Available (6045112),https://access.redhat.com/errata/RHSA-2025:21968
-Red Hat update for gimp,CVE-2025-10925,,7.8,,11/25 CH - QID Available (6045112),https://access.redhat.com/errata/RHSA-2025:21968
-Red Hat update for gimp,CVE-2025-10934,,7.8,,11/25 CH - QID Available (6045112),https://access.redhat.com/errata/RHSA-2025:21968
-Red Hat update for gimp,CVE-2025-10922,,7.8,,11/25 CH - QID Available (6045112),https://access.redhat.com/errata/RHSA-2025:21968
-Red Hat update for gimp,CVE-2025-10923,,7.8,,11/25 CH - QID Available (6045112),https://access.redhat.com/errata/RHSA-2025:21968
-Red Hat update for gimp,CVE-2025-10924,,7.8,,11/25 CH - QID Available (6045112),https://access.redhat.com/errata/RHSA-2025:21968
-Red Hat update for gimp,CVE-2025-10921,,7.8,,11/25 CH - QID Available (6045112),https://access.redhat.com/errata/RHSA-2025:21968
-Red Hat update for kernel,CVE-2023-53297,,7,,11/25 CH - QID Available (6045117),https://access.redhat.com/errata/RHSA-2025:22006
-Red Hat update for kernel,CVE-2022-50386,,7,,11/25 CH - QID Available (6045117),https://access.redhat.com/errata/RHSA-2025:22006
-Red Hat update for kernel,CVE-2022-50356,,7,,11/25 CH - QID Available (6045117),https://access.redhat.com/errata/RHSA-2025:22006
-Red Hat update for kernel,CVE-2023-53393,,7,,11/25 CH - QID Available (6045117),https://access.redhat.com/errata/RHSA-2025:22006
-Red Hat update for kernel,CVE-2023-53354,,7,,11/25 CH - QID Available (6045117),https://access.redhat.com/errata/RHSA-2025:22006
-Red Hat update for kernel,CVE-2023-53365,,7,,11/25 CH - QID Available (6045117),https://access.redhat.com/errata/RHSA-2025:22006
-Red Hat update for kernel,CVE-2025-39757,,7,,11/25 CH - QID Available (6045117),https://access.redhat.com/errata/RHSA-2025:22006
-Red Hat update for kernel,CVE-2022-50341,,7,,11/25 CH - QID Available (6045117),https://access.redhat.com/errata/RHSA-2025:22006
-Red Hat update for kernel,CVE-2023-53232,,7,,11/25 CH - QID Available (6045117),https://access.redhat.com/errata/RHSA-2025:22006
-Red Hat update for kernel,CVE-2025-38718,,7.5,,11/25 CH - QID Available (6045117),https://access.redhat.com/errata/RHSA-2025:22006
-Red Hat update for kernel,CVE-2023-53257,,7.5,,11/25 CH - QID Available (6045117),https://access.redhat.com/errata/RHSA-2025:22006
-Red Hat update for expat,CVE-2025-59375,,7.5,,11/25 CH - QID Available (6045127),https://access.redhat.com/errata/RHSA-2025:22035
-Red Hat update for expat,CVE-2024-8176,,7.5,,11/25 CH - QID Available (6045127),https://access.redhat.com/errata/RHSA-2025:22035
-Red Hat update for expat,CVE-2023-52425,,7.5,,11/25 CH - QID Available (6045127),https://access.redhat.com/errata/RHSA-2025:22035
-Red Hat update for expat,CVE-2013-0340,,9.1,,11/25 CH - QID Available (6045127),https://access.redhat.com/errata/RHSA-2025:22035
+IBM App Connect Enterprise / IBM Integration Bus Apache Commons Lang Denial of Service Vulnerability,CVE-2025-48924,Column1,Column2,Column3,Column4,https://www.ibm.com/support/pages/node/7252694
+GitLab Multiple Vulnerabilities,CVE-2024-9183,7.5,,Qualys QID,11/28 CH - QID Available (386123),https://about.gitlab.com/releases/2025/11/26/patch-release-gitlab-18-6-1-released
+Red Hat JBoss Enterprise Application Platform Vulnerability,CVE-2025-4949,8.6,,Qualys QID,"11/28 CH - QID Available (6045148, 6045149)","https://access.redhat.com/errata/RHSA-2025:22187
+https://access.redhat.com/errata/RHSA-2025:22188"
+Red Hat update for bind,CVE-2025-40778,7.9,,Qualys QID,"11/28 CH - QID Available (6045144, 6045150)","https://access.redhat.com/errata/RHSA-2025:22168
+https://access.redhat.com/errata/RHSA-2025:22205"
+Red Hat update for expat,CVE-2025-59375,8.6,,Qualys QID,11/28 CH - QID Available (6045145),https://access.redhat.com/errata/RHSA-2025:22175
+Red Hat update for golang,CVE-2025-47906,7.5,,Qualys QID,11/28 CH - QID Available (6045146),https://access.redhat.com/errata/RHSA-2025:22181
+Red Hat update for tigervnc,CVE-2025-62229,7.8,,Qualys QID,11/28 CH - QID Available (6045140),https://access.redhat.com/errata/RHSA-2025:22164
+Red Hat update for tigervnc,CVE-2025-62231,7.8,,Qualys QID,11/28 CH - QID Available (6045140),https://access.redhat.com/errata/RHSA-2025:22164
