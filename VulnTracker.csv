@@ -1,42 +1,17 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Apache Struts Multipart Request Processing Denial of Service Vulnerability,CVE-2025-64775,7.5,,,,https://cwiki.apache.org/confluence/display/WW/S2-068
-Red Hat update for gimp:2.8,CVE-2025-10920,7.8,,,,https://access.redhat.com/errata/RHSA-2025:22417
-Red Hat update for gimp:2.8,CVE-2025-10922,7.8,,,,https://access.redhat.com/errata/RHSA-2025:22417
-Red Hat update for gimp:2.8,CVE-2025-10924,7.8,,,,https://access.redhat.com/errata/RHSA-2025:22417
-Red Hat update for gimp:2.8,CVE-2025-10925,7.8,,,,https://access.redhat.com/errata/RHSA-2025:22417
-Red Hat update for gimp:2.8,CVE-2025-10923,7.8,,,,https://access.redhat.com/errata/RHSA-2025:22417
-Red Hat update for gimp:2.8,CVE-2025-10921,7.8,,,,https://access.redhat.com/errata/RHSA-2025:22417
-Red Hat update for gimp:2.8,CVE-2025-10934,7.8,,,,https://access.redhat.com/errata/RHSA-2025:22417
-Red Hat update for haproxy,CVE-2025-11230,7.5,,,,"https://access.redhat.com/errata/RHSA-2025:22398
-https://access.redhat.com/errata/RHSA-2025:22399
-https://access.redhat.com/errata/RHSA-2025:22422"
-Red Hat update for java-1.8.0-ibm,CVE-2025-53066,7.5,,,,https://access.redhat.com/errata/RHSA-2025:22370
-Red Hat update for kernel,CVE-2025-38724,7,,,,"https://access.redhat.com/errata/RHSA-2025:22388
-https://access.redhat.com/errata/RHSA-2025:22392
-https://access.redhat.com/errata/RHSA-2025:22395
-https://access.redhat.com/errata/RHSA-2025:22405"
-Red Hat update for kernel,CVE-2025-39883,7,,,,"https://access.redhat.com/errata/RHSA-2025:22388
-https://access.redhat.com/errata/RHSA-2025:22392
-https://access.redhat.com/errata/RHSA-2025:22395"
-Red Hat update for kernel,CVE-2025-39864,7,,,,"https://access.redhat.com/errata/RHSA-2025:22392
-https://access.redhat.com/errata/RHSA-2025:22405"
-Red Hat update for kernel,CVE-2025-39971,7,,,,https://access.redhat.com/errata/RHSA-2025:22395
-Red Hat update for kernel,CVE-2025-39825,7,,,,https://access.redhat.com/errata/RHSA-2025:22388
-Red Hat update for kernel,CVE-2023-53513,7.3,,,,https://access.redhat.com/errata/RHSA-2025:22388
-Red Hat update for kernel,CVE-2025-40185,7.5,,,,https://access.redhat.com/errata/RHSA-2025:22405
-Red Hat update for kernel,CVE-2025-39955,7.6,,,,"https://access.redhat.com/errata/RHSA-2025:22388
-https://access.redhat.com/errata/RHSA-2025:22392
-https://access.redhat.com/errata/RHSA-2025:22405"
-Red Hat update for kernel,CVE-2025-22068,7.8,,,,https://access.redhat.com/errata/RHSA-2025:22395
-Red Hat update for xorg-x11-server,CVE-2025-62231,7.8,,,,"https://access.redhat.com/errata/RHSA-2025:22364
-https://access.redhat.com/errata/RHSA-2025:22365
-https://access.redhat.com/errata/RHSA-2025:22426
-https://access.redhat.com/errata/RHSA-2025:22427"
-Red Hat update for xorg-x11-server,CVE-2025-62230,7.8,,,,"https://access.redhat.com/errata/RHSA-2025:22364
-https://access.redhat.com/errata/RHSA-2025:22365
-https://access.redhat.com/errata/RHSA-2025:22426
-https://access.redhat.com/errata/RHSA-2025:22427"
-Red Hat update for xorg-x11-server,CVE-2025-62229,7.8,,,,"https://access.redhat.com/errata/RHSA-2025:22364
-https://access.redhat.com/errata/RHSA-2025:22365
-https://access.redhat.com/errata/RHSA-2025:22426
-https://access.redhat.com/errata/RHSA-2025:22427"
+Google Chrome Multiple Vulnerabilities,CVE-2025-13630,High,,Qualys Pipeline,12/3 CH - QID in pipeline (386141),https://chromereleases.googleblog.com/2025/12/stable-channel-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-13631,High,,Qualys Pipeline,12/3 CH - QID in pipeline (386141),https://chromereleases.googleblog.com/2025/12/stable-channel-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-13633,High,,Qualys Pipeline,12/3 CH - QID in pipeline (386141),https://chromereleases.googleblog.com/2025/12/stable-channel-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-13634,Medium,,Qualys Pipeline,12/3 CH - QID in pipeline (386141),https://chromereleases.googleblog.com/2025/12/stable-channel-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-13635,Low,,Qualys Pipeline,12/3 CH - QID in pipeline (386141),https://chromereleases.googleblog.com/2025/12/stable-channel-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-13636,Low,,Qualys Pipeline,12/3 CH - QID in pipeline (386141),https://chromereleases.googleblog.com/2025/12/stable-channel-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-13637,Low,,Qualys Pipeline,12/3 CH - QID in pipeline (386141),https://chromereleases.googleblog.com/2025/12/stable-channel-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-13638,Low,,Qualys Pipeline,12/3 CH - QID in pipeline (386141),https://chromereleases.googleblog.com/2025/12/stable-channel-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-13639,Low,,Qualys Pipeline,12/3 CH - QID in pipeline (386141),https://chromereleases.googleblog.com/2025/12/stable-channel-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-13640,Low,,Qualys Pipeline,12/3 CH - QID in pipeline (386141),https://chromereleases.googleblog.com/2025/12/stable-channel-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-13720,Medium,,Qualys Pipeline,12/3 CH - QID in pipeline (386141),https://chromereleases.googleblog.com/2025/12/stable-channel-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2025-13721,Medium,,Qualys Pipeline,12/3 CH - QID in pipeline (386141),https://chromereleases.googleblog.com/2025/12/stable-channel-update-for-desktop.html
+Red Hat update for expat,CVE-2013-0340,7.5,,Qualys Pipeline,12/3 CH - QID in pipeline (6045189),https://access.redhat.com/errata/RHSA-2025:22607
+Red Hat update for expat,CVE-2022-23990,7.5,,Qualys Pipeline,12/3 CH - QID in pipeline (6045189),https://access.redhat.com/errata/RHSA-2025:22607
+Red Hat update for expat,CVE-2024-8176,7.5,,Qualys Pipeline,12/3 CH - QID in pipeline (6045189),https://access.redhat.com/errata/RHSA-2025:22607
+Red Hat update for expat,CVE-2025-59375,7.5,,Qualys Pipeline,12/3 CH - QID in pipeline (6045189),https://access.redhat.com/errata/RHSA-2025:22607
