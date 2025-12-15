@@ -1,35 +1,76 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Atlassian Bamboo Apache Tika Update,CVE-2025-66516,10,,None,12/12 CH - Monitor for QID,"https://jira.atlassian.com/browse/BAM-26272
-https://jira.atlassian.com/browse/JSWSERVER-26630"
-Atlassian Bamboo Apache Tomcat Denial of Service Vulnerability,CVE-2025-52434,7.5,,None,12/12 CH - Monitor for QID,https://jira.atlassian.com/browse/BAM-26252
-Atlassian Jira Apache Tika XML External Entity Vulnerability,CVE-2025-54988,8.4,,None,12/12 CH - Monitor for QID,https://jira.atlassian.com/browse/JSWSERVER-26614
-Atlassian JIRA Axios Security Bypass Vulnerability,CVE-2025-27152,7.5,,None,12/12 CH - Monitor for QID,https://jira.atlassian.com/browse/JSWSERVER-26629
-Atlassian Jira ion-java Denial of Service Vulnerability,CVE-2024-21634,7.5,,None,12/12 CH - Monitor for QID,https://jira.atlassian.com/browse/JSWSERVER-26628
-Atlassian Jira Jettison Denial of Service Vulnerability,CVE-2022-45693,7.5,,None,12/12 CH - Monitor for QID,https://jira.atlassian.com/browse/JSWSERVER-26600
-Atlassian Jira minimatch Denial of Service Vulnerability,CVE-2022-3517,7.5,,None,12/12 CH - Monitor for QID,https://jira.atlassian.com/browse/JSWSERVER-26626
-Atlassian Jira Netty Denial of Service Vulnerability,CVE-2025-55163,7.5,,None,12/12 CH - Monitor for QID,https://jira.atlassian.com/browse/JSWSERVER-26599
-Atlassian Jira zrender Prototype Pollution Vulnerability,CVE-2021-39227,9.8,,None,12/12 CH - Monitor for QID,https://jira.atlassian.com/browse/JSWSERVER-26625
-IBM AIX and IBM Virtual I/O Server OpenSSL Multiple Vulnerabilities,CVE-2025-9230,7.5,,Qualys QID,12/12 CH - QID Available (330237),"https://aix.software.ibm.com/aix/efixes/security/openssl_advisory45.asc
-https://www.ibm.com/support/pages/node/7254361"
-Atlassian Confluence node-ip Update,CVE-2024-29415,7.5,,Qualys QID,12/12 CH - QID Available (386048),https://jira.atlassian.com/browse/CONFSERVER-101489
-Atlassian JIRA Apache Commons FileUpload Denial of Service Vulnerability,CVE-2025-48976,7.5,,Qualys QID,"12/12 CH - QID Available (386052, 733427)","https://jira.atlassian.com/browse/JSWSERVER-26627
-"
-Red Hat update for webkit2gtk3,CVE-2025-13947,7.4,,Qualys QID,"12/12 CH - QID Available (6045210, 6045204)","https://access.redhat.com/errata/RHSA-2025:22789
-https://access.redhat.com/errata/RHSA-2025:23110"
-Red Hat update for webkit2gtk3,CVE-2025-13502,7.5,,Qualys QID,"12/12 CH - QID Available (6045210, 6045204)","https://access.redhat.com/errata/RHSA-2025:22789
-https://access.redhat.com/errata/RHSA-2025:23110"
-Red Hat update for webkit2gtk3,CVE-2025-43432,8.8,,Qualys QID,"12/12 CH - QID Available (6045210, 6045204)","https://access.redhat.com/errata/RHSA-2025:22789
-https://access.redhat.com/errata/RHSA-2025:23110"
-Red Hat update for webkit2gtk3,CVE-2025-66287,8.8,,Qualys QID,"12/12 CH - QID Available (6045210, 6045204)","https://access.redhat.com/errata/RHSA-2025:22789
-https://access.redhat.com/errata/RHSA-2025:23110"
-Red Hat update for webkit2gtk3,CVE-2025-43431,8.8,,Qualys QID,"12/12 CH - QID Available (6045210, 6045204)","https://access.redhat.com/errata/RHSA-2025:22789
-https://access.redhat.com/errata/RHSA-2025:23110"
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2025-62727,7.5,,Qualys QID,12/12 CH - QID Available (6045258),https://access.redhat.com/errata/RHSA-2025:23069
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2025-58754,7.5,,Qualys QID,12/12 CH - QID Available (6045258),https://access.redhat.com/errata/RHSA-2025:23069
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2025-59530,7.5,,Qualys QID,12/12 CH - QID Available (6045258),https://access.redhat.com/errata/RHSA-2025:23069
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2025-62707,7.5,,Qualys QID,12/12 CH - QID Available (6045258),https://access.redhat.com/errata/RHSA-2025:23069
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2025-64459,9.1,,Qualys QID,12/12 CH - QID Available (6045258),https://access.redhat.com/errata/RHSA-2025:23069
-Red Hat update for curl,CVE-2025-9086,7.5,,Qualys QID,"12/12 CH - QID Available (6045271, 6045268, 6045264, 6045254)","https://access.redhat.com/errata/RHSA-2025:23043
-https://access.redhat.com/errata/RHSA-2025:23125
-https://access.redhat.com/errata/RHSA-2025:23126
-https://access.redhat.com/errata/RHSA-2025:23127"
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-46288,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43539,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-46287,4.3,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2024-7264,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-9086,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43542,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43518,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43532,2.8,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-46279,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-46285,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-5918,3.9,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43475,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-46276,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43533,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43428,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-46277,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43538,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-46292,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43541,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43536,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43535,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43501,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43531,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43529,9.6,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753) | Exploited in the Wild,https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-14174,9.6,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753) | Exploited in the Wild,https://support.apple.com/en-us/125884
+Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43511,6.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
+Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43539,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
+Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-46287,4.3,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
+Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2024-7264,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
+Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-9086,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
+Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43542,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
+Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43532,2.8,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
+Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-46279,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
+Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43512,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
+Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-46285,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
+Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-5918,3.9,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
+Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-46276,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
+Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43538,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
+Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43530,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
+Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-46292,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
+Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43535,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
+Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43541,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
+Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43501,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
+Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43536,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
+Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43531,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
+Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43529,9.6,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752) | Exploited in the Wild,https://support.apple.com/en-us/125885
+Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-14174,9.6,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752) | Exploited in the Wild,https://support.apple.com/en-us/125885
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43539,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43320,8.6,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43522,5.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43521,5.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43519,5.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43523,5.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-46289,5.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43482,5.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43517,5.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-46287,4.3,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2024-7264,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-9086,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43542,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43518,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43532,2.8,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43512,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-46285,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-5918,3.9,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43513,5.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-46276,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43509,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43527,8.6,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43463,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43416,5.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43516,5.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43530,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43529,9.8,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206) | Exploited in the Wild,https://support.apple.com/en-us/125887
+MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-14174,9.8,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206) | Exploited in the Wild,https://support.apple.com/en-us/125887
