@@ -1,76 +1,43 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-46288,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43539,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-46287,4.3,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2024-7264,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-9086,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43542,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43518,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43532,2.8,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-46279,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-46285,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-5918,3.9,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43475,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-46276,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43533,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43428,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-46277,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43538,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-46292,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43541,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43536,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43535,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43501,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43531,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43529,9.6,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753) | Exploited in the Wild,https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-14174,9.6,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753) | Exploited in the Wild,https://support.apple.com/en-us/125884
-Apple iOS 26.2 Multiple vulnerabilities,CVE-2025-43511,6.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610753),https://support.apple.com/en-us/125884
-Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43539,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
-Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-46287,4.3,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
-Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2024-7264,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
-Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-9086,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
-Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43542,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
-Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43532,2.8,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
-Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-46279,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
-Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43512,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
-Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-46285,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
-Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-5918,3.9,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
-Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-46276,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
-Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43538,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
-Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43530,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
-Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-46292,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
-Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43535,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
-Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43541,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
-Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43501,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
-Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43536,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
-Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43531,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752),https://support.apple.com/en-us/125885
-Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-43529,9.6,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752) | Exploited in the Wild,https://support.apple.com/en-us/125885
-Apple iOS 18.7.3  Multiple Vulnerabilities,CVE-2025-14174,9.6,,Qualys Pipeline,12/15 CH - QID in Pipeline (610752) | Exploited in the Wild,https://support.apple.com/en-us/125885
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43539,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43320,8.6,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43522,5.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43521,5.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43519,5.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43523,5.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-46289,5.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43482,5.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43517,5.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-46287,4.3,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2024-7264,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-9086,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43542,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43518,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43532,2.8,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43512,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-46285,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-5918,3.9,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43513,5.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-46276,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43509,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43527,8.6,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43463,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43416,5.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43516,5.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43530,7.5,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206),https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-43529,9.8,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206) | Exploited in the Wild,https://support.apple.com/en-us/125887
-MacOS Sequoia 15.7.3 Multiple Vulnerabilities,CVE-2025-14174,9.8,,Qualys Pipeline,12/15 CH - QID in Pipeline (386206) | Exploited in the Wild,https://support.apple.com/en-us/125887
+"Bamboo Data Center and Server, DoS (Denial of Service) org.apache.tomcat:tomcat-util Dependency Vulnerability",CVE-2025-52434,7.5,,,12/16 CH - QID in Pipeline (733501),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Bamboo Data Center and Server, XXE (XML External Entity Injection) Tika Dependency Vulnerability",CVE-2025-66516,10,,,12/16 CH - QID in Pipeline (733502),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Bitbucket Data Center and Server, DoS (Denial of Service) com.google.protobuf:protobuf-java Dependency",CVE-2024-7254,7.5,,,12/16 CH - QID Available (386202),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Confluence Data Center and Server, DoS (Denial of Service) loader-utils Dependency Vulnerability",CVE-2022-37599,7.5,,,12/16 CH - QID in Pipeline (733497),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Confluence Data Center and Server, DoS (Denial of Service) loader-utils Dependency Vulnerability",CVE-2022-37603,7.5,,,12/16 CH - QID in Pipeline (733498),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Confluence Data Center and Server, File Inclusion tar-fs Dependency Vulnerability",CVE-2024-12905,7.5,,,12/16 CH - QID in Pipeline (733499),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Confluence Data Center and Server, Prototype Pollution loader-utils Dependency Vulnerability",CVE-2022-37601,9.8,,,12/16 CH - QID in Pipeline (733500),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Confluence Data Center and Server, SSRF (Server-Side Request Forgery)",CVE-2024-29415,7.5,,,"12/16 CH - QID Available (386048, 733495)",https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Confluence Data Center and Server, XXE (XML External Entity Injection) Tika Dependency Vulnerability",CVE-2025-66516,10,,,12/16 CH - QID Available (733496),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Crowd Data Center and Server, DoS (Denial of Service) jackson-core Dependency Vulnerability",CVE-2025-52999,7.5,,,12/16 CH - QID in Pipeline (733523),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Crowd Data Center and Server, DoS (Denial of Service) jackson-databind Dependency Vulnerability",CVE-2021-46877,7.5,,,12/16 CH - QID Available (733528),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Crowd Data Center and Server, DoS (Denial of Service) jackson-databind Dependency Vulnerability",CVE-2022-42004,7.5,,,12/16 CH - QID in Pipeline (733529),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Crowd Data Center and Server, DoS (Denial of Service) netty-codec-http2 Dependency Vulnerability",CVE-2025-55163,7.5,,,12/16 CH - QID in Pipeline (733523),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Crowd Data Center and Server, DoS (Denial of Service) tomcat-coyote Dependency Vulnerability",CVE-2025-48989,7.5,,,12/16 CH - QID in Pipeline (733525),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Crowd Data Center and Server, Information Disclosure jackson-databind Dependency",CVE-2024-13009,7.2,,,12/16 CH - QID in Pipeline (733530),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Crowd Data Center and Server, XXE (XML External Entity Injection) Tika Dependency Vulnerability",CVE-2025-66516,10,,,12/16 CH - QID Available (733520),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Crowd Data Center, DoS (Denial of Service) jackson-databind Dependency Vulnerability",CVE-2020-36518,7.5,,,12/16 CH - QID Available (733526),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Crowd Data Center, Improper Authorization spring-security-core Dependency",CVE-2025-41248,7.5,,,12/16 CH - QID in Pipeline (733524),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Fisheye / Crucible Server, Improper Input Validation MSSQL JDBC Driver",CVE-2025-59250,8.1,,,12/16 CH - QID in Pipeline (386211),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Jira Service Management Data Center and Server, DoS (Denial of Service) axios Dependency",CVE-2025-58754,7.5,,,12/16 CH - QID in Pipeline (733531),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Jira Service Management Data Center and Server, DoS (Denial of Service) minimatch Dependency",CVE-2022-3517,7.5,,,12/16 CH - QID in Pipeline (386231),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Jira Service Management Data Center and Server, DoS (Denial of Service) netty-codec-http2 Dependency",CVE-2025-55163,7.5,,,12/16 CH - QID in Pipeline (386214),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Jira Service Management Data Center and Server, Improper Authorization spring-security-core Dependency",CVE-2025-41248,7.5,,,12/16 CH - QID in Pipeline (386216),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Jira Service Management Data Center and Server, Prototype Pollution lodash.pick Dependency Vulnerability",CVE-2020-8203,7.4,,,12/16 CH - QID in Pipeline (386234),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Jira Service Management Data Center and Server, Prototype Pollution zrender Dependency",CVE-2021-39227,9.8,,,12/16 CH - QID in Pipeline (733522),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Jira Service Management Data Center and Server, RCE (Remote Code Execution)",CVE-2016-1181,8.1,,,12/16 CH - QID Available (733527),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Jira Service Management Data Center and Server, XXE (XML External Entity Injection)",CVE-2023-49735,7.5,,,12/16 CH - QID in Pipeline (386221),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Jira Service Management Data Center and Server, XXE (XML External Entity Injection)",CVE-2025-54988,8.4,,,12/16 CH - QID in Pipeline (386219),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Jira Service Management Data Center and Server, XXE (XML External Entity Injection) Tika Dependency Vulnerability",CVE-2025-66516,10,,,12/16 CH - QID in Pipeline (386215),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Jira Software Data Center and Server, DoS (Denial of Service) axios Dependency",CVE-2025-58754,7.5,,,12/16 CH - QID in Pipeline (733517),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Jira Software Data Center and Server, DoS (Denial of Service) ion-java Dependency",CVE-2024-21634,7.5,,,12/16 CH - QID in Pipeline (733510),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Jira Software Data Center and Server, DoS (Denial of Service) jettison Dependency Vulnerability",CVE-2022-45693,7.5,,,12/16 CH - QID in Pipeline (733515),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Jira Software Data Center and Server, DoS (Denial of Service) minimatch Dependency",CVE-2022-3517,7.5,,,12/16 CH - QID in Pipeline (733511),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Jira Software Data Center and Server, DoS (Denial of Service) netty-codec-http2 Dependency",CVE-2025-55163,7.5,,,12/16 CH - QID in Pipeline (733507),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Jira Software Data Center and Server, Improper Authorization spring-security-core Dependency",CVE-2025-41248,7.5,,,12/16 CH - QID in Pipeline (733516),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Jira Software Data Center and Server, Prototype Pollution lodash.pick Dependency Vulnerability",CVE-2020-8203,7.4,,,"12/16 CH - QID Available (386050, 733508)",https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Jira Software Data Center and Server, Prototype Pollution zrender Dependency",CVE-2021-39227,9.8,,,12/16 CH - QID in Pipeline (733504),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Jira Software Data Center and Server, RCE (Remote Code Execution)",CVE-2016-1181,8.1,,,12/16 CH - QID Available (733506),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Jira Software Data Center and Server, SSRF axios Dependency",CVE-2025-27152,7.5,,,12/16 CH - QID in Pipeline (733505),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Jira Software Data Center and Server, XXE (XML External Entity Injection)",CVE-2023-49735,7.5,,,12/16 CH - QID in Pipeline (733514),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Jira Software Data Center and Server, XXE (XML External Entity Injection)",CVE-2025-54988,8.4,,,12/16 CH - QID in Pipeline (733512),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+"Jira Software Data Center and Server, XXE (XML External Entity Injection) Tika Dependency Vulnerability",CVE-2025-66516,10,,,12/16 CH - QID in Pipeline (733509),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
