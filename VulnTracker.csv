@@ -1,43 +1,28 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-"Bamboo Data Center and Server, DoS (Denial of Service) org.apache.tomcat:tomcat-util Dependency Vulnerability",CVE-2025-52434,7.5,,,12/16 CH - QID in Pipeline (733501),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Bamboo Data Center and Server, XXE (XML External Entity Injection) Tika Dependency Vulnerability",CVE-2025-66516,10,,,12/16 CH - QID in Pipeline (733502),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Bitbucket Data Center and Server, DoS (Denial of Service) com.google.protobuf:protobuf-java Dependency",CVE-2024-7254,7.5,,,12/16 CH - QID Available (386202),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Confluence Data Center and Server, DoS (Denial of Service) loader-utils Dependency Vulnerability",CVE-2022-37599,7.5,,,12/16 CH - QID in Pipeline (733497),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Confluence Data Center and Server, DoS (Denial of Service) loader-utils Dependency Vulnerability",CVE-2022-37603,7.5,,,12/16 CH - QID in Pipeline (733498),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Confluence Data Center and Server, File Inclusion tar-fs Dependency Vulnerability",CVE-2024-12905,7.5,,,12/16 CH - QID in Pipeline (733499),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Confluence Data Center and Server, Prototype Pollution loader-utils Dependency Vulnerability",CVE-2022-37601,9.8,,,12/16 CH - QID in Pipeline (733500),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Confluence Data Center and Server, SSRF (Server-Side Request Forgery)",CVE-2024-29415,7.5,,,"12/16 CH - QID Available (386048, 733495)",https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Confluence Data Center and Server, XXE (XML External Entity Injection) Tika Dependency Vulnerability",CVE-2025-66516,10,,,12/16 CH - QID Available (733496),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Crowd Data Center and Server, DoS (Denial of Service) jackson-core Dependency Vulnerability",CVE-2025-52999,7.5,,,12/16 CH - QID in Pipeline (733523),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Crowd Data Center and Server, DoS (Denial of Service) jackson-databind Dependency Vulnerability",CVE-2021-46877,7.5,,,12/16 CH - QID Available (733528),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Crowd Data Center and Server, DoS (Denial of Service) jackson-databind Dependency Vulnerability",CVE-2022-42004,7.5,,,12/16 CH - QID in Pipeline (733529),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Crowd Data Center and Server, DoS (Denial of Service) netty-codec-http2 Dependency Vulnerability",CVE-2025-55163,7.5,,,12/16 CH - QID in Pipeline (733523),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Crowd Data Center and Server, DoS (Denial of Service) tomcat-coyote Dependency Vulnerability",CVE-2025-48989,7.5,,,12/16 CH - QID in Pipeline (733525),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Crowd Data Center and Server, Information Disclosure jackson-databind Dependency",CVE-2024-13009,7.2,,,12/16 CH - QID in Pipeline (733530),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Crowd Data Center and Server, XXE (XML External Entity Injection) Tika Dependency Vulnerability",CVE-2025-66516,10,,,12/16 CH - QID Available (733520),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Crowd Data Center, DoS (Denial of Service) jackson-databind Dependency Vulnerability",CVE-2020-36518,7.5,,,12/16 CH - QID Available (733526),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Crowd Data Center, Improper Authorization spring-security-core Dependency",CVE-2025-41248,7.5,,,12/16 CH - QID in Pipeline (733524),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Fisheye / Crucible Server, Improper Input Validation MSSQL JDBC Driver",CVE-2025-59250,8.1,,,12/16 CH - QID in Pipeline (386211),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Jira Service Management Data Center and Server, DoS (Denial of Service) axios Dependency",CVE-2025-58754,7.5,,,12/16 CH - QID in Pipeline (733531),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Jira Service Management Data Center and Server, DoS (Denial of Service) minimatch Dependency",CVE-2022-3517,7.5,,,12/16 CH - QID in Pipeline (386231),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Jira Service Management Data Center and Server, DoS (Denial of Service) netty-codec-http2 Dependency",CVE-2025-55163,7.5,,,12/16 CH - QID in Pipeline (386214),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Jira Service Management Data Center and Server, Improper Authorization spring-security-core Dependency",CVE-2025-41248,7.5,,,12/16 CH - QID in Pipeline (386216),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Jira Service Management Data Center and Server, Prototype Pollution lodash.pick Dependency Vulnerability",CVE-2020-8203,7.4,,,12/16 CH - QID in Pipeline (386234),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Jira Service Management Data Center and Server, Prototype Pollution zrender Dependency",CVE-2021-39227,9.8,,,12/16 CH - QID in Pipeline (733522),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Jira Service Management Data Center and Server, RCE (Remote Code Execution)",CVE-2016-1181,8.1,,,12/16 CH - QID Available (733527),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Jira Service Management Data Center and Server, XXE (XML External Entity Injection)",CVE-2023-49735,7.5,,,12/16 CH - QID in Pipeline (386221),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Jira Service Management Data Center and Server, XXE (XML External Entity Injection)",CVE-2025-54988,8.4,,,12/16 CH - QID in Pipeline (386219),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Jira Service Management Data Center and Server, XXE (XML External Entity Injection) Tika Dependency Vulnerability",CVE-2025-66516,10,,,12/16 CH - QID in Pipeline (386215),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Jira Software Data Center and Server, DoS (Denial of Service) axios Dependency",CVE-2025-58754,7.5,,,12/16 CH - QID in Pipeline (733517),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Jira Software Data Center and Server, DoS (Denial of Service) ion-java Dependency",CVE-2024-21634,7.5,,,12/16 CH - QID in Pipeline (733510),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Jira Software Data Center and Server, DoS (Denial of Service) jettison Dependency Vulnerability",CVE-2022-45693,7.5,,,12/16 CH - QID in Pipeline (733515),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Jira Software Data Center and Server, DoS (Denial of Service) minimatch Dependency",CVE-2022-3517,7.5,,,12/16 CH - QID in Pipeline (733511),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Jira Software Data Center and Server, DoS (Denial of Service) netty-codec-http2 Dependency",CVE-2025-55163,7.5,,,12/16 CH - QID in Pipeline (733507),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Jira Software Data Center and Server, Improper Authorization spring-security-core Dependency",CVE-2025-41248,7.5,,,12/16 CH - QID in Pipeline (733516),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Jira Software Data Center and Server, Prototype Pollution lodash.pick Dependency Vulnerability",CVE-2020-8203,7.4,,,"12/16 CH - QID Available (386050, 733508)",https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Jira Software Data Center and Server, Prototype Pollution zrender Dependency",CVE-2021-39227,9.8,,,12/16 CH - QID in Pipeline (733504),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Jira Software Data Center and Server, RCE (Remote Code Execution)",CVE-2016-1181,8.1,,,12/16 CH - QID Available (733506),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Jira Software Data Center and Server, SSRF axios Dependency",CVE-2025-27152,7.5,,,12/16 CH - QID in Pipeline (733505),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Jira Software Data Center and Server, XXE (XML External Entity Injection)",CVE-2023-49735,7.5,,,12/16 CH - QID in Pipeline (733514),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Jira Software Data Center and Server, XXE (XML External Entity Injection)",CVE-2025-54988,8.4,,,12/16 CH - QID in Pipeline (733512),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
-"Jira Software Data Center and Server, XXE (XML External Entity Injection) Tika Dependency Vulnerability",CVE-2025-66516,10,,,12/16 CH - QID in Pipeline (733509),https://confluence.atlassian.com/security/security-bulletin-december-11-2025-1689616574.html
+Red Hat update for kernel-rt,CVE-2023-53322,7,,,,"https://access.redhat.com/errata/RHSA-2025:23423
+https://access.redhat.com/errata/RHSA-2025:23424
+https://access.redhat.com/errata/RHSA-2025:23426"
+Red Hat update for kernel-rt,CVE-2025-40186,7,,,,"https://access.redhat.com/errata/RHSA-2025:23423
+https://access.redhat.com/errata/RHSA-2025:23424
+https://access.redhat.com/errata/RHSA-2025:23426
+https://access.redhat.com/errata/RHSA-2025:23427"
+Red Hat update for kernel-rt,CVE-2025-39955,7.6,,,,"https://access.redhat.com/errata/RHSA-2025:23423
+https://access.redhat.com/errata/RHSA-2025:23424
+https://access.redhat.com/errata/RHSA-2025:23426
+https://access.redhat.com/errata/RHSA-2025:23427"
+Red Hat update for kernel-rt,CVE-2025-39864,7,,,,"https://access.redhat.com/errata/RHSA-2025:23423
+https://access.redhat.com/errata/RHSA-2025:23424
+https://access.redhat.com/errata/RHSA-2025:23426"
+Red Hat update for kernel-rt,CVE-2023-53513,7.3,,,,"https://access.redhat.com/errata/RHSA-2025:23424
+https://access.redhat.com/errata/RHSA-2025:23426"
+Red Hat keylime Update,CVE-2025-13609,8.2,,,,"https://access.redhat.com/errata/RHSA-2025:23201
+https://access.redhat.com/errata/RHSA-2025:23210"
+Red Hat update for rsync,CVE-2024-12087,6.5,,,,"https://access.redhat.com/errata/RHSA-2025:23235
+https://access.redhat.com/errata/RHSA-2025:23407"
+Red Hat update for kernel,CVE-2023-53401,7.3,,,,"https://access.redhat.com/errata/RHSA-2025:23427
+https://errata.rockylinux.org/RLSA-2025:22800
+https://errata.rockylinux.org/RLSA-2025:22801"
+Google Chrome Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-14766,High,,,,"https://chromereleases.googleblog.com/2025/12/chrome-for-android-update_01890795727.html
+https://chromereleases.googleblog.com/2025/12/stable-channel-update-for-desktop_16.html"
+Google Chrome Multiple Arbitrary Code Execution Vulnerabilities,CVE-2025-14765,High,,,,"https://chromereleases.googleblog.com/2025/12/chrome-for-android-update_01890795727.html
+https://chromereleases.googleblog.com/2025/12/stable-channel-update-for-desktop_16.html"
