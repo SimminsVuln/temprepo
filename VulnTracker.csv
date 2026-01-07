@@ -1,42 +1,12 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Cisco Secure Email Gateway / Secure Email and Web Manager AsyncOS Arbitrary Code Execution Vulnerability,CVE-2025-20393,10,HIGH,Qualys Pipeline,"12/18 CH - QID in Pipeline (733541, 317752) | Zero Day",https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sma-attack-N9bf4
-HPE OneView Arbitrary Code Execution Vulnerability,CVE-2025-37164,10,HIGH,,,https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbgn04985en_us&docLocale=en_US
-Red Hat keylime Update,CVE-2025-13609,8.2,LOW,Qualys QID,"12/18 CH - QID Available (6045323, 6045387)","https://access.redhat.com/errata/RHSA-2025:23201
-https://access.redhat.com/errata/RHSA-2025:23210"
-Red Hat update for kernel,CVE-2025-40176,7.3,LOW,Qualys QID,12/18 CH - QID Available (6045717),https://access.redhat.com/errata/RHSA-2025:23241
-Red Hat update for kernel,CVE-2025-39966,7.4,MEDIUM,Qualys QID,12/18 CH - QID Available (6045717),https://access.redhat.com/errata/RHSA-2025:23241
-Red Hat update for kernel,CVE-2025-38499,7.8,LOW,Qualys QID,"12/18 CH - QID Available (6045717, 6045722)","https://access.redhat.com/errata/RHSA-2025:23241
-https://access.redhat.com/errata/RHSA-2025:23279"
-Red Hat update for kernel,CVE-2025-39984,7.3,LOW,Qualys QID,12/18 CH - QID Available ( 6045722),https://access.redhat.com/errata/RHSA-2025:23279
-Red Hat update for kernel,CVE-2025-40186,7,LOW,Qualys QID,"12/18 CH - QID Available ( 6045710, 6045711, 60457122, 6045713, 6045718, 6045728)","https://access.redhat.com/errata/RHSA-2025:23422
-https://access.redhat.com/errata/RHSA-2025:23423
-https://access.redhat.com/errata/RHSA-2025:23424
-https://access.redhat.com/errata/RHSA-2025:23425
-https://access.redhat.com/errata/RHSA-2025:23426
-https://access.redhat.com/errata/RHSA-2025:23427
-https://access.redhat.com/errata/RHSA-2025:23450"
-Red Hat update for kernel,CVE-2025-39955,7.6,LOW,Qualys QID,"12/18 CH - QID Available ( 6045710, 6045711, 60457122, 6045713, 6045718, 6045728)","https://access.redhat.com/errata/RHSA-2025:23422
-https://access.redhat.com/errata/RHSA-2025:23423
-https://access.redhat.com/errata/RHSA-2025:23424
-https://access.redhat.com/errata/RHSA-2025:23425
-https://access.redhat.com/errata/RHSA-2025:23426
-https://access.redhat.com/errata/RHSA-2025:23427
-https://access.redhat.com/errata/RHSA-2025:23450"
-Red Hat update for kernel,CVE-2025-39864,7,MEDIUM,Qualys QID,"12/18 CH - QID Available ( 6045710, 6045711, 60457122, 6045713, 6045718, 6045728)","https://access.redhat.com/errata/RHSA-2025:23422
-https://access.redhat.com/errata/RHSA-2025:23423
-https://access.redhat.com/errata/RHSA-2025:23424
-https://access.redhat.com/errata/RHSA-2025:23426
-https://access.redhat.com/errata/RHSA-2025:23450"
-Red Hat update for kernel,CVE-2025-39825,7,LOW,Qualys QID,12/18 CH - QID Available (6045728),https://access.redhat.com/errata/RHSA-2025:23425
-Red Hat update for kernel-rt,CVE-2023-53322,7,LOW,Qualys QID,"12/18 CH - QID Available ( 6045710, 6045711, 60457122, 6045713, 6045718)","https://access.redhat.com/errata/RHSA-2025:23422
-https://access.redhat.com/errata/RHSA-2025:23423
-https://access.redhat.com/errata/RHSA-2025:23424
-https://access.redhat.com/errata/RHSA-2025:23426"
-Red Hat update for kernel-rt,CVE-2023-53513,7.3,LOW,Qualys QID,"12/18 CH - QID Available (6045713, 6045718)","https://access.redhat.com/errata/RHSA-2025:23424
-https://access.redhat.com/errata/RHSA-2025:23426"
-Red Hat update for qemu-kvm,CVE-2025-11234,7.5,LOW,Qualys QID,12/18 CH - QID Available (6045721),https://access.redhat.com/errata/RHSA-2025:23228
-Red Hat update for webkit2gtk3,CVE-2025-66287,8.8,MEDIUM,Qualys QID,12/18 CH - QID Available (6045715),https://access.redhat.com/errata/RHSA-2025:23451
-Red Hat update for webkit2gtk3,CVE-2025-13502,7.5,LOW,Qualys QID,12/18 CH - QID Available (6045715),https://access.redhat.com/errata/RHSA-2025:23451
-Red Hat update for webkit2gtk3,CVE-2025-13947,7.4,LOW,Qualys QID,12/18 CH - QID Available (6045715),https://access.redhat.com/errata/RHSA-2025:23451
-Red Hat update for webkit2gtk3,CVE-2025-43432,8.8,MEDIUM,Qualys QID,12/18 CH - QID Available (6045715),https://access.redhat.com/errata/RHSA-2025:23451
-Red Hat update for webkit2gtk3,CVE-2025-43431,8.8,MEDIUM,Qualys QID,12/18 CH - QID Available (6045715),https://access.redhat.com/errata/RHSA-2025:23451
+IBM AIX / IBM Virtual I/O Server OpenSSH ,CVE-2025-61984,7.6,,Qualys QID,1/7 CH - QID in Pipeline (330238),https://www.ibm.com/support/pages/node/7256328
+IBM AIX / IBM Virtual I/O Server OpenSSH,CVE-2025-61985,7.6,,Qualys QID,1/7 CH - QID in Pipeline (330238),https://www.ibm.com/support/pages/node/7256328
+Google Chrome WebView Arbitrary Code Execution Vulnerability,CVE-2026-0628,8.8,,Qualys QID,1/7 CH - QID Available (386288),https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop.html
+Red Hat update for python3.12,CVE-2025-8291,7.3,,Qualys QID,1/7 CH - QID Available(6045859),https://access.redhat.com/errata/RHSA-2026:0123
+Red Hat update for python3.12,CVE-2025-12084,7.5,,Qualys QID,1/7 CH - QID Available(6045859),https://access.redhat.com/errata/RHSA-2026:0123
+Red Hat update for mariadb10.11,CVE-2025-21490,7,,Qualys QID,1/7 CH - QID Available(6045860),https://access.redhat.com/errata/RHSA-2026:0136
+Red Hat update for mariadb10.11,CVE-2023-52971,7.8,,Qualys QID,1/7 CH - QID Available(6045860),https://access.redhat.com/errata/RHSA-2026:0136
+Red Hat update for mariadb10.11,CVE-2023-52970,7.3,,Qualys QID,1/7 CH - QID Available(6045860),https://access.redhat.com/errata/RHSA-2026:0136
+Red Hat update for mariadb10.11,CVE-2023-52969,8,,Qualys QID,1/7 CH - QID Available(6045860),https://access.redhat.com/errata/RHSA-2026:0136
+Red Hat update for mariadb10.11,CVE-2025-30693,7.5,,Qualys QID,1/7 CH - QID Available(6045860),https://access.redhat.com/errata/RHSA-2026:0136
+Red Hat update for mariadb10.11,CVE-2025-30722,7.5,,Qualys QID,1/7 CH - QID Available(6045860),https://access.redhat.com/errata/RHSA-2026:0136
