@@ -1,12 +1,39 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-IBM AIX / IBM Virtual I/O Server OpenSSH ,CVE-2025-61984,7.6,,Qualys QID,1/7 CH - QID in Pipeline (330238),https://www.ibm.com/support/pages/node/7256328
-IBM AIX / IBM Virtual I/O Server OpenSSH,CVE-2025-61985,7.6,,Qualys QID,1/7 CH - QID in Pipeline (330238),https://www.ibm.com/support/pages/node/7256328
-Google Chrome WebView Arbitrary Code Execution Vulnerability,CVE-2026-0628,8.8,,Qualys QID,1/7 CH - QID Available (386288),https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop.html
-Red Hat update for python3.12,CVE-2025-8291,7.3,,Qualys QID,1/7 CH - QID Available(6045859),https://access.redhat.com/errata/RHSA-2026:0123
-Red Hat update for python3.12,CVE-2025-12084,7.5,,Qualys QID,1/7 CH - QID Available(6045859),https://access.redhat.com/errata/RHSA-2026:0123
-Red Hat update for mariadb10.11,CVE-2025-21490,7,,Qualys QID,1/7 CH - QID Available(6045860),https://access.redhat.com/errata/RHSA-2026:0136
-Red Hat update for mariadb10.11,CVE-2023-52971,7.8,,Qualys QID,1/7 CH - QID Available(6045860),https://access.redhat.com/errata/RHSA-2026:0136
-Red Hat update for mariadb10.11,CVE-2023-52970,7.3,,Qualys QID,1/7 CH - QID Available(6045860),https://access.redhat.com/errata/RHSA-2026:0136
-Red Hat update for mariadb10.11,CVE-2023-52969,8,,Qualys QID,1/7 CH - QID Available(6045860),https://access.redhat.com/errata/RHSA-2026:0136
-Red Hat update for mariadb10.11,CVE-2025-30693,7.5,,Qualys QID,1/7 CH - QID Available(6045860),https://access.redhat.com/errata/RHSA-2026:0136
-Red Hat update for mariadb10.11,CVE-2025-30722,7.5,,Qualys QID,1/7 CH - QID Available(6045860),https://access.redhat.com/errata/RHSA-2026:0136
+Red Hat update for libpng,CVE-2025-65018,7.1,,Qualys QID,"1/9 CH - QID Available (6045903, 6045903, 6045897, 6045894, 6045893, 6045885, 6045883, 6045879)","https://access.redhat.com/errata/RHSA-2026:0210
+https://access.redhat.com/errata/RHSA-2026:0211
+https://access.redhat.com/errata/RHSA-2026:0216
+https://access.redhat.com/errata/RHSA-2026:0234
+https://access.redhat.com/errata/RHSA-2026:0237
+https://access.redhat.com/errata/RHSA-2026:0238
+https://access.redhat.com/errata/RHSA-2026:0241"
+Red Hat update for libpng,CVE-2025-66293,7.1,,Qualys QID,"1/9 CH - QID Available (6045903, 6045903, 6045897, 6045894, 6045893, 6045885, 6045883, 6045879)","https://access.redhat.com/errata/RHSA-2026:0210
+https://access.redhat.com/errata/RHSA-2026:0211
+https://access.redhat.com/errata/RHSA-2026:0216
+https://access.redhat.com/errata/RHSA-2026:0234
+https://access.redhat.com/errata/RHSA-2026:0237
+https://access.redhat.com/errata/RHSA-2026:0238
+https://access.redhat.com/errata/RHSA-2026:0242"
+Red Hat update for libpng,CVE-2025-64720,7.1,,Qualys QID,"1/9 CH - QID Available (6045903, 6045903, 6045897, 6045894, 6045893, 6045885, 6045883, 6045879)","https://access.redhat.com/errata/RHSA-2026:0210
+https://access.redhat.com/errata/RHSA-2026:0211
+https://access.redhat.com/errata/RHSA-2026:0216
+https://access.redhat.com/errata/RHSA-2026:0234
+https://access.redhat.com/errata/RHSA-2026:0237
+https://access.redhat.com/errata/RHSA-2026:0238
+https://access.redhat.com/errata/RHSA-2026:0243"
+Red Hat update for mariadb:10.11,CVE-2025-13699,7,,Qualys QID,"1/9 CH - QID Available (6045874, 6045871, 6045870, 6045860)","https://access.redhat.com/errata/RHSA-2026:0225
+https://access.redhat.com/errata/RHSA-2026:0232
+https://access.redhat.com/errata/RHSA-2026:0233
+https://access.redhat.com/errata/RHSA-2026:0247"
+Red Hat update for grafana,CVE-2025-58183,7.3,,Qualys QID,"1/9 CH - QID Available (6045765, 6045795, 6045771, 6045766)","https://access.redhat.com/errata/RHSA-2026:0226
+https://access.redhat.com/errata/RHSA-2026:0227
+https://access.redhat.com/errata/RHSA-2026:0245
+https://access.redhat.com/errata/RHSA-2026:0246"
+Red Hat update for postgresql:13,CVE-2025-12818,7.9,,Qualys QID,"1/9 CH - QID Available (6045297, 6045249, 6045235)","https://access.redhat.com/errata/RHSA-2026:0263
+https://access.redhat.com/errata/RHSA-2026:0268
+https://access.redhat.com/errata/RHSA-2026:0270"
+Red Hat update for postgresql:13,CVE-2025-12817,7.1,,Qualys QID,"1/9 CH - QID Available (6045297, 6045249, 6045235)","https://access.redhat.com/errata/RHSA-2026:0263
+https://access.redhat.com/errata/RHSA-2026:0268
+https://access.redhat.com/errata/RHSA-2026:0270"
+Red Hat update for git-lfs,CVE-2025-26625,8.1,,Qualys QID,"1/9 CH - QID Available (6045901, 6045890, 6045880)","https://access.redhat.com/errata/RHSA-2026:0199
+https://access.redhat.com/errata/RHSA-2026:0203
+https://access.redhat.com/errata/RHSA-2026:0204"
