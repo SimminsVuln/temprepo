@@ -1,33 +1,22 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Adobe Dreamweaver Multiple Vulnerabilities,CVE-2026-21274,7.8,,Qualys QID,1/14 CH - QID Available (386328),https://helpx.adobe.com/security/products/dreamweaver/apsb26-01.html
-Adobe Dreamweaver Multiple Vulnerabilities,CVE-2026-21271,8.6,,Qualys QID,1/14 CH - QID Available (386328),https://helpx.adobe.com/security/products/dreamweaver/apsb26-01.html
-Adobe Dreamweaver Multiple Vulnerabilities,CVE-2026-21272,8.6,,Qualys QID,1/14 CH - QID Available (386328),https://helpx.adobe.com/security/products/dreamweaver/apsb26-01.html
-Adobe Dreamweaver Multiple Vulnerabilities,CVE-2026-21268,8.6,,Qualys QID,1/14 CH - QID Available (386328),https://helpx.adobe.com/security/products/dreamweaver/apsb26-01.html
-Adobe Dreamweaver Multiple Vulnerabilities,CVE-2026-21267,8.6,,Qualys QID,1/14 CH - QID Available (386328),https://helpx.adobe.com/security/products/dreamweaver/apsb26-01.html
-Adobe Illustrator Arbitrary Code Execution Vulnerability,CVE-2026-21280,8.6,,Qualys QID,1/14 CH - QID Available (386323),https://helpx.adobe.com/security/products/illustrator/apsb26-03.html
-Adobe InCopy Arbitrary Code Execution Vulnerability,CVE-2026-21281,7.8,,Qualys QID,1/14 CH - QID Available (386326),https://helpx.adobe.com/security/products/incopy/apsb26-04.html
-Adobe InDesign CC Multiple Vulnerabilities,CVE-2026-21276,7.8,,Qualys QID,1/14 CH - QID Available (386330),https://helpx.adobe.com/security/products/indesign/apsb26-02.html
-Adobe InDesign CC Multiple Vulnerabilities,CVE-2026-21275,7.8,,Qualys QID,1/14 CH - QID Available (386330),https://helpx.adobe.com/security/products/indesign/apsb26-02.html
-Adobe InDesign CC Multiple Vulnerabilities,CVE-2026-21277,7.8,,Qualys QID,1/14 CH - QID Available (386330),https://helpx.adobe.com/security/products/indesign/apsb26-02.html
-Adobe InDesign CC Multiple Vulnerabilities,CVE-2026-21304,7.8,,Qualys QID,1/14 CH - QID Available (386330),https://helpx.adobe.com/security/products/indesign/apsb26-02.html
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-0878,8,,Qualys QID,"1/14 CH - QID Available (386316, 386314)","https://www.mozilla.org/en-US/security/advisories/mfsa2026-01
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-03"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-0877,8.1,,Qualys QID,"1/14 CH - QID Available (386316, 386314)","https://www.mozilla.org/en-US/security/advisories/mfsa2026-01
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-02
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-03"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-0891,8.1,,Qualys QID,"1/14 CH - QID Available (386316, 386314)","https://www.mozilla.org/en-US/security/advisories/mfsa2026-01
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-03"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-0880,8.8,,Qualys QID,"1/14 CH - QID Available (386316, 386314)","https://www.mozilla.org/en-US/security/advisories/mfsa2026-01
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-02
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-03"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-0882,8.8,,Qualys QID,"1/14 CH - QID Available (386316, 386314)","https://www.mozilla.org/en-US/security/advisories/mfsa2026-01
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-02
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-03"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-0879,9.8,,Qualys QID,"1/14 CH - QID Available (386316, 386314)","https://www.mozilla.org/en-US/security/advisories/mfsa2026-01
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-02
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-03"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-0884,9.8,,Qualys QID,"1/14 CH - QID Available (386316, 386314)","https://www.mozilla.org/en-US/security/advisories/mfsa2026-01
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-03"
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-0892,9.8,,Qualys QID,"1/14 CH - QID Available (386316, 386314)",https://www.mozilla.org/en-US/security/advisories/mfsa2026-01
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-0881,10,,Qualys QID,"1/14 CH - QID Available (386316, 386314)",https://www.mozilla.org/en-US/security/advisories/mfsa2026-01
-Red Hat update for libsoup,CVE-2025-14523,8.2,,Qualys QID,1/14 CH - QID Available (6045975),https://access.redhat.com/errata/RHSA-2026:0421
+Google Chrome Multiple Vulnerabilities,CVE-2026-0899,High,,Qualys QID,1/15 CH - QID Available (386319),https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop_13.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-0900,High,,Qualys QID,1/15 CH - QID Available (386319),https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop_13.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-0901,High,,Qualys QID,1/15 CH - QID Available (386319),https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop_13.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-0906,Low,,Qualys QID,1/15 CH - QID Available (386319),https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop_13.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-0907,Low,,Qualys QID,1/15 CH - QID Available (386319),https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop_13.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-0902,Medium,,Qualys QID,1/15 CH - QID Available (386319),https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop_13.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-0903,Medium,,Qualys QID,1/15 CH - QID Available (386319),https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop_13.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-0904,Medium,,Qualys QID,1/15 CH - QID Available (386319),https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop_13.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-0905,Medium,,Qualys QID,1/15 CH - QID Available (386319),https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop_13.html
+Juniper Junos OS rpd Denial of Service Vulnerability,CVE-2025-60003,7.5,,Qualys QID,1/15 CH - QID Available (44898),https://supportportal.juniper.net/s/article/2026-01-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-BGP-update-with-a-set-of-specific-attributes-causes-rpd-crash-CVE-2025-60003
+Juniper MX and SRX Series Junos OS Flowd Denial of Service Vulnerability,CVE-2026-21905,7.5,,Qualys QID,1/15 CH - QID Available (44897),https://supportportal.juniper.net/s/article/2026-01-Security-Bulletin-Junos-OS-SRX-Series-MX-Series-with-MX-SPC3-or-MS-MPC-Receipt-of-multiple-specific-SIP-messages-results-in-flow-management-process-crash-CVE-2026-21905
+Juniper MX and SRX Series Junos OS Flowd Denial of Service Vulnerability,CVE-2026-21918,7.5,,Qualys QID,1/15 CH - QID Available (44902),https://supportportal.juniper.net/s/article/2026-01-Security-Bulletin-Junos-OS-SRX-and-MX-Series-When-TCP-packets-occur-in-a-specific-sequence-flowd-crashes-CVE-2026-21918
+Juniper SRX Series FPC Denial of Service Vulnerability,CVE-2026-21914,7.5,,Qualys QID,1/15 CH - QID Available (44905),https://supportportal.juniper.net/s/article/2026-01-Security-Bulletin-Junos-OS-SRX-Series-A-specifically-malformed-GTP-message-will-cause-an-FPC-crash-CVE-2026-21914
+Juniper SRX Series Junos OS flowd Denial of Service Vulnerability,CVE-2026-21920,7.5,,Qualys QID,1/15 CH - QID Available (44903),https://supportportal.juniper.net/s/article/2026-01-Security-Bulletin-Junos-OS-SRX-Series-If-a-specific-request-is-processed-by-the-DNS-subsystem-flowd-will-crash-CVE-2026-21920
+Juniper SRX Series Junos OS PFE Denial of Service Vulnerability,CVE-2026-21906,7.5,,Qualys QID,1/15 CH - QID Available (44904),https://supportportal.juniper.net/s/article/2026-01-Security-Bulletin-Junos-OS-SRX-Series-With-GRE-performance-acceleration-enabled-receipt-of-a-specific-ICMP-packet-causes-the-PFE-to-crash-CVE-2026-21906
+Juniper SRX Series Junos OS Web-Filtering Denial of Service Vulnerability,CVE-2026-21917,7.5,,Qualys QID,1/15 CH - QID Available (44893),https://supportportal.juniper.net/s/article/2026-01-Security-Bulletin-Junos-OS-SRX-Series-Specifically-malformed-SSL-packet-causes-FPC-crash-CVE-2026-21917
+Kibana Multiple Vulnerabilities,CVE-2026-0532,8.6,,Qualys Pipeline,1/15 CH - QID in Pipeline (386344),"https://discuss.elastic.co/t/kibana-8-19-10-9-1-10-9-2-4-security-update-esa-2026-03/384521
+https://discuss.elastic.co/t/kibana-8-19-10-9-1-10-9-2-4-security-update-esa-2026-04/384522
+https://discuss.elastic.co/t/kibana-8-19-10-9-1-10-9-2-4-security-update-esa-2026-05/384524
+https://discuss.elastic.co/t/kibana-8-19-10-9-1-10-9-2-4-security-update-esa-2026-08/384523"
+PAN-OS GlobalProtect Gateway and Portal Denial of Service Vulnerability,CVE-2026-0227,7.7,,Qualys Pipeline,1/15 CH - QID in Pipeline (733584),https://security.paloaltonetworks.com/CVE-2026-0227
