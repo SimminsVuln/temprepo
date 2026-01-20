@@ -1,22 +1,19 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Google Chrome Multiple Vulnerabilities,CVE-2026-0899,High,,Qualys QID,1/15 CH - QID Available (386319),https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop_13.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-0900,High,,Qualys QID,1/15 CH - QID Available (386319),https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop_13.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-0901,High,,Qualys QID,1/15 CH - QID Available (386319),https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop_13.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-0906,Low,,Qualys QID,1/15 CH - QID Available (386319),https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop_13.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-0907,Low,,Qualys QID,1/15 CH - QID Available (386319),https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop_13.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-0902,Medium,,Qualys QID,1/15 CH - QID Available (386319),https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop_13.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-0903,Medium,,Qualys QID,1/15 CH - QID Available (386319),https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop_13.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-0904,Medium,,Qualys QID,1/15 CH - QID Available (386319),https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop_13.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-0905,Medium,,Qualys QID,1/15 CH - QID Available (386319),https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop_13.html
-Juniper Junos OS rpd Denial of Service Vulnerability,CVE-2025-60003,7.5,,Qualys QID,1/15 CH - QID Available (44898),https://supportportal.juniper.net/s/article/2026-01-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-BGP-update-with-a-set-of-specific-attributes-causes-rpd-crash-CVE-2025-60003
-Juniper MX and SRX Series Junos OS Flowd Denial of Service Vulnerability,CVE-2026-21905,7.5,,Qualys QID,1/15 CH - QID Available (44897),https://supportportal.juniper.net/s/article/2026-01-Security-Bulletin-Junos-OS-SRX-Series-MX-Series-with-MX-SPC3-or-MS-MPC-Receipt-of-multiple-specific-SIP-messages-results-in-flow-management-process-crash-CVE-2026-21905
-Juniper MX and SRX Series Junos OS Flowd Denial of Service Vulnerability,CVE-2026-21918,7.5,,Qualys QID,1/15 CH - QID Available (44902),https://supportportal.juniper.net/s/article/2026-01-Security-Bulletin-Junos-OS-SRX-and-MX-Series-When-TCP-packets-occur-in-a-specific-sequence-flowd-crashes-CVE-2026-21918
-Juniper SRX Series FPC Denial of Service Vulnerability,CVE-2026-21914,7.5,,Qualys QID,1/15 CH - QID Available (44905),https://supportportal.juniper.net/s/article/2026-01-Security-Bulletin-Junos-OS-SRX-Series-A-specifically-malformed-GTP-message-will-cause-an-FPC-crash-CVE-2026-21914
-Juniper SRX Series Junos OS flowd Denial of Service Vulnerability,CVE-2026-21920,7.5,,Qualys QID,1/15 CH - QID Available (44903),https://supportportal.juniper.net/s/article/2026-01-Security-Bulletin-Junos-OS-SRX-Series-If-a-specific-request-is-processed-by-the-DNS-subsystem-flowd-will-crash-CVE-2026-21920
-Juniper SRX Series Junos OS PFE Denial of Service Vulnerability,CVE-2026-21906,7.5,,Qualys QID,1/15 CH - QID Available (44904),https://supportportal.juniper.net/s/article/2026-01-Security-Bulletin-Junos-OS-SRX-Series-With-GRE-performance-acceleration-enabled-receipt-of-a-specific-ICMP-packet-causes-the-PFE-to-crash-CVE-2026-21906
-Juniper SRX Series Junos OS Web-Filtering Denial of Service Vulnerability,CVE-2026-21917,7.5,,Qualys QID,1/15 CH - QID Available (44893),https://supportportal.juniper.net/s/article/2026-01-Security-Bulletin-Junos-OS-SRX-Series-Specifically-malformed-SSL-packet-causes-FPC-crash-CVE-2026-21917
-Kibana Multiple Vulnerabilities,CVE-2026-0532,8.6,,Qualys Pipeline,1/15 CH - QID in Pipeline (386344),"https://discuss.elastic.co/t/kibana-8-19-10-9-1-10-9-2-4-security-update-esa-2026-03/384521
-https://discuss.elastic.co/t/kibana-8-19-10-9-1-10-9-2-4-security-update-esa-2026-04/384522
-https://discuss.elastic.co/t/kibana-8-19-10-9-1-10-9-2-4-security-update-esa-2026-05/384524
-https://discuss.elastic.co/t/kibana-8-19-10-9-1-10-9-2-4-security-update-esa-2026-08/384523"
-PAN-OS GlobalProtect Gateway and Portal Denial of Service Vulnerability,CVE-2026-0227,7.7,,Qualys Pipeline,1/15 CH - QID in Pipeline (733584),https://security.paloaltonetworks.com/CVE-2026-0227
+F5OS-A GNU Tar Security Update,CVE-2019-9923,7.5,,None,,https://my.f5.com/manage/s/article/K000159077
+IBM Connect:Direct for UNIX Container Security Bypass Vulnerability,CVE-2025-14115,8.4,,None,,https://www.ibm.com/support/pages/node/7257143
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-0899,8.8,,Qualys QID,1/20 CH - QID Available (386361),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#january-14-2026
+Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2024-7885,7.5,,Qualys QID,1/20 CH - QID Available (6046687),https://access.redhat.com/errata/RHSA-2026:0743
+Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2025-55163,7.5,,Qualys QID,"1/20 CH - QID Available (6046687, 6046678)","https://access.redhat.com/errata/RHSA-2026:0742
+https://access.redhat.com/errata/RHSA-2026:0743"
+Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2025-52999,7.5,,Qualys QID,"1/20 CH - QID Available (6046687, 6046678)","https://access.redhat.com/errata/RHSA-2026:0742
+https://access.redhat.com/errata/RHSA-2026:0743"
+Red Hat update for kernel,CVE-2023-53705,7,,Qualys QID,1/20 CH - QID Available (6046677),https://access.redhat.com/errata/RHSA-2026:0755
+Red Hat update for kernel,CVE-2023-53675,7,,Qualys QID,1/20 CH - QID Available (6046677),https://access.redhat.com/errata/RHSA-2026:0755
+Red Hat update for kernel,CVE-2025-37823,7.1,,Qualys QID,1/20 CH - QID Available (6046677),https://access.redhat.com/errata/RHSA-2026:0755
+Red Hat update for kernel,CVE-2025-38051,7,,Qualys QID,1/20 CH - QID Available (6046677),https://access.redhat.com/errata/RHSA-2026:0759
+Red Hat update for kernel,CVE-2025-40096,7,,Qualys QID,1/20 CH - QID Available (6046677),https://access.redhat.com/errata/RHSA-2026:0759
+Red Hat update for kernel,CVE-2025-68301,7,,Qualys QID,1/20 CH - QID Available (6046677),https://access.redhat.com/errata/RHSA-2026:0759
+Red Hat update for kernel,CVE-2023-53552,7,,Qualys QID,1/20 CH - QID Available (6046677),https://access.redhat.com/errata/RHSA-2026:0759
+Red Hat update for kernel,CVE-2025-39933,7.1,,Qualys QID,1/20 CH - QID Available (6046677),https://access.redhat.com/errata/RHSA-2026:0759
+Red Hat update for net-snmp,CVE-2025-68615,9.8,,Qualys QID,1/20 CH - QID Available (6046680),"https://access.redhat.com/errata/RHSA-2026:0750
+"
