@@ -1,19 +1,167 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-F5OS-A GNU Tar Security Update,CVE-2019-9923,7.5,,None,,https://my.f5.com/manage/s/article/K000159077
-IBM Connect:Direct for UNIX Container Security Bypass Vulnerability,CVE-2025-14115,8.4,,None,,https://www.ibm.com/support/pages/node/7257143
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-0899,8.8,,Qualys QID,1/20 CH - QID Available (386361),https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#january-14-2026
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2024-7885,7.5,,Qualys QID,1/20 CH - QID Available (6046687),https://access.redhat.com/errata/RHSA-2026:0743
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2025-55163,7.5,,Qualys QID,"1/20 CH - QID Available (6046687, 6046678)","https://access.redhat.com/errata/RHSA-2026:0742
-https://access.redhat.com/errata/RHSA-2026:0743"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2025-52999,7.5,,Qualys QID,"1/20 CH - QID Available (6046687, 6046678)","https://access.redhat.com/errata/RHSA-2026:0742
-https://access.redhat.com/errata/RHSA-2026:0743"
-Red Hat update for kernel,CVE-2023-53705,7,,Qualys QID,1/20 CH - QID Available (6046677),https://access.redhat.com/errata/RHSA-2026:0755
-Red Hat update for kernel,CVE-2023-53675,7,,Qualys QID,1/20 CH - QID Available (6046677),https://access.redhat.com/errata/RHSA-2026:0755
-Red Hat update for kernel,CVE-2025-37823,7.1,,Qualys QID,1/20 CH - QID Available (6046677),https://access.redhat.com/errata/RHSA-2026:0755
-Red Hat update for kernel,CVE-2025-38051,7,,Qualys QID,1/20 CH - QID Available (6046677),https://access.redhat.com/errata/RHSA-2026:0759
-Red Hat update for kernel,CVE-2025-40096,7,,Qualys QID,1/20 CH - QID Available (6046677),https://access.redhat.com/errata/RHSA-2026:0759
-Red Hat update for kernel,CVE-2025-68301,7,,Qualys QID,1/20 CH - QID Available (6046677),https://access.redhat.com/errata/RHSA-2026:0759
-Red Hat update for kernel,CVE-2023-53552,7,,Qualys QID,1/20 CH - QID Available (6046677),https://access.redhat.com/errata/RHSA-2026:0759
-Red Hat update for kernel,CVE-2025-39933,7.1,,Qualys QID,1/20 CH - QID Available (6046677),https://access.redhat.com/errata/RHSA-2026:0759
-Red Hat update for net-snmp,CVE-2025-68615,9.8,,Qualys QID,1/20 CH - QID Available (6046680),"https://access.redhat.com/errata/RHSA-2026:0750
-"
+Atlassian Bamboo axios Security Bypass Vulnerability,CVE-2025-27152,7.5,,Qualys QID,1/21 CH - QID Available (733615),https://jira.atlassian.com/browse/BAM-26275
+Atlassian Confluence Data Center and Server XXE Vulnerability,CVE-2025-66516,8.4,,Qualys QID,1/21 CH - QID Available (733611),https://jira.atlassian.com/browse/CONFSERVER-101872
+Google Chrome Arbitrary Code Execution Vulnerability,CVE-2026-1220,High,,Qualys QID,1/21 CH - QID Available (386372),https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop_20.html
+HCL BigFix Platform cURL Denial of Service Vulnerability,CVE-2025-9086,7.5,,None,1/21 CH - Monitor for QID,"https://support.hcl-software.com/csm?id=kb_article&sysparm_article=KB0128177
+https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Java AWT / JavaFX Privilege Escalation,CVE-2026-21932,7.4,,Qualys QID,1/21 CH - QID Available (386371),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Java SE Security Subsystem,CVE-2026-21945,7.5,,Qualys QID,1/21 CH - QID Available (386371),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+JavaFX libxslt Sandbox Escape,CVE-2025-7425,7.8,,Qualys QID,1/21 CH - QID Available (386371),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+MySQL Workbench Multiple Vulnerabilities,CVE-2025-64720,7.1,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+MySQL Workbench Multiple Vulnerabilities,CVE-2025-65018,7.1,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixMSQL
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Agile PLM Multiple Vulnerabilities,CVE-2025-48989,7.5,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixSCP
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Agile PLM Multiple Vulnerabilities,CVE-2026-21940,7.5,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixSCP
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Agile Product Lifecycle Management for Process Multiple Vulnerabilities,CVE-2026-21969,9.8,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixSCP
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Business Intelligence Enterprise Edition Multiple Denial of Service Vulnerabilities,CVE-2024-57699,7.5,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixANLY
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Coherence Denial of Service Vulnerability,CVE-2025-5115,7.5,,Qualys QID,1/21 CH - QID Available (386376),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Commons Compress RCE,CVE-2025-54988,8.4,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Communications ActiveMQ RCE,CVE-2025-27533,7.5,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Communications Apache Tika RCE,CVE-2025-66516,8.4,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Communications Commons BeanUtils RCE,CVE-2025-48734,8.8,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Communications libssh RCE,CVE-2025-5987,8.1,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Communications LibTIFF RCE,CVE-2025-9900,8.8,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Communications Netty Exposure,CVE-2025-58057,7.5,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Communications Session Border Controller Multiple Denial of Service Vulnerabilities,CVE-2025-8194,7.5,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixCGBU
+https://www.oracle.com/security-alerts/cpujan2026.html#AppendixDB
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Communications Unified Inventory Management Multiple Denial of Service Vulnerabilities,CVE-2025-66418,7.5,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixCGBU
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Communications Unified Inventory Management Multiple Denial of Service Vulnerabilities,CVE-2025-66471,7.5,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixCGBU
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Communications Valkey RCE,CVE-2025-49844,9.8,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Database Fleet Patching – Eclipse Jersey RCE,CVE-2025-12383,7.4,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Database Server Multiple Vulnerabilities,CVE-2026-21939,7,,Qualys QID,1/21 CH - QID Available (20529),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixDB
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Database Server Multiple Vulnerabilities,CVE-2025-12383,7.4,,Qualys QID,1/21 CH - QID Available (20529),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixDB
+https://www.oracle.com/security-alerts/cpujan2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2025-48734,8.8,,Qualys QID,1/21 CH - QID Available (20531),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixEBS
+https://www.oracle.com/security-alerts/cpujan2026.html#AppendixSCP
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Fusion Middleware Multiple Vulnerabilities,CVE-2024-56406,8.6,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle HTTP Server Apache HTTP Server,CVE-2025-23048,9.1,,Qualys QID,1/21 CH - QID Available (386374),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle HTTP Server libxml2,CVE-2025-49796,9.1,,Qualys QID,1/21 CH - QID Available (386374),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle HTTP Server Multiple Vulnerabilities,CVE-2025-49812,7.4,,Qualys QID,1/21 CH - QID Available (386374),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle HTTP Server Multiple Vulnerabilities,CVE-2024-42516,7.5,,Qualys QID,1/21 CH - QID Available (386374),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle HTTP Server Multiple Vulnerabilities,CVE-2024-43204,7.5,,Qualys QID,1/21 CH - QID Available (386374),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle HTTP Server Multiple Vulnerabilities,CVE-2024-47252,7.5,,Qualys QID,1/21 CH - QID Available (386374),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle HTTP Server Multiple Vulnerabilities,CVE-2025-47947,7.5,,Qualys QID,1/21 CH - QID Available (386374),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle HTTP Server Multiple Vulnerabilities,CVE-2025-49795,7.5,,Qualys QID,1/21 CH - QID Available (386374),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpujan2026.html#AppendixHYP
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle HTTP Server Multiple Vulnerabilities,CVE-2025-59375,7.5,,Qualys QID,1/21 CH - QID Available (386374),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle HTTP Server Multiple Vulnerabilities,CVE-2025-49794,9.1,,Qualys QID,1/21 CH - QID Available (386374),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpujan2026.html#AppendixHYP
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle HTTP Server Multiple Vulnerabilities,CVE-2025-49796,9.1,,Qualys QID,1/21 CH - QID Available (386374),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpujan2026.html#AppendixHYP
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2026-21932,7.4,,Qualys QID,1/21 CH - QID Available (386371),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2025-6021,7.5,,Qualys QID,1/21 CH - QID Available (386371),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2026-21945,7.5,,Qualys QID,1/21 CH - QID Available (386371),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2025-7424,7.8,,Qualys QID,1/21 CH - QID Available (386371),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2025-7425,7.8,,Qualys QID,1/21 CH - QID Available (386371),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2025-47219,8.1,,Qualys QID,1/21 CH - QID Available (386371),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2025-43342,9.8,,Qualys QID,1/21 CH - QID Available (386371),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Middleware Common Libraries and Tools Multiple Vulnerabilities,CVE-2025-66516,8.4,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle OpenJPEG RCE,CVE-2025-54874,8,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Outside In Technology Multiple Vulnerabilities,CVE-2025-54874,8,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixDB
+https://www.oracle.com/security-alerts/cpujan2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle RDBMS Python Component Privilege Escalation,CVE-2025-8194,7.5,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle SOA Suite Denial of Service Vulnerability,CVE-2025-48976,7.5,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpujan2026.html#AppendixSCP
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Spatial and Graph OpenJPEG,CVE-2025-54874,8,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle SQLcl Local Privilege Escalation,CVE-2026-21939,7,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Unified Directory Multiple Security Bypass Vulnerabilities,CVE-2024-13009,7.2,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixEM
+https://www.oracle.com/security-alerts/cpujan2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle VM VirtualBox Multiple Vulnerabilities,CVE-2026-21986,7.1,,Qualys QID,1/21 CH - QID Available (386373),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixOVIR
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle VM VirtualBox Multiple Vulnerabilities,CVE-2026-21957,7.5,,Qualys QID,1/21 CH - QID Available (386373),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixOVIR
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle VM VirtualBox Multiple Vulnerabilities,CVE-2026-21982,7.5,,Qualys QID,1/21 CH - QID Available (386373),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixOVIR
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle VM VirtualBox Multiple Vulnerabilities,CVE-2026-21983,7.5,,Qualys QID,1/21 CH - QID Available (386373),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixOVIR
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle VM VirtualBox Multiple Vulnerabilities,CVE-2026-21984,7.5,,Qualys QID,1/21 CH - QID Available (386373),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixOVIR
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle VM VirtualBox Multiple Vulnerabilities,CVE-2026-21989,8.1,,Qualys QID,1/21 CH - QID Available (386373),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixOVIR
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle VM VirtualBox Multiple Vulnerabilities,CVE-2026-21955,8.2,,Qualys QID,1/21 CH - QID Available (386373),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixOVIR
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle VM VirtualBox Multiple Vulnerabilities,CVE-2026-21956,8.2,,Qualys QID,1/21 CH - QID Available (386373),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixOVIR
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle VM VirtualBox Multiple Vulnerabilities,CVE-2026-21987,8.2,,Qualys QID,1/21 CH - QID Available (386373),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixOVIR
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle VM VirtualBox Multiple Vulnerabilities,CVE-2026-21988,8.2,,Qualys QID,1/21 CH - QID Available (386373),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixOVIR
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle VM VirtualBox Multiple Vulnerabilities,CVE-2026-21990,8.2,,Qualys QID,1/21 CH - QID Available (386373),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixOVIR
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle WebCenter Sites Multiple Vulnerabilities,CVE-2025-41248,7.5,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle WebLogic Proxy Plug-in RCE,CVE-2026-21962,9,,None,1/21 CH - Monitor for QID,"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Weblogic Server Multiple Vulnerabilities,CVE-2025-41249,7.5,,Qualys QID,1/21 CH - QID Available (530850),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Weblogic Server Proxy Plug-in Multiple Vulnerabilities,CVE-2022-40196,7.8,,Qualys QID,1/21 CH - QID Available (530850),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Oracle Weblogic Server Proxy Plug-in Multiple Vulnerabilities,CVE-2026-21962,8,,Qualys QID,1/21 CH - QID Available (530850),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+VirtualBox Adjacent Network Escape,CVE-2026-21982,7.5,,Qualys QID,1/21 CH - QID Available (386373),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+VirtualBox Core Privilege Escalation,CVE-2026-21955,8.2,,Qualys QID,1/21 CH - QID Available (386373),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+VirtualBox Core Privilege Escalation,CVE-2026-21956,8.2,,Qualys QID,1/21 CH - QID Available (386373),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+VirtualBox Core Privilege Escalation,CVE-2026-21987,8.2,,Qualys QID,1/21 CH - QID Available (386373),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+VirtualBox Core Privilege Escalation,CVE-2026-21988,8.2,,Qualys QID,1/21 CH - QID Available (386373),"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cpujan2026verbose.html"
+Zoom Node Deployments - Command Injection Vulnerability,CVE-2026-22844,9.9,,None,"1/21 CH - Monitor for QID | Discuss Watchlist 
+
+CVE-2026-22844 is a critical command injection vulnerability in Zoom Node Multimedia Routers (MMRs) affecting versions prior to 5.2.1716.0. A meeting participant with network access and low privileges may be able to inject arbitrary commands, leading to remote code execution on the MMR, potentially compromising confidentiality, integrity, and availability of the system and connected infrastructure.
+
+As of the latest published information, no public proof-of-concept (PoC) exploit has been widely reported yet, and there are no confirmed in-the-wild exploitation reports. However, the combination of low attack complexity and minimal privilege requirements suggests that exploitation could be relatively straightforward once details or exploit code become public, so applying the vendor patch is urgent.",https://www.zoom.com/en/trust/security-bulletin/zsb-26001/?ampDeviceId=1af5b93a-6d9a-4e36-ae2e-b6b84ec39ee5&ampSessionId=1769007700401
