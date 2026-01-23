@@ -1,21 +1,21 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Atlassian Jira ansi-regex Denial of Service Vulnerability,CVE-2021-3807,7.5,,Qualys QID,1/22 CH - QID Available (386381),https://jira.atlassian.com/browse/JSWSERVER-26663
-Atlassian JIRA cipher-base Vulnerability,CVE-2025-9287,7.4,,Qualys QID,1/22 CH - QID Available (733618),https://jira.atlassian.com/browse/JSWSERVER-26661
-Atlassian Jira cross-spawn Rejection Notice,CVE-2024-21538,7.5,,Qualys QID,1/22 CH - QID Available (733617),https://jira.atlassian.com/browse/JSWSERVER-26656
-Atlassian JIRA DOMPurify Cross-Site Scripting Vulnerability,CVE-2024-45801,7.3,,Qualys QID,"1/22 CH - QID Available (733619, 386382)","https://jira.atlassian.com/browse/JSDSERVER-16501
-https://jira.atlassian.com/browse/JSWSERVER-26665"
-Atlassian Jira qs Denial of Service Vulnerability,CVE-2025-15284,7.5,,Qualys QID,1/22 CH - QID Available (733621),https://jira.atlassian.com/browse/JSWSERVER-26654
-Atlassian Jira Service Management Apache Tomcat Denial of Service Vulnerability,CVE-2025-52434,7.5,,Qualys QID,"1/22 CH - QID Available (733622, 386386)","https://jira.atlassian.com/browse/JSDSERVER-16499
-https://jira.atlassian.com/browse/JSWSERVER-26667"
-Atlassian Jira Service Management Jettison Denial of Service Vulnerability,CVE-2022-45693,7.5,,Qualys QID,1/22 CH - QID Available (386379),https://jira.atlassian.com/browse/JSDSERVER-16465
-Atlassian Jira sha.js Security Bypass Vulnerability,CVE-2025-9288,9.1,,Qualys QID,1/22 CH - QID Available (733620),https://jira.atlassian.com/browse/JSWSERVER-26662
-Cisco Multiple Products Arbitrary Code Execution Vulnerability,CVE-2026-20045,9.8,,Qualys Pipeline,1/22 CH - QID in Pipelinee (317758),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-voice-rce-mORhqY4b
-GitLab Multiple Denial of Service Vulnerabilities,CVE-2025-13927,7.5,,Qualys Pipeline,1/22 CH - QID in Pipelinee (386388),https://about.gitlab.com/releases/2026/01/21/patch-release-gitlab-18-8-2-released
-GitLab Multiple Denial of Service Vulnerabilities,CVE-2025-13928,7.5,,Qualys Pipeline,1/22 CH - QID in Pipelinee (386388),https://about.gitlab.com/releases/2026/01/21/patch-release-gitlab-18-8-2-released
-Red Hat update for thunderbird,CVE-2026-0878,8,,Qualys QID,1/22 CH - QID Available (6046722),https://access.redhat.com/errata/RHSA-2026:0924
-Red Hat update for thunderbird,CVE-2026-0877,8.1,,Qualys QID,1/22 CH - QID Available (6046722),https://access.redhat.com/errata/RHSA-2026:0924
-Red Hat update for thunderbird,CVE-2026-0891,8.1,,Qualys QID,1/22 CH - QID Available (6046722),https://access.redhat.com/errata/RHSA-2026:0924
-Red Hat update for thunderbird,CVE-2026-0882,8.8,,Qualys QID,1/22 CH - QID Available (6046722),https://access.redhat.com/errata/RHSA-2026:0924
-Red Hat update for thunderbird,CVE-2026-0880,8.8,,Qualys QID,1/22 CH - QID Available (6046722),https://access.redhat.com/errata/RHSA-2026:0924
-Red Hat update for thunderbird,CVE-2026-0879,9.8,,Qualys QID,1/22 CH - QID Available (6046722),https://access.redhat.com/errata/RHSA-2026:0924
-Red Hat update for thunderbird,CVE-2026-0884,9.8,,Qualys QID,1/22 CH - QID Available (6046722),https://access.redhat.com/errata/RHSA-2026:0924
+Google Chrome Arbitrary Code Execution Vulnerability,CVE-2026-1220,9.6,,Qualys QID,1/23 CH - QID Available (386372),"https://chromereleases.googleblog.com/2026/01/chrome-for-android-update_0513998776.html
+https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop_20.html"
+Atlassian Bitbucket Data Center and Server Remote Code Execution (RCE)  Vulnerability,CVE-2025-55752,7.5,,Qualys QID,1/23 CH - QID Available (386369),https://jira.atlassian.com/browse/BSERV-20285
+PAN-OS GlobalProtect Gateway and Portal Denial of Service Vulnerability,CVE-2026-0227,7.7,,Qualys QID,"1/23 CH - QID Available (733584)
+
+high-severity denial-of-service (DoS) vulnerability in Palo Alto Networks PAN-OS affecting the GlobalProtect Gateway and Portal components. The flaw allows an unauthenticated remote attacker to repeatedly send crafted network traffic that causes the firewall to crash or enter maintenance mode, disrupting traffic and remote access services. Exploitation requires no credentials or user interaction and has proof-of-concept (PoC) code publicly available. There are reports of automated scanning and potential targeting of exposed systems, but Palo Alto Networks states it has not seen confirmed malicious exploitation in the wild yet.",https://security.paloaltonetworks.com/CVE-2026-0227
+Red Hat glib2 Update,CVE-2025-13601,7.7,,Qualys QID,"1/23 CH - QID Available (6046742, 6046738, 6046736)","https://access.redhat.com/errata/RHSA-2026:0936
+https://access.redhat.com/errata/RHSA-2026:0975
+https://access.redhat.com/errata/RHSA-2026:0991"
+Red Hat update for gnupg2,CVE-2025-68973,7.8,,Qualys QID,"1/23 CH - QID Available (6046741, 6046735)","https://access.redhat.com/errata/RHSA-2026:0935
+https://access.redhat.com/errata/RHSA-2026:0974"
+Red Hat update for java-17-openjdk,CVE-2025-64720,7.1,,Qualys QID,1/23 CH - QID Available (6046739),https://access.redhat.com/errata/RHSA-2026:0927
+Red Hat update for java-17-openjdk,CVE-2025-65018,7.1,,Qualys QID,1/23 CH - QID Available (6046739),https://access.redhat.com/errata/RHSA-2026:0927
+Red Hat update for java-17-openjdk,CVE-2026-21945,7.5,,Qualys QID,1/23 CH - QID Available (6046739),https://access.redhat.com/errata/RHSA-2026:0927
+Red Hat update for libsoup,CVE-2025-14523,8.2,,Qualys QID,"1/23 CH - QID Available (6046719, 6046720, 6046721, 6046724,6046728)","https://access.redhat.com/errata/RHSA-2026:0905
+https://access.redhat.com/errata/RHSA-2026:0906
+https://access.redhat.com/errata/RHSA-2026:0907
+https://access.redhat.com/errata/RHSA-2026:0908
+https://access.redhat.com/errata/RHSA-2026:0925"
+Red Hat update for net-snmp,CVE-2025-68615,9.8,,Qualys QID,1/23 CH - QID Available (6046731),https://access.redhat.com/errata/RHSA-2026:0926
