@@ -1,1 +1,1 @@
-
+vulnerability affecting the GNU Inetutils telnetd service, where improper authentication handling can allow a remote attacker to bypass login controls under certain conditions. The flaw exists in GNU Inetutils versions up to and including 2.7 and impacts systems where the telnet server (telnetd) is installed and enabled.
