@@ -1,21 +1,116 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Google Chrome Arbitrary Code Execution Vulnerability,CVE-2026-1220,9.6,,Qualys QID,1/23 CH - QID Available (386372),"https://chromereleases.googleblog.com/2026/01/chrome-for-android-update_0513998776.html
-https://chromereleases.googleblog.com/2026/01/stable-channel-update-for-desktop_20.html"
-Atlassian Bitbucket Data Center and Server Remote Code Execution (RCE)  Vulnerability,CVE-2025-55752,7.5,,Qualys QID,1/23 CH - QID Available (386369),https://jira.atlassian.com/browse/BSERV-20285
-PAN-OS GlobalProtect Gateway and Portal Denial of Service Vulnerability,CVE-2026-0227,7.7,,Qualys QID,"1/23 CH - QID Available (733584)
-
-high-severity denial-of-service (DoS) vulnerability in Palo Alto Networks PAN-OS affecting the GlobalProtect Gateway and Portal components. The flaw allows an unauthenticated remote attacker to repeatedly send crafted network traffic that causes the firewall to crash or enter maintenance mode, disrupting traffic and remote access services. Exploitation requires no credentials or user interaction and has proof-of-concept (PoC) code publicly available. There are reports of automated scanning and potential targeting of exposed systems, but Palo Alto Networks states it has not seen confirmed malicious exploitation in the wild yet.",https://security.paloaltonetworks.com/CVE-2026-0227
-Red Hat glib2 Update,CVE-2025-13601,7.7,,Qualys QID,"1/23 CH - QID Available (6046742, 6046738, 6046736)","https://access.redhat.com/errata/RHSA-2026:0936
-https://access.redhat.com/errata/RHSA-2026:0975
-https://access.redhat.com/errata/RHSA-2026:0991"
-Red Hat update for gnupg2,CVE-2025-68973,7.8,,Qualys QID,"1/23 CH - QID Available (6046741, 6046735)","https://access.redhat.com/errata/RHSA-2026:0935
-https://access.redhat.com/errata/RHSA-2026:0974"
-Red Hat update for java-17-openjdk,CVE-2025-64720,7.1,,Qualys QID,1/23 CH - QID Available (6046739),https://access.redhat.com/errata/RHSA-2026:0927
-Red Hat update for java-17-openjdk,CVE-2025-65018,7.1,,Qualys QID,1/23 CH - QID Available (6046739),https://access.redhat.com/errata/RHSA-2026:0927
-Red Hat update for java-17-openjdk,CVE-2026-21945,7.5,,Qualys QID,1/23 CH - QID Available (6046739),https://access.redhat.com/errata/RHSA-2026:0927
-Red Hat update for libsoup,CVE-2025-14523,8.2,,Qualys QID,"1/23 CH - QID Available (6046719, 6046720, 6046721, 6046724,6046728)","https://access.redhat.com/errata/RHSA-2026:0905
-https://access.redhat.com/errata/RHSA-2026:0906
-https://access.redhat.com/errata/RHSA-2026:0907
-https://access.redhat.com/errata/RHSA-2026:0908
-https://access.redhat.com/errata/RHSA-2026:0925"
-Red Hat update for net-snmp,CVE-2025-68615,9.8,,Qualys QID,1/23 CH - QID Available (6046731),https://access.redhat.com/errata/RHSA-2026:0926
+Grafana Multiple Vulnerabilities,CVE-2026-21721,8.1,,,1/28 CH - QID Available (733641),"https://grafana.com/security/security-advisories/cve-2026-21720
+https://grafana.com/security/security-advisories/cve-2026-21721"
+Grafana Multiple Vulnerabilities,CVE-2026-21720,7.5,,,1/28 CH - QID Available (733641),"https://grafana.com/security/security-advisories/cve-2026-21720
+https://grafana.com/security/security-advisories/cve-2026-21721"
+Mozilla Firefox Use-After-Free Vulnerability,CVE-2026-24869,Moderate,,,1/28 CH - QID Available (386421),https://www.mozilla.org/en-US/security/advisories/mfsa2026-06
+Mozilla Thunderbird ESR Information Disclosure Vulnerability,CVE-2026-0818,Moderate,,,1/28 CH - QID Available (386421),"https://www.mozilla.org/en-US/security/advisories/mfsa2026-07/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-08/"
+Red Hat update for kernel,CVE-2023-53673,7.8,,,,https://access.redhat.com/errata/RHSA-2026:1142
+Red Hat update for kernel,CVE-2025-40277,7.8,,,1/28 CH - QID Available (386421),"https://access.redhat.com/errata/RHSA-2026:1142
+"
+Red Hat update for kernel,CVE-2025-40248,7,,,"1/28 CH - QID Available (6046766, 6046759, 6046754)","https://access.redhat.com/errata/RHSA-2026:1142
+https://access.redhat.com/errata/RHSA-2026:1143
+https://access.redhat.com/errata/RHSA-2026:1442"
+Red Hat update for kernel,CVE-2025-38349,7,,,1/28 CH - QID Available (6046759),https://access.redhat.com/errata/RHSA-2026:1143
+Red Hat update for kernel,CVE-2025-68305,7,,,1/28 CH - QID Available (6046759),https://access.redhat.com/errata/RHSA-2026:1143
+Red Hat update for kernel,CVE-2025-40294,7.3,,,1/28 CH - QID Available (6046759),https://access.redhat.com/errata/RHSA-2026:1143
+Red Hat update for kernel,CVE-2025-38141,7,,,1/28 CH - QID Available (6046759),https://access.redhat.com/errata/RHSA-2026:1143
+Red Hat update for kernel,CVE-2025-40258,7.8,,,"1/28 CH - QID Available (6046759, 6046761)","https://access.redhat.com/errata/RHSA-2026:1143
+https://access.redhat.com/errata/RHSA-2026:1194
+https://access.redhat.com/errata/RHSA-2026:1444"
+Red Hat update for kernel,CVE-2025-38731,7,,,1/28 CH - QID Available (6046759),https://access.redhat.com/errata/RHSA-2026:1143/
+Red Hat update for kernel,CVE-2025-68301,7,,,1/28 CH - QID Available (6046759),https://access.redhat.com/errata/RHSA-2026:1143/
+Red Hat update for kernel,CVE-2025-37819,6.7,,,"1/28 CH - QID Available (6046769, 6046761)","https://access.redhat.com/errata/RHSA-2026:1194
+https://access.redhat.com/errata/RHSA-2026:1444"
+Red Hat update for kernel-rt,CVE-2025-40154,7,,,"1/28 CH - QID Available (6046766, 6046759, 6046754)","https://access.redhat.com/errata/RHSA-2026:1142
+https://access.redhat.com/errata/RHSA-2026:1441
+https://access.redhat.com/errata/RHSA-2026:1443"
+Red Hat update for kernel-rt,CVE-2025-40141,7.3,,,"1/28 CH - QID Available (6046766, 6046759, 6046754)","https://access.redhat.com/errata/RHSA-2026:1194
+https://access.redhat.com/errata/RHSA-2026:1441
+https://access.redhat.com/errata/RHSA-2026:1443"
+Red Hat update for kernel-rt,CVE-2025-37789,6.1,,,"1/28 CH - QID Available (6046766, 6046759, 6046754)","https://access.redhat.com/errata/RHSA-2026:1194
+https://access.redhat.com/errata/RHSA-2026:1441
+https://access.redhat.com/errata/RHSA-2026:1443
+https://access.redhat.com/errata/RHSA-2026:1444"
+Red Hat update for kernel-rt,CVE-2023-53034,6,,,"1/28 CH - QID Available (6046766, 6046759, 6046754)","https://access.redhat.com/errata/RHSA-2026:1194
+https://access.redhat.com/errata/RHSA-2026:1441
+https://access.redhat.com/errata/RHSA-2026:1443
+https://access.redhat.com/errata/RHSA-2026:1444"
+Red Hat update for php:8.2,CVE-2025-14178,6.5,,,"1/28 CH - QID Available (6046797, 6046796, 6046788)","https://access.redhat.com/errata/RHSA-2026:1169
+https://access.redhat.com/errata/RHSA-2026:1187
+https://access.redhat.com/errata/RHSA-2026:1190
+https://access.redhat.com/errata/RHSA-2026:1409
+https://access.redhat.com/errata/RHSA-2026:1412
+https://access.redhat.com/errata/RHSA-2026:1429"
+Red Hat update for php:8.2,CVE-2025-14180,7.5,,,"1/28 CH - QID Available (6046797, 6046796, 6046788)","https://access.redhat.com/errata/RHSA-2026:1169
+https://access.redhat.com/errata/RHSA-2026:1187
+https://access.redhat.com/errata/RHSA-2026:1190
+https://access.redhat.com/errata/RHSA-2026:1409
+https://access.redhat.com/errata/RHSA-2026:1412
+https://access.redhat.com/errata/RHSA-2026:1429"
+Red Hat update for thunderbird,CVE-2026-0882,8.8,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
+https://access.redhat.com/errata/RHSA-2026:1413
+https://access.redhat.com/errata/RHSA-2026:1414
+https://access.redhat.com/errata/RHSA-2026:1415
+https://access.redhat.com/errata/RHSA-2026:1462"
+Red Hat update for thunderbird,CVE-2026-0880,8.8,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
+https://access.redhat.com/errata/RHSA-2026:1413
+https://access.redhat.com/errata/RHSA-2026:1414
+https://access.redhat.com/errata/RHSA-2026:1415
+https://access.redhat.com/errata/RHSA-2026:1462"
+Red Hat update for thunderbird,CVE-2026-0885,6.5,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
+https://access.redhat.com/errata/RHSA-2026:1413
+https://access.redhat.com/errata/RHSA-2026:1414
+https://access.redhat.com/errata/RHSA-2026:1415
+https://access.redhat.com/errata/RHSA-2026:1462"
+Red Hat update for thunderbird,CVE-2026-0879,9.8,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
+https://access.redhat.com/errata/RHSA-2026:1413
+https://access.redhat.com/errata/RHSA-2026:1414
+https://access.redhat.com/errata/RHSA-2026:1415
+https://access.redhat.com/errata/RHSA-2026:1462"
+Red Hat update for thunderbird,CVE-2026-0878,8,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
+https://access.redhat.com/errata/RHSA-2026:1413
+https://access.redhat.com/errata/RHSA-2026:1414
+https://access.redhat.com/errata/RHSA-2026:1415
+https://access.redhat.com/errata/RHSA-2026:1462"
+Red Hat update for thunderbird,CVE-2026-0887,4.3,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
+https://access.redhat.com/errata/RHSA-2026:1413
+https://access.redhat.com/errata/RHSA-2026:1414
+https://access.redhat.com/errata/RHSA-2026:1415
+https://access.redhat.com/errata/RHSA-2026:1462"
+Red Hat update for thunderbird,CVE-2026-0886,5.3,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
+https://access.redhat.com/errata/RHSA-2026:1413
+https://access.redhat.com/errata/RHSA-2026:1414
+https://access.redhat.com/errata/RHSA-2026:1415
+https://access.redhat.com/errata/RHSA-2026:1462"
+Red Hat update for thunderbird,CVE-2026-0890,5.4,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
+https://access.redhat.com/errata/RHSA-2026:1413
+https://access.redhat.com/errata/RHSA-2026:1414
+https://access.redhat.com/errata/RHSA-2026:1415
+https://access.redhat.com/errata/RHSA-2026:1462"
+Red Hat update for thunderbird,CVE-2026-0891,8.1,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
+https://access.redhat.com/errata/RHSA-2026:1413
+https://access.redhat.com/errata/RHSA-2026:1414
+https://access.redhat.com/errata/RHSA-2026:1415
+https://access.redhat.com/errata/RHSA-2026:1462"
+Red Hat update for thunderbird,CVE-2025-14327,4.3,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
+https://access.redhat.com/errata/RHSA-2026:1413
+https://access.redhat.com/errata/RHSA-2026:1414
+https://access.redhat.com/errata/RHSA-2026:1415
+https://access.redhat.com/errata/RHSA-2026:1462"
+Red Hat update for thunderbird,CVE-2026-0884,9.8,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
+https://access.redhat.com/errata/RHSA-2026:1413
+https://access.redhat.com/errata/RHSA-2026:1414
+https://access.redhat.com/errata/RHSA-2026:1415
+https://access.redhat.com/errata/RHSA-2026:1462"
+Red Hat update for thunderbird,CVE-2026-0877,8.1,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
+https://access.redhat.com/errata/RHSA-2026:1413
+https://access.redhat.com/errata/RHSA-2026:1414
+https://access.redhat.com/errata/RHSA-2026:1415
+https://access.redhat.com/errata/RHSA-2026:1462"
+Red Hat update for thunderbird,CVE-2026-0883,5.3,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
+https://access.redhat.com/errata/RHSA-2026:1413
+https://access.redhat.com/errata/RHSA-2026:1414
+https://access.redhat.com/errata/RHSA-2026:1415
+https://access.redhat.com/errata/RHSA-2026:1462"
