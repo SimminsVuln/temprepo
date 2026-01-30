@@ -1,116 +1,120 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Grafana Multiple Vulnerabilities,CVE-2026-21721,8.1,,,1/28 CH - QID Available (733641),"https://grafana.com/security/security-advisories/cve-2026-21720
-https://grafana.com/security/security-advisories/cve-2026-21721"
-Grafana Multiple Vulnerabilities,CVE-2026-21720,7.5,,,1/28 CH - QID Available (733641),"https://grafana.com/security/security-advisories/cve-2026-21720
-https://grafana.com/security/security-advisories/cve-2026-21721"
-Mozilla Firefox Use-After-Free Vulnerability,CVE-2026-24869,Moderate,,,1/28 CH - QID Available (386421),https://www.mozilla.org/en-US/security/advisories/mfsa2026-06
-Mozilla Thunderbird ESR Information Disclosure Vulnerability,CVE-2026-0818,Moderate,,,1/28 CH - QID Available (386421),"https://www.mozilla.org/en-US/security/advisories/mfsa2026-07/
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-08/"
-Red Hat update for kernel,CVE-2023-53673,7.8,,,,https://access.redhat.com/errata/RHSA-2026:1142
-Red Hat update for kernel,CVE-2025-40277,7.8,,,1/28 CH - QID Available (386421),"https://access.redhat.com/errata/RHSA-2026:1142
-"
-Red Hat update for kernel,CVE-2025-40248,7,,,"1/28 CH - QID Available (6046766, 6046759, 6046754)","https://access.redhat.com/errata/RHSA-2026:1142
-https://access.redhat.com/errata/RHSA-2026:1143
-https://access.redhat.com/errata/RHSA-2026:1442"
-Red Hat update for kernel,CVE-2025-38349,7,,,1/28 CH - QID Available (6046759),https://access.redhat.com/errata/RHSA-2026:1143
-Red Hat update for kernel,CVE-2025-68305,7,,,1/28 CH - QID Available (6046759),https://access.redhat.com/errata/RHSA-2026:1143
-Red Hat update for kernel,CVE-2025-40294,7.3,,,1/28 CH - QID Available (6046759),https://access.redhat.com/errata/RHSA-2026:1143
-Red Hat update for kernel,CVE-2025-38141,7,,,1/28 CH - QID Available (6046759),https://access.redhat.com/errata/RHSA-2026:1143
-Red Hat update for kernel,CVE-2025-40258,7.8,,,"1/28 CH - QID Available (6046759, 6046761)","https://access.redhat.com/errata/RHSA-2026:1143
-https://access.redhat.com/errata/RHSA-2026:1194
-https://access.redhat.com/errata/RHSA-2026:1444"
-Red Hat update for kernel,CVE-2025-38731,7,,,1/28 CH - QID Available (6046759),https://access.redhat.com/errata/RHSA-2026:1143/
-Red Hat update for kernel,CVE-2025-68301,7,,,1/28 CH - QID Available (6046759),https://access.redhat.com/errata/RHSA-2026:1143/
-Red Hat update for kernel,CVE-2025-37819,6.7,,,"1/28 CH - QID Available (6046769, 6046761)","https://access.redhat.com/errata/RHSA-2026:1194
-https://access.redhat.com/errata/RHSA-2026:1444"
-Red Hat update for kernel-rt,CVE-2025-40154,7,,,"1/28 CH - QID Available (6046766, 6046759, 6046754)","https://access.redhat.com/errata/RHSA-2026:1142
-https://access.redhat.com/errata/RHSA-2026:1441
-https://access.redhat.com/errata/RHSA-2026:1443"
-Red Hat update for kernel-rt,CVE-2025-40141,7.3,,,"1/28 CH - QID Available (6046766, 6046759, 6046754)","https://access.redhat.com/errata/RHSA-2026:1194
-https://access.redhat.com/errata/RHSA-2026:1441
-https://access.redhat.com/errata/RHSA-2026:1443"
-Red Hat update for kernel-rt,CVE-2025-37789,6.1,,,"1/28 CH - QID Available (6046766, 6046759, 6046754)","https://access.redhat.com/errata/RHSA-2026:1194
-https://access.redhat.com/errata/RHSA-2026:1441
-https://access.redhat.com/errata/RHSA-2026:1443
-https://access.redhat.com/errata/RHSA-2026:1444"
-Red Hat update for kernel-rt,CVE-2023-53034,6,,,"1/28 CH - QID Available (6046766, 6046759, 6046754)","https://access.redhat.com/errata/RHSA-2026:1194
-https://access.redhat.com/errata/RHSA-2026:1441
-https://access.redhat.com/errata/RHSA-2026:1443
-https://access.redhat.com/errata/RHSA-2026:1444"
-Red Hat update for php:8.2,CVE-2025-14178,6.5,,,"1/28 CH - QID Available (6046797, 6046796, 6046788)","https://access.redhat.com/errata/RHSA-2026:1169
-https://access.redhat.com/errata/RHSA-2026:1187
-https://access.redhat.com/errata/RHSA-2026:1190
-https://access.redhat.com/errata/RHSA-2026:1409
-https://access.redhat.com/errata/RHSA-2026:1412
-https://access.redhat.com/errata/RHSA-2026:1429"
-Red Hat update for php:8.2,CVE-2025-14180,7.5,,,"1/28 CH - QID Available (6046797, 6046796, 6046788)","https://access.redhat.com/errata/RHSA-2026:1169
-https://access.redhat.com/errata/RHSA-2026:1187
-https://access.redhat.com/errata/RHSA-2026:1190
-https://access.redhat.com/errata/RHSA-2026:1409
-https://access.redhat.com/errata/RHSA-2026:1412
-https://access.redhat.com/errata/RHSA-2026:1429"
-Red Hat update for thunderbird,CVE-2026-0882,8.8,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
-https://access.redhat.com/errata/RHSA-2026:1413
-https://access.redhat.com/errata/RHSA-2026:1414
-https://access.redhat.com/errata/RHSA-2026:1415
-https://access.redhat.com/errata/RHSA-2026:1462"
-Red Hat update for thunderbird,CVE-2026-0880,8.8,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
-https://access.redhat.com/errata/RHSA-2026:1413
-https://access.redhat.com/errata/RHSA-2026:1414
-https://access.redhat.com/errata/RHSA-2026:1415
-https://access.redhat.com/errata/RHSA-2026:1462"
-Red Hat update for thunderbird,CVE-2026-0885,6.5,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
-https://access.redhat.com/errata/RHSA-2026:1413
-https://access.redhat.com/errata/RHSA-2026:1414
-https://access.redhat.com/errata/RHSA-2026:1415
-https://access.redhat.com/errata/RHSA-2026:1462"
-Red Hat update for thunderbird,CVE-2026-0879,9.8,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
-https://access.redhat.com/errata/RHSA-2026:1413
-https://access.redhat.com/errata/RHSA-2026:1414
-https://access.redhat.com/errata/RHSA-2026:1415
-https://access.redhat.com/errata/RHSA-2026:1462"
-Red Hat update for thunderbird,CVE-2026-0878,8,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
-https://access.redhat.com/errata/RHSA-2026:1413
-https://access.redhat.com/errata/RHSA-2026:1414
-https://access.redhat.com/errata/RHSA-2026:1415
-https://access.redhat.com/errata/RHSA-2026:1462"
-Red Hat update for thunderbird,CVE-2026-0887,4.3,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
-https://access.redhat.com/errata/RHSA-2026:1413
-https://access.redhat.com/errata/RHSA-2026:1414
-https://access.redhat.com/errata/RHSA-2026:1415
-https://access.redhat.com/errata/RHSA-2026:1462"
-Red Hat update for thunderbird,CVE-2026-0886,5.3,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
-https://access.redhat.com/errata/RHSA-2026:1413
-https://access.redhat.com/errata/RHSA-2026:1414
-https://access.redhat.com/errata/RHSA-2026:1415
-https://access.redhat.com/errata/RHSA-2026:1462"
-Red Hat update for thunderbird,CVE-2026-0890,5.4,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
-https://access.redhat.com/errata/RHSA-2026:1413
-https://access.redhat.com/errata/RHSA-2026:1414
-https://access.redhat.com/errata/RHSA-2026:1415
-https://access.redhat.com/errata/RHSA-2026:1462"
-Red Hat update for thunderbird,CVE-2026-0891,8.1,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
-https://access.redhat.com/errata/RHSA-2026:1413
-https://access.redhat.com/errata/RHSA-2026:1414
-https://access.redhat.com/errata/RHSA-2026:1415
-https://access.redhat.com/errata/RHSA-2026:1462"
-Red Hat update for thunderbird,CVE-2025-14327,4.3,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
-https://access.redhat.com/errata/RHSA-2026:1413
-https://access.redhat.com/errata/RHSA-2026:1414
-https://access.redhat.com/errata/RHSA-2026:1415
-https://access.redhat.com/errata/RHSA-2026:1462"
-Red Hat update for thunderbird,CVE-2026-0884,9.8,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
-https://access.redhat.com/errata/RHSA-2026:1413
-https://access.redhat.com/errata/RHSA-2026:1414
-https://access.redhat.com/errata/RHSA-2026:1415
-https://access.redhat.com/errata/RHSA-2026:1462"
-Red Hat update for thunderbird,CVE-2026-0877,8.1,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
-https://access.redhat.com/errata/RHSA-2026:1413
-https://access.redhat.com/errata/RHSA-2026:1414
-https://access.redhat.com/errata/RHSA-2026:1415
-https://access.redhat.com/errata/RHSA-2026:1462"
-Red Hat update for thunderbird,CVE-2026-0883,5.3,,,"1/28 CH - QID Available (6046770, 6046781, 6046799, 6046801, 6046808, 6046809)","https://access.redhat.com/errata/RHSA-2026:1320
-https://access.redhat.com/errata/RHSA-2026:1413
-https://access.redhat.com/errata/RHSA-2026:1414
-https://access.redhat.com/errata/RHSA-2026:1415
-https://access.redhat.com/errata/RHSA-2026:1462"
+Brocade Fabric OS Multiple Vulnerabilities,CVE-2026-0383,8.2,,None,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36851
+Brocade Fabric OS Multiple Vulnerabilities,CVE-2025-9711,8.5,,None,,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36852
+IBM DB2 Multiple Vulnerabilities,CVE-2025-36184,7.2,,None,1/30 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7257518
+https://www.ibm.com/support/pages/node/7257519
+https://www.ibm.com/support/pages/node/7257616
+https://www.ibm.com/support/pages/node/7257623
+https://www.ibm.com/support/pages/node/7257624
+https://www.ibm.com/support/pages/node/7257627
+https://www.ibm.com/support/pages/node/7257629
+https://www.ibm.com/support/pages/node/7257632
+https://www.ibm.com/support/pages/node/7257633
+https://www.ibm.com/support/pages/node/7257653
+https://www.ibm.com/support/pages/node/7257665
+https://www.ibm.com/support/pages/node/7257681
+https://www.ibm.com/support/pages/node/7257690
+https://www.ibm.com/support/pages/node/7257692
+https://www.ibm.com/support/pages/node/7257694
+https://www.ibm.com/support/pages/node/7257695
+https://www.ibm.com/support/pages/node/7257696
+https://www.ibm.com/support/pages/node/7257697
+https://www.ibm.com/support/pages/node/7257698
+https://www.ibm.com/support/pages/node/7258331"
+IBM DB2 Multiple Vulnerabilities,CVE-2024-47072,7.5,,None,1/30 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7257518
+https://www.ibm.com/support/pages/node/7257519
+https://www.ibm.com/support/pages/node/7257616
+https://www.ibm.com/support/pages/node/7257623
+https://www.ibm.com/support/pages/node/7257624
+https://www.ibm.com/support/pages/node/7257627
+https://www.ibm.com/support/pages/node/7257629
+https://www.ibm.com/support/pages/node/7257632
+https://www.ibm.com/support/pages/node/7257633
+https://www.ibm.com/support/pages/node/7257653
+https://www.ibm.com/support/pages/node/7257665
+https://www.ibm.com/support/pages/node/7257681
+https://www.ibm.com/support/pages/node/7257690
+https://www.ibm.com/support/pages/node/7257692
+https://www.ibm.com/support/pages/node/7257694
+https://www.ibm.com/support/pages/node/7257695
+https://www.ibm.com/support/pages/node/7257696
+https://www.ibm.com/support/pages/node/7257697
+https://www.ibm.com/support/pages/node/7257698
+https://www.ibm.com/support/pages/node/7258331"
+IBM DB2 Multiple Vulnerabilities,CVE-2025-55163,7.5,,None,1/30 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7257518
+https://www.ibm.com/support/pages/node/7257519
+https://www.ibm.com/support/pages/node/7257616
+https://www.ibm.com/support/pages/node/7257623
+https://www.ibm.com/support/pages/node/7257624
+https://www.ibm.com/support/pages/node/7257627
+https://www.ibm.com/support/pages/node/7257629
+https://www.ibm.com/support/pages/node/7257632
+https://www.ibm.com/support/pages/node/7257633
+https://www.ibm.com/support/pages/node/7257653
+https://www.ibm.com/support/pages/node/7257665
+https://www.ibm.com/support/pages/node/7257681
+https://www.ibm.com/support/pages/node/7257690
+https://www.ibm.com/support/pages/node/7257692
+https://www.ibm.com/support/pages/node/7257694
+https://www.ibm.com/support/pages/node/7257695
+https://www.ibm.com/support/pages/node/7257696
+https://www.ibm.com/support/pages/node/7257697
+https://www.ibm.com/support/pages/node/7257698
+https://www.ibm.com/support/pages/node/7258331"
+IBM DB2 Multiple Vulnerabilities,CVE-2025-58056,7.5,,None,1/30 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7257518
+https://www.ibm.com/support/pages/node/7257519
+https://www.ibm.com/support/pages/node/7257616
+https://www.ibm.com/support/pages/node/7257623
+https://www.ibm.com/support/pages/node/7257624
+https://www.ibm.com/support/pages/node/7257627
+https://www.ibm.com/support/pages/node/7257629
+https://www.ibm.com/support/pages/node/7257632
+https://www.ibm.com/support/pages/node/7257633
+https://www.ibm.com/support/pages/node/7257653
+https://www.ibm.com/support/pages/node/7257665
+https://www.ibm.com/support/pages/node/7257681
+https://www.ibm.com/support/pages/node/7257690
+https://www.ibm.com/support/pages/node/7257692
+https://www.ibm.com/support/pages/node/7257694
+https://www.ibm.com/support/pages/node/7257695
+https://www.ibm.com/support/pages/node/7257696
+https://www.ibm.com/support/pages/node/7257697
+https://www.ibm.com/support/pages/node/7257698
+https://www.ibm.com/support/pages/node/7258317
+https://www.ibm.com/support/pages/node/7258331"
+IBM DB2 Multiple Vulnerabilities,CVE-2025-58057,7.5,,None,1/30 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7257518
+https://www.ibm.com/support/pages/node/7257519
+https://www.ibm.com/support/pages/node/7257616
+https://www.ibm.com/support/pages/node/7257623
+https://www.ibm.com/support/pages/node/7257624
+https://www.ibm.com/support/pages/node/7257627
+https://www.ibm.com/support/pages/node/7257629
+https://www.ibm.com/support/pages/node/7257632
+https://www.ibm.com/support/pages/node/7257633
+https://www.ibm.com/support/pages/node/7257653
+https://www.ibm.com/support/pages/node/7257665
+https://www.ibm.com/support/pages/node/7257681
+https://www.ibm.com/support/pages/node/7257690
+https://www.ibm.com/support/pages/node/7257692
+https://www.ibm.com/support/pages/node/7257694
+https://www.ibm.com/support/pages/node/7257695
+https://www.ibm.com/support/pages/node/7257696
+https://www.ibm.com/support/pages/node/7257697
+https://www.ibm.com/support/pages/node/7257698
+https://www.ibm.com/support/pages/node/7258317
+https://www.ibm.com/support/pages/node/7258331"
+IBM Java Software Development Kit (SDK) Security Vulnerability (CVE-2026-21932),CVE-2026-21932,7.4,,Qualys QID,1/30 CH - QID Available (386436),https://www.ibm.com/support/pages/node/7258025
+NetApp OnCommand Insight IBM Db2 Multiple Vulnerabilities,CVE-2017-7868,7.5,,None,1/30 CH - No Remediation currently available. Only impacts OnCommand. Monitor for Patch Availability,https://security.netapp.com/advisory/ntap-20260123-0007/
+NetApp OnCommand Insight IBM Db2 Multiple Vulnerabilities,CVE-2017-7867,7.5,,None,1/30 CH - No Remediation currently available. Only impacts OnCommand. Monitor for Patch Availability,https://security.netapp.com/advisory/ntap-20260123-0007/
+NetApp OnCommand Insight IBM Db2 Multiple Vulnerabilities,CVE-2020-10531,8.8,,None,1/30 CH - No Remediation currently available. Only impacts OnCommand. Monitor for Patch Availability,https://security.netapp.com/advisory/ntap-20260123-0007/
+NetApp OnCommand Insight IBM Db2 Multiple Vulnerabilities,CVE-2016-7415,9.8,,None,1/30 CH - No Remediation currently available. Only impacts OnCommand. Monitor for Patch Availability,https://security.netapp.com/advisory/ntap-20260123-0007/
+NetApp OnCommand Insight IBM Db2 Multiple Vulnerabilities,CVE-2017-17484,9.8,,None,1/30 CH - No Remediation currently available. Only impacts OnCommand. Monitor for Patch Availability,https://security.netapp.com/advisory/ntap-20260123-0007/
+NetApp OnCommand Insight IBM Db2 Multiple Vulnerabilities,CVE-2016-6293,9.8,,None,1/30 CH - No Remediation currently available. Only impacts OnCommand. Monitor for Patch Availability,https://security.netapp.com/advisory/ntap-20260123-0007/
+NetApp OnCommand Insight IBM Db2 Multiple Vulnerabilities,CVE-2017-14952,9.8,,None,1/30 CH - No Remediation currently available. Only impacts OnCommand. Monitor for Patch Availability,https://security.netapp.com/advisory/ntap-20260123-0007/
+Red Hat update for grafana-pcp,CVE-2025-61729,7.5,,Qualys QID,1/30 CH - QID Available (6046826),https://access.redhat.com/errata/RHSA-2026:1518
+Red Hat update for openssl,CVE-2025-69419,7.4,,Qualys QID,"1/30 CH - QID Available (6046819, 6046815)","https://access.redhat.com/errata/RHSA-2026:1472
+https://access.redhat.com/errata/RHSA-2026:1473"
+Red Hat update for openssl,CVE-2025-69420,7.5,,Qualys QID,"1/30 CH - QID Available (6046819, 6046815)","https://access.redhat.com/errata/RHSA-2026:1472
+https://access.redhat.com/errata/RHSA-2026:1473"
+Red Hat update for openssl,CVE-2025-15467,9.8,,Qualys QID,"1/30 CH - QID Available (6046819, 6046815)","https://access.redhat.com/errata/RHSA-2026:1472
+https://access.redhat.com/errata/RHSA-2026:1473"
