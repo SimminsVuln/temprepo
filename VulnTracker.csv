@@ -1,40 +1,29 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Broadcom SANnav Management Portal Multiple Vulnerabilities,CVE-2024-11187,7.5,,,,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36805
+Broadcom SANnav Management Portal Multiple Vulnerabilities,CVE-2024-11187,7.5,,,22/5 CH - Task to Storage,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36805
 https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36806
 https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36807
 https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36810
 https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36817"
-Broadcom SANnav Management Portal Multiple Vulnerabilities,CVE-2022-34917,7.5,,,,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36805
+Broadcom SANnav Management Portal Multiple Vulnerabilities,CVE-2022-34917,7.5,,,22/5 CH - Task to Storage,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36805
 https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36806
 https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36807
 https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36810
 https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36817"
-Broadcom SANnav Management Portal Multiple Vulnerabilities,CVE-2024-31141,8.1,,,,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36805
+Broadcom SANnav Management Portal Multiple Vulnerabilities,CVE-2024-31141,8.1,,,22/5 CH - Task to Storage,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36805
 https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36806
 https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36807
 https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36810
 https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36817"
-Broadcom SANnav Management Portal Multiple Vulnerabilities,CVE-2023-25194,8.8,,,,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36805
+Broadcom SANnav Management Portal Multiple Vulnerabilities,CVE-2023-25194,8.8,,,22/5 CH - Task to Storage,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36805
 https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36806
 https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36807
 https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36810
 https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36817"
-Broadcom SANnav Management Portal Multiple Vulnerabilities,CVE-2025-27818,8.8,,,,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36805
+Broadcom SANnav Management Portal Multiple Vulnerabilities,CVE-2025-27818,8.8,,,22/5 CH - Task to Storage,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36805
 https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36806
 https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36807
 https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36810
 https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36817"
-Google Chrome Multiple Vulnerabilities,CVE-2026-1862,8.8,,,2/4 CH - QID Available (386464),https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-1861,8.8,,,2/4 CH - QID Available (386464),https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop.html
-IBM InfoSphere Information Server JDBC Driver Multiple Security Bypass Vulnerabilities,CVE-2025-10702,not available,,,2/4 CH - Monitor for QID,"https://community.progress.com/s/article/Progress-DataDirect-Critical-Security-Product-Alert-Bulletin-November-2025
-https://www.ibm.com/support/pages/node/7257784"
-IBM InfoSphere Information Server JDBC Driver Multiple Security Bypass Vulnerabilities,CVE-2025-10703,not available,,,2/4 CH - Monitor for QID,"https://community.progress.com/s/article/Progress-DataDirect-Critical-Security-Product-Alert-Bulletin-November-2025
-https://www.ibm.com/support/pages/node/7257784"
-IBM InfoSphere Information Server Multiple Vulnerabilities,CVE-2025-66471,7.5,,,2/4 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7257927
-https://www.ibm.com/support/pages/node/7257967
-https://www.ibm.com/support/pages/node/7257968
-https://www.sonatype.com/security-advisories/cve-2025-12183"
-IBM InfoSphere Information Server Multiple Vulnerabilities,CVE-2025-66566,7.5,,,2/4 CH - Monitor for QID,"https://www.ibm.com/support/pages/node/7257927
-https://www.ibm.com/support/pages/node/7257967
-https://www.ibm.com/support/pages/node/7257968
-https://www.sonatype.com/security-advisories/cve-2025-12183"
+Cisco Multiple Products Collaboration Endpoint / RoomOS Denial of Service Vulnerability,CVE-2026-20119,7.5,,,2/5 CH - QID in Pipeline (733665),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-tce-roomos-dos-9V9jrC2q
+F5 Multiple BIG-IP Products SMTP configuration security exposure,,,,None,,https://my.f5.com/manage/s/article/K000156643
+F5OS-A binutils update,CVE-2025-66862,7.5,,,22/5 CH - Monitor for QID | Denial of Service,https://my.f5.com/manage/s/article/K000159856
