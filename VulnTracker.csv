@@ -1,29 +1,32 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Broadcom SANnav Management Portal Multiple Vulnerabilities,CVE-2024-11187,7.5,,,22/5 CH - Task to Storage,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36805
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36806
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36807
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36810
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36817"
-Broadcom SANnav Management Portal Multiple Vulnerabilities,CVE-2022-34917,7.5,,,22/5 CH - Task to Storage,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36805
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36806
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36807
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36810
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36817"
-Broadcom SANnav Management Portal Multiple Vulnerabilities,CVE-2024-31141,8.1,,,22/5 CH - Task to Storage,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36805
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36806
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36807
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36810
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36817"
-Broadcom SANnav Management Portal Multiple Vulnerabilities,CVE-2023-25194,8.8,,,22/5 CH - Task to Storage,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36805
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36806
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36807
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36810
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36817"
-Broadcom SANnav Management Portal Multiple Vulnerabilities,CVE-2025-27818,8.8,,,22/5 CH - Task to Storage,"https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36805
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36806
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36807
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36810
-https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/36817"
-Cisco Multiple Products Collaboration Endpoint / RoomOS Denial of Service Vulnerability,CVE-2026-20119,7.5,,,2/5 CH - QID in Pipeline (733665),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-tce-roomos-dos-9V9jrC2q
-F5 Multiple BIG-IP Products SMTP configuration security exposure,,,,None,,https://my.f5.com/manage/s/article/K000156643
-F5OS-A binutils update,CVE-2025-66862,7.5,,,22/5 CH - Monitor for QID | Denial of Service,https://my.f5.com/manage/s/article/K000159856
+Docker Desktop for Windows Multiple Security Bypass Vulnerabilities,CVE-2025-14740,7.7,,Qualys QID,2/6 CH - QID Available (386481),https://docs.docker.com/desktop/release-notes#4570
+IBM Cognos Command Center Multiple Vulnerabilities,CVE-2025-1948,7.5,,None,2/6 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7257780
+IBM Cognos Command Center Multiple Vulnerabilities,CVE-2025-27533,7.5,,None,2/6 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7257780
+IBM Cognos Command Center Multiple Vulnerabilities,CVE-2025-7962,7.5,,None,2/6 CH - Monitor for QID,https://www.ibm.com/support/pages/node/7257780
+Red Hat update for firefox,CVE-2026-0878,8,,Qualys QID,2/6 CH - QID Available (6046925),https://access.redhat.com/errata/RHSA-2026:2041
+Red Hat update for firefox,CVE-2026-0877,8.1,,Qualys QID,2/6 CH - QID Available (6046925),https://access.redhat.com/errata/RHSA-2026:2041
+Red Hat update for firefox,CVE-2026-0891,8.1,,Qualys QID,2/6 CH - QID Available (6046925),https://access.redhat.com/errata/RHSA-2026:2041
+Red Hat update for firefox,CVE-2026-0882,8.8,,Qualys QID,2/6 CH - QID Available (6046925),https://access.redhat.com/errata/RHSA-2026:2041
+Red Hat update for firefox,CVE-2026-0880,8.8,,Qualys QID,2/6 CH - QID Available (6046925),https://access.redhat.com/errata/RHSA-2026:2041
+Red Hat update for firefox,CVE-2026-0879,9.8,,Qualys QID,2/6 CH - QID Available (6046925),https://access.redhat.com/errata/RHSA-2026:2041
+Red Hat update for firefox,CVE-2026-0884,9.8,,Qualys QID,2/6 CH - QID Available (6046925),https://access.redhat.com/errata/RHSA-2026:2041
+Red Hat update for freerdp,CVE-2026-23534,7.6,,Qualys QID,2/6 CH - QID Available (6046938),https://access.redhat.com/errata/RHSA-2026:2048
+Red Hat update for freerdp,CVE-2026-23531,8.8,,Qualys QID,2/6 CH - QID Available (6046938),https://access.redhat.com/errata/RHSA-2026:2048
+Red Hat update for freerdp,CVE-2026-23883,8.8,,Qualys QID,2/6 CH - QID Available (6046938),https://access.redhat.com/errata/RHSA-2026:2048
+Red Hat update for freerdp,CVE-2026-23532,8.8,,Qualys QID,2/6 CH - QID Available (6046938),https://access.redhat.com/errata/RHSA-2026:2048
+Red Hat update for freerdp,CVE-2026-23530,8.8,,Qualys QID,2/6 CH - QID Available (6046938),https://access.redhat.com/errata/RHSA-2026:2048
+Red Hat update for freerdp,CVE-2026-23884,8.8,,Qualys QID,2/6 CH - QID Available (6046938),https://access.redhat.com/errata/RHSA-2026:2048
+Red Hat update for freerdp,CVE-2026-23533,8.8,,Qualys QID,2/6 CH - QID Available (6046938),https://access.redhat.com/errata/RHSA-2026:2048
+Red Hat update for kernel,CVE-2025-38051,7,,Qualys QID,2/6 CH - QID Available (6046897),https://access.redhat.com/errata/RHSA-2026:1879
+Red Hat update for kernel,CVE-2025-40096,7,,Qualys QID,2/6 CH - QID Available (6046897),https://access.redhat.com/errata/RHSA-2026:1879
+Red Hat update for kernel,CVE-2023-53751,7.1,,Qualys QID,2/6 CH - QID Available (6046903),https://access.redhat.com/errata/RHSA-2026:1909
+Red Hat update for kernel,CVE-2025-40251,7.1,,Qualys QID,2/6 CH - QID Available (6046897),https://access.redhat.com/errata/RHSA-2026:1879
+Red Hat update for kernel,CVE-2022-50865,7.5,,Qualys QID,2/6 CH - QID Available (6046903),https://access.redhat.com/errata/RHSA-2026:1909
+Red Hat update for libsoup,CVE-2026-0719,8.6,,Qualys QID,2/6 CH - QID Available (6046913),https://access.redhat.com/errata/RHSA-2026:1948
+Red Hat update for libsoup,CVE-2026-1761,8.6,,Qualys QID,2/6 CH - QID Available (6046913),https://access.redhat.com/errata/RHSA-2026:1948
+Red Hat update for nodejs22,CVE-2025-55130,7.1,,Qualys QID,2/6 CH - QID Available (6046927),https://access.redhat.com/errata/RHSA-2026:1843
+Red Hat update for nodejs22,CVE-2025-55131,7.1,,Qualys QID,2/6 CH - QID Available (6046927),https://access.redhat.com/errata/RHSA-2026:1843
+Red Hat update for nodejs22,CVE-2025-59465,7.5,,Qualys QID,2/6 CH - QID Available (6046927),https://access.redhat.com/errata/RHSA-2026:1843
+Red Hat update for python3,CVE-2025-15366,7.1,,Qualys QID,2/6 CH - QID Available (6046930),https://access.redhat.com/errata/RHSA-2026:2128
+Red Hat update for python3,CVE-2025-15367,7.1,,Qualys QID,2/6 CH - QID Available (6046930),https://access.redhat.com/errata/RHSA-2026:2128
+Red Hat update for python3,CVE-2026-1299,7.1,,Qualys QID,2/6 CH - QID Available (6046930),https://access.redhat.com/errata/RHSA-2026:2128
