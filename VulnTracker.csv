@@ -1,33 +1,30 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Red Hat Ansible Automation Platform Denial of Service Vulnerability,CVE-2025-66471,7.5,,Qualys QID,2/10 CH - QID Available (6046956),https://access.redhat.com/errata/RHSA-2026:1249
-Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2025-53643,7.5,,Qualys QID,2/10 CH - QID Available (6046956),https://access.redhat.com/errata/RHSA-2026:1249
-Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2025-69223,7.5,,Qualys QID,2/10 CH - QID Available (6046956),https://access.redhat.com/errata/RHSA-2026:1249
-Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2025-64460,7.5,,Qualys QID,2/10 CH - QID Available (6046956),https://access.redhat.com/errata/RHSA-2026:1249
-Red Hat update for firefox,CVE-2026-0878,8,,Qualys QID,2/10 CH - QID Available (6046963),https://access.redhat.com/errata/RHSA-2026:2220
-Red Hat update for firefox,CVE-2026-0877,8.1,,Qualys QID,2/10 CH - QID Available (6046963),https://access.redhat.com/errata/RHSA-2026:2220
-Red Hat update for firefox,CVE-2026-0891,8.1,,Qualys QID,2/10 CH - QID Available (6046963),https://access.redhat.com/errata/RHSA-2026:2220
-Red Hat update for firefox,CVE-2026-0882,8.8,,Qualys QID,2/10 CH - QID Available (6046963),https://access.redhat.com/errata/RHSA-2026:2220
-Red Hat update for firefox,CVE-2026-0880,8.8,,Qualys QID,2/10 CH - QID Available (6046963),https://access.redhat.com/errata/RHSA-2026:2220
-Red Hat update for firefox,CVE-2026-0884,9.8,,Qualys QID,2/10 CH - QID Available (6046963),https://access.redhat.com/errata/RHSA-2026:2220
-Red Hat update for firefox,CVE-2026-0879,9.8,,Qualys QID,2/10 CH - QID Available (6046963),https://access.redhat.com/errata/RHSA-2026:2220
-Red Hat update for freerdp,CVE-2026-23534,7.6,,Qualys QID,2/10 CH - QID Available (6046965),https://access.redhat.com/errata/RHSA-2026:2222
-Red Hat update for freerdp,CVE-2026-23530,8.8,,Qualys QID,2/10 CH - QID Available (6046965),https://access.redhat.com/errata/RHSA-2026:2222
-Red Hat update for freerdp,CVE-2026-23883,8.8,,Qualys QID,2/10 CH - QID Available (6046965),https://access.redhat.com/errata/RHSA-2026:2222
-Red Hat update for freerdp,CVE-2026-23531,8.8,,Qualys QID,2/10 CH - QID Available (6046965),https://access.redhat.com/errata/RHSA-2026:2222
-Red Hat update for freerdp,CVE-2026-23533,8.8,,Qualys QID,2/10 CH - QID Available (6046965),https://access.redhat.com/errata/RHSA-2026:2222
-Red Hat update for freerdp,CVE-2026-23884,8.8,,Qualys QID,2/10 CH - QID Available (6046965),https://access.redhat.com/errata/RHSA-2026:2222
-Red Hat update for freerdp,CVE-2026-23532,8.8,,Qualys QID,2/10 CH - QID Available (6046965),https://access.redhat.com/errata/RHSA-2026:2222
-Red Hat update for kernel,CVE-2025-38051,7,,Qualys QID,2/10 CH - QID Available (6046998),https://access.redhat.com/errata/RHSA-2026:2352
-Red Hat update for kernel,CVE-2025-40318,7,,Qualys QID,2/10 CH - QID Available (6046983),https://access.redhat.com/errata/RHSA-2026:2212
-Red Hat update for kernel,CVE-2025-40158,7,,Qualys QID,2/10 CH - QID Available (6046983),https://access.redhat.com/errata/RHSA-2026:2212
-Red Hat update for kernel,CVE-2025-40271,7,,Qualys QID,2/10 CH - QID Available (6046983),https://access.redhat.com/errata/RHSA-2026:2212
-Red Hat update for kernel,CVE-2025-40135,7,,Qualys QID,2/10 CH - QID Available (6046983),https://access.redhat.com/errata/RHSA-2026:2212
-Red Hat update for kernel,CVE-2022-50673,7,,Qualys QID,2/10 CH - QID Available (6046977),https://access.redhat.com/errata/RHSA-2026:2264
-Red Hat update for kernel,CVE-2025-21647,7.1,,Qualys QID,2/10 CH - QID Available (6046998),https://access.redhat.com/errata/RHSA-2026:2352
-Red Hat update for kernel,CVE-2024-54456,7.1,,Qualys QID,2/10 CH - QID Available (6046998),https://access.redhat.com/errata/RHSA-2026:2352
-Red Hat update for kernel,CVE-2025-38024,7.3,,Qualys QID,2/10 CH - QID Available (6046983),https://access.redhat.com/errata/RHSA-2026:2212
-Red Hat update for kernel,CVE-2025-40141,7.3,,Qualys QID,2/10 CH - QID Available (6046983),https://access.redhat.com/errata/RHSA-2026:2212
-Red Hat update for kernel,CVE-2025-40170,7.4,,Qualys QID,2/10 CH - QID Available (6046983),https://access.redhat.com/errata/RHSA-2026:2212
-Red Hat update for kernel,CVE-2025-21786,7.8,,Qualys QID,2/10 CH - QID Available (6046998),https://access.redhat.com/errata/RHSA-2026:2352
-Red Hat update for kernel,CVE-2025-21791,7.8,,Qualys QID,2/10 CH - QID Available (6046998),https://access.redhat.com/errata/RHSA-2026:2352
-Red Hat update for kernel,CVE-2025-38459,7.8,,Qualys QID,2/10 CH - QID Available (6046983),https://access.redhat.com/errata/RHSA-2026:2212
+Adobe After Effects Multiple Vulnerabilities,CVE-2026-21328,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
+Adobe After Effects Multiple Vulnerabilities,CVE-2026-21318,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
+Adobe After Effects Multiple Vulnerabilities,CVE-2026-21326,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
+Adobe After Effects Multiple Vulnerabilities,CVE-2026-21327,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
+Adobe After Effects Multiple Vulnerabilities,CVE-2026-21325,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
+Adobe After Effects Multiple Vulnerabilities,CVE-2026-21323,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
+Adobe After Effects Multiple Vulnerabilities,CVE-2026-21320,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
+Adobe After Effects Multiple Vulnerabilities,CVE-2026-21351,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
+Adobe After Effects Multiple Vulnerabilities,CVE-2026-21324,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
+Adobe After Effects Multiple Vulnerabilities,CVE-2026-21329,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
+Adobe After Effects Multiple Vulnerabilities,CVE-2026-21330,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
+Adobe After Effects Multiple Vulnerabilities,CVE-2026-21322,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
+Adobe After Effects Multiple Vulnerabilities,CVE-2026-21321,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
+Adobe InDesign CC Multiple Vulnerabilities,CVE-2026-21357,7.8,,Qualys QID,2/12 CH - QID Available (386524),https://helpx.adobe.com/security/products/indesign/apsb26-17.html
+"Apple iOS , MacOS Memory Corruption Zero Day Vulnerability", CVE-2026-20700,High,99,Qualys QID,"2/12 CH - Discuss Vulnerability Alert, QID's Available for iOS/Tahoe (610759, 386542)
+
+Current Condition: CVE-2026-20700 is a critical zero-day vulnerability in Apple's dynamic link editor that affects multiple operating systems, including iOS and macOS, and has been utilized in targeted, sophisticated attacks.
+
+Actions: Issued Vulnerability alert
+
+Needs: Version Enforcement/Patching",https://support.apple.com/en-us/126346
+GitLab Multiple Vulnerabilities,CVE-2025-14560,7.3,,Qualys QID,2/12 CH QID Available  (386536),https://about.gitlab.com/releases/2026/02/10/patch-release-gitlab-18-8-4-released
+GitLab Multiple Vulnerabilities,CVE-2026-0595,7.3,,Qualys QID,2/12 CH QID Available  (386536),https://about.gitlab.com/releases/2026/02/10/patch-release-gitlab-18-8-4-released
+GitLab Multiple Vulnerabilities,CVE-2026-0958,7.5,,Qualys QID,2/12 CH QID Available  (386536),https://about.gitlab.com/releases/2026/02/10/patch-release-gitlab-18-8-4-released
+GitLab Multiple Vulnerabilities,CVE-2025-8099,7.5,,Qualys QID,2/12 CH QID Available  (386536),https://about.gitlab.com/releases/2026/02/10/patch-release-gitlab-18-8-4-released
+GitLab Multiple Vulnerabilities,CVE-2025-7659,8,,Qualys QID,2/12 CH QID Available  (386536),https://about.gitlab.com/releases/2026/02/10/patch-release-gitlab-18-8-4-released
+SAP BusinessObjects BI Multiple Denial of Service Vulnerabilities,CVE-2026-0485,7.5,,,2/12 CH - Monitor for QID,https://support.sap.com/en/my-support/knowledge-base/security-notes-news/february-2026.html
+SAP BusinessObjects BI Multiple Denial of Service Vulnerabilities,CVE-2026-0490,7.5,,,2/12 CH - Monitor for QID,https://support.sap.com/en/my-support/knowledge-base/security-notes-news/february-2026.html
+SAP BusinessObjects BI Update,CVE-2026-0508,7.3,,,2/12 CH - Monitor for QID,https://support.sap.com/en/my-support/knowledge-base/security-notes-news/february-2026.html
