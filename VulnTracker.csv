@@ -1,30 +1,31 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Adobe After Effects Multiple Vulnerabilities,CVE-2026-21328,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
-Adobe After Effects Multiple Vulnerabilities,CVE-2026-21318,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
-Adobe After Effects Multiple Vulnerabilities,CVE-2026-21326,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
-Adobe After Effects Multiple Vulnerabilities,CVE-2026-21327,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
-Adobe After Effects Multiple Vulnerabilities,CVE-2026-21325,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
-Adobe After Effects Multiple Vulnerabilities,CVE-2026-21323,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
-Adobe After Effects Multiple Vulnerabilities,CVE-2026-21320,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
-Adobe After Effects Multiple Vulnerabilities,CVE-2026-21351,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
-Adobe After Effects Multiple Vulnerabilities,CVE-2026-21324,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
-Adobe After Effects Multiple Vulnerabilities,CVE-2026-21329,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
-Adobe After Effects Multiple Vulnerabilities,CVE-2026-21330,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
-Adobe After Effects Multiple Vulnerabilities,CVE-2026-21322,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
-Adobe After Effects Multiple Vulnerabilities,CVE-2026-21321,7.8,,Qualys QID,2/12 CH - QID Available (386520),https://helpx.adobe.com/security/products/after_effects/apsb26-15.html
-Adobe InDesign CC Multiple Vulnerabilities,CVE-2026-21357,7.8,,Qualys QID,2/12 CH - QID Available (386524),https://helpx.adobe.com/security/products/indesign/apsb26-17.html
-"Apple iOS , MacOS Memory Corruption Zero Day Vulnerability", CVE-2026-20700,High,99,Qualys QID,"2/12 CH - Discuss Vulnerability Alert, QID's Available for iOS/Tahoe (610759, 386542)
-
-Current Condition: CVE-2026-20700 is a critical zero-day vulnerability in Apple's dynamic link editor that affects multiple operating systems, including iOS and macOS, and has been utilized in targeted, sophisticated attacks.
-
-Actions: Issued Vulnerability alert
-
-Needs: Version Enforcement/Patching",https://support.apple.com/en-us/126346
-GitLab Multiple Vulnerabilities,CVE-2025-14560,7.3,,Qualys QID,2/12 CH QID Available  (386536),https://about.gitlab.com/releases/2026/02/10/patch-release-gitlab-18-8-4-released
-GitLab Multiple Vulnerabilities,CVE-2026-0595,7.3,,Qualys QID,2/12 CH QID Available  (386536),https://about.gitlab.com/releases/2026/02/10/patch-release-gitlab-18-8-4-released
-GitLab Multiple Vulnerabilities,CVE-2026-0958,7.5,,Qualys QID,2/12 CH QID Available  (386536),https://about.gitlab.com/releases/2026/02/10/patch-release-gitlab-18-8-4-released
-GitLab Multiple Vulnerabilities,CVE-2025-8099,7.5,,Qualys QID,2/12 CH QID Available  (386536),https://about.gitlab.com/releases/2026/02/10/patch-release-gitlab-18-8-4-released
-GitLab Multiple Vulnerabilities,CVE-2025-7659,8,,Qualys QID,2/12 CH QID Available  (386536),https://about.gitlab.com/releases/2026/02/10/patch-release-gitlab-18-8-4-released
-SAP BusinessObjects BI Multiple Denial of Service Vulnerabilities,CVE-2026-0485,7.5,,,2/12 CH - Monitor for QID,https://support.sap.com/en/my-support/knowledge-base/security-notes-news/february-2026.html
-SAP BusinessObjects BI Multiple Denial of Service Vulnerabilities,CVE-2026-0490,7.5,,,2/12 CH - Monitor for QID,https://support.sap.com/en/my-support/knowledge-base/security-notes-news/february-2026.html
-SAP BusinessObjects BI Update,CVE-2026-0508,7.3,,,2/12 CH - Monitor for QID,https://support.sap.com/en/my-support/knowledge-base/security-notes-news/february-2026.html
+Red Hat update for nodejs:22,CVE-2025-55130,7.1,,Qualys QID,2/13 CH - QID Available (6047025),https://access.redhat.com/errata/RHSA-2026:2421
+Red Hat update for nodejs:22,CVE-2025-55131,7.1,,Qualys QID,2/13 CH - QID Available (6047025),https://access.redhat.com/errata/RHSA-2026:2421
+Red Hat update for nodejs:22,CVE-2025-59465,7.5,,Qualys QID,2/13 CH - QID Available (6047025),https://access.redhat.com/errata/RHSA-2026:2421
+Red Hat update for kernel,CVE-2025-40322,7.1,,Qualys QID,2/13 CH - QID Available (6047034),https://access.redhat.com/errata/RHSA-2026:2490
+Red Hat update for libsoup,CVE-2026-1761,8.6,,Qualys QID,2/13 CH - QID Available (6047158),https://access.redhat.com/errata/RHSA-2026:2512
+Red Hat update for libsoup,CVE-2026-0719,8.6,,Qualys QID,2/13 CH - QID Available (6047158),https://access.redhat.com/errata/RHSA-2026:2512
+Red Hat update for kernel,CVE-2025-40154,7,,Qualys QID,2/13 CH - QID Available (6047169),https://access.redhat.com/errata/RHSA-2026:2535
+Red Hat update for kernel,CVE-2025-68301,7,,Qualys QID,2/13 CH - QID Available (6047169),https://access.redhat.com/errata/RHSA-2026:2535
+Red Hat update for kernel,CVE-2025-40096,7,,Qualys QID,2/13 CH - QID Available (6047169),https://access.redhat.com/errata/RHSA-2026:2535
+Red Hat update for kernel,CVE-2023-53833,7,,Qualys QID,2/13 CH - QID Available (6047169),https://access.redhat.com/errata/RHSA-2026:2535
+Red Hat update for kernel,CVE-2025-38022,7.1,,Qualys QID,2/13 CH - QID Available (6047169),https://access.redhat.com/errata/RHSA-2026:2535
+Red Hat update for kernel,CVE-2023-53751,7.1,,Qualys QID,2/13 CH - QID Available (6047169),https://access.redhat.com/errata/RHSA-2026:2535
+Red Hat update for kernel,CVE-2025-40304,7.3,,Qualys QID,2/13 CH - QID Available (6047169),https://access.redhat.com/errata/RHSA-2026:2535
+Red Hat update for kernel,CVE-2025-40240,7.5,,Qualys QID,2/13 CH - QID Available (6047169),https://access.redhat.com/errata/RHSA-2026:2535
+Red Hat update for kernel,CVE-2023-53673,7.8,,Qualys QID,2/13 CH - QID Available (6047169),https://access.redhat.com/errata/RHSA-2026:2535
+Red Hat update for kernel-rt,CVE-2022-50673,7,,Qualys QID,2/13 CH - QID Available (6047174),https://access.redhat.com/errata/RHSA-2026:2573
+Red Hat update for kernel-rt,CVE-2022-49503,7.1,,Qualys QID,2/13 CH - QID Available (6047174),https://access.redhat.com/errata/RHSA-2026:2573
+Google Chrome Multiple Vulnerabilities,CVE-2026-2315,High,,Qualys QID,2/13 CH - QID Available (386544),https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_10.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-2316,High,,Qualys QID,2/13 CH - QID Available (386544),https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_10.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-2322,Low,,Qualys QID,2/13 CH - QID Available (386544),https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_10.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-2323,Low,,Qualys QID,2/13 CH - QID Available (386544),https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_10.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-2314,Medium,,Qualys QID,2/13 CH - QID Available (386544),https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_10.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-2313,Medium,,Qualys QID,2/13 CH - QID Available (386544),https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_10.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-2320,Medium,,Qualys QID,2/13 CH - QID Available (386544),https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_10.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-2317,Medium,,Qualys QID,2/13 CH - QID Available (386544),https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_10.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-2319,Medium,,Qualys QID,2/13 CH - QID Available (386544),https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_10.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-2321,Medium,,Qualys QID,2/13 CH - QID Available (386544),https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_10.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-2318,Medium,,Qualys QID,2/13 CH - QID Available (386544),https://chromereleases.googleblog.com/2026/02/stable-channel-update-for-desktop_10.html
+PAN-OS Terminal Server Agent Certificate Validation Bypass Vulnerability,CVE-2026-0228,1.3,,Qualys QID,2/13 CH - QID Available (733679),https://security.paloaltonetworks.com/CVE-2026-0228
+PAN-OS Advanced DNS Security Denial of Service Vulnerability,CVE-2026-0229,6.6,,Qualys QID,2/13 CH - QID Available (733678),https://security.paloaltonetworks.com/CVE-2026-0229
