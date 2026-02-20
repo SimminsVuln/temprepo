@@ -1,59 +1,18 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Red Hat update for freerdp,CVE-2026-23530,8.8,,Qualys QID,2/19 CH - QID Available (6047205),https://access.redhat.com/errata/RHSA-2026:2714
-Red Hat update for freerdp,CVE-2026-23530,8.8,,Qualys QID,2/19 CH - QID Available (6047205),https://access.redhat.com/errata/RHSA-2026:2714
-Red Hat update for freerdp,CVE-2026-23531,8.8,,Qualys QID,2/19 CH - QID Available (6047205),https://access.redhat.com/errata/RHSA-2026:2714
-Red Hat update for freerdp,CVE-2026-23531,8.8,,Qualys QID,2/19 CH - QID Available (6047205),https://access.redhat.com/errata/RHSA-2026:2714
-Red Hat update for freerdp,CVE-2026-23532,8.8,,Qualys QID,2/19 CH - QID Available (6047205),https://access.redhat.com/errata/RHSA-2026:2714
-Red Hat update for freerdp,CVE-2026-23532,8.8,,Qualys QID,2/19 CH - QID Available (6047205),https://access.redhat.com/errata/RHSA-2026:2714
-Red Hat update for freerdp,CVE-2026-23533,8.8,,Qualys QID,2/19 CH - QID Available (6047205),https://access.redhat.com/errata/RHSA-2026:2714
-Red Hat update for freerdp,CVE-2026-23533,8.8,,Qualys QID,2/19 CH - QID Available (6047205),https://access.redhat.com/errata/RHSA-2026:2714
-Red Hat update for freerdp,CVE-2026-23884,8.8,,Qualys QID,2/19 CH - QID Available (6047205),https://access.redhat.com/errata/RHSA-2026:2714
-Red Hat update for freerdp,CVE-2026-23884,8.8,,Qualys QID,2/19 CH - QID Available (6047205),https://access.redhat.com/errata/RHSA-2026:2714
-Red Hat update for python-urllib3,CVE-2025-66471,7.5,,Qualys QID,2/19 CH - QID Available (6047192),https://access.redhat.com/errata/RHSA-2026:2717
-Red Hat update for python-urllib3,CVE-2025-66471,7.5,,Qualys QID,2/19 CH - QID Available (6047192),https://access.redhat.com/errata/RHSA-2026:2717
-Red Hat update for python-urllib3,CVE-2026-21441,7.5,,Qualys QID,2/19 CH - QID Available (6047192),https://access.redhat.com/errata/RHSA-2026:2717
-Red Hat update for python-urllib3,CVE-2026-21441,7.5,,Qualys QID,2/19 CH - QID Available (6047192),https://access.redhat.com/errata/RHSA-2026:2717
-Red Hat update for python-urllib3,CVE-2025-66418,7.5,,Qualys QID,2/19 CH - QID Available (6047192),https://access.redhat.com/errata/RHSA-2026:2717
-Red Hat update for python-urllib3,CVE-2025-66418,7.5,,Qualys QID,2/19 CH - QID Available (6047192),https://access.redhat.com/errata/RHSA-2026:2717
-Red Hat update for kernel,CVE-2025-40064,7.1,,Qualys QID,2/19 CH - QID Available (6047202),https://access.redhat.com/errata/RHSA-2026:2721
-Red Hat update for kernel,CVE-2025-38172,7.3,,Qualys QID,2/19 CH - QID Available (6047202),https://access.redhat.com/errata/RHSA-2026:2721
-Red Hat update for kernel,CVE-2025-40141,7.3,,Qualys QID,2/19 CH - QID Available (6047202),https://access.redhat.com/errata/RHSA-2026:2721
-Red Hat update for kernel,CVE-2025-40269,7.3,,Qualys QID,2/19 CH - QID Available (6047202),https://access.redhat.com/errata/RHSA-2026:2721
-Red Hat update for kernel,CVE-2025-40269,7.3,,Qualys QID,2/19 CH - QID Available (6047202),https://access.redhat.com/errata/RHSA-2026:2721
-Red Hat update for kernel,CVE-2025-68349,7.5,,Qualys QID,2/19 CH - QID Available (6047202),https://access.redhat.com/errata/RHSA-2026:2721
-Red Hat update for kernel,CVE-2025-68349,7.5,,Qualys QID,2/19 CH - QID Available (6047202),https://access.redhat.com/errata/RHSA-2026:2721
-Red Hat update for kernel,CVE-2025-40322,7.1,,Qualys QID,2/19 CH - QID Available (6047185),https://access.redhat.com/errata/RHSA-2026:2722
-Red Hat update for kernel,CVE-2025-68811,7.1,,Qualys QID,2/19 CH - QID Available (6047185),https://access.redhat.com/errata/RHSA-2026:2722
-Red Hat update for kernel,CVE-2025-40322,7.1,,Qualys QID,2/19 CH - QID Available (6047185),https://access.redhat.com/errata/RHSA-2026:2722
-Red Hat update for kernel,CVE-2025-68811,7.1,,Qualys QID,2/19 CH - QID Available (6047185),https://access.redhat.com/errata/RHSA-2026:2722
-Red Hat update for kernel,CVE-2025-40271,7,,Qualys QID,2/19 CH - QID Available (6047556),https://access.redhat.com/errata/RHSA-2026:2759
-Red Hat update for kernel,CVE-2025-40271,7,,Qualys QID,2/19 CH - QID Available (6047556),https://access.redhat.com/errata/RHSA-2026:2759
-Red Hat update for kernel,CVE-2025-38730,7.1,,Qualys QID,2/19 CH - QID Available (6047556),https://access.redhat.com/errata/RHSA-2026:2759
-Red Hat update for kernel,CVE-2025-39760,7.1,,Qualys QID,2/19 CH - QID Available (6047556),https://access.redhat.com/errata/RHSA-2026:2759
-Red Hat update for kernel,CVE-2025-39933,7.1,,Qualys QID,2/19 CH - QID Available (6047556),https://access.redhat.com/errata/RHSA-2026:2759
-Red Hat update for kernel,CVE-2025-39760,7.1,,Qualys QID,2/19 CH - QID Available (6047556),https://access.redhat.com/errata/RHSA-2026:2759
-Red Hat update for kernel,CVE-2025-38730,7.1,,Qualys QID,2/19 CH - QID Available (6047556),https://access.redhat.com/errata/RHSA-2026:2759
-Red Hat update for kernel,CVE-2025-39933,7.1,,Qualys QID,2/19 CH - QID Available (6047556),https://access.redhat.com/errata/RHSA-2026:2759
-Red Hat update for kernel,CVE-2025-38415,7,,Qualys QID,2/19 CH - QID Available (6047552),https://access.redhat.com/errata/RHSA-2026:2766
-Red Hat update for kernel,CVE-2025-38415,7,,Qualys QID,2/19 CH - QID Available (6047552),https://access.redhat.com/errata/RHSA-2026:2766
-Red Hat update for nodejs:22,CVE-2025-55130,7.1,,Qualys QID,2/19 CH - QID Available (6047571),https://access.redhat.com/errata/RHSA-2026:2767
-Red Hat update for nodejs:22,CVE-2025-55131,7.1,,Qualys QID,2/19 CH - QID Available (6047571),https://access.redhat.com/errata/RHSA-2026:2767
-Red Hat update for nodejs:22,CVE-2025-59465,7.5,,Qualys QID,2/19 CH - QID Available (6047571),https://access.redhat.com/errata/RHSA-2026:2767
-Red Hat update for Red Hat Ceph Storage,CVE-2021-23358,7.2,,Qualys QID,2/19 CH - QID Available (6047555),https://access.redhat.com/errata/RHSA-2026:2769
-Red Hat update for Red Hat Ceph Storage,CVE-2025-47913,7.5,,Qualys QID,2/19 CH - QID Available (6047555),https://access.redhat.com/errata/RHSA-2026:2769
-Red Hat update for Red Hat Ceph Storage,CVE-2025-61729,7.5,,Qualys QID,2/19 CH - QID Available (6047555),https://access.redhat.com/errata/RHSA-2026:2769
-Red Hat glibc Rejection Notice,CVE-2025-15281,7.5,,Qualys QID,2/19 CH - QID Available (6047569),https://access.redhat.com/errata/RHSA-2026:2786
-Red Hat glibc Rejection Notice,CVE-2026-0915,7.5,,Qualys QID,2/19 CH - QID Available (6047569),https://access.redhat.com/errata/RHSA-2026:2786
-Red Hat glibc Rejection Notice,CVE-2026-0861,8.4,,Qualys QID,2/19 CH - QID Available (6047569),https://access.redhat.com/errata/RHSA-2026:2786
-Atlassian Confluence tar-fs Security Bypass Vulnerability,CVE-2025-59343,7.5,,Qualys QID,2/19 CH - QID Available (733726),https://jira.atlassian.com/browse/CONFSERVER-101930
-Atlassian Confluence Spring Framework Security Bypass Vulnerability,CVE-2025-41249,7.5,,Qualys QID,2/19 CH - QID Available (733728),https://jira.atlassian.com/browse/CONFSERVER-102132
-Atlassian Confluence glob-parent Denial of Service Vulnerability,CVE-2020-28469,7.5,,Qualys QID,"2/19 CH - QID Available (733723, 733745)","https://jira.atlassian.com/browse/CONFSERVER-102184
-https://jira.atlassian.com/browse/CWD-6492"
-Atlassian Confluence Apache Commons File Upload Denial of Service Vulnerability,CVE-2025-48976,7.5,,Qualys QID,2/19 CH - QID Available (733727),https://jira.atlassian.com/browse/CONFSERVER-102193
-Atlassian Crowd kind-of Security Bypass Vulnerability,CVE-2019-20149,7.5,,Qualys QID,2/19 CH - QID Available (733748),https://jira.atlassian.com/browse/CWD-6446
-Atlassian Crowd cipher-base Vulnerability,CVE-2025-9287,7.4,,Qualys QID,2/19 CH - QID Available (733740),https://jira.atlassian.com/browse/CWD-6447
-Atlassian Crowd sha.js Security Bypass Vulnerability,CVE-2025-9288,9.1,,Qualys QID,2/19 CH - QID Available (733741),https://jira.atlassian.com/browse/CWD-6450
-IBM AIX ISC BIND Multiple Vulnerabilities,CVE-2025-8677,7.5,,Qualys QID,2/19 CH - QID Available (330240),https://www.ibm.com/support/pages/node/7261171
-IBM AIX ISC BIND Multiple Vulnerabilities,CVE-2025-40778,8.6,,Qualys QID,2/19 CH - QID Available (330240),https://www.ibm.com/support/pages/node/7261171
-IBM AIX ISC BIND Multiple Vulnerabilities,CVE-2025-40780,8.6,,Qualys QID,2/19 CH - QID Available (330240),https://www.ibm.com/support/pages/node/7261171
-Jenkins Multiple Vulnerabilities,CVE-2026-27099,8,,Qualys QID,2/19 CH - QID Available (733761),https://www.jenkins.io/security/advisory/2026-02-18
+Atlassian Confluence glob-parent Denial of Service Vulnerability,CVE-2020-28469,7.5,,Qualys QID,"2/20 CH - QID Available (733723, 733745)",https://jira.atlassian.com/browse/CONFSERVER-102184
+F5 BIG-IP AFM TMM Denial of Service Vulnerability,CVE-2026-2507,7.5,,Qualys QID,2/20 CH - QID Available (386597),https://my.f5.com/manage/s/article/K000160003
+Notepad++ Untrusted Search Vulnerability,CVE-2026-25926,7.3,,Qualys QID,2/20 CH - QID Available (386594),https://notepad-plus-plus.org/news/v892-released
+Red Hat update for freerdp,CVE-2026-23532,8.8,,Qualys QID,2/20 CH - QID Available (6047568),https://access.redhat.com/errata/RHSA-2026:2824
+Red Hat update for freerdp,CVE-2026-23533,8.8,,Qualys QID,2/20 CH - QID Available (6047568),https://access.redhat.com/errata/RHSA-2026:2824
+Red Hat update for freerdp,CVE-2026-23531,8.8,,Qualys QID,2/20 CH - QID Available (6047568),https://access.redhat.com/errata/RHSA-2026:2824
+Red Hat update for freerdp,CVE-2026-23883,8.8,,Qualys QID,2/20 CH - QID Available (6047568),https://access.redhat.com/errata/RHSA-2026:2824
+Red Hat update for freerdp,CVE-2026-23884,8.8,,Qualys QID,2/20 CH - QID Available (6047568),https://access.redhat.com/errata/RHSA-2026:2824
+Red Hat update for freerdp,CVE-2026-23530,8.8,,Qualys QID,2/20 CH - QID Available (6047568),https://access.redhat.com/errata/RHSA-2026:2824
+Red Hat update for grafana,CVE-2025-61728,6.5,,Qualys QID,2/20 CH - QID Available (6047580),https://access.redhat.com/errata/RHSA-2026:2914
+Red Hat update for grafana,CVE-2025-61729,7.5,,Qualys QID,2/20 CH - QID Available (6047580),https://access.redhat.com/errata/RHSA-2026:2914
+Red Hat update for grafana,CVE-2025-61726,7.5,,Qualys QID,2/20 CH - QID Available (6047580),https://access.redhat.com/errata/RHSA-2026:2914
+Red Hat update for grafana,CVE-2026-21721,8.1,,Qualys QID,2/20 CH - QID Available (6047580),https://access.redhat.com/errata/RHSA-2026:2914
+Red Hat update for grafana,CVE-2025-68121,10,,Qualys QID,2/20 CH - QID Available (6047580),https://access.redhat.com/errata/RHSA-2026:2914
+Red Hat update for munge,CVE-2026-25506,7.7,,Qualys QID,2/20 CH - QID Available (6047583),https://access.redhat.com/errata/RHSA-2026:2923
+Red Hat update for python3.12-wheel,CVE-2026-24049,7.1,,Qualys QID,2/20 CH - QID Available (6047576),https://access.redhat.com/errata/RHSA-2026:2866
+MS Notepad Arbitrary Code Execution Vulnerability,CVE-2026-20841,7.8,,,,
