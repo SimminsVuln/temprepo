@@ -1,18 +1,6 @@
 title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-Atlassian Confluence glob-parent Denial of Service Vulnerability,CVE-2020-28469,7.5,,Qualys QID,"2/20 CH - QID Available (733723, 733745)",https://jira.atlassian.com/browse/CONFSERVER-102184
-F5 BIG-IP AFM TMM Denial of Service Vulnerability,CVE-2026-2507,7.5,,Qualys QID,2/20 CH - QID Available (386597),https://my.f5.com/manage/s/article/K000160003
-Notepad++ Untrusted Search Vulnerability,CVE-2026-25926,7.3,,Qualys QID,2/20 CH - QID Available (386594),https://notepad-plus-plus.org/news/v892-released
-Red Hat update for freerdp,CVE-2026-23532,8.8,,Qualys QID,2/20 CH - QID Available (6047568),https://access.redhat.com/errata/RHSA-2026:2824
-Red Hat update for freerdp,CVE-2026-23533,8.8,,Qualys QID,2/20 CH - QID Available (6047568),https://access.redhat.com/errata/RHSA-2026:2824
-Red Hat update for freerdp,CVE-2026-23531,8.8,,Qualys QID,2/20 CH - QID Available (6047568),https://access.redhat.com/errata/RHSA-2026:2824
-Red Hat update for freerdp,CVE-2026-23883,8.8,,Qualys QID,2/20 CH - QID Available (6047568),https://access.redhat.com/errata/RHSA-2026:2824
-Red Hat update for freerdp,CVE-2026-23884,8.8,,Qualys QID,2/20 CH - QID Available (6047568),https://access.redhat.com/errata/RHSA-2026:2824
-Red Hat update for freerdp,CVE-2026-23530,8.8,,Qualys QID,2/20 CH - QID Available (6047568),https://access.redhat.com/errata/RHSA-2026:2824
-Red Hat update for grafana,CVE-2025-61728,6.5,,Qualys QID,2/20 CH - QID Available (6047580),https://access.redhat.com/errata/RHSA-2026:2914
-Red Hat update for grafana,CVE-2025-61729,7.5,,Qualys QID,2/20 CH - QID Available (6047580),https://access.redhat.com/errata/RHSA-2026:2914
-Red Hat update for grafana,CVE-2025-61726,7.5,,Qualys QID,2/20 CH - QID Available (6047580),https://access.redhat.com/errata/RHSA-2026:2914
-Red Hat update for grafana,CVE-2026-21721,8.1,,Qualys QID,2/20 CH - QID Available (6047580),https://access.redhat.com/errata/RHSA-2026:2914
-Red Hat update for grafana,CVE-2025-68121,10,,Qualys QID,2/20 CH - QID Available (6047580),https://access.redhat.com/errata/RHSA-2026:2914
-Red Hat update for munge,CVE-2026-25506,7.7,,Qualys QID,2/20 CH - QID Available (6047583),https://access.redhat.com/errata/RHSA-2026:2923
-Red Hat update for python3.12-wheel,CVE-2026-24049,7.1,,Qualys QID,2/20 CH - QID Available (6047576),https://access.redhat.com/errata/RHSA-2026:2866
-MS Notepad Arbitrary Code Execution Vulnerability,CVE-2026-20841,7.8,,,,
+IBM InfoSphere Information Server XML external injection vulnerability,CVE-2025-12531,7.9,,,2/23 CH - QID Available (386497),https://www.ibm.com/support/pages/node/7249881
+IBM Advanced Interactive eXecutive (AIX) Libxml2 Vulnerability,CVE-2025-8732,7,,,2/23 CH - QID Available (330241),https://aix.software.ibm.com/aix/efixes/security/libxml2_advisory10.asc
+Red Hat OpenShift Container Platform 4.17 Security Update,CVE-2025-65637,7.5,,,2/23 CH - QID Available (771583),https://access.redhat.com/errata/RHSA-2026:2746
+F5 BIG-IP Linux kernel Vulnerability ,CVE-2025-22026,7.3,,,2/23 CH - QID Available (386620),https://my.f5.com/manage/s/article/K000160079
+"Gitlab Improper Input Validation Vulnerability (prior to gitlab- 17.1.7,17.2.5,17.3.2)",CVE-2024-8754,8.1,,,2/23 CH - QID Available (386585),https://gitlab.com/gitlab-org/cves/-/blob/master/2024/CVE-2024-8754
