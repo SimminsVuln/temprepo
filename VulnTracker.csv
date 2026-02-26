@@ -1,6 +1,51 @@
-title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs
-IBM InfoSphere Information Server XML external injection vulnerability,CVE-2025-12531,7.9,,,2/23 CH - QID Available (386497),https://www.ibm.com/support/pages/node/7249881
-IBM Advanced Interactive eXecutive (AIX) Libxml2 Vulnerability,CVE-2025-8732,7,,,2/23 CH - QID Available (330241),https://aix.software.ibm.com/aix/efixes/security/libxml2_advisory10.asc
-Red Hat OpenShift Container Platform 4.17 Security Update,CVE-2025-65637,7.5,,,2/23 CH - QID Available (771583),https://access.redhat.com/errata/RHSA-2026:2746
-F5 BIG-IP Linux kernel Vulnerability ,CVE-2025-22026,7.3,,,2/23 CH - QID Available (386620),https://my.f5.com/manage/s/article/K000160079
-"Gitlab Improper Input Validation Vulnerability (prior to gitlab- 17.1.7,17.2.5,17.3.2)",CVE-2024-8754,8.1,,,2/23 CH - QID Available (386585),https://gitlab.com/gitlab-org/cves/-/blob/master/2024/CVE-2024-8754
+title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs,Column2
+Cisco Multiple Products LLDP Denial of Service Vulnerability,CVE-2026-20010,7.4,,,2/26 CH - QID Available (317760),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-n3kn9k_aci_lldp_dos-NdgRrrA3,
+Cisco Nexus 3000 / 9000 Series Switches NX-OS Ethernet VPN (EVPN) Denial of Service Vulnerability,CVE-2026-20051,7.4,,,2/26 CH - QID Available (317762),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-ether-dos-Kv8YNWZ4,
+Cisco Nexus 9000 Series Fabric Switches NX-OS SNMP Denial of Service Vulnerability,CVE-2026-20048,7.7,,,2/26 CH - QID Available (317766),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-dsnmp-cNN39Uh,
+Cisco Nexus 9000 Series Switches Out-Of-Band Management Interface Denial of Service Vulnerability,CVE-2026-20033,7.4,,,2/26 CH - QID Available (317763),https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-cpdos-qLsv6pFD,
+Docker Desktop /proc/docker Information Disclosure Vulnerability,CVE-2026-2664,7.5,,,2/26 CH - QID Available (386694),https://docs.docker.com/desktop/release-notes/#4620,
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-2805,8.8,,,"2/26 CH - QID Available (386690, 386691)","https://www.mozilla.org/en-US/security/advisories/mfsa2026-13
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-16",
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-2799,8.8,,,"2/26 CH - QID Available (386690, 386691)","https://www.mozilla.org/en-US/security/advisories/mfsa2026-13
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-16",
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-2807,8.8,,,"2/26 CH - QID Available (386690, 386691)","https://www.mozilla.org/en-US/security/advisories/mfsa2026-13
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-16",
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-2798,8.8,,,"2/26 CH - QID Available (386690, 386691)","https://www.mozilla.org/en-US/security/advisories/mfsa2026-13
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-16",
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-2796,8.8,,,"2/26 CH - QID Available (386690, 386691)","https://www.mozilla.org/en-US/security/advisories/mfsa2026-13
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-16",
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-2797,8.8,,,"2/26 CH - QID Available (386690, 386691)","https://www.mozilla.org/en-US/security/advisories/mfsa2026-13
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-16",
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-2795,8.8,,,"2/26 CH - QID Available (386690, 386691)","https://www.mozilla.org/en-US/security/advisories/mfsa2026-13
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-16",
+Red Hat update for firefox,CVE-2026-2792,8.8,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2771,8.8,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2775,8.8,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2774,8.8,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2758,8.8,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2782,8.8,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2773,8.8,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2767,8.8,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2780,8.8,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2757,8.8,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2759,8.8,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2447,8.8,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2772,8.8,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2763,8.8,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2777,8.8,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2764,8.8,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2769,8.8,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2765,8.8,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2766,8.8,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2770,8.8,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2793,8.8,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2762,8.8,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2761,9.6,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2768,9.6,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2778,9.6,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2776,9.6,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+Red Hat update for firefox,CVE-2026-2760,9.6,,,2/26 CH - QID Available (6047655),https://access.redhat.com/errata/RHSA-2026:3339,
+SolarWinds Serv-U Broken Access Control Remote Code Execution Vulnerability,CVE-2025-40538,9.1,,,2/26 CH - QID Available(520113),https://www.solarwinds.com/trust-center/security-advisories/cve-2025-40538,
+SolarWinds Serv-U IDOR Remote Code Execution Vulnerability,CVE-2025-40541,9.1,,,2/26 CH - QID Available(520115),https://www.solarwinds.com/trust-center/security-advisories/cve-2025-40541,
+SolarWinds Serv-U Type Confusion Remote Code Execution Vulnerabilities,CVE-2025-40539,9.1,,,2/26 CH - QID Available(520114),https://www.solarwinds.com/trust-center/security-advisories/cve-2025-40539,
+SolarWinds Serv-U Type Confusion Remote Code Execution Vulnerabilities,CVE-2025-40540,9.1,,,2/26 CH - QID Available(520114),https://www.solarwinds.com/trust-center/security-advisories/cve-2025-40540,
