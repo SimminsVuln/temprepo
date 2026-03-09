@@ -1,0 +1,8 @@
+"timestamp","title","cve_ids","CVSS","Column4","risk_rating","exploitation_state","exploit_availability","Detection","analyst comment","Refs","predicted_risk_rating","cisa_known_exploited"
+"03/09/2026","","CVE-2021-45105","5.9",,"LOW","Confirmed","Publicly Available","",,"","not available","not available"
+"03/09/2026","","CVE-2021-44228","10.0",,"CRITICAL","Wide","Publicly Available","",,"","not available","not available"
+"03/09/2026","","CVE-2021-45046","9.0",,"MEDIUM","Confirmed","Publicly Available","",,"","not available","not available"
+"03/09/2026","","CVE-2023-29338","6.6",,"LOW","No Known","No Known","",,"","LOW","not available"
+"03/09/2026","","CVE-2020-1472","10.0",,"CRITICAL","Confirmed","Publicly Available","",,"","not available","not available"
+"03/09/2026","","CVE-2014-0160","7.5",,"CRITICAL","Wide","Publicly Available","",,"","not available","not available"
+"03/09/2026","","CVE-2019-1579","8.1",,"HIGH","Confirmed","Publicly Available","",,"","not available","not available"
