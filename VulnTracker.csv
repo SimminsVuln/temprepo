@@ -1,69 +1,35 @@
-title,cve_ids,cvss_v3,Risk Score,Detection,Column1,Refs,Column2
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2026-27278,7.8,,Qualys QID,3/11 CH - QID Available (386768),https://helpx.adobe.com/security/products/illustrator/apsb26-18.html,
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2026-27220,7.8,,Qualys QID,3/11 CH - QID Available (386768),https://helpx.adobe.com/security/products/illustrator/apsb26-18.html,
-Adobe Illustrator Multiple Vulnerabilities,CVE-2026-27267,7.8,,Qualys QID,3/11 CH - QID Available (386760),https://helpx.adobe.com/security/products/illustrator/apsb26-18.html,
-Adobe Illustrator Multiple Vulnerabilities,CVE-2026-21362,7.8,,Qualys QID,3/11 CH - QID Available (386760),https://helpx.adobe.com/security/products/illustrator/apsb26-18.html,
-Adobe Illustrator Multiple Vulnerabilities,CVE-2026-27272,7.8,,Qualys QID,3/11 CH - QID Available (386760),https://helpx.adobe.com/security/products/illustrator/apsb26-18.html,
-Adobe Illustrator Multiple Vulnerabilities,CVE-2026-27271,7.8,,Qualys QID,3/11 CH - QID Available (386760),https://helpx.adobe.com/security/products/illustrator/apsb26-18.html,
-Adobe Illustrator Multiple Vulnerabilities,CVE-2026-21333,8.6,,Qualys QID,3/11 CH - QID Available (386760),https://helpx.adobe.com/security/products/illustrator/apsb26-18.html,
-Adobe Premiere Pro Arbitrary Code Execution Vulnerability,CVE-2026-27269,7.8,,Qualys QID,3/11 CH - QID Available (386763),https://helpx.adobe.com//security/products/premiere_pro/apsb26-28.html,
-IBM AIX / Virtual I/O Server OpenSSL Multiple Vulnerabilities,CVE-2025-69419,7.4,,Qualys QID,3/11 CH - QID Available (330243),https://aix.software.ibm.com/aix/efixes/security/openssl_advisory46.asc,
-IBM AIX / Virtual I/O Server OpenSSL Multiple Vulnerabilities,CVE-2025-69420,7.5,,Qualys QID,3/11 CH - QID Available (330243),https://aix.software.ibm.com/aix/efixes/security/openssl_advisory46.asc,
-IBM AIX / Virtual I/O Server OpenSSL Multiple Vulnerabilities,CVE-2025-69421,7.5,,Qualys QID,3/11 CH - QID Available (330243),https://aix.software.ibm.com/aix/efixes/security/openssl_advisory46.asc,
-IBM AIX / Virtual I/O Server OpenSSL Multiple Vulnerabilities,CVE-2025-15467,9.8,,Qualys QID,3/11 CH - QID Available (330243),https://aix.software.ibm.com/aix/efixes/security/openssl_advisory46.asc,
-IBM Direct Connect Multiple Vulnerabilities,CVE-2026-21932,7.4,,Qualys QID,3/11 CH - QID Available (386745),https://www.ibm.com/support/pages/node/7262891,
-IBM Direct Connect Multiple Vulnerabilities,CVE-2026-21945,7.5,,Qualys QID,3/11 CH - QID Available (386745),https://www.ibm.com/support/pages/node/7262892,
-IBM Direct Connect Multiple Vulnerabilities,CVE-2026-1188,9.8,,Qualys QID,3/11 CH - QID Available (386745),https://www.ibm.com/support/pages/node/7262893,
-Microsoft .NET Denial of Service Vulnerability,CVE-2026-26127,7.5,,Qualys QID,"3/11 CH - QID Available (92366, 5008904)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft .NET Multiple Vulnerabilities,CVE-2026-26131,7.8,,Qualys QID,"3/11 CH - QID Available (92366, 5008904)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft 365 Apps for Enterprise Multiple Vulnerabilities,CVE-2026-26144,7.5,,Qualys QID,3/11 CH - QID Available (110521),https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft 365 Apps for Enterprise Multiple Vulnerabilities,CVE-2026-26108,7.8,,Qualys QID,3/11 CH - QID Available (110521),https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft 365 Apps for Enterprise Multiple Vulnerabilities,CVE-2026-26107,7.8,,Qualys QID,3/11 CH - QID Available (110521),https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft 365 Apps for Enterprise Multiple Vulnerabilities,CVE-2026-26112,7.8,,Qualys QID,3/11 CH - QID Available (110521),https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft 365 Apps for Enterprise Multiple Vulnerabilities,CVE-2026-26110,8.4,,Qualys QID,3/11 CH - QID Available (110521),https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft 365 Apps for Enterprise Multiple Vulnerabilities,CVE-2026-26113,8.4,,Qualys QID,3/11 CH - QID Available (110521),https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft 365 Apps for Enterprise Multiple Vulnerabilities,CVE-2026-26109,8.4,,Qualys QID,3/11 CH - QID Available (110521),https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft ASP.NET Core Denial of Service Vulnerability,CVE-2026-26130,7.5,,Qualys QID,"3/11 CH - QID Available (92367, 5008947)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft SharePoint Server 2019 / 2016 Multiple Vulnerabilities,CVE-2026-26114,8.8,,Qualys QID,3/11 CH - QID Available (110520),https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft SharePoint Server 2019 / 2016 Multiple Vulnerabilities,CVE-2026-26105,8.1,,Qualys QID,3/11 CH - QID Available (110520),https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft SharePoint Server 2019 / 2016 Multiple Vulnerabilities,CVE-2026-26106,8.8,,Qualys QID,3/11 CH - QID Available (110520),https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft SQL Server 2022 / 2019 / 2017 / 2016 Multiple Security Bypass Vulnerabilities,CVE-2026-21262,8.8,,Qualys QID,3/11 CH - QID Available (386758),https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft SQL Server 2022 / 2019 / 2017 / 2016 Multiple Security Bypass Vulnerabilities,CVE-2026-26115,8.8,,Qualys QID,3/11 CH - QID Available (386758),https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft SQL Server 2025 Multiple Security Bypass Vulnerabilities,CVE-2026-26116,8.8,,Qualys QID,3/11 CH - QID Available (386758),https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-23667,7,,Qualys QID,3/11 CH - QID Available (92364),https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-24293,7.8,,Qualys QID,3/11 CH - QID Available (92364),https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-24292,7.8,,Qualys QID,3/11 CH - QID Available (92364),https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-25189,7.8,,Qualys QID,3/11 CH - QID Available (92364),https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-24290,7.8,,Qualys QID,3/11 CH - QID Available (92364),https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-24287,7.8,,Qualys QID,3/11 CH - QID Available (92364),https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-26132,7.8,,Qualys QID,3/11 CH - QID Available (92364),https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows 11 Multiple Vulnerabilities,CVE-2026-25167,7.4,,Qualys QID,3/11 CH - QID Available (92364),https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-24295,7,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-25178,7,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-24296,7,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-25171,7,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-23671,7,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-25179,7,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-23674,7.5,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-25165,7.8,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-24285,7.8,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-25175,7.8,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-23672,7.8,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-24291,7.8,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-25166,7.8,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-25174,7.8,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-25187,7.8,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-25176,7.8,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-26128,7.8,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-24289,7.8,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-23673,7.8,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-24294,7.8,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-25173,8,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-26111,8.8,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-23668,8.8,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-25177,8.8,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-25172,8.8,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-25188,8.8,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-23669,8.8,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2022 Multiple Vulnerabilities,CVE-2026-25170,7,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
-Microsoft Windows Server 2022 Multiple Vulnerabilities,CVE-2026-24283,8.8,,Qualys QID,"3/11 CH - QID Available (92365, 92364)",https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Mar,
+title,cve_ids,cvss_v3,Risk Score,QID,Detection,Comment,Refs
+Cisco IOS XR CLI Multiple Privilege Escalation Vulnerabilities,CVE-2026-20040,8.8,,317816,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxr-privesc-bF8D5U4W
+Cisco IOS XR CLI Multiple Privilege Escalation Vulnerabilities,CVE-2026-20046,8.8,,317818,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxr-privesc-bF8D5U4W
+Cisco IOS XR IS-IS Denial of Service Vulnerability,CVE-2026-20074,7.4,,317815,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-isis-dos-kDMxpSzK
+Red Hat 389-ds-base Update,CVE-2025-14905,7.2,,6047836,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4207
+Red Hat update for firefox,CVE-2026-2762,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2759,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2771,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2758,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2772,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2793,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2766,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2782,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2774,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2769,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2763,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2780,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2764,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2775,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2765,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2777,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2792,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2757,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2447,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2773,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2767,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2770,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2761,9.6,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2768,9.6,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2776,9.6,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2778,9.6,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for firefox,CVE-2026-2760,9.6,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
+Red Hat update for postgresql:15,CVE-2026-2004,8.8,,6047852,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4254
+Red Hat update for postgresql:15,CVE-2026-2005,8.8,,6047852,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4254
+Red Hat update for postgresql:15,CVE-2026-2006,8.8,,6047852,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4254
