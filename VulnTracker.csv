@@ -1,35 +1,58 @@
 title,cve_ids,cvss_v3,Risk Score,QID,Detection,Comment,Refs
-Cisco IOS XR CLI Multiple Privilege Escalation Vulnerabilities,CVE-2026-20040,8.8,,317816,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxr-privesc-bF8D5U4W
-Cisco IOS XR CLI Multiple Privilege Escalation Vulnerabilities,CVE-2026-20046,8.8,,317818,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxr-privesc-bF8D5U4W
-Cisco IOS XR IS-IS Denial of Service Vulnerability,CVE-2026-20074,7.4,,317815,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-isis-dos-kDMxpSzK
-Red Hat 389-ds-base Update,CVE-2025-14905,7.2,,6047836,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4207
-Red Hat update for firefox,CVE-2026-2762,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2759,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2771,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2758,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2772,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2793,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2766,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2782,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2774,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2769,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2763,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2780,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2764,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2775,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2765,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2777,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2792,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2757,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2447,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2773,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2767,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2770,8.8,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2761,9.6,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2768,9.6,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2776,9.6,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2778,9.6,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for firefox,CVE-2026-2760,9.6,,6047830,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4152
-Red Hat update for postgresql:15,CVE-2026-2004,8.8,,6047852,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4254
-Red Hat update for postgresql:15,CVE-2026-2005,8.8,,6047852,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4254
-Red Hat update for postgresql:15,CVE-2026-2006,8.8,,6047852,,3/12 CH - No Exploitation or POC Code Publicly or Privately Available. ,https://access.redhat.com/errata/RHSA-2026:4254
+Microsoft,CVE-2010-0232,7.8,MEDIUM,,,,
+Microsoft,CVE-2012-0158,8.8,HIGH,,,,
+Microsoft,CVE-2014-4114,7.8,HIGH,,,,
+Microsoft,CVE-2015-1701,7.8,MEDIUM,,,,
+Microsoft,CVE-2016-0189,7.5,HIGH,,,,
+Microsoft,CVE-2017-0143,8.1,HIGH,,,,
+Microsoft,CVE-2017-0199,7.8,HIGH,,,,
+Microsoft,CVE-2017-0213,4.7,LOW,,,,
+Microsoft,CVE-2017-11774,7.8,MEDIUM,,,,
+Microsoft,CVE-2017-11882,7.8,HIGH,,,,
+Microsoft,CVE-2018-8639,8.4,MEDIUM,,,,
+Microsoft,CVE-2019-0604,9.8,MEDIUM,,,,
+Microsoft,CVE-2019-0708,9.8,HIGH,,,,
+Microsoft,CVE-2020-0688,8.8,MEDIUM,,,,
+Microsoft,CVE-2020-1472,10,CRITICAL,,,,
+Microsoft,CVE-2021-26855,9.8,CRITICAL,,,,
+Microsoft,CVE-2021-26857,7.8,MEDIUM,,,,
+Microsoft,CVE-2021-26858,7.8,MEDIUM,,,,
+Microsoft,CVE-2021-27065,7.8,MEDIUM,,,,
+Microsoft,CVE-2021-31196,7.2,MEDIUM,,,,
+Microsoft,CVE-2021-31206,7.6,MEDIUM,,,,
+Microsoft,CVE-2021-31207,7.2,MEDIUM,,,,
+Microsoft,CVE-2021-33766,7.3,MEDIUM,,,,
+Microsoft,CVE-2021-33768,8,MEDIUM,,,,
+Microsoft,CVE-2021-34470,8,MEDIUM,,,,
+Microsoft,CVE-2021-34473,9.1,HIGH,,,,
+Microsoft,CVE-2021-34523,9,LOW,,,,
+Microsoft,CVE-2021-34527,8.8,MEDIUM,,,,
+Microsoft,CVE-2021-40444,8.8,MEDIUM,,,,
+Microsoft,CVE-2022-30190,7.8,MEDIUM,,,,
+Microsoft,CVE-2022-30216,8.8,MEDIUM,,,,
+Microsoft,CVE-2023-29336,7.8,MEDIUM,,,,
+Microsoft,CVE-2024-30088,8.8,LOW,,,,
+Microsoft,CVE-2024-49138,7.8,MEDIUM,,,,
+Microsoft,CVE-2025-21297,8.1,MEDIUM,,,,
+Microsoft,CVE-2025-21298,8.8,HIGH,,,,
+Microsoft,CVE-2025-21333,7.8,MEDIUM,,,,
+Microsoft,CVE-2025-21420,7.8,MEDIUM,,,,
+Microsoft,CVE-2025-53770,8.8,HIGH,,,,
+Microsoft,CVE-2025-9491,7,MEDIUM,,,,
+Apache,CVE-2019-0232,8.1,MEDIUM,,,,
+Apache,CVE-2021-44228,10,CRITICAL,,,,
+Apache,CVE-2021-45046,9,MEDIUM,,,,
+Apache,CVE-2021-45105,5.9,LOW,,,,
+Apache,CVE-2023-33246,9.8,HIGH,,,,
+Apache,CVE-2024-50379,9.8,HIGH,,,,
+Fortinet,CVE-2018-13379,9.8,HIGH,,,,
+Fortinet,CVE-2019-5591,6.5,LOW,,,,
+Fortinet,CVE-2020-12812,9.8,MEDIUM,,,,
+Fortinet,CVE-2022-40684,9.8,MEDIUM,,,,
+Fortinet,CVE-2022-42475,9.8,HIGH,,,,
+Fortinet,CVE-2024-55591,9.8,HIGH,,,,
+Ivanti/Pulse,CVE-2019-11510,10,HIGH,,,,
+Ivanti/Pulse,CVE-2019-11539,7.2,MEDIUM,,,,
+Ivanti/Pulse,CVE-2023-46805,8.2,CRITICAL,,,,
+Ivanti/Pulse,CVE-2024-21887,9.1,HIGH,,,,
+Ivanti/Pulse,CVE-2025-0282,9,HIGH,,,,
