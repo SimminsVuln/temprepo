@@ -1,80 +1,22 @@
 title,cve_ids,cvss_v3,Risk Score,QID,Detection,Comment,Refs
-Atlassian Crowd XML External Entity Vulnerability,CVE-2026-21569,7.9,,520108,,3/13 CH - No POC/Exploits in the wild.,https://jira.atlassian.com/browse/CWD-6453
-GitLab Multiple Vulnerabilities,CVE-2025-13929,7.5,,386787,,3/13 CH - No POC/Exploits in the wild.,https://about.gitlab.com/releases/2026/03/11/patch-release-gitlab-18-9-2-released
-GitLab Multiple Vulnerabilities,CVE-2025-14513,7.5,,386787,,3/13 CH - No POC/Exploits in the wild.,https://about.gitlab.com/releases/2026/03/11/patch-release-gitlab-18-9-2-released
-GitLab Multiple Vulnerabilities,CVE-2026-1069,7.5,,386787,,3/13 CH - No POC/Exploits in the wild.,https://about.gitlab.com/releases/2026/03/11/patch-release-gitlab-18-9-2-released
-GitLab Multiple Vulnerabilities,CVE-2026-1090,8.7,,386787,,3/13 CH - No POC/Exploits in the wild.,https://about.gitlab.com/releases/2026/03/11/patch-release-gitlab-18-9-2-released
-Google Chrome Multiple Vulnerabilities,CVE-2026-3924,7.5,,386786,,3/13 CH - No POC/Exploits in the wild.,https://chromereleases.googleblog.com/2026/03/stable-channel-update-for-desktop_10.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-3923,8.8,,386786,,3/13 CH - No POC/Exploits in the wild.,https://chromereleases.googleblog.com/2026/03/stable-channel-update-for-desktop_10.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-3915,8.8,,386786,,3/13 CH - No POC/Exploits in the wild.,https://chromereleases.googleblog.com/2026/03/stable-channel-update-for-desktop_10.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-3920,8.8,,386786,,3/13 CH - No POC/Exploits in the wild.,https://chromereleases.googleblog.com/2026/03/stable-channel-update-for-desktop_10.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-3936,8.8,,386786,,3/13 CH - No POC/Exploits in the wild.,https://chromereleases.googleblog.com/2026/03/stable-channel-update-for-desktop_10.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-3913,8.8,,386786,,3/13 CH - No POC/Exploits in the wild.,https://chromereleases.googleblog.com/2026/03/stable-channel-update-for-desktop_10.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-3917,8.8,,386786,,3/13 CH - No POC/Exploits in the wild.,https://chromereleases.googleblog.com/2026/03/stable-channel-update-for-desktop_10.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-3926,8.8,,386786,,3/13 CH - No POC/Exploits in the wild.,https://chromereleases.googleblog.com/2026/03/stable-channel-update-for-desktop_10.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-3922,8.8,,386786,,3/13 CH - No POC/Exploits in the wild.,https://chromereleases.googleblog.com/2026/03/stable-channel-update-for-desktop_10.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-3914,8.8,,386786,,3/13 CH - No POC/Exploits in the wild.,https://chromereleases.googleblog.com/2026/03/stable-channel-update-for-desktop_10.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-3918,8.8,,386786,,3/13 CH - No POC/Exploits in the wild.,https://chromereleases.googleblog.com/2026/03/stable-channel-update-for-desktop_10.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-3931,8.8,,386786,,3/13 CH - No POC/Exploits in the wild.,https://chromereleases.googleblog.com/2026/03/stable-channel-update-for-desktop_10.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-3921,8.8,,386786,,3/13 CH - No POC/Exploits in the wild.,https://chromereleases.googleblog.com/2026/03/stable-channel-update-for-desktop_10.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-3916,8.8,,386786,,3/13 CH - No POC/Exploits in the wild.,https://chromereleases.googleblog.com/2026/03/stable-channel-update-for-desktop_10.html
-Splunk Enterprise Multiple Vulnerabilities,CVE-2025-47907,7,,"386780, 386599",,3/13 CH - No POC/Exploits in the wild.,"https://advisory.splunk.com/advisories/SVD-2026-0301
-https://advisory.splunk.com/advisories/SVD-2026-0303
-https://advisory.splunk.com/advisories/SVD-2026-0304
-https://advisory.splunk.com/advisories/SVD-2026-0305
-https://advisory.splunk.com/advisories/SVD-2026-0306"
-Splunk Enterprise Multiple Vulnerabilities,CVE-2025-22874,7.5,,"386780, 386599",,3/13 CH - No POC/Exploits in the wild.,"https://advisory.splunk.com/advisories/SVD-2026-0301
-https://advisory.splunk.com/advisories/SVD-2026-0303
-https://advisory.splunk.com/advisories/SVD-2026-0304
-https://advisory.splunk.com/advisories/SVD-2026-0305
-https://advisory.splunk.com/advisories/SVD-2026-0306"
-Splunk Enterprise Multiple Vulnerabilities,CVE-2025-30204,7.5,,"386780, 386599",,3/13 CH - No POC/Exploits in the wild.,"https://advisory.splunk.com/advisories/SVD-2026-0301
-https://advisory.splunk.com/advisories/SVD-2026-0303
-https://advisory.splunk.com/advisories/SVD-2026-0304
-https://advisory.splunk.com/advisories/SVD-2026-0305
-https://advisory.splunk.com/advisories/SVD-2026-0306"
-Splunk Enterprise Multiple Vulnerabilities,CVE-2025-30153,7.5,,"386780, 386599",,3/13 CH - No POC/Exploits in the wild.,"https://advisory.splunk.com/advisories/SVD-2026-0301
-https://advisory.splunk.com/advisories/SVD-2026-0303
-https://advisory.splunk.com/advisories/SVD-2026-0304
-https://advisory.splunk.com/advisories/SVD-2026-0305
-https://advisory.splunk.com/advisories/SVD-2026-0306"
-Splunk Enterprise Multiple Vulnerabilities,CVE-2025-69223,7.5,,"386780, 386599",,3/13 CH - No POC/Exploits in the wild.,"https://advisory.splunk.com/advisories/SVD-2026-0301
-https://advisory.splunk.com/advisories/SVD-2026-0303
-https://advisory.splunk.com/advisories/SVD-2026-0304
-https://advisory.splunk.com/advisories/SVD-2026-0305
-https://advisory.splunk.com/advisories/SVD-2026-0306"
-Splunk Enterprise Multiple Vulnerabilities,CVE-2025-61723,7.5,,"386780, 386599",,3/13 CH - No POC/Exploits in the wild.,"https://advisory.splunk.com/advisories/SVD-2026-0301
-https://advisory.splunk.com/advisories/SVD-2026-0303
-https://advisory.splunk.com/advisories/SVD-2026-0304
-https://advisory.splunk.com/advisories/SVD-2026-0305
-https://advisory.splunk.com/advisories/SVD-2026-0306"
-Splunk Enterprise Multiple Vulnerabilities,CVE-2025-58188,7.5,,"386780, 386599",,3/13 CH - No POC/Exploits in the wild.,"https://advisory.splunk.com/advisories/SVD-2026-0301
-https://advisory.splunk.com/advisories/SVD-2026-0303
-https://advisory.splunk.com/advisories/SVD-2026-0304
-https://advisory.splunk.com/advisories/SVD-2026-0305
-https://advisory.splunk.com/advisories/SVD-2026-0306"
-Splunk Enterprise Multiple Vulnerabilities,CVE-2025-22868,7.5,,"386780, 386599",,3/13 CH - No POC/Exploits in the wild.,"https://advisory.splunk.com/advisories/SVD-2026-0301
-https://advisory.splunk.com/advisories/SVD-2026-0303
-https://advisory.splunk.com/advisories/SVD-2026-0304
-https://advisory.splunk.com/advisories/SVD-2026-0305
-https://advisory.splunk.com/advisories/SVD-2026-0306"
-Splunk Enterprise Multiple Vulnerabilities,CVE-2025-47913,7.5,,"386780, 386599",,3/13 CH - No POC/Exploits in the wild.,"https://advisory.splunk.com/advisories/SVD-2026-0301
-https://advisory.splunk.com/advisories/SVD-2026-0303
-https://advisory.splunk.com/advisories/SVD-2026-0304
-https://advisory.splunk.com/advisories/SVD-2026-0305
-https://advisory.splunk.com/advisories/SVD-2026-0306"
-Splunk Enterprise Multiple Vulnerabilities,CVE-2025-58187,7.5,,"386780, 386599",,3/13 CH - No POC/Exploits in the wild.,"https://advisory.splunk.com/advisories/SVD-2026-0301
-https://advisory.splunk.com/advisories/SVD-2026-0303
-https://advisory.splunk.com/advisories/SVD-2026-0304
-https://advisory.splunk.com/advisories/SVD-2026-0305
-https://advisory.splunk.com/advisories/SVD-2026-0306"
-Splunk Enterprise Multiple Vulnerabilities,CVE-2025-61725,7.5,,"386780, 386599",,3/13 CH - No POC/Exploits in the wild.,"https://advisory.splunk.com/advisories/SVD-2026-0301
-https://advisory.splunk.com/advisories/SVD-2026-0303
-https://advisory.splunk.com/advisories/SVD-2026-0304
-https://advisory.splunk.com/advisories/SVD-2026-0305
-https://advisory.splunk.com/advisories/SVD-2026-0306"
-Splunk Enterprise Multiple Vulnerabilities,CVE-2025-69227,7.5,,"386780, 386599",,3/13 CH - No POC/Exploits in the wild.,"https://advisory.splunk.com/advisories/SVD-2026-0301
-https://advisory.splunk.com/advisories/SVD-2026-0303
-https://advisory.splunk.com/advisories/SVD-2026-0304
-https://advisory.splunk.com/advisories/SVD-2026-0305
-https://advisory.splunk.com/advisories/SVD-2026-0306"
+Atlassian Bamboo Security Bypass Vulnerability,CVE-2026-21570,8.6,,733861,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available",https://jira.atlassian.com/browse/BAM-26342
+Atlassian Bamboo Update,CVE-2025-68493,8.1,,733859,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available",https://jira.atlassian.com/browse/BAM-26340
+Atlassian Crowd Apache Struts Denial of Service Vulnerability,CVE-2025-64775,7.5,,733860,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available","https://jira.atlassian.com/browse/CWD-6454
+https://jira.atlassian.com/browse/CWD-6462"
+Atlassian Crowd Apache Struts Denial of Service Vulnerability,CVE-2025-66675,8.2,,733742,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available","https://jira.atlassian.com/browse/CWD-6454
+https://jira.atlassian.com/browse/CWD-6462"
+Atlassian Crowd axios Update,CVE-2026-25639,7.5,,733868,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available",https://jira.atlassian.com/browse/CWD-6496
+Atlassian Crucible nimbus-jose-jwt Denial of Service Vulnerability,CVE-2023-52428,7.5,,386822,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available",https://jira.atlassian.com/browse/CRUC-8675
+Atlassian Jira Service Management json-smart Denial of Service Vulnerability,CVE-2024-57699,7.5,,386819,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available",https://jira.atlassian.com/browse/JSDSERVER-16510
+Atlassian Jira Service Management node-tar Security Bypass Vulnerability,CVE-2026-23745,8.2,,"386818, 733862",Qualys QID,"3/18 CH - QID Available, No POC/Exploits available","https://jira.atlassian.com/browse/JSDSERVER-16528
+https://jira.atlassian.com/browse/JSWSERVER-26732"
+Atlassian Jira Service Management node-tar Security Bypass Vulnerability,CVE-2026-24842,8.2,,"386815, 733863",Qualys QID,"3/18 CH - QID Available, No POC/Exploits available","https://jira.atlassian.com/browse/JSDSERVER-16529
+https://jira.atlassian.com/browse/JSWSERVER-26733"
+Atlassian Jira Service Management node-tar Security Bypass Vulnerability,CVE-2026-23950,8.8,,"386816, 733867",Qualys QID,"3/18 CH - QID Available, No POC/Exploits available","https://jira.atlassian.com/browse/JSDSERVER-16530
+https://jira.atlassian.com/browse/JSWSERVER-26736"
+Red Hat update for container-tools:rhel8,CVE-2025-65637,7.5,,6048207,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available",https://access.redhat.com/errata/RHSA-2026:4693
+Red Hat update for container-tools:rhel8,CVE-2025-47913,7.5,,6048207,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available",https://access.redhat.com/errata/RHSA-2026:4693
+Red Hat update for container-tools:rhel8,CVE-2025-52881,8.2,,6048207,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available",https://access.redhat.com/errata/RHSA-2026:4693
+Red Hat update for container-tools:rhel8,CVE-2025-52565,8.2,,6048207,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available",https://access.redhat.com/errata/RHSA-2026:4693
+Red Hat update for container-tools:rhel8,CVE-2025-31133,8.2,,6048207,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available",https://access.redhat.com/errata/RHSA-2026:4693
+Zoom Meeting SDK for Windows Privilege Escalation Vulnerability,CVE-2026-30900,7.8,,386756,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available",https://www.zoom.com/en/trust/security-bulletin/zsb-26002
