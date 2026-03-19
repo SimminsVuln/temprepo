@@ -1,22 +1,27 @@
 title,cve_ids,cvss_v3,Risk Score,QID,Detection,Comment,Refs
-Atlassian Bamboo Security Bypass Vulnerability,CVE-2026-21570,8.6,,733861,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available",https://jira.atlassian.com/browse/BAM-26342
-Atlassian Bamboo Update,CVE-2025-68493,8.1,,733859,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available",https://jira.atlassian.com/browse/BAM-26340
-Atlassian Crowd Apache Struts Denial of Service Vulnerability,CVE-2025-64775,7.5,,733860,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available","https://jira.atlassian.com/browse/CWD-6454
-https://jira.atlassian.com/browse/CWD-6462"
-Atlassian Crowd Apache Struts Denial of Service Vulnerability,CVE-2025-66675,8.2,,733742,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available","https://jira.atlassian.com/browse/CWD-6454
-https://jira.atlassian.com/browse/CWD-6462"
-Atlassian Crowd axios Update,CVE-2026-25639,7.5,,733868,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available",https://jira.atlassian.com/browse/CWD-6496
-Atlassian Crucible nimbus-jose-jwt Denial of Service Vulnerability,CVE-2023-52428,7.5,,386822,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available",https://jira.atlassian.com/browse/CRUC-8675
-Atlassian Jira Service Management json-smart Denial of Service Vulnerability,CVE-2024-57699,7.5,,386819,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available",https://jira.atlassian.com/browse/JSDSERVER-16510
-Atlassian Jira Service Management node-tar Security Bypass Vulnerability,CVE-2026-23745,8.2,,"386818, 733862",Qualys QID,"3/18 CH - QID Available, No POC/Exploits available","https://jira.atlassian.com/browse/JSDSERVER-16528
-https://jira.atlassian.com/browse/JSWSERVER-26732"
-Atlassian Jira Service Management node-tar Security Bypass Vulnerability,CVE-2026-24842,8.2,,"386815, 733863",Qualys QID,"3/18 CH - QID Available, No POC/Exploits available","https://jira.atlassian.com/browse/JSDSERVER-16529
-https://jira.atlassian.com/browse/JSWSERVER-26733"
-Atlassian Jira Service Management node-tar Security Bypass Vulnerability,CVE-2026-23950,8.8,,"386816, 733867",Qualys QID,"3/18 CH - QID Available, No POC/Exploits available","https://jira.atlassian.com/browse/JSDSERVER-16530
-https://jira.atlassian.com/browse/JSWSERVER-26736"
-Red Hat update for container-tools:rhel8,CVE-2025-65637,7.5,,6048207,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available",https://access.redhat.com/errata/RHSA-2026:4693
-Red Hat update for container-tools:rhel8,CVE-2025-47913,7.5,,6048207,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available",https://access.redhat.com/errata/RHSA-2026:4693
-Red Hat update for container-tools:rhel8,CVE-2025-52881,8.2,,6048207,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available",https://access.redhat.com/errata/RHSA-2026:4693
-Red Hat update for container-tools:rhel8,CVE-2025-52565,8.2,,6048207,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available",https://access.redhat.com/errata/RHSA-2026:4693
-Red Hat update for container-tools:rhel8,CVE-2025-31133,8.2,,6048207,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available",https://access.redhat.com/errata/RHSA-2026:4693
-Zoom Meeting SDK for Windows Privilege Escalation Vulnerability,CVE-2026-30900,7.8,,386756,Qualys QID,"3/18 CH - QID Available, No POC/Exploits available",https://www.zoom.com/en/trust/security-bulletin/zsb-26002
+IBM App Connect Enterprise Lodash Security Bypass Vulnerabilit,CVE-2025-13465,8.2,,,None,3/19 CH - Monitor for QID | No exploits/POC available,https://www.ibm.com/support/pages/node/7263550
+IBM i OpenSSL Multiple Vulnerabilities,CVE-2025-69419,7.4,,,None,3/19 CH - Monitor for QID | No exploits/POC available,https://www.ibm.com/support/pages/node/7266579
+IBM i OpenSSL Multiple Vulnerabilities,CVE-2025-69420,7.5,,,None,3/19 CH - Monitor for QID | No exploits/POC available,https://www.ibm.com/support/pages/node/7266579
+IBM i OpenSSL Multiple Vulnerabilities,CVE-2025-69421,7.5,,,None,3/19 CH - Monitor for QID | No exploits/POC available,https://www.ibm.com/support/pages/node/7266579
+IBM i OpenSSL Multiple Vulnerabilities,CVE-2025-15467,9.8,,,None,3/19 CH - Monitor for QID | No exploits/POC available,https://www.ibm.com/support/pages/node/7266579
+IBM Sterling B2B Integrator Multiple Vulnerabilities,CVE-2026-1264,7.1,,,None,3/19 CH - Monitor for QID | No exploits/POC available,"https://www.ibm.com/support/pages/node/7266497
+https://www.ibm.com/support/pages/node/7266518
+https://www.ibm.com/support/pages/node/7266520"
+IBM Sterling B2B Integrator Multiple Vulnerabilities,CVE-2025-14031,7.5,,,None,3/19 CH - Monitor for QID | No exploits/POC available,"https://www.ibm.com/support/pages/node/7266497
+https://www.ibm.com/support/pages/node/7266518
+https://www.ibm.com/support/pages/node/7266520"
+IBM Sterling B2B Integrator Multiple Vulnerabilities,CVE-2025-59250,8.1,,,None,3/19 CH - Monitor for QID | No exploits/POC available,"https://www.ibm.com/support/pages/node/7266497
+https://www.ibm.com/support/pages/node/7266518
+https://www.ibm.com/support/pages/node/7266520"
+IBM Sterling Secure Proxy Multiple Vulnerabilities,CVE-2025-64756,7.5,,386808,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://www.ibm.com/support/pages/node/7261890
+IBM Sterling Secure Proxy Multiple Vulnerabilities, CVE-2025-12816,8.6,,386808,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://www.ibm.com/support/pages/node/7261890
+IBM Sterling Secure Proxy Multiple Vulnerabilities, CVE-2025-66030,7.3,,386808,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://www.ibm.com/support/pages/node/7261890
+IBM Sterling Secure Proxy Multiple Vulnerabilities, CVE-2025-66031,7.5,,386808,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://www.ibm.com/support/pages/node/7261890
+IBM Sterling Secure Proxy Multiple Vulnerabilities, CVE-2025-61140,8.8,,386808,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://www.ibm.com/support/pages/node/7261890
+IBM Sterling Secure Proxy Multiple Vulnerabilities, CVE-2026-1615,7.8,,386808,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://www.ibm.com/support/pages/node/7261890
+IBM WebSphere Application Server Liberty Denial of Service (DoS) Vulnerability,CVE-2024-29371,7.5,,386716,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://www.ibm.com/support/pages/node/7261794
+Jenkins Multiple Security Bypass Vulnerabilities,CVE-2026-33001,8.8,,733871,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://www.jenkins.io/security/advisory/2026-03-18
+Jenkins Multiple Security Bypass Vulnerabilities,CVE-2026-33002,8.8,,733871,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://www.jenkins.io/security/advisory/2026-03-18
+Red Hat update for rhc,CVE-2025-61729,7.5,,6048201,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://access.redhat.com/errata/RHSA-2026:4753
+Red Hat update for rhc,CVE-2025-61726,7.5,,6048201,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://access.redhat.com/errata/RHSA-2026:4753
+Red Hat update for rhc,CVE-2025-68121,8.8,,6048201,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://access.redhat.com/errata/RHSA-2026:4753
