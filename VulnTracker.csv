@@ -1,27 +1,25 @@
 title,cve_ids,cvss_v3,Risk Score,QID,Detection,Comment,Refs
-IBM App Connect Enterprise Lodash Security Bypass Vulnerabilit,CVE-2025-13465,8.2,,,None,3/19 CH - Monitor for QID | No exploits/POC available,https://www.ibm.com/support/pages/node/7263550
-IBM i OpenSSL Multiple Vulnerabilities,CVE-2025-69419,7.4,,,None,3/19 CH - Monitor for QID | No exploits/POC available,https://www.ibm.com/support/pages/node/7266579
-IBM i OpenSSL Multiple Vulnerabilities,CVE-2025-69420,7.5,,,None,3/19 CH - Monitor for QID | No exploits/POC available,https://www.ibm.com/support/pages/node/7266579
-IBM i OpenSSL Multiple Vulnerabilities,CVE-2025-69421,7.5,,,None,3/19 CH - Monitor for QID | No exploits/POC available,https://www.ibm.com/support/pages/node/7266579
-IBM i OpenSSL Multiple Vulnerabilities,CVE-2025-15467,9.8,,,None,3/19 CH - Monitor for QID | No exploits/POC available,https://www.ibm.com/support/pages/node/7266579
-IBM Sterling B2B Integrator Multiple Vulnerabilities,CVE-2026-1264,7.1,,,None,3/19 CH - Monitor for QID | No exploits/POC available,"https://www.ibm.com/support/pages/node/7266497
-https://www.ibm.com/support/pages/node/7266518
-https://www.ibm.com/support/pages/node/7266520"
-IBM Sterling B2B Integrator Multiple Vulnerabilities,CVE-2025-14031,7.5,,,None,3/19 CH - Monitor for QID | No exploits/POC available,"https://www.ibm.com/support/pages/node/7266497
-https://www.ibm.com/support/pages/node/7266518
-https://www.ibm.com/support/pages/node/7266520"
-IBM Sterling B2B Integrator Multiple Vulnerabilities,CVE-2025-59250,8.1,,,None,3/19 CH - Monitor for QID | No exploits/POC available,"https://www.ibm.com/support/pages/node/7266497
-https://www.ibm.com/support/pages/node/7266518
-https://www.ibm.com/support/pages/node/7266520"
-IBM Sterling Secure Proxy Multiple Vulnerabilities,CVE-2025-64756,7.5,,386808,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://www.ibm.com/support/pages/node/7261890
-IBM Sterling Secure Proxy Multiple Vulnerabilities, CVE-2025-12816,8.6,,386808,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://www.ibm.com/support/pages/node/7261890
-IBM Sterling Secure Proxy Multiple Vulnerabilities, CVE-2025-66030,7.3,,386808,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://www.ibm.com/support/pages/node/7261890
-IBM Sterling Secure Proxy Multiple Vulnerabilities, CVE-2025-66031,7.5,,386808,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://www.ibm.com/support/pages/node/7261890
-IBM Sterling Secure Proxy Multiple Vulnerabilities, CVE-2025-61140,8.8,,386808,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://www.ibm.com/support/pages/node/7261890
-IBM Sterling Secure Proxy Multiple Vulnerabilities, CVE-2026-1615,7.8,,386808,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://www.ibm.com/support/pages/node/7261890
-IBM WebSphere Application Server Liberty Denial of Service (DoS) Vulnerability,CVE-2024-29371,7.5,,386716,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://www.ibm.com/support/pages/node/7261794
-Jenkins Multiple Security Bypass Vulnerabilities,CVE-2026-33001,8.8,,733871,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://www.jenkins.io/security/advisory/2026-03-18
-Jenkins Multiple Security Bypass Vulnerabilities,CVE-2026-33002,8.8,,733871,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://www.jenkins.io/security/advisory/2026-03-18
-Red Hat update for rhc,CVE-2025-61729,7.5,,6048201,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://access.redhat.com/errata/RHSA-2026:4753
-Red Hat update for rhc,CVE-2025-61726,7.5,,6048201,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://access.redhat.com/errata/RHSA-2026:4753
-Red Hat update for rhc,CVE-2025-68121,8.8,,6048201,Qualys QID,3/19 CH - QID Available | No exploits/POC available,https://access.redhat.com/errata/RHSA-2026:4753
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-4459,8.8,,386869,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-20-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-4452,8.8,,386869,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-20-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-4444,8.8,,386869,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-20-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-4449,8.8,,386869,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-20-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-4450,8.8,,386869,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-20-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-4455,8.8,,386869,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-20-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-4443,8.8,,386869,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-20-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-4463,8.8,,386869,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-20-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-4464,8.8,,386869,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-20-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-4448,8.8,,386869,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-20-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-4457,8.8,,386869,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-20-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-4460,8.8,,386869,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-20-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-4439,8.8,,386869,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-20-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-4441,8.8,,386869,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-20-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-4454,8.8,,386869,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-20-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-4446,8.8,,386869,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-20-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-4447,8.8,,386869,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-20-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-4445,8.8,,386869,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-20-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-4442,8.8,,386869,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-20-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-4462,8.8,,386869,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-20-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-4461,8.8,,386869,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-20-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-4440,8.8,,386869,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#march-20-2026
+Spring Security HTTP Response Header Security Bypass Vulnerability,CVE-2026-22732,9.1,,5009428,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://spring.io/security/cve-2026-22732
+Kibana Denial of Service (DoS) Vulnerability ,CVE-2026-26940,7.5,,386854,Qualys QID,3/23 CH - QID Available | No Exploits/POC reported,https://discuss.elastic.co/t/kibana-8-19-13-9-2-7-9-3-2-security-update-esa-2026-20/385535
