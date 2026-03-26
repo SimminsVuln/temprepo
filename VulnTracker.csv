@@ -1,64 +1,60 @@
 title,cve_ids,cvss_v3,Risk Score,QID,Detection,Comment,Refs
-Google Chrome Multiple Vulnerabilities,CVE-2026-4673,8.8,,386879,Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://chromereleases.googleblog.com/2026/03/stable-channel-update-for-desktop_23.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-4676,8.8,,386879,Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,"https://chromereleases.googleblog.com/2026/03/chrome-for-android-update_23.html
-https://chromereleases.googleblog.com/2026/03/stable-channel-update-for-desktop_23.html"
-Google Chrome Multiple Vulnerabilities,CVE-2026-4674,8.8,,386879,Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,"https://chromereleases.googleblog.com/2026/03/chrome-for-android-update_23.html
-https://chromereleases.googleblog.com/2026/03/stable-channel-update-for-desktop_23.html"
-Google Chrome Multiple Vulnerabilities,CVE-2026-4679,8.8,,386879,Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,"https://chromereleases.googleblog.com/2026/03/chrome-for-android-update_23.html
-https://chromereleases.googleblog.com/2026/03/stable-channel-update-for-desktop_23.html"
-Google Chrome Multiple Vulnerabilities,CVE-2026-4680,8.8,,386879,Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,"https://chromereleases.googleblog.com/2026/03/chrome-for-android-update_23.html
-https://chromereleases.googleblog.com/2026/03/stable-channel-update-for-desktop_23.html"
-Google Chrome Multiple Vulnerabilities,CVE-2026-4675,8.8,,386879,Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,"https://chromereleases.googleblog.com/2026/03/chrome-for-android-update_23.html
-https://chromereleases.googleblog.com/2026/03/stable-channel-update-for-desktop_23.html"
-Google Chrome Multiple Vulnerabilities,CVE-2026-4677,8.8,,386879,Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,"https://chromereleases.googleblog.com/2026/03/chrome-for-android-update_23.html
-https://chromereleases.googleblog.com/2026/03/stable-channel-update-for-desktop_23.html"
-Google Chrome Multiple Vulnerabilities,CVE-2026-4678,8.8,,386879,Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,"https://chromereleases.googleblog.com/2026/03/chrome-for-android-update_23.html
-https://chromereleases.googleblog.com/2026/03/stable-channel-update-for-desktop_23.html"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2025-59375,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4685,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4713,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4695,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4708,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4686,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4709,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4684,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4693,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4697,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4712,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4706,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4699,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4707,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4714,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4690,8.6,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4687,8.6,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4722,8.8,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-20
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4716,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4715,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4701,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4711,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4698,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4717,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4691,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4700,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4705,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4702,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4723,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4696,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4725,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4688,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4729,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-20
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4720,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4710,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4724,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4689,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4728,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4721,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4694,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-4692,7.5,,"386886, 386887, 386905, 386906",Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-22
-Red Hat update for mysql:8.0,CVE-2026-21936,7.5,,6048307,Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://access.redhat.com/errata/RHSA-2026:5580
-Red Hat update for mysql:8.0,CVE-2026-21948,7.5,,6048307,Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://access.redhat.com/errata/RHSA-2026:5580
-Red Hat update for mysql:8.0,CVE-2026-21964,7.5,,6048307,Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://access.redhat.com/errata/RHSA-2026:5580
-Red Hat update for mysql:8.0,CVE-2026-21937,7.5,,6048307,Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://access.redhat.com/errata/RHSA-2026:5580
-Red Hat update for mysql:8.0,CVE-2026-21941,7.5,,6048307,Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://access.redhat.com/errata/RHSA-2026:5580
-Red Hat update for mysql:8.0,CVE-2026-21968,7.5,,6048307,Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://access.redhat.com/errata/RHSA-2026:5580
-F5 Nginx Plus Vulnerability ,CVE-2026-32647,7.8,,386916,Qualys QID,3/25 CH -  QID Available |No POC/Exploits Available,https://my.f5.com/manage/s/article/K000160366
+Apple iOS / iPadOS Multiple Vulnerabilities,CVE-2026-28865,7.5,,"610773, 610772",Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126792
+https://support.apple.com/en-us/126793
+https://support.apple.com/en-us/126794
+https://support.apple.com/en-us/126795
+https://support.apple.com/en-us/126796"
+Apple iOS / iPadOS Multiple Vulnerabilities,CVE-2026-28858,9.8,,"610773, 610772",Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,https://support.apple.com/en-us/126792
+Apple iOS / iPadOS Multiple Vulnerabilities,CVE-2026-28871,7.1,,"610773, 610772",Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126792
+https://support.apple.com/en-us/126793
+https://support.apple.com/en-us/126794
+https://support.apple.com/en-us/126800"
+Apple iOS / iPadOS Multiple Vulnerabilities,CVE-2026-28861,7.1,,"610773, 610772",Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126792
+https://support.apple.com/en-us/126793
+https://support.apple.com/en-us/126794
+https://support.apple.com/en-us/126800"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-20687,7.1,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126794
+https://support.apple.com/en-us/126795"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-20660,7.5,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,https://support.apple.com/en-us/126795
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-28867,7.5,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126794
+https://support.apple.com/en-us/126795"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-59775,7.5,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126794
+https://support.apple.com/en-us/126795
+https://support.apple.com/en-us/126796"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2026-28894,7.5,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126794
+https://support.apple.com/en-us/126795
+https://support.apple.com/en-us/126796"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2026-20639,7.5,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126795
+https://support.apple.com/en-us/126796"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2026-28817,8.1,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126794
+https://support.apple.com/en-us/126795
+https://support.apple.com/en-us/126796"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2026-28891,8.1,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126794
+https://support.apple.com/en-us/126795
+https://support.apple.com/en-us/126796"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2026-28816,8.1,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126794
+https://support.apple.com/en-us/126795
+https://support.apple.com/en-us/126796"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2026-28827,8.1,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126794
+https://support.apple.com/en-us/126795
+https://support.apple.com/en-us/126796"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2026-28892,8.1,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126794
+https://support.apple.com/en-us/126795
+https://support.apple.com/en-us/126796"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2026-20695,8.1,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126794
+https://support.apple.com/en-us/126795
+https://support.apple.com/en-us/126796"
+Apple macOS Sonoma Multiple Vulnerabilities,CVE-2026-20688,8.1,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126794
+https://support.apple.com/en-us/126795
+https://support.apple.com/en-us/126796"
+Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-28842,7.5,,386904,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,https://support.apple.com/en-us/126794
+Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-20631,8.8,,386904,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,https://support.apple.com/en-us/126794
+Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-20698,8.6,,386904,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,https://support.apple.com/en-us/126794
+Apple Safari Multiple Vulnerabilities,CVE-2026-28857,8.6,,386908,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126792
+https://support.apple.com/en-us/126794
+https://support.apple.com/en-us/126800"
+Cisco Catalyst 9000 Series Switches IOS XE DHCP Snooping Denial of Service Vulnerability,CVE-2026-20084,8.6,,317825,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-bootp-WuBhNBxA
+Cisco Catalyst CW9800 Family IOS XE CAPWAP Denial of Service Vulnerability,CVE-2026-20086,8.6,,317823,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-wlc-dos-hnX5KGOm
+Cisco IOS / IOS XE HTTP Server Denial of Service Vulnerability,CVE-2026-20125,7.7,,317826,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ios-http-dos-sbv8XRpL
+Cisco Multiple Products IKEv2 Denial of Service Vulnerability,CVE-2026-20012,8.6,,317828,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asa-ftd-ios-dos-kPEpQGGK
+Cisco Multiple Products IOS XE TLS Denial of Service Vulnerability,CVE-2026-20004,7.4,,317821,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-tls-dos-TVgLDEZL
