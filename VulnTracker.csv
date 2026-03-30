@@ -1,60 +1,9 @@
 title,cve_ids,cvss_v3,Risk Score,QID,Detection,Comment,Refs
-Apple iOS / iPadOS Multiple Vulnerabilities,CVE-2026-28865,7.5,,"610773, 610772",Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126792
-https://support.apple.com/en-us/126793
-https://support.apple.com/en-us/126794
-https://support.apple.com/en-us/126795
-https://support.apple.com/en-us/126796"
-Apple iOS / iPadOS Multiple Vulnerabilities,CVE-2026-28858,9.8,,"610773, 610772",Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,https://support.apple.com/en-us/126792
-Apple iOS / iPadOS Multiple Vulnerabilities,CVE-2026-28871,7.1,,"610773, 610772",Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126792
-https://support.apple.com/en-us/126793
-https://support.apple.com/en-us/126794
-https://support.apple.com/en-us/126800"
-Apple iOS / iPadOS Multiple Vulnerabilities,CVE-2026-28861,7.1,,"610773, 610772",Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126792
-https://support.apple.com/en-us/126793
-https://support.apple.com/en-us/126794
-https://support.apple.com/en-us/126800"
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-20687,7.1,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126794
-https://support.apple.com/en-us/126795"
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-20660,7.5,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,https://support.apple.com/en-us/126795
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-28867,7.5,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126794
-https://support.apple.com/en-us/126795"
-Apple macOS Sonoma Multiple Vulnerabilities,CVE-2025-59775,7.5,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126794
-https://support.apple.com/en-us/126795
-https://support.apple.com/en-us/126796"
-Apple macOS Sonoma Multiple Vulnerabilities,CVE-2026-28894,7.5,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126794
-https://support.apple.com/en-us/126795
-https://support.apple.com/en-us/126796"
-Apple macOS Sonoma Multiple Vulnerabilities,CVE-2026-20639,7.5,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126795
-https://support.apple.com/en-us/126796"
-Apple macOS Sonoma Multiple Vulnerabilities,CVE-2026-28817,8.1,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126794
-https://support.apple.com/en-us/126795
-https://support.apple.com/en-us/126796"
-Apple macOS Sonoma Multiple Vulnerabilities,CVE-2026-28891,8.1,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126794
-https://support.apple.com/en-us/126795
-https://support.apple.com/en-us/126796"
-Apple macOS Sonoma Multiple Vulnerabilities,CVE-2026-28816,8.1,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126794
-https://support.apple.com/en-us/126795
-https://support.apple.com/en-us/126796"
-Apple macOS Sonoma Multiple Vulnerabilities,CVE-2026-28827,8.1,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126794
-https://support.apple.com/en-us/126795
-https://support.apple.com/en-us/126796"
-Apple macOS Sonoma Multiple Vulnerabilities,CVE-2026-28892,8.1,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126794
-https://support.apple.com/en-us/126795
-https://support.apple.com/en-us/126796"
-Apple macOS Sonoma Multiple Vulnerabilities,CVE-2026-20695,8.1,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126794
-https://support.apple.com/en-us/126795
-https://support.apple.com/en-us/126796"
-Apple macOS Sonoma Multiple Vulnerabilities,CVE-2026-20688,8.1,,386902,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126794
-https://support.apple.com/en-us/126795
-https://support.apple.com/en-us/126796"
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-28842,7.5,,386904,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,https://support.apple.com/en-us/126794
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-20631,8.8,,386904,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,https://support.apple.com/en-us/126794
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-20698,8.6,,386904,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,https://support.apple.com/en-us/126794
-Apple Safari Multiple Vulnerabilities,CVE-2026-28857,8.6,,386908,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,"https://support.apple.com/en-us/126792
-https://support.apple.com/en-us/126794
-https://support.apple.com/en-us/126800"
-Cisco Catalyst 9000 Series Switches IOS XE DHCP Snooping Denial of Service Vulnerability,CVE-2026-20084,8.6,,317825,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-bootp-WuBhNBxA
-Cisco Catalyst CW9800 Family IOS XE CAPWAP Denial of Service Vulnerability,CVE-2026-20086,8.6,,317823,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-wlc-dos-hnX5KGOm
-Cisco IOS / IOS XE HTTP Server Denial of Service Vulnerability,CVE-2026-20125,7.7,,317826,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ios-http-dos-sbv8XRpL
-Cisco Multiple Products IKEv2 Denial of Service Vulnerability,CVE-2026-20012,8.6,,317828,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asa-ftd-ios-dos-kPEpQGGK
-Cisco Multiple Products IOS XE TLS Denial of Service Vulnerability,CVE-2026-20004,7.4,,317821,Qualys QID,3/26 CH - QID Available | No known POC/Exploits available,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-tls-dos-TVgLDEZL
+Red Hat update for Red Hat Satellite,CVE-2026-1285,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:5970
+Red Hat update for Red Hat Satellite,CVE-2026-1961,8,,,,,https://access.redhat.com/errata/RHSA-2026:5970
+Red Hat update for Red Hat Satellite,CVE-2025-6176,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:5970
+Red Hat update for Red Hat Satellite,CVE-2026-0980,8.3,,,,,https://access.redhat.com/errata/RHSA-2026:5970
+Red Hat update for Red Hat Satellite,CVE-2025-68121,8.8,,,,,https://access.redhat.com/errata/RHSA-2026:5970
+Red Hat update for Red Hat Satellite,CVE-2026-1530,8.1,,,,,https://access.redhat.com/errata/RHSA-2026:5970
+Red Hat update for Red Hat Satellite,CVE-2025-14550,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:5970
+Red Hat update for Red Hat Satellite,CVE-2026-1531,8.1,,,,,https://access.redhat.com/errata/RHSA-2026:5970
