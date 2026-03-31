@@ -1,9 +1,70 @@
 title,cve_ids,cvss_v3,Risk Score,QID,Detection,Comment,Refs
+IBM App Connect Enterprise Multiple Denial of Service Vulnerabilities,CVE-2026-3304,7.5,,,,,https://www.ibm.com/support/pages/node/7267856
+IBM App Connect Enterprise Multiple Denial of Service Vulnerabilities,CVE-2026-2359,7.5,,,,,https://www.ibm.com/support/pages/node/7267856
+IBM App Connect Enterprise Multiple Denial of Service Vulnerabilities,CVE-2026-3520,7.5,,,,,https://www.ibm.com/support/pages/node/7267856
+IBM App Connect Enterprise Multiple Vulnerabilities,CVE-2026-26960,7.1,,,,,https://www.ibm.com/support/pages/node/7267856
+IBM App Connect Enterprise Multiple Vulnerabilities,CVE-2026-26278,7.5,,,,,https://www.ibm.com/support/pages/node/7267856
+IBM App Connect Enterprise Multiple Vulnerabilities,CVE-2026-24842,8.2,,,,,https://www.ibm.com/support/pages/node/7267856
+IBM App Connect Enterprise Multiple Vulnerabilities,CVE-2026-23950,8.8,,,,,https://www.ibm.com/support/pages/node/7267856
+IBM App Connect Enterprise Multiple Vulnerabilities,CVE-2026-27699,9.1,,,,,https://www.ibm.com/support/pages/node/7267856
+IBM App Connect Enterprise Multiple Vulnerabilities,CVE-2026-25896,9.3,,,,,https://www.ibm.com/support/pages/node/7267856
+Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2024-3884,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:6011
+Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2025-4949,7.9,,,,,https://access.redhat.com/errata/RHSA-2026:6011
+Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-0603,8.3,,,,,https://access.redhat.com/errata/RHSA-2026:6011
+Red Hat update for container-tools:rhel8,CVE-2025-65637,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:6191
+Red Hat update for kernel,CVE-2026-23171,7,,,,,https://access.redhat.com/errata/RHSA-2026:6153
+Red Hat update for kernel,CVE-2026-23191,7.1,,,,,https://access.redhat.com/errata/RHSA-2026:6153
+Red Hat update for kernel,CVE-2026-23193,7.1,,,,,https://access.redhat.com/errata/RHSA-2026:6153
+Red Hat update for kernel,CVE-2025-68800,7.3,,,,,https://access.redhat.com/errata/RHSA-2026:6164
+Red Hat update for kernel,CVE-2026-23144,7.3,,,,,https://access.redhat.com/errata/RHSA-2026:6153
+Red Hat update for kernel,CVE-2025-71238,7.3,,,,,https://access.redhat.com/errata/RHSA-2026:6053
+Red Hat update for kernel,CVE-2026-23231,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:6053
+Red Hat update for osbuild-composer,CVE-2025-61729,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:5853
+Red Hat update for python3,CVE-2025-15367,7.1,,,,,https://access.redhat.com/errata/RHSA-2026:6008
+Red Hat update for python3,CVE-2025-15366,7.1,,,,,https://access.redhat.com/errata/RHSA-2026:6008
+Red Hat update for python3,CVE-2026-1299,7.1,,,,,https://access.redhat.com/errata/RHSA-2026:6008
 Red Hat update for Red Hat Satellite,CVE-2026-1285,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:5970
-Red Hat update for Red Hat Satellite,CVE-2026-1961,8,,,,,https://access.redhat.com/errata/RHSA-2026:5970
 Red Hat update for Red Hat Satellite,CVE-2025-6176,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:5970
-Red Hat update for Red Hat Satellite,CVE-2026-0980,8.3,,,,,https://access.redhat.com/errata/RHSA-2026:5970
-Red Hat update for Red Hat Satellite,CVE-2025-68121,8.8,,,,,https://access.redhat.com/errata/RHSA-2026:5970
-Red Hat update for Red Hat Satellite,CVE-2026-1530,8.1,,,,,https://access.redhat.com/errata/RHSA-2026:5970
 Red Hat update for Red Hat Satellite,CVE-2025-14550,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:5970
+Red Hat update for Red Hat Satellite,CVE-2026-1961,8,,,,,https://access.redhat.com/errata/RHSA-2026:5970
+Red Hat update for Red Hat Satellite,CVE-2026-1530,8.1,,,,,https://access.redhat.com/errata/RHSA-2026:5970
 Red Hat update for Red Hat Satellite,CVE-2026-1531,8.1,,,,,https://access.redhat.com/errata/RHSA-2026:5970
+Red Hat update for Red Hat Satellite,CVE-2026-0980,8.3,,,,,https://access.redhat.com/errata/RHSA-2026:5970
+Red Hat update for Red Hat Satellite,CVE-2025-68121,10,,,,,https://access.redhat.com/errata/RHSA-2026:5970
+Red Hat update for thunderbird,CVE-2026-4697,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4699,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4707,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4712,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4685,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4714,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4709,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4686,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4706,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4708,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4695,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4684,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4713,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4693,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4719,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4694,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4704,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4718,8.1,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4715,9.1,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4716,9.1,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4687,9.6,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4692,9.6,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4690,9.6,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4688,9.6,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4701,9.8,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4720,9.8,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4705,9.8,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4721,9.8,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4717,9.8,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4698,9.8,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4702,9.8,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4691,9.8,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4711,9.8,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4696,9.8,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4700,9.8,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4710,9.8,,,,,https://access.redhat.com/errata/RHSA-2026:6188
+Red Hat update for thunderbird,CVE-2026-4689,10,,,,,https://access.redhat.com/errata/RHSA-2026:6188
