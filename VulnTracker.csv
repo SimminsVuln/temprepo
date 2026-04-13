@@ -21,6 +21,7 @@ Red Hat update for nodejs:24,CVE-2026-27135,7.5,,6048946,Qualys QID,4/13 CH - QI
 Red Hat update for nodejs:24,CVE-2026-21710,7.5,,6048946,Qualys QID,4/13 CH - QID Available | No POC/Exploit available,https://access.redhat.com/errata/RHSA-2026:7350
 Red Hat update for nodejs:24,CVE-2026-1528,7.5,,6048946,Qualys QID,4/13 CH - QID Available | No POC/Exploit available,https://access.redhat.com/errata/RHSA-2026:7350
 Red Hat update for nodejs:24,CVE-2026-26996,7.5,,6048946,Qualys QID,4/13 CH - QID Available | No POC/Exploit available,https://access.redhat.com/errata/RHSA-2026:7350
+Adobe Acrobat and Reader Arbitrary Code Execution Vulnerability,CVE-2026-34621,9.6,,387005,Qualys QID,4/13 CH - QID Available | Exploit available / POC Privately Held,
 Tenable Security Center PostgreSQL Multiple Vulnerabilities,CVE-2026-2004,8.8,,,,,https://www.tenable.com/security/tns-2026-10
 Tenable Security Center PostgreSQL Multiple Vulnerabilities,CVE-2026-2006,8.8,,,,,https://www.tenable.com/security/tns-2026-10
 Tenable Security Center PostgreSQL Multiple Vulnerabilities,CVE-2026-2005,8.8,,,,,https://www.tenable.com/security/tns-2026-10
