@@ -1,27 +1,63 @@
 title,cve_ids,cvss_v3,Risk Score,QID,Detection,Comment,Refs
-Apache Log4j Multiple Vulnerabilities,CVE-2026-34478,not available,,,,,"
-https://logging.apache.org/security.html#CVE-2026-34478"
-Apache Log4j Multiple Vulnerabilities,CVE-2026-34479,not available,,,,,https://logging.apache.org/security.html#CVE-2026-34479
-Apache Log4j Multiple Vulnerabilities,CVE-2026-34477,not available,,,,,https://logging.apache.org/security.html#CVE-2026-34477
-Apache Log4j Multiple Vulnerabilities,CVE-2026-34480,not available,,,,,https://logging.apache.org/security.html#CVE-2026-34480
-Apache Log4j Multiple Vulnerabilities,CVE-2026-34481,not available,,,,,https://logging.apache.org/security.html#CVE-2026-34481
-Apache Log4net XML Log Data Manipulation Vulnerability,CVE-2026-40021,not available,,,,,https://lists.apache.org/thread/q8otftjswhk69n3kxslqg7cobr0x4st7
-Checkmk Multiple Security Bypass Vulnerabilities,CVE-2026-33457,not available,,,,,"https://checkmk.com/werk/17988
-https://checkmk.com/werk/17990"
-Checkmk Multiple Security Bypass Vulnerabilities,CVE-2026-33455,not available,,,,,"https://checkmk.com/werk/17988
-https://checkmk.com/werk/17990"
-Juniper Junos OS Python Privilege Escalation Vulnerability,CVE-2026-33793,7.8,,44963,Qualys QID,4/13 CH - QID Available | No POC/Exploit available,https://supportportal.juniper.net/s/article/2026-04-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-When-an-unsigned-Python-op-script-configuration-is-present-a-local-low-privileged-user-can-compromise-the-system-CVE-2026-33793
-Red Hat update for nginx:1.26,CVE-2026-27651,7.5,,6048946,Qualys QID,4/13 CH - QID Available | No POC/Exploit available,https://access.redhat.com/errata/RHSA-2026:7343
-Red Hat update for nginx:1.26,CVE-2026-27784,7.8,,6048946,Qualys QID,4/13 CH - QID Available | No POC/Exploit available,https://access.redhat.com/errata/RHSA-2026:7343
-Red Hat update for nginx:1.26,CVE-2026-32647,7.8,,6048946,Qualys QID,4/13 CH - QID Available | No POC/Exploit available,https://access.redhat.com/errata/RHSA-2026:7343
-Red Hat update for nginx:1.26,CVE-2026-27654,8.2,,6048946,Qualys QID,4/13 CH - QID Available | No POC/Exploit available,https://access.redhat.com/errata/RHSA-2026:7343
-Red Hat update for nodejs:24,CVE-2026-1526,7.5,,6048946,Qualys QID,4/13 CH - QID Available | No POC/Exploit available,https://access.redhat.com/errata/RHSA-2026:7350
-Red Hat update for nodejs:24,CVE-2026-2229,7.5,,6048946,Qualys QID,4/13 CH - QID Available | No POC/Exploit available,https://access.redhat.com/errata/RHSA-2026:7350
-Red Hat update for nodejs:24,CVE-2026-27135,7.5,,6048946,Qualys QID,4/13 CH - QID Available | No POC/Exploit available,https://access.redhat.com/errata/RHSA-2026:7350
-Red Hat update for nodejs:24,CVE-2026-21710,7.5,,6048946,Qualys QID,4/13 CH - QID Available | No POC/Exploit available,https://access.redhat.com/errata/RHSA-2026:7350
-Red Hat update for nodejs:24,CVE-2026-1528,7.5,,6048946,Qualys QID,4/13 CH - QID Available | No POC/Exploit available,https://access.redhat.com/errata/RHSA-2026:7350
-Red Hat update for nodejs:24,CVE-2026-26996,7.5,,6048946,Qualys QID,4/13 CH - QID Available | No POC/Exploit available,https://access.redhat.com/errata/RHSA-2026:7350
-Adobe Acrobat and Reader Arbitrary Code Execution Vulnerability,CVE-2026-34621,9.6,,387005,Qualys QID,4/13 CH - QID Available | Exploit available / POC Privately Held,
-Tenable Security Center PostgreSQL Multiple Vulnerabilities,CVE-2026-2004,8.8,,,,,https://www.tenable.com/security/tns-2026-10
-Tenable Security Center PostgreSQL Multiple Vulnerabilities,CVE-2026-2006,8.8,,,,,https://www.tenable.com/security/tns-2026-10
-Tenable Security Center PostgreSQL Multiple Vulnerabilities,CVE-2026-2005,8.8,,,,,https://www.tenable.com/security/tns-2026-10
+Apache Tomcat Multiple Vulnerabilities,CVE-2026-34483,7.5,,"733971, 733966, 733965",,,"https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.53
+https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.54
+https://tomcat.apache.org/security-11#Fixed_in_Apache_Tomcat_11.0.20
+https://tomcat.apache.org/security-11.html#Fixed_in_Apache_Tomcat_11.0.21
+https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.116
+https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.117"
+Apache Tomcat Multiple Vulnerabilities,CVE-2026-29146,7.5,,"733971, 733966, 733965",,,"https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.53
+https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.54
+https://tomcat.apache.org/security-11#Fixed_in_Apache_Tomcat_11.0.20
+https://tomcat.apache.org/security-11.html#Fixed_in_Apache_Tomcat_11.0.21
+https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.116
+https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.117"
+Apache Tomcat Multiple Vulnerabilities,CVE-2026-29129,7.5,,"733971, 733966, 733965",,,"https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.53
+https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.54
+https://tomcat.apache.org/security-11#Fixed_in_Apache_Tomcat_11.0.20
+https://tomcat.apache.org/security-11.html#Fixed_in_Apache_Tomcat_11.0.21
+https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.116
+https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.117"
+Apache Tomcat Multiple Vulnerabilities,CVE-2026-34486,7.5,,"733971, 733966, 733965",,,"https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.53
+https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.54
+https://tomcat.apache.org/security-11#Fixed_in_Apache_Tomcat_11.0.20
+https://tomcat.apache.org/security-11.html#Fixed_in_Apache_Tomcat_11.0.21
+https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.116
+https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.117"
+Apache Tomcat Multiple Vulnerabilities,CVE-2026-24880,7.5,,"733971, 733966, 733965",,,"https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.53
+https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.54
+https://tomcat.apache.org/security-11#Fixed_in_Apache_Tomcat_11.0.20
+https://tomcat.apache.org/security-11.html#Fixed_in_Apache_Tomcat_11.0.21
+https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.116
+https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.117"
+Apache Tomcat Multiple Vulnerabilities,CVE-2026-29145,9.1,,"733971, 733966, 733965",,,"https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.53
+https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.54
+https://tomcat.apache.org/security-11#Fixed_in_Apache_Tomcat_11.0.20
+https://tomcat.apache.org/security-11.html#Fixed_in_Apache_Tomcat_11.0.21
+https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.116
+https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.117"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5886,7.5,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5907,8.1,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5913,8.1,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5915,8.1,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5884,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5872,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5865,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5909,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5866,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5871,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5863,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5879,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5860,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5910,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5861,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5908,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5858,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5912,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5862,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5868,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5873,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5859,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5877,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5870,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5874,9.6,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5902,9.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
