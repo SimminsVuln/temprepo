@@ -1,63 +1,217 @@
 title,cve_ids,cvss_v3,Risk Score,QID,Detection,Comment,Refs
-Apache Tomcat Multiple Vulnerabilities,CVE-2026-34483,7.5,,"733971, 733966, 733965",,,"https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.53
-https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.54
-https://tomcat.apache.org/security-11#Fixed_in_Apache_Tomcat_11.0.20
-https://tomcat.apache.org/security-11.html#Fixed_in_Apache_Tomcat_11.0.21
-https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.116
-https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.117"
-Apache Tomcat Multiple Vulnerabilities,CVE-2026-29146,7.5,,"733971, 733966, 733965",,,"https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.53
-https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.54
-https://tomcat.apache.org/security-11#Fixed_in_Apache_Tomcat_11.0.20
-https://tomcat.apache.org/security-11.html#Fixed_in_Apache_Tomcat_11.0.21
-https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.116
-https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.117"
-Apache Tomcat Multiple Vulnerabilities,CVE-2026-29129,7.5,,"733971, 733966, 733965",,,"https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.53
-https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.54
-https://tomcat.apache.org/security-11#Fixed_in_Apache_Tomcat_11.0.20
-https://tomcat.apache.org/security-11.html#Fixed_in_Apache_Tomcat_11.0.21
-https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.116
-https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.117"
-Apache Tomcat Multiple Vulnerabilities,CVE-2026-34486,7.5,,"733971, 733966, 733965",,,"https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.53
-https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.54
-https://tomcat.apache.org/security-11#Fixed_in_Apache_Tomcat_11.0.20
-https://tomcat.apache.org/security-11.html#Fixed_in_Apache_Tomcat_11.0.21
-https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.116
-https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.117"
-Apache Tomcat Multiple Vulnerabilities,CVE-2026-24880,7.5,,"733971, 733966, 733965",,,"https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.53
-https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.54
-https://tomcat.apache.org/security-11#Fixed_in_Apache_Tomcat_11.0.20
-https://tomcat.apache.org/security-11.html#Fixed_in_Apache_Tomcat_11.0.21
-https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.116
-https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.117"
-Apache Tomcat Multiple Vulnerabilities,CVE-2026-29145,9.1,,"733971, 733966, 733965",,,"https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.53
-https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.54
-https://tomcat.apache.org/security-11#Fixed_in_Apache_Tomcat_11.0.20
-https://tomcat.apache.org/security-11.html#Fixed_in_Apache_Tomcat_11.0.21
-https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.116
-https://tomcat.apache.org/security-9.html#Fixed_in_Apache_Tomcat_9.0.117"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5886,7.5,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5907,8.1,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5913,8.1,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5915,8.1,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5884,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5872,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5865,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5909,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5866,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5871,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5863,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5879,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5860,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5910,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5861,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5908,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5858,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5912,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5862,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5868,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5873,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5859,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5877,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5870,8.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5874,9.6,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-5902,9.8,,387008,,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#april-10-2026
+Adobe Illustrator Arbitrary Code Execution Vulnerability,CVE-2026-34618,7.8,,387074,Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://helpx.adobe.com/security/products/illustrator/apsb26-42.html
+Adobe InDesign CC Multiple Vulnerabilities,CVE-2026-34629,7.8,,387079,Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://helpx.adobe.com/security/products/indesign/apsb26-32.html
+Adobe InDesign CC Multiple Vulnerabilities,CVE-2026-27291,7.8,,387079,Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://helpx.adobe.com/security/products/indesign/apsb26-32.html
+Adobe InDesign CC Multiple Vulnerabilities,CVE-2026-34628,7.8,,387079,Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://helpx.adobe.com/security/products/indesign/apsb26-32.html
+Adobe InDesign CC Multiple Vulnerabilities,CVE-2026-27283,7.8,,387079,Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://helpx.adobe.com/security/products/indesign/apsb26-32.html
+Adobe InDesign CC Multiple Vulnerabilities,CVE-2026-27284,7.8,,387079,Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://helpx.adobe.com/security/products/indesign/apsb26-32.html
+Adobe InDesign CC Multiple Vulnerabilities,CVE-2026-27238,7.8,,387079,Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://helpx.adobe.com/security/products/indesign/apsb26-32.html
+Adobe InDesign CC Multiple Vulnerabilities,CVE-2026-34627,7.8,,387079,Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://helpx.adobe.com/security/products/indesign/apsb26-32.html
+Microsoft .NET Multiple Products Multiple Vulnerabilities,CVE-2026-32203,7.5,,"5010966, 92378",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+Microsoft .NET Multiple Products Multiple Vulnerabilities,CVE-2026-32178,7.5,,"5010966, 92379",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+Microsoft .NET Multiple Products Multiple Vulnerabilities,CVE-2026-33116,7.5,,"5010966, 92380",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+Microsoft .NET Multiple Products Multiple Vulnerabilities,CVE-2026-26171,7.5,,"5010966, 92381",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+Microsoft 365 Apps for Enterprise Multiple Vulnerabilities,CVE-2026-33095,7.8,,110522,Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+Microsoft 365 Apps for Enterprise Multiple Vulnerabilities,CVE-2026-23657,7.8,,110522,Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+Microsoft 365 Apps for Enterprise Multiple Vulnerabilities,CVE-2026-32200,7.8,,110522,Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+Microsoft 365 Apps for Enterprise Multiple Vulnerabilities,CVE-2026-32190,8.4,,110522,Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+Microsoft 365 Apps for Enterprise Multiple Vulnerabilities,CVE-2026-33114,8.4,,110522,Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+Microsoft 365 Apps for Enterprise Multiple Vulnerabilities,CVE-2026-33115,8.4,,110522,Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+Microsoft SQL Server 2022 Multiple Vulnerabilities,CVE-2026-33120,8.8,,387071,Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-27926,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-32153,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-32155,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-32160,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-26161,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-32078,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-27924,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-32165,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-26184,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-32163,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-32069,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-32158,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-20930,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-26172,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-32159,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-27918,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-26153,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-27927,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-32074,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows 10 Multiple Vulnerabilities,CVE-2026-32162,8.4,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows 11 Multiple Vulnerabilities,CVE-2026-32195,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+Microsoft Windows 11 Multiple Vulnerabilities,CVE-2026-32219,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows 11 Multiple Vulnerabilities,CVE-2026-32224,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+Microsoft Windows 11 Multiple Vulnerabilities,CVE-2026-32222,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows 11 Multiple Vulnerabilities,CVE-2026-32221,8.4,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-26152,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-32086,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-32083,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-32080,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-27921,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-32093,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-33100,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-26174,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-32073,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-32082,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-26182,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-26177,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-27929,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-32150,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-33099,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-32075,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-27917,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-32068,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-32087,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-32070,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-26173,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-33104,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-27922,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-27908,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-26151,7.1,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-32149,7.3,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-32156,7.4,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-32071,7.5,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-26154,7.5,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-27913,7.7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-32090,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-26183,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-26159,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-27914,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-27916,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-32077,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-26168,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-27923,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-26162,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-26156,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-32089,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-27909,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-27920,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-27919,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-27910,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-27911,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-32164,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-26163,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-26180,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-32154,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-32183,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-27915,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-26176,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-26160,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-33098,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-26170,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-33826,8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-27912,8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-33827,8.1,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-32091,8.4,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-27928,8.7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-32225,8.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-26178,8.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-26167,8.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-32157,8.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2016 Multiple Vulnerabilities,CVE-2026-33824,9.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2022 Multiple Vulnerabilities,CVE-2026-26166,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2022 Multiple Vulnerabilities,CVE-2026-26165,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2022 Multiple Vulnerabilities,CVE-2026-25184,7,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2022 Multiple Vulnerabilities,CVE-2026-33096,7.5,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2022 Multiple Vulnerabilities,CVE-2026-27907,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2022 Multiple Vulnerabilities,CVE-2026-32076,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2022 Multiple Vulnerabilities,CVE-2026-32152,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2022 Multiple Vulnerabilities,CVE-2026-33101,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2022 Multiple Vulnerabilities,CVE-2026-26181,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+Microsoft Windows Server 2022 Multiple Vulnerabilities,CVE-2026-26179,7.8,,"92370, 92369",Qualys QID,4/15 CH - QID Available | No Exploit/POC known,"https://portal.msrc.microsoft.com/en-us/security-guidance/releasenotedetail/2026-Apr
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-3016.html"
+SAP BusinessObjects BI Multiple Vulnerabilities,CVE-2025-64775,7.5,,,Qualys QID,4/15 CH - QID Available | No Exploit/POC known,https://support.sap.com/en/my-support/knowledge-base/security-notes-news/april-2026.html
