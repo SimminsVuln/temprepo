@@ -1,40 +1,16 @@
 title,cve_ids,cvss_v3,Risk Score,QID,Detection,Comment,Refs
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-6751,7.3,,"387108, 387109, 387126, 387127",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-32
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-6752,7.3,,"387108, 387109, 387126, 387128",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-32
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-6766,7.5,,"387108, 387109, 387126, 387129",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-32
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-6749,7.5,,"387108, 387109, 387126, 387130",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-32
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-6746,7.5,,"387108, 387109, 387126, 387131",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-32
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-6772,7.5,,"387108, 387109, 387126, 387132",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-32
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-6754,7.5,,"387108, 387109, 387126, 387133",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-32
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-6747,7.5,,"387108, 387109, 387126, 387134",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-32
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-6759,7.5,,"387108, 387109, 387126, 387135",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-32
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-6776,7.8,,"387108, 387109, 387126, 387136",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-32
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-6786,8.1,,"387108, 387109, 387126, 387137",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-32
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-6785,8.1,,"387108, 387109, 387126, 387138",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-32
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-6750,8.8,,"387108, 387109, 387126, 387139",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-32
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-6761,8.8,,"387108, 387109, 387126, 387140",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-32
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-6771,9.8,,"387108, 387109, 387126, 387141",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-32
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-6748,9.8,,"387108, 387109, 387126, 387142",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-32
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-6758,7.5,,"387108, 387109, 387126, 387143",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-30
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-6782,7.5,,"387108, 387109, 387126, 387144",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-30
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-6784,7.5,,"387108, 387109, 387126, 387145",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-30
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-6768,9.8,,"387108, 387109, 387126, 387146",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-30
-Oracle Database Server Multiple Vulnerabilities,CVE-2026-35229,7.5,,"20570, 20571, 20572",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.oracle.com/security-alerts/cpuapr2026verbose.html
-Oracle Database Server Multiple Vulnerabilities,CVE-2026-31790,7.5,,"20570, 20571, 20573",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.oracle.com/security-alerts/cpuapr2026verbose.html
-Oracle Database Server Multiple Vulnerabilities,CVE-2026-33870,7.5,,"20570, 20571, 20574",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.oracle.com/security-alerts/cpuapr2026verbose.html
-Oracle Database Server Multiple Vulnerabilities,CVE-2026-33013,7.5,,"20570, 20571, 20575",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.oracle.com/security-alerts/cpuapr2026verbose.html
-Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-34297,7.5,,20574,Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.oracle.com/security-alerts/cpuapr2026verbose.html
-Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-22011,7.6,,20574,Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.oracle.com/security-alerts/cpuapr2026verbose.html
-Oracle E-Business Suite Multiple Vulnerabilities,CVE-2025-48734,8.8,,20574,Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.oracle.com/security-alerts/cpuapr2026verbose.html
-Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-34275,9.8,,20574,Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.oracle.com/security-alerts/cpuapr2026verbose.html
-Oracle HTTP Server Multiple Vulnerabilities,CVE-2024-43394,7.5,,387129,Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.oracle.com/security-alerts/cpuapr2026verbose.html
-Oracle HTTP Server Multiple Vulnerabilities,CVE-2025-59775,7.5,,387129,Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.oracle.com/security-alerts/cpuapr2026verbose.html
-Oracle HTTP Server Multiple Vulnerabilities,CVE-2026-34291,8.7,,387129,Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.oracle.com/security-alerts/cpuapr2026verbose.html
-Oracle Java SE Multiple Vulnerabilities,CVE-2026-20652,7.5,,387117,Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.oracle.com/security-alerts/cpuapr2026verbose.html
-Oracle Java SE Multiple Vulnerabilities,CVE-2026-22016,7.5,,387117,Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.oracle.com/security-alerts/cpuapr2026verbose.html
-Oracle Java SE Multiple Vulnerabilities,CVE-2026-34282,7.5,,387117,Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.oracle.com/security-alerts/cpuapr2026verbose.html
-Oracle Java SE Multiple Vulnerabilities,CVE-2025-43457,8.8,,387117,Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.oracle.com/security-alerts/cpuapr2026verbose.html
-Oracle Middleware Common Libraries and Tools Multiple Vulnerabilities,CVE-2025-35036,7.3,,"87606, 531206",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.oracle.com/security-alerts/cpuapr2026verbose.html
-Oracle Middleware Common Libraries and Tools Multiple Vulnerabilities,CVE-2021-22573,8.7,,"87606, 531206",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.oracle.com/security-alerts/cpuapr2026verbose.html
-Oracle WebLogic Server Multiple Vulnerabilities,CVE-2026-34292,7.2,,"87606, 531206",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.oracle.com/security-alerts/cpuapr2026verbose.html
-Oracle WebLogic Server Multiple Vulnerabilities,CVE-2026-34305,7.5,,"87606, 531206",Qualys QID,4/22 CH - QID Available | No Exploit/POC Available,https://www.oracle.com/security-alerts/cpuapr2026verbose.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-6921,8.3,,387137,Qualys QID,4/24 CH - QID Available | No Exploit/POC Reported,https://chromereleases.googleblog.com/2026/04/stable-channel-update-for-desktop_22.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-6920,9.6,,387137,Qualys QID,4/24 CH - QID Available | No Exploit/POC Reported,https://chromereleases.googleblog.com/2026/04/stable-channel-update-for-desktop_22.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-6919,8.3,,387137,Qualys QID,4/24 CH - QID Available | No Exploit/POC Reported,https://chromereleases.googleblog.com/2026/04/stable-channel-update-for-desktop_22.html
+IBM Aspera Faspex Security Bypass Vulnerability,CVE-2025-62718,9.9,,387099,Qualys QID,4/24 CH - QID Available | No Exploit/POC Reported,https://www.ibm.com/support/pages/node/7269886
+IBM App Connect Enterprise Multiple Vulnerabilities,CVE-2026-30827,7.5,,,None,4/24 CH - Monitor for QID | No Exploit/POC Reported,https://www.ibm.com/support/pages/node/7270309
+IBM App Connect Enterprise Multiple Vulnerabilities,CVE-2026-33036,7.5,,,None,4/24 CH - Monitor for QID | No Exploit/POC Reported,https://www.ibm.com/support/pages/node/7270309
+IBM App Connect Enterprise Multiple Vulnerabilities,CVE-2026-26278,7.5,,,None,4/24 CH - Monitor for QID | No Exploit/POC Reported,https://www.ibm.com/support/pages/node/7270309
+IBM App Connect Enterprise Multiple Vulnerabilities,CVE-2026-27903,7.5,,,None,4/24 CH - Monitor for QID | No Exploit/POC Reported,https://www.ibm.com/support/pages/node/7270309
+IBM App Connect Enterprise Multiple Vulnerabilities,CVE-2026-32141,7.5,,,None,4/24 CH - Monitor for QID | No Exploit/POC Reported,https://www.ibm.com/support/pages/node/7270309
+IBM App Connect Enterprise Multiple Vulnerabilities,CVE-2026-29786,8.6,,,None,4/24 CH - Monitor for QID | No Exploit/POC Reported,https://www.ibm.com/support/pages/node/7270309
+IBM App Connect Enterprise Multiple Vulnerabilities,CVE-2026-33228,9.8,,,None,4/24 CH - Monitor for QID | No Exploit/POC Reported,https://www.ibm.com/support/pages/node/7270309
+Red Hat update for webkit2gtk3,CVE-2026-20652,7.5,,6049296,Qualys QID,4/24 CH - QID Available | No Exploit/POC Reported,https://access.redhat.com/errata/RHSA-2026:9692
+Red Hat update for webkit2gtk3,CVE-2025-43511,8.8,,6049296,Qualys QID,4/24 CH - QID Available | No Exploit/POC Reported,https://access.redhat.com/errata/RHSA-2026:9692
+Red Hat update for webkit2gtk3,CVE-2025-43457,8.8,,6049296,Qualys QID,4/24 CH - QID Available | No Exploit/POC Reported,https://access.redhat.com/errata/RHSA-2026:9692
+Red Hat update for webkit2gtk3,CVE-2025-43214,8.8,,6049296,Qualys QID,4/24 CH - QID Available | No Exploit/POC Reported,https://access.redhat.com/errata/RHSA-2026:9692
