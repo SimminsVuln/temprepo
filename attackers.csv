@@ -1,0 +1,40 @@
+Name,Active Since,Known Malware / Tooling
+FIN7 (Carbon Spider),2015,Carbanak Griffon PowerPlant
+Carbanak / Anunak,2013,Carbanak malware
+Cobalt Group,2016,Cobalt Strike ATM cashout tools
+Lazarus Group (APT38 BlueNorOff),2009,FASTCash AppleJeus SWIFT fraud tools
+APT38,2014,FASTCash SWIFT fraud tooling
+APT41 (Barium),2012,Custom loaders web shells
+TA505,2014,Dridex Clop Locky
+FIN11,2017,Ryuk Clop ransomware
+Evil Corp (Indrik Spider),2009,Dridex WastedLocker
+Silence Group,2016,Silence malware ATM cashout tools
+Magecart Groups,2015,Web skimmers JavaScript card theft
+Scattered Spider,2022,Social engineering kits MFA bypass
+RansomHub,2024,RansomHub ransomware
+LockBit,2019,LockBit ransomware
+Akira,2023,Akira ransomware
+Clop,2019,Clop ransomware
+BianLian,2022,BianLian ransomware
+BlackSuit / Royal,2022,Royal ransomware
+Play ransomware,2022,Play ransomware
+APT28 (Fancy Bear),2007,X-Agent Zebrocy
+APT29 (Cozy Bear),2008,CozyDuke WellMess
+APT33 (Elfin),2013,Shamoon variants
+APT34 (OilRig),2014,Helminth QUADAGENT
+APT39 (Chafer),2014,Credential theft tools
+Kimsuky (APT43),2012,BabyShark AppleSeed
+Volt Typhoon,2021,Living-off-the-land techniques
+Sandworm (APT44),2009,NotPetya Industroyer
+APT8,2013,HASH FLYZAP
+APT36 (Transparent Tribe),2013,Crimson RAT DeskRAT
+SideCopy,2019,ReverseRat variants
+Gorgon Group,2017,Commodity RATs phishing kits
+MuddyWater,2017,POWERSTATS Small Sieve
+APT35 (Charming Kitten),2014,Browser credential stealers
+APT37 (Reaper),2012,ROKRAT
+Operation C-Major,2020,Custom loaders
+FIN4,2013,Credential harvesting tools
+APT6,2010+,Custom backdoors
+APT7,2010+,Custom malware toolkits
+Equation Group,2000s,Stuxnet Flame
