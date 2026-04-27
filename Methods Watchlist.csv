@@ -1,0 +1,251 @@
+"TechniqueID,Method"
+Abuse Elevation Control Mechanism
+Accessibility Features
+Account Access Removal
+Account Discovery
+Acquire Infrastructure
+Active Scanning
+Adversary-in-the-Middle
+Application Access Token
+Application Layer Protocol
+Application or System Exploitation
+ARP Cache Poisoning
+AS-REP Roasting
+Asymmetric Cryptography
+At
+Automated Collection
+Automated Exfiltration
+Bidirectional Communication
+Binary Padding
+Boot or Logon Autostart Execution
+Botnet
+Botnet
+Brute Force
+Business Relationships
+Bypass User Account Control
+Client Configurations
+Cloud Accounts
+Cloud Accounts
+Cloud Accounts
+Cloud Instance Metadata API
+Cloud Service Discovery
+Code Repositories
+Code Repositories
+Command and Scripting Interpreter
+Command Obfuscation
+Compromise Accounts
+Compromise Infrastructure
+Compromise Software Dependencies and Development Tools
+Compromise Software Supply Chain
+Confluence
+Create or Modify System Process
+Credential Stuffing
+Credentials from Password Stores
+Credentials from Web Browsers
+Credentials In Files
+Data Destruction
+Data Encrypted for Impact
+Data from Cloud Storage
+Data from Information Repositories
+Data from Local System
+Data from Network Shared Drive
+Data Staged
+Dead Drop Resolver
+Default Accounts
+Deobfuscate/Decode Files or Information
+Determine Physical Locations
+Develop Capabilities
+DHCP Spoofing
+Direct Network Flood
+Disable or Modify Cloud Firewall
+Disable or Modify System Firewall
+Disable or Modify Tools
+DNS
+DNS Server
+DNS Server
+Domain Account
+Domain Accounts
+Domain Controller Authentication
+Domain Fronting
+Domain Groups
+Domain Properties
+Domain Trust Discovery
+Domains
+Domains
+Drive-by Compromise
+Email Account
+Email Accounts
+Email Accounts
+Email Collection
+Email Forwarding Rule
+Encrypted Channel
+Endpoint Denial of Service
+Establish Accounts
+Event Triggered Execution
+Exfiltration Over C2 Channel
+Exfiltration Over Web Service
+Exfiltration to Cloud Storage
+Exploit Public-Facing Application
+Exploitation for Client Execution
+Exploitation for Defense Evasion
+Exploitation of Remote Services
+External Proxy
+External Remote Services
+File and Directory Discovery
+File Deletion
+File Transfer Protocols
+Financial Theft
+Firmware
+Forced Authentication
+Gather Victim Host Information
+Gather Victim Network Information
+Gather Victim Org Information
+Golden Ticket
+Group Policy Discovery
+GUI Input Capture
+Hardware
+Identify Business Tempo
+Identify Roles
+IIS Components
+Image File Execution Options Injection
+Impair Defenses
+Impersonation
+Implant Internal Image
+Indicator Blocking
+Indicator Removal on Host
+Ingress Tool Transfer
+Inhibit System Recovery
+Input Capture
+Internal Proxy
+Internet Connection Discovery
+IP Addresses
+JavaScript
+Kerberoasting
+Keylogging
+Lateral Tool Transfer
+Launch Daemon
+LLMNR/NBT-NS Poisoning and SMB Relay
+Local Account
+Local Accounts
+Local Data Staging
+Local Email Collection
+Local Groups
+LSASS Memory
+Mail Protocols
+Malicious File
+Malicious Link
+Masquerade Task or Service
+Masquerading
+Messaging Applications
+Modify Authentication Process
+Mshta
+Msiexec
+Multi-Factor Authentication
+Multi-Factor Authentication Interception
+Multi-Factor Authentication Request Generation
+Multi-hop Proxy
+Multi-Stage Channels
+Netsh Helper DLL
+Network Denial of Service
+Network Device CLI
+Network Security Appliances
+Network Service Discovery
+Network Share Discovery
+Network Topology
+Network Trust Dependencies
+Non-Application Layer Protocol
+Non-Standard Port
+NTDS
+Obfuscated Files or Information
+Obtain Capabilities
+One-Way Communication
+OS Credential Dumping
+Pass the Hash
+Pass the Ticket
+Password Cracking
+Password Filter DLL
+Password Guessing
+Password Spraying
+Peripheral Device Discovery
+Permission Groups Discovery
+Phishing
+PowerShell
+Private Keys
+Process Discovery
+Proxy
+Python
+Query Registry
+Reflection Amplification
+Registry Run Keys / Startup Folder
+Regsvr32
+Remote Data Staging
+Remote Desktop Protocol
+Remote Email Collection
+Remote Services
+Remote System Discovery
+Replication Through Removable Media
+Rundll32
+Scanning IP Blocks
+Scheduled Task
+Scheduled Task/Job
+Search Engines
+Search Open Websites/Domains
+Security Account Manager
+Security Software Discovery
+Server
+Server
+Server Software Component
+SharePoint
+Shortcut Modification
+SMB/Windows Admin Shares
+Social Media
+Social Media Accounts
+Social Media Accounts
+Software
+Software Discovery
+Software Packing
+Spearphishing Attachment
+Spearphishing Link
+Spearphishing via Service
+SSH
+Stage Capabilities
+Steal Application Access Token
+Steal or Forge Kerberos Tickets
+Steal Web Session Cookie
+Supply Chain Compromise
+Symmetric Cryptography
+System Binary Proxy Execution
+System Checks
+System Information Discovery
+System Location Discovery
+System Network Configuration Discovery
+System Shutdown/Reboot
+System Time Discovery
+Time Based Evasion
+Timestomp
+Traffic Duplication
+Unsecured Credentials
+Use Alternate Authentication Material
+User Execution
+Valid Accounts
+Verclsid
+Virtual Private Server
+Virtual Private Server
+Virtualization/Sandbox Evasion
+Visual Basic
+Vulnerability Scanning
+Web Portal Capture
+Web Protocols
+Web Service
+Web Services
+Web Services
+Web Session Cookie
+Web Shell
+Windows Command Shell
+Windows Credential Manager
+Windows Management Instrumentation
+Windows Management Instrumentation Event Subscription
+Windows Remote Management
+Windows Service
+Winlogon Helper DLL
+Wordlist Scanning
