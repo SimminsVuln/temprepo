@@ -1,3 +1,29 @@
 title,cve_ids,cvss_v3,Risk Score,QID,Detection,Comment,Refs
-F5 Multiple Products Intel UEFI Privilege Escalation Vulnerability,CVE-2025-20027,7,,387101,Qualys QID,4/27 CH - QID Available | No Exploit/POC known,https://my.f5.com/manage/s/article/K000160902
-IBM WebSphere Application Server Liberty Spoofing Vulnerability,CVE-2026-3621,7.5,,387144,Qualys QID,4/27 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7270437
+Docker Desktop Server-Side Request Forgery Vulnerability,CVE-2026-33990,9.1,,386962,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://docs.docker.com/desktop/release-notes/#4670
+IBM App Connect Enterprise Multiple Security Bypass Vulnerabilities,CVE-2026-34601,7.5,,,None,4/28 CH - Monitor for QID| No Exploit/POC known,https://www.ibm.com/support/pages/node/7270705
+IBM Java Multiple Vulnerabilities,CVE-2026-22016,7.5,,387156,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7270697
+IBM Sterling Connect:Direct for Microsoft Windows plexus-utils Security Bypass Vulnerability,CVE-2025-67030,8.8,,,None,4/28 CH - Monitor for QID| No Exploit/POC known,https://www.ibm.com/support/pages/node/7270692
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-6921,8.3,,387153,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-24-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-6920,9.6,,387153,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-24-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-6919,9.6,,387153,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-24-2026
+Red Hat update for buildah,CVE-2026-34986,7.5,,6049326,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10135
+Red Hat update for container-tools:rhel8,CVE-2025-52565,7.5,,6049328,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10703
+Red Hat update for container-tools:rhel8,CVE-2025-65637,7.5,,6049328,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10703
+Red Hat update for container-tools:rhel8,CVE-2025-47913,7.5,,6049328,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10703
+Red Hat update for container-tools:rhel8,CVE-2025-52881,7.5,,6049328,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10703
+Red Hat update for container-tools:rhel8,CVE-2025-31133,7.8,,6049328,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10703
+Red Hat update for freerdp,CVE-2026-33983,7.5,,6049344,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10709
+Red Hat update for freerdp,CVE-2026-33984,7.5,,6049344,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10709
+Red Hat update for freerdp,CVE-2026-22854,8.1,,6049354,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10951
+Red Hat update for freerdp,CVE-2026-22856,8.1,,6049354,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10951
+Red Hat update for freerdp,CVE-2026-31806,8.8,,6049354,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10951
+Red Hat update for git-lfs,CVE-2026-25679,7.5,,6049340,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10712
+Red Hat update for sudo,CVE-2026-35535,7.4,,6049350,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10758
+Red Hat update for tigervnc,CVE-2026-34001,7.8,,6049337,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10739
+Red Hat update for tigervnc,CVE-2026-33999,7.8,,6049337,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10739
+Red Hat update for tigervnc,CVE-2026-34003,7.8,,6049337,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10739
+Red Hat update for tigervnc,CVE-2026-34352,8.5,,6049337,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10739
+Red Hat update for webkit2gtk3,CVE-2026-20652,7.5,,6049332,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10702
+Red Hat update for webkit2gtk3,CVE-2025-43511,8.8,,6049332,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10702
+Red Hat update for webkit2gtk3,CVE-2025-43214,8.8,,6049332,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10702
+Red Hat update for webkit2gtk3,CVE-2025-43457,8.8,,6049332,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10702
