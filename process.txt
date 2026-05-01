@@ -1,0 +1,305 @@
+Here’s a **parallel process document for Threat Actors (Attackers)**, structured the same way as your Methods process and tailored to your environment, sources, and constraints.
+
+---
+
+# 📄 Threat Actor Watchlist Process (Recorded Future)
+
+## 🟢 1. Intelligence Gathering & Candidate Identification
+
+* The **Cyber Threat Intelligence (CTI) team** continuously collects intelligence from multiple sources:
+
+  * Feedly for aggregated threat reporting and vendor advisories
+  * CrowdStrike intelligence reports and threat actor tracking
+  * Anvilogic detection insights tied to attacker behaviors
+  * FS-ISAC sector-specific threat alerts
+  * Recorded Future trending threat actors, campaigns, and risk scores
+* Additional inputs:
+
+  * Campaign reports and malware analysis
+  * Incident response findings and internal SIRs
+  * Threat actor infrastructure or targeting trends
+* Identify candidate threat actors that:
+
+  * Are actively conducting **campaigns or attacks**
+  * Target **banking / financial institutions**
+  * Have activity tied to **US and/or India regions**
+
+---
+
+## 🟡 2. Threat Actor Validation & Relevance Assessment
+
+* Confirm the threat actor is:
+
+  * Recognized across **reputable intelligence sources**
+  * Actively associated with **recent campaigns or operations**
+* Ensure the actor meets **all required criteria**:
+
+  * Demonstrated activity within the **last 6–12 months**
+  * Associated with:
+
+    * Malware
+    * Exploitation activity
+    * Credential theft / fraud / ransomware / intrusion activity
+  * Directly relevant to:
+
+    * **Financial sector targeting**
+    * **US and/or India**
+* Preference is given to actors that:
+
+  * Appear in **multiple intelligence sources**
+  * Show **consistent or repeated targeting** of financial organizations
+  * Are linked to **high-impact activity**, such as:
+
+    * Financial theft (fraud, SWIFT, carding)
+    * Ransomware attacks
+    * Account takeover / identity attacks
+
+---
+
+## 🔵 3. Threat Actor Selection Criteria
+
+* A threat actor is approved for addition if it meets one or more of the following:
+
+  * Observed in **multiple intelligence sources**
+  * Linked to a **notable or trending campaign**
+  * Associated with **active exploitation or intrusion activity**
+  * Demonstrates **clear impact to financial sector operations**
+* Avoid adding actors that are:
+
+  * Poorly attributed or low-confidence
+  * Not recently active
+  * Not relevant to financial sector targeting
+
+---
+
+## 🔷 4. Add Threat Actor to Recorded Future Watchlist
+
+* Navigate to **Threat Actors → Watchlists** in Recorded Future
+* Open the **Threat Actor Watchlist**
+* Add new entry:
+
+  * **Threat Actor Name** (standardized naming, e.g., FIN7, APT28)
+* Save and verify the actor is successfully added
+
+---
+
+## 🟣 5. Review & Maintenance (Bi-Weekly / Monthly)
+
+* Conduct review on a **bi-weekly or monthly cadence**
+* During review:
+
+  * Reassess each actor using updated intelligence from:
+
+    * Feedly
+    * CrowdStrike
+    * Anvilogic
+    * FS-ISAC
+    * Recorded Future
+  * Evaluate:
+
+    * Continued activity in campaigns
+    * Ongoing relevance to financial sector (US/India)
+* Actions:
+
+  * **Add** newly identified threat actors
+  * **Retain** actors still actively targeting relevant sectors
+  * **Remove** actors no longer relevant (based on team review)
+
+---
+
+## 🔴 6. Trending / Out-of-Cycle Updates
+
+* If a **high-impact or rapidly emerging threat actor** is identified:
+
+  * Add immediately outside of scheduled review cycle
+* Triggers include:
+
+  * Active campaigns targeting financial institutions
+  * Ransomware groups impacting banking sector
+  * Alerts from FS-ISAC or major intelligence providers
+* Ensure rapid validation before addition
+
+---
+
+## ⚫ 7. Ownership & Governance
+
+* The **Cyber Threat Intelligence team** is responsible for:
+
+  * Intelligence collection and analysis
+  * Threat actor validation and selection
+  * Watchlist updates and maintenance
+* All actions are:
+
+  * **Manually performed**
+  * **Reviewed during scheduled cycles or as needed**
+
+---
+
+## ✅ Outcome
+
+* Maintains a **focused, high-confidence Threat Actor Watchlist**
+* Ensures alignment with:
+
+  * Active threat landscape
+  * Financial sector targeting (US/India)
+* Enables:
+
+  * Improved tracking of adversary activity
+  * Better campaign awareness
+  * Stronger intelligence-driven decision making
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Here’s an **expanded version of your Methods Watchlist process** with stronger emphasis on **intel gathering and source-driven validation**, while keeping it clean, operational, and aligned to how your team actually works.
+
+---
+
+# 📄 Methods Watchlist Process (Recorded Future)
+
+## 🟢 1. Intelligence Gathering & Candidate Identification
+
+* The **Cyber Threat Intelligence (CTI) team** continuously collects intelligence from multiple sources:
+
+  * Feedly for aggregated threat reporting and vendor advisories
+  * CrowdStrike intelligence reports and threat research
+  * Anvilogic detection insights and attack patterns
+  * FS-ISAC sector-specific threat intelligence
+  * Recorded Future trending vulnerabilities, malware, and campaigns
+* Additional inputs:
+
+  * Active campaign reporting
+  * Malware analysis and write-ups
+  * Exploited vulnerabilities and intrusion techniques
+* Identify candidate methods (TTPs) that:
+
+  * Appear across **multiple intelligence sources** OR
+  * Are tied to **high-confidence reporting from a trusted source**
+  * Are actively used in **real-world campaigns**
+
+---
+
+## 🟡 2. Method Validation & Relevance Assessment
+
+* Validate candidate methods against MITRE ATT&CK
+* Confirm the method meets **all required criteria**:
+
+  * Observed in a **recent or active campaign**
+  * Associated with:
+
+    * Malware
+    * Exploitation activity
+    * Threat actor tradecraft
+  * Directly relevant to:
+
+    * **Banking / financial sector targets**
+    * **US and/or India regions**
+* Preference is given to methods that:
+
+  * Are used by **multiple threat actors or campaigns**
+  * Represent **high-risk behaviors**, such as:
+
+    * Credential access
+    * Phishing / initial access
+    * Lateral movement
+    * Data exfiltration
+* Keep scope at a **simple TTP level (Txxxx)** aligned with Recorded Future watchlist capabilities
+
+---
+
+## 🔵 3. Method Selection Criteria
+
+* A method is approved for addition if it meets one or more of the following:
+
+  * Observed in **multiple intelligence sources**
+  * Linked to a **notable or trending campaign**
+  * Associated with **active exploitation in the wild**
+  * Demonstrates **clear impact to financial sector operations**
+* Avoid adding methods that are:
+
+  * Too generic without clear campaign usage
+  * Not recently observed or relevant
+  * Not tied to financial sector targeting
+
+---
+
+## 🔷 4. Add Method to Recorded Future Watchlist
+
+* Navigate to **Methods → Watchlists** in Recorded Future
+* Open the **Methods Watchlist**
+* Add new entry:
+
+  * **Technique ID (Txxxx)**
+  * **Method Name (MITRE-aligned)**
+* Save and verify the method is successfully added
+
+---
+
+## 🟣 5. Review & Maintenance (Bi-Weekly / Monthly)
+
+* Conduct formal review on a **bi-weekly or monthly cadence**
+* During review:
+
+  * Reassess each method using updated intelligence from:
+
+    * Feedly
+    * CrowdStrike
+    * Anvilogic
+    * FS-ISAC
+    * Recorded Future
+  * Evaluate:
+
+    * Continued use in active campaigns
+    * Ongoing relevance to financial sector (US/India)
+* Actions:
+
+  * **Add** newly identified methods
+  * **Retain** methods still actively observed
+  * **Remove** methods no longer relevant (based on team consensus)
+
+---
+
+## 🔴 6. Trending / Out-of-Cycle Updates
+
+* If intelligence sources indicate a **high-impact or rapidly emerging threat**:
+
+  * Add the method immediately (outside normal cadence)
+* Triggers include:
+
+  * Widespread exploitation
+  * High-profile campaign affecting financial institutions
+  * Alerts from FS-ISAC or major vendors
+* Ensure rapid validation before addition
+
+---
+
+## ⚫ 7. Ownership & Governance
+
+* The **Cyber Threat Intelligence team** is responsible for:
+
+  * Intelligence collection and analysis
+  * Method validation and selection
+  * Watchlist updates and maintenance
+* All actions are:
+
+  * **Manually performed**
+  * **Reviewed during scheduled cycles or as needed**
+
+---
+
+## ✅ Outcome
+
+* Maintains a **high-confidence, intelligence-driven Methods Watchlist**
+* Ensures alignment with:
+
+  * Real-world threat activity
+  * Financial sector targeting (US/India)
+* Enables:
+
+  * Improved threat tracking
+  * Better campaign awareness
+  * More informed downstream analysis and reporting
+
+---
+
+
+
