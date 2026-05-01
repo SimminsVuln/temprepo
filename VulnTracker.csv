@@ -1,29 +1,44 @@
 title,cve_ids,cvss_v3,Risk Score,QID,Detection,Comment,Refs
-Docker Desktop Server-Side Request Forgery Vulnerability,CVE-2026-33990,9.1,,386962,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://docs.docker.com/desktop/release-notes/#4670
-IBM App Connect Enterprise Multiple Security Bypass Vulnerabilities,CVE-2026-34601,7.5,,,None,4/28 CH - Monitor for QID| No Exploit/POC known,https://www.ibm.com/support/pages/node/7270705
-IBM Java Multiple Vulnerabilities,CVE-2026-22016,7.5,,387156,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7270697
-IBM Sterling Connect:Direct for Microsoft Windows plexus-utils Security Bypass Vulnerability,CVE-2025-67030,8.8,,,None,4/28 CH - Monitor for QID| No Exploit/POC known,https://www.ibm.com/support/pages/node/7270692
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-6921,8.3,,387153,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-24-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-6920,9.6,,387153,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-24-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-6919,9.6,,387153,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-24-2026
-Red Hat update for buildah,CVE-2026-34986,7.5,,6049326,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10135
-Red Hat update for container-tools:rhel8,CVE-2025-52565,7.5,,6049328,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10703
-Red Hat update for container-tools:rhel8,CVE-2025-65637,7.5,,6049328,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10703
-Red Hat update for container-tools:rhel8,CVE-2025-47913,7.5,,6049328,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10703
-Red Hat update for container-tools:rhel8,CVE-2025-52881,7.5,,6049328,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10703
-Red Hat update for container-tools:rhel8,CVE-2025-31133,7.8,,6049328,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10703
-Red Hat update for freerdp,CVE-2026-33983,7.5,,6049344,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10709
-Red Hat update for freerdp,CVE-2026-33984,7.5,,6049344,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10709
-Red Hat update for freerdp,CVE-2026-22854,8.1,,6049354,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10951
-Red Hat update for freerdp,CVE-2026-22856,8.1,,6049354,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10951
-Red Hat update for freerdp,CVE-2026-31806,8.8,,6049354,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10951
-Red Hat update for git-lfs,CVE-2026-25679,7.5,,6049340,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10712
-Red Hat update for sudo,CVE-2026-35535,7.4,,6049350,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10758
-Red Hat update for tigervnc,CVE-2026-34001,7.8,,6049337,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10739
-Red Hat update for tigervnc,CVE-2026-33999,7.8,,6049337,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10739
-Red Hat update for tigervnc,CVE-2026-34003,7.8,,6049337,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10739
-Red Hat update for tigervnc,CVE-2026-34352,8.5,,6049337,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10739
-Red Hat update for webkit2gtk3,CVE-2026-20652,7.5,,6049332,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10702
-Red Hat update for webkit2gtk3,CVE-2025-43511,8.8,,6049332,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10702
-Red Hat update for webkit2gtk3,CVE-2025-43214,8.8,,6049332,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10702
-Red Hat update for webkit2gtk3,CVE-2025-43457,8.8,,6049332,Qualys QID,4/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:10702
+Jenkins GitHub Plugin Script Insertion Vulnerability,CVE-2026-42523,9,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://www.jenkins.io/security/advisory/2026-04-29
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7349,7.5,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7338,7.5,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7343,7.5,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7357,7.5,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7346,8.1,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7347,8.1,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7352,8.3,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7350,8.3,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7353,8.3,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7345,8.3,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7339,8.8,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7358,8.8,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7356,8.8,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7361,8.8,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7335,8.8,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7354,8.8,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7344,8.8,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7359,8.8,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7363,8.8,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7334,8.8,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7355,8.8,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7342,8.8,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7337,8.8,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7341,8.8,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7336,8.8,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7348,8.8,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-7333,9.6,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#april-30-2026
+Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2025-66614,9.1,,"387241, 6049426",Qualys QID,5/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:12194
+Red Hat update for skopeo,CVE-2026-25679,7.5,,6049385,Qualys QID,5/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:11412
+Red Hat update for skopeo,CVE-2025-61729,7.5,,6049404,Qualys QID,5/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:11749
+Red Hat update for skopeo,CVE-2025-61726,7.5,,6049404,Qualys QID,5/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:11749
+Red Hat update for skopeo,CVE-2025-68121,10,,6049404,Qualys QID,5/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:11749
+Red Hat update for vim,CVE-2026-34982,8.2,,6049371,Qualys QID,5/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:11389
+Red Hat update for webkit2gtk3,CVE-2026-20652,7.5,,6049379,Qualys QID,5/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:11329
+Red Hat update for webkit2gtk3,CVE-2025-43214,8.8,,6049379,Qualys QID,5/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:11329
+Red Hat update for webkit2gtk3,CVE-2025-43457,8.8,,6049379,Qualys QID,5/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:11329
+Red Hat update for webkit2gtk3,CVE-2025-43511,8.8,,6049379,Qualys QID,5/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:11329
+SailPoint IdentityIQ Security Bypass Vulnerability,CVE-2026-5712,8,,,None,5/1 CH - Monitor for QID | No Exploit/POC known,https://www.sailpoint.com/security-advisories/sailpoint-identityiq-role-editor-incorrect-authorization-vulnerability-cve-2026-5712
+Wireshark Multiple Vulnerabilities,CVE-2026-5656,7,,387202,Qualys QID,5/1 CH - QID Available | No Exploit/POC known,https://www.wireshark.org/security/wnpa-sec-2026-21.html
+Wireshark Multiple Vulnerabilities,CVE-2026-5403,7.8,,387216,Qualys QID,5/1 CH - QID Available | No Exploit/POC known,https://www.wireshark.org/security/wnpa-sec-2026-16.html
+Wireshark Multiple Vulnerabilities,CVE-2026-5405,7.8,,387222,Qualys QID,5/1 CH - QID Available | No Exploit/POC known,https://www.wireshark.org/security/wnpa-sec-2026-17.html
+Wireshark Multiple Vulnerabilities,CVE-2026-5402,8.8,,387223,Qualys QID,5/1 CH - QID Available | No Exploit/POC known,https://www.wireshark.org/security/wnpa-sec-2026-14.html
