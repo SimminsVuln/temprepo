@@ -1,0 +1,101 @@
+# Define file paths
+$inputFile = "Advisories.csv"
+$outputFile = "Cleaned_Advisories.csv"
+
+# List of excluded product keywords
+$excludedProducts = @([LIST PRODUCT NO IN USE HERE])  # Add excluded products here
+
+# Import the CSV data
+$csvData = Import-Csv -Path $inputFile
+
+# Load existing data from the output file if it exists
+if (Test-Path $outputFile) {
+    $existingData = Import-Csv -Path $outputFile
+} else {
+    $existingData = @()
+}
+
+# Prepare an array to hold the processed rows
+$processedData = @()
+
+foreach ($row in $csvData) {
+    # Check if any cell contains excluded products
+    $excludeRow = $false
+    foreach ($property in $row.PSObject.Properties.Name) {
+        foreach ($excludedProduct in $excludedProducts) {
+            if ($row.$property -match $excludedProduct) {
+                Write-Output "Excluded product '$excludedProduct' found in row. Skipping..."
+                $excludeRow = $true
+                break
+            }
+        }
+        if ($excludeRow) { break }
+    }
+
+    # Skip this row if it contains excluded products
+    if ($excludeRow) {
+        Write-Output "Excluded product found in row, skipping..."
+        continue
+    }
+
+    # Split Refs by comma and remove any whitespace
+    $refs = $row.Refs -split ',' | ForEach-Object { $_.Trim() }
+
+    # Split cve_str_list by space
+    $cveList = $row.cve_str_list -split ' ' | ForEach-Object { $_.Trim() }
+
+    foreach ($cve in $cveList) {
+        foreach ($ref in $refs) {
+            # Remove commas from Refs
+            $cleanRef = $ref -replace ',', ''
+
+            # Skip rows where Refs are blank or contain unwanted links
+            if (![string]::IsNullOrWhiteSpace($cleanRef) -and
+                $cleanRef -notmatch "app\.secunia|github") {
+
+                # Check if the entry already exists
+                $entryExists = $existingData | Where-Object {
+                    $_.cve_str_list -eq $cve -and $_.Refs -eq $cleanRef
+                }
+
+                if ($entryExists) {
+                    Write-Output "Entry with CVE '$cve' and Ref already exists. Skipping..."
+                    continue
+                }
+
+                # Create a new object with updated values
+                $newRow = [PSCustomObject]@{
+                    title        = $row.title
+                    cve_str_list = $cve
+                    Refs         = $cleanRef
+                    Timestamp    = (Get-Date -Format "yyyy-MM-dd HH:mm:ss") # Add timestamp
+                }
+
+                # Add to the processed data
+                $processedData += $newRow
+            }
+        }
+    }
+}
+
+# Combine duplicates by grouping cve_str_list and merging Refs (new lines for each Ref)
+$groupedData = $processedData | Group-Object -Property cve_str_list | ForEach-Object {
+    $group = $_
+    $combinedRefs = ($group.Group | Select-Object -ExpandProperty Refs | Sort-Object -Unique) -join "`n"  # New line in cell
+    $timestamp = ($group.Group | Select-Object -First 1).Timestamp  # Keep the first timestamp
+
+    [PSCustomObject]@{
+        title        = ($group.Group | Select-Object -First 1).title
+        cve_str_list = $group.Name
+        Refs         = $combinedRefs
+        Timestamp    = $timestamp
+    }
+}
+
+# Append new data to existing data
+$finalData = $existingData + $groupedData
+
+# Export the cleaned data to the CSV (preserving newlines in cells)
+$finalData | Export-Csv -Path $outputFile -NoTypeInformation -Encoding UTF8
+
+Write-Output "Processing complete. Results have been appended to $outputFile"
