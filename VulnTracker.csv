@@ -1,18 +1,21 @@
 title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,Refs
-Apache HTTP Server Multiple Vulnerabilities,CVE-2026-29169,7.5,,734128,Qualys QID,5/5 CH - QID Available | No Exploit/POC Code Available,https://httpd.apache.org/security/vulnerabilities_24.html
-Apache HTTP Server Multiple Vulnerabilities,CVE-2026-34059,7.5,,734130,Qualys QID,5/5 CH - QID Available | No Exploit/POC Code Available,https://httpd.apache.org/security/vulnerabilities_24.html
-Apache HTTP Server Multiple Vulnerabilities,CVE-2026-24072,8.8,,734129,Qualys QID,5/5 CH - QID Available | No Exploit/POC Code Available,https://httpd.apache.org/security/vulnerabilities_24.html
-Apache HTTP Server Multiple Vulnerabilities,CVE-2026-23918,8.8,,734127,Qualys QID,5/5 CH - QID Available | No Exploit/POC Code Available,https://httpd.apache.org/security/vulnerabilities_24.html
-Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2026-32597,7.5,,6049460,Qualys QID,5/5 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:13508
-Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2026-25679,7.5,,6049460,Qualys QID,5/5 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:13508
-Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2025-14550,7.5,,6049460,Qualys QID,5/5 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:13508
-Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2026-23490,7.5,,6049460,Qualys QID,5/5 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:13508
-Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2025-69534,7.5,,6049460,Qualys QID,5/5 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:13508
-Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2026-30922,7.5,,6049460,Qualys QID,5/5 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:13508
-Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2026-6266,8.3,,6049460,Qualys QID,5/5 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:13508
-Red Hat update for LibRaw,CVE-2026-24660,8.1,,6049452,Qualys QID,5/5 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:13284
-Red Hat update for LibRaw,CVE-2026-21413,9.8,,6049452,Qualys QID,5/5 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:13284
-Red Hat update for LibRaw,CVE-2026-20889,9.8,,6049452,Qualys QID,5/5 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:13284
-Red Hat update for tigervnc,CVE-2026-34003,7.8,,6049455,Qualys QID,5/5 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:13414
-Red Hat update for tigervnc,CVE-2026-34001,7.8,,6049455,Qualys QID,5/5 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:13414
-Red Hat update for tigervnc,CVE-2026-34352,8.5,,6049455,Qualys QID,5/5 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:13414
+IBM AIX OpenSSL Multiple Vulnerabilities,CVE-2026-28388,7.5,,330248,Qualys QID,5/6 CH - QID Available | No POC/Exploit Known,https://www.ibm.com/support/pages/node/7271681
+IBM AIX OpenSSL Multiple Vulnerabilities,CVE-2026-28389,7.5,,330248,Qualys QID,5/6 CH - QID Available | No POC/Exploit Known,https://www.ibm.com/support/pages/node/7271681
+IBM AIX OpenSSL Multiple Vulnerabilities,CVE-2026-28390,7.5,,330248,Qualys QID,5/6 CH - QID Available | No POC/Exploit Known,https://www.ibm.com/support/pages/node/7271681
+IBM AIX OpenSSL Multiple Vulnerabilities,CVE-2026-28387,8.1,,330248,Qualys QID,5/6 CH - QID Available | No POC/Exploit Known,https://www.ibm.com/support/pages/node/7271681
+IBM AIX OpenSSL Multiple Vulnerabilities,CVE-2026-31789,9.8,,330248,Qualys QID,5/6 CH - QID Available | No POC/Exploit Known,https://www.ibm.com/support/pages/node/7271681
+PAN-OS Captive Portal Arbitrary Code Execution Vulnerability,CVE-2026-0300,9.8,,734142,Qualys QID,5/6 CH - QID Available | Exploited in the wild. Not using impacted configuration,https://security.paloaltonetworks.com/CVE-2026-0300
+Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2025-69534,7.5,,6049467,Qualys QID,5/6 CH - QID Available | No POC/Exploit Known,https://access.redhat.com/errata/RHSA-2026:13512
+Red Hat python3.11 Rejection Notice,CVE-2026-4786,7.1,,6049494,Qualys QID,5/6 CH - QID Available | No POC/Exploit Known,https://access.redhat.com/errata/RHSA-2026:13692
+Red Hat python3.11 Rejection Notice,CVE-2026-6100,8.1,,6049494,Qualys QID,5/6 CH - QID Available | No POC/Exploit Known,https://access.redhat.com/errata/RHSA-2026:13692
+Red Hat update for kernel,CVE-2026-31419,7,,6049463,Qualys QID,5/6 CH - QID Available | No POC/Exploit Known,https://access.redhat.com/errata/RHSA-2026:13566
+Red Hat update for kernel,CVE-2025-40252,7,,6049468,Qualys QID,5/6 CH - QID Available | No POC/Exploit Known,https://access.redhat.com/errata/RHSA-2026:13577
+Red Hat update for kernel,CVE-2026-23191,7.1,,6049493,Qualys QID,5/6 CH - QID Available | No POC/Exploit Known,https://access.redhat.com/errata/RHSA-2026:13734
+Red Hat update for kernel,CVE-2026-23136,7.1,,6049464,Qualys QID,5/6 CH - QID Available | No POC/Exploit Known,https://access.redhat.com/errata/RHSA-2026:13565
+Red Hat update for kernel,CVE-2025-71238,7.3,,6049489,Qualys QID,5/6 CH - QID Available | No POC/Exploit Known,https://access.redhat.com/errata/RHSA-2026:13664
+Red Hat update for kernel,CVE-2026-23401,8.1,,6049468,Qualys QID,5/6 CH - QID Available | No POC/Exploit Known,https://access.redhat.com/errata/RHSA-2026:13577
+Red Hat update for nginx,CVE-2026-27651,7.5,,6049499,Qualys QID,5/6 CH - QID Available | No POC/Exploit Known,https://access.redhat.com/errata/RHSA-2026:13680
+Red Hat update for nginx,CVE-2026-32647,7.8,,6049499,Qualys QID,5/6 CH - QID Available | No POC/Exploit Known,https://access.redhat.com/errata/RHSA-2026:13680
+Red Hat update for nginx,CVE-2026-27784,7.8,,6049499,Qualys QID,5/6 CH - QID Available | No POC/Exploit Known,https://access.redhat.com/errata/RHSA-2026:13680
+Red Hat update for nginx,CVE-2026-27654,8.2,,6049499,Qualys QID,5/6 CH - QID Available | No POC/Exploit Known,https://access.redhat.com/errata/RHSA-2026:13680
+Red Hat update for openssh,CVE-2026-3497,8.2,,6049498,Qualys QID,5/6 CH - QID Available | No POC/Exploit Known,https://access.redhat.com/errata/RHSA-2026:13750
