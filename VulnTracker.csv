@@ -1,41 +1,120 @@
 title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,Refs
-Red Hat update for openexr,CVE-2026-34588,7.8,,6049578,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15887
-Red Hat update for thunderbird,CVE-2026-33416,7.5,,6049579,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15889
-Red Hat update for thunderbird,CVE-2026-33636,7.6,,6049579,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15889
-Red Hat update for thunderbird,CVE-2026-5734,8.1,,6049579,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15889
-Red Hat update for thunderbird,CVE-2026-5732,8.8,,6049579,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15889
-Red Hat update for thunderbird,CVE-2026-5731,9.8,,6049579,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15889
-Red Hat update for bind,CVE-2026-1519,7.5,,6049583,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15890
-Red Hat update for thunderbird,CVE-2026-6751,7.3,,6049576,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15892
-Red Hat update for thunderbird,CVE-2026-6753,7.3,,6049576,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15892
-Red Hat update for thunderbird,CVE-2026-6752,7.3,,6049576,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15892
-Red Hat update for thunderbird,CVE-2026-6766,7.5,,6049576,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15892
-Red Hat update for thunderbird,CVE-2026-6749,7.5,,6049576,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15892
-Red Hat update for thunderbird,CVE-2026-6754,7.5,,6049576,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15892
-Red Hat update for thunderbird,CVE-2026-6772,7.5,,6049576,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15892
-Red Hat update for thunderbird,CVE-2026-6746,7.5,,6049576,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15892
-Red Hat update for thunderbird,CVE-2026-6759,7.5,,6049576,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15892
-Red Hat update for thunderbird,CVE-2026-6747,7.5,,6049576,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15892
-Red Hat update for thunderbird,CVE-2026-6776,7.8,,6049576,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15892
-Red Hat update for thunderbird,CVE-2026-6785,8.1,,6049576,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15892
-Red Hat update for thunderbird,CVE-2026-6786,8.1,,6049576,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15892
-Red Hat update for thunderbird,CVE-2026-6761,8.8,,6049576,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15892
-Red Hat update for thunderbird,CVE-2026-6750,8.8,,6049576,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15892
-Red Hat update for thunderbird,CVE-2026-6771,9.8,,6049576,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15892
-Red Hat update for thunderbird,CVE-2026-6748,9.8,,6049576,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15892
-Red Hat update for openssh,CVE-2026-3497,8.2,,6049584,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15893
-Red Hat update for LibRaw,CVE-2026-24660,8.1,,6049577,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15924
-Red Hat update for oci-seccomp-bpf-hook,CVE-2025-65637,7.5,,6049586,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15940
-Red Hat update for nginx:1.26,CVE-2026-27651,7.5,,6049588,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15942
-Red Hat update for nginx:1.26,CVE-2026-32647,7.8,,6049588,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15942
-Red Hat update for nginx:1.26,CVE-2026-27784,7.8,,6049588,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15942
-Red Hat update for nginx:1.26,CVE-2026-27654,8.2,,6049588,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15942
-Red Hat update for rhc,CVE-2026-32280,7.5,,6049593,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15980
-Red Hat update for rhc,CVE-2026-32283,7.5,,6049593,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:15980
-IBM MQ Multiple Vulnerabilities,CVE-2026-21932,7.4,,387292,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7271934
-IBM MQ Multiple Vulnerabilities,CVE-2024-29371,7.5,,387292,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7271934
-IBM MQ Multiple Vulnerabilities,CVE-2026-21945,7.5,,387292,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7271934
-IBM MQ Multiple Vulnerabilities,CVE-2026-1188,9.8,,387292,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7271934
-IBM App Connect Enterprise Axios Multiple Vulnerabilities,CVE-2026-42043,7.2,,387271,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7272501
-IBM App Connect Enterprise Axios Multiple Vulnerabilities,CVE-2026-42035,7.4,,387271,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7272501
-IBM App Connect Enterprise Axios Multiple Vulnerabilities,CVE-2026-42039,7.5,,387271,Qualys QID,5/12 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7272501
+ASP.NET Core Denial of Service Vulnerability,CVE-2026-42899,7.5,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42899
+Microsoft Dynamics 365 On-Premises Remote Code Execution Vulnerability,CVE-2026-42898,9.9,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42898
+Windows DWM Core Library Elevation of Privilege Vulnerability,CVE-2026-42896,7.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42896
+Microsoft Outlook for iOS Tampering Vulnerability,CVE-2026-42893,7.4,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42893
+Microsoft Dynamics 365 On-Premises Remote Code Execution Vulnerability,CVE-2026-42833,9.1,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42833
+Microsoft Office Spoofing Vulnerability,CVE-2026-42832,7.7,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42832
+Microsoft Office Remote Code Execution Vulnerability,CVE-2026-42831,7.8,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42831
+Azure Monitor Agent Metrics Extension Elevation of Privilege Vulnerability,CVE-2026-42830,6.5,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42830
+Windows Telephony Service Elevation of Privilege Vulnerability,CVE-2026-42825,7,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42825
+Azure Logic Apps Elevation of Privilege Vulnerability,CVE-2026-42823,9.9,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-42823
+M365 Copilot for Desktop Spoofing Vulnerability,CVE-2026-41614,6.2,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-41614
+Visual Studio Code Elevation of Privilege Vulnerability,CVE-2026-41613,8.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-41613
+Visual Studio Code Information Disclosure Vulnerability,CVE-2026-41612,5.5,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-41612
+Visual Studio Code Remote Code Execution Vulnerability,CVE-2026-41611,7.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-41611
+Visual Studio Code Security Feature Bypass Vulnerability,CVE-2026-41610,6.3,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-41610
+GitHub Copilot and Visual Studio Code Security Feature Bypass Vulnerability,CVE-2026-41109,8.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-41109
+Microsoft SSO Plugin for Jira & Confluence Elevation of Privilege Vulnerability,CVE-2026-41103,9.1,,,,Exploitation More Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-41103
+Microsoft PowerPoint for Android Spoofing Vulnerability,CVE-2026-41102,7.1,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-41102
+Microsoft Word for Android Spoofing Vulnerability,CVE-2026-41101,7.1,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-41101
+Microsoft 365 Copilot for Android Spoofing Vulnerability,CVE-2026-41100,4.4,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-41100
+Secure Boot Security Feature Bypass Vulnerability,CVE-2026-41097,6.7,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-41097
+Windows DNS Client Remote Code Execution Vulnerability,CVE-2026-41096,9.8,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-41096
+Data Deduplication Elevation of Privilege Vulnerability,CVE-2026-41095,7.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-41095
+Microsoft Data Formulator Remote Code Execution Vulnerability,CVE-2026-41094,8.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-41094
+Windows Netlogon Remote Code Execution Vulnerability,CVE-2026-41089,9.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-41089
+Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability,CVE-2026-41088,7.8,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-41088
+Windows Admin Center in Azure Portal Elevation of Privilege Vulnerability,CVE-2026-41086,8.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-41086
+Microsoft Word Information Disclosure Vulnerability,CVE-2026-40421,4.3,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40421
+Microsoft Office Click-To-Run Elevation of Privilege Vulnerability,CVE-2026-40420,8.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40420
+Microsoft Office Click-To-Run Elevation of Privilege Vulnerability,CVE-2026-40419,7.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40419
+Microsoft Office Click-To-Run Elevation of Privilege Vulnerability,CVE-2026-40418,7.8,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40418
+Microsoft Dynamics 365 Business Central Elevation of Privilege Vulnerability,CVE-2026-40417,7.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40417
+Windows TCP/IP Remote Code Execution Vulnerability,CVE-2026-40415,8.1,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40415
+Windows TCP/IP Denial of Service Vulnerability,CVE-2026-40414,7.4,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40414
+Windows TCP/IP Denial of Service Vulnerability,CVE-2026-40413,7.4,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40413
+Windows SMB Client Elevation of Privilege Vulnerability,CVE-2026-40410,7,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40410
+Windows WAN ARP Driver Elevation of Privilege Vulnerability,CVE-2026-40408,7.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40408
+Windows Common Log File System Driver Elevation of Privilege Vulnerability,CVE-2026-40407,7.8,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40407
+Windows TCP/IP Information Disclosure Vulnerability,CVE-2026-40406,7.5,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40406
+Windows TCP/IP Denial of Service Vulnerability,CVE-2026-40405,7.5,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40405
+Windows Graphics Component Remote Code Execution Vulnerability,CVE-2026-40403,8.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40403
+Windows Hyper-V Elevation of Privilege Vulnerability,CVE-2026-40402,9.3,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40402
+Windows TCP/IP Denial of Service Vulnerability,CVE-2026-40401,7.1,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40401
+Windows TCP/IP Elevation of Privilege Vulnerability,CVE-2026-40399,7.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40399
+Windows Remote Desktop Services Elevation of Privilege Vulnerability,CVE-2026-40398,7.8,,,,Exploitation More Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40398
+Windows Common Log File System Driver Elevation of Privilege Vulnerability,CVE-2026-40397,7.8,,,,Exploitation More Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40397
+Windows Telephony Service Elevation of Privilege Vulnerability,CVE-2026-40382,7.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40382
+Azure Connected Machine Agent Elevation of Privilege Vulnerability,CVE-2026-40381,7.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40381
+Windows Volume Manager Extension Driver Remote Code Execution Vulnerability,CVE-2026-40380,6.2,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40380
+Microsoft Cryptographic Services Elevation of Privilege Vulnerability,CVE-2026-40377,7.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40377
+Microsoft Power Automate Desktop Information Disclosure Vulnerability,CVE-2026-40374,6.5,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40374
+SQL Server Remote Code Execution Vulnerability,CVE-2026-40370,8.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40370
+Windows Kernel Elevation of Privilege Vulnerability,CVE-2026-40369,7.8,,,,Exploitation More Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40369
+Microsoft SharePoint Server Remote Code Execution Vulnerability,CVE-2026-40368,8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40368
+Microsoft Word Remote Code Execution Vulnerability,CVE-2026-40367,8.4,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40367
+Microsoft Word Remote Code Execution Vulnerability,CVE-2026-40366,8.4,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40366
+Microsoft SharePoint Server Remote Code Execution Vulnerability,CVE-2026-40365,8.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40365
+Microsoft Word Remote Code Execution Vulnerability,CVE-2026-40364,8.4,,,,Exploitation More Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40364
+Microsoft Office Remote Code Execution Vulnerability,CVE-2026-40363,8.4,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40363
+Microsoft Excel Remote Code Execution Vulnerability,CVE-2026-40362,7.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40362
+Microsoft Word Remote Code Execution Vulnerability,CVE-2026-40361,8.4,,,,Exploitation More Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40361
+Microsoft Excel Information Disclosure Vulnerability,CVE-2026-40360,7.8,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40360
+Microsoft Excel Remote Code Execution Vulnerability,CVE-2026-40359,7.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40359
+Microsoft Office Remote Code Execution Vulnerability,CVE-2026-40358,8.4,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40358
+Microsoft SharePoint Server Remote Code Execution Vulnerability,CVE-2026-40357,8.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-40357
+Microsoft Word Information Disclosure Vulnerability,CVE-2026-35440,5.5,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-35440
+Microsoft SharePoint Server Remote Code Execution Vulnerability,CVE-2026-35439,8.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-35439
+Windows Admin Center Elevation of Privilege Vulnerability,CVE-2026-35438,8.3,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-35438
+Microsoft Office Click-To-Run Elevation of Privilege Vulnerability,CVE-2026-35436,8.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-35436
+.NET Elevation of Privilege Vulnerability,CVE-2026-35433,7.3,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-35433
+Internet Key Exchange (IKE) Protocol Denial of Service Vulnerability,CVE-2026-35424,7.5,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-35424
+Windows 11 Telnet Client Information Disclosure Vulnerability,CVE-2026-35423,5.4,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-35423
+Windows TCP/IP Driver Security Feature Bypass Vulnerability,CVE-2026-35422,6.5,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-35422
+Windows GDI Remote Code Execution Vulnerability,CVE-2026-35421,7.8,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-35421
+Windows Kernel Elevation of Privilege Vulnerability,CVE-2026-35420,7.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-35420
+Windows DWM Core Library Information Disclosure  Vulnerability,CVE-2026-35419,5.5,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-35419
+Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability,CVE-2026-35418,7.8,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-35418
+Windows Win32k Elevation of Privilege Vulnerability,CVE-2026-35417,7.8,,,,Exploitation More Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-35417
+Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability,CVE-2026-35416,7,,,,Exploitation More Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-35416
+Windows Storage Spaces Controller Elevation of Privilege Vulnerability,CVE-2026-35415,7.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-35415
+Windows TCP/IP Elevation of Privilege Vulnerability,CVE-2026-34351,7.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-34351
+Windows Storport Miniport Driver Denial of Service Vulnerability,CVE-2026-34350,6.5,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-34350
+Windows Win32k Elevation of Privilege Vulnerability,CVE-2026-34347,7,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-34347
+Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability,CVE-2026-34345,7,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-34345
+Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability,CVE-2026-34344,7.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-34344
+Windows Application Identity (AppID) Subsystem Elevation of Privilege Vulnerability,CVE-2026-34343,7.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-34343
+Windows Print Spooler Elevation of Privilege Vulnerability,CVE-2026-34342,7,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-34342
+Windows Link-Layer Discovery Protocol (LLDP) Elevation of Privilege Vulnerability,CVE-2026-34341,7,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-34341
+Windows Projected File System Elevation of Privilege Vulnerability,CVE-2026-34340,7,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-34340
+Windows Lightweight Directory Access Protocol (LDAP) Denial of Service Vulnerability,CVE-2026-34339,5.5,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-34339
+Windows Telephony Service Elevation of Privilege Vulnerability,CVE-2026-34338,7.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-34338
+Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability,CVE-2026-34337,7.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-34337
+Windows DWM Core Library Information Disclosure  Vulnerability,CVE-2026-34336,7.8,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-34336
+Windows TCP/IP Elevation of Privilege Vulnerability,CVE-2026-34334,7.8,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-34334
+Windows Win32k Elevation of Privilege Vulnerability,CVE-2026-34333,7.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-34333
+Windows Kernel-Mode Driver Remote Code Execution Vulnerability,CVE-2026-34332,8,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-34332
+Win32k Elevation of Privilege Vulnerability,CVE-2026-34331,7,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-34331
+Win32k Elevation of Privilege Vulnerability,CVE-2026-34330,7.8,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-34330
+Microsoft Message Queuing (MSMQ) Remote Code Execution Vulnerability,CVE-2026-34329,8.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-34329
+Windows Kernel Elevation of Privilege Vulnerability,CVE-2026-33841,7.8,,,,Exploitation More Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-33841
+Win32k Elevation of Privilege Vulnerability,CVE-2026-33840,7.8,,,,Exploitation More Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-33840
+Win32k Elevation of Privilege Vulnerability,CVE-2026-33839,7,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-33839
+Windows Message Queuing (MSMQ) Elevation of Privilege Vulnerability,CVE-2026-33838,7.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-33838
+Windows TCP/IP Local Elevation of Privilege Vulnerability,CVE-2026-33837,7.8,,,,Exploitation More Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-33837
+Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability,CVE-2026-33835,7.8,,,,Exploitation More Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-33835
+Windows Event Logging Service Elevation of Privilege Vulnerability,CVE-2026-33834,7.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-33834
+Azure Machine Learning Notebook Spoofing Vulnerability,CVE-2026-33833,8.2,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-33833
+Azure SDK for Java Security Feature Bypass Vulnerability,CVE-2026-33117,9.1,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-33117
+Microsoft SharePoint Server Remote Code Execution Vulnerability,CVE-2026-33112,8.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-33112
+Microsoft SharePoint Server Remote Code Execution Vulnerability,CVE-2026-33110,8.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-33110
+Windows Filtering Platform (WFP) Security Feature Bypass Vulnerability,CVE-2026-32209,4.4,,,,Exploitation Unlikely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-32209
+Azure Monitor Agent Elevation of Privilege Vulnerability,CVE-2026-32204,7.8,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-32204
+Microsoft Teams Spoofing Vulnerability,CVE-2026-32185,5.5,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-32185
+.NET Elevation of Privilege Vulnerability,CVE-2026-32177,7.3,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-32177
+.NET Core Tampering Vulnerability,CVE-2026-32175,4.3,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-32175
+Windows Rich Text Edit Elevation of Privilege Vulnerability,CVE-2026-32170,6.7,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-32170
+Windows Native WiFi Miniport Driver Remote Code Execution Vulnerability,CVE-2026-32161,7.5,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-32161
+Windows Rich Text Edit Elevation of Privilege Vulnerability,CVE-2026-21530,6.7,,,,Exploitation Less Likely,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-21530
+AMD: CVE-2025-54518 CPU OP Cache Corruption,CVE-2025-54518,,,,,,
