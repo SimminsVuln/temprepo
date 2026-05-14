@@ -1,29 +1,48 @@
 title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,Refs
-Adobe After Effects Multiple Arbitrary Code Execution Vulnerabilities,CVE-2026-34643,7.8,,387309,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://helpx.adobe.com/security/products/after_effects/apsb26-48.html
-Adobe After Effects Multiple Arbitrary Code Execution Vulnerabilities,CVE-2026-34642,7.8,,387309,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://helpx.adobe.com/security/products/after_effects/apsb26-48.html
-Adobe After Effects Multiple Arbitrary Code Execution Vulnerabilities,CVE-2026-34644,7.8,,387309,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://helpx.adobe.com/security/products/after_effects/apsb26-48.html
-Adobe After Effects Multiple Arbitrary Code Execution Vulnerabilities,CVE-2026-34690,7.8,,387309,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://helpx.adobe.com/security/products/after_effects/apsb26-48.html
-Adobe Illustrator Multiple Vulnerabilities,CVE-2026-34661,7.8,,387307,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://helpx.adobe.com/security/products/illustrator/apsb26-51.html
-Adobe Illustrator Multiple Vulnerabilities,CVE-2026-34687,7.8,,387307,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://helpx.adobe.com/security/products/illustrator/apsb26-51.html
-Adobe Media Encoder Multiple Arbitrary Code Execution Vulnerabilities,CVE-2026-34640,7.8,,387306,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://helpx.adobe.com/security/products/media-encoder/apsb26-47.html
-Adobe Media Encoder Multiple Arbitrary Code Execution Vulnerabilities,CVE-2026-34639,7.8,,387306,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://helpx.adobe.com/security/products/media-encoder/apsb26-47.html
-Adobe Premiere Pro Multiple Arbitrary Code Execution Vulnerabilities,CVE-2026-34638,7.8,,387312,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://helpx.adobe.com/security/products/premiere_pro/apsb26-46.html
-Adobe Premiere Pro Multiple Arbitrary Code Execution Vulnerabilities,CVE-2026-34637,7.8,,387312,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://helpx.adobe.com/security/products/premiere_pro/apsb26-46.html
-Adobe Premiere Pro Multiple Arbitrary Code Execution Vulnerabilities,CVE-2026-34636,7.8,,387312,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://helpx.adobe.com/security/products/premiere_pro/apsb26-46.html
-Red Hat update for bind,CVE-2026-1519,7.5,,6049603,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:16060
-Red Hat update for buildah,CVE-2025-61729,7.5,,6049614,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:16102
-Red Hat update for buildah,CVE-2025-61726,7.5,,6049614,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:16102
-Red Hat update for buildah,CVE-2026-25679,7.5,,6049614,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:16102
-Red Hat update for buildah,CVE-2025-47913,7.5,,6049614,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:16102
-Red Hat update for buildah,CVE-2025-68121,10,,6049614,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:16102
-Red Hat update for freerdp,CVE-2026-33987,7.1,,6049608,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:16014
-Red Hat update for freerdp,CVE-2026-33982,7.1,,6049608,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:16014
-Red Hat update for freerdp,CVE-2026-26986,7.5,,6049608,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:16014
-Red Hat update for freerdp,CVE-2026-25997,9.8,,6049608,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:16014
-Red Hat update for freerdp,CVE-2026-25952,9.8,,6049608,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:16014
-Red Hat update for golang,CVE-2026-27144,7.1,,6049597,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:16021
-Red Hat update for golang,CVE-2026-32280,7.5,,6049597,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:16021
-Red Hat update for golang,CVE-2026-32283,7.5,,6049597,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:16021
-Red Hat update for golang,CVE-2026-27140,8.8,,6049597,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:16021
-Red Hat update for golang,CVE-2026-27143,9.8,,6049597,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:16021
-Red Hat update for openssh,CVE-2026-35385,7.5,,6049642,Qualys QID,5/13 CH - QID Available | No Exploit/POC Code Available,https://access.redhat.com/errata/RHSA-2026:16059
+Apache Tomcat Multiple Vulnerabilities,CVE-2026-42498,7.3,,531325,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.55
+Apache Tomcat Multiple Vulnerabilities,CVE-2026-41284,7.5,,531323,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.55
+F5 BIG-IP Access Policy Manager (APM) apmd Denial of Service Vulnerability,CVE-2026-40067,7.5,,387323,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000161056
+F5 BIG-IP DNS iControl REST / tmsh Security Bypass Vulnerability,CVE-2026-40061,8.7,,387352,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000160788
+F5 BIG-IP DNS TMM Denial of Service Vulnerability,CVE-2026-39458,7.5,,387362,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000160945
+F5 BIG-IP Policy Enforcement Manager (PEM) iRules Denial of Service Vulnerability,CVE-2026-41218,7.5,,387351,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000160875
+F5 Multiple BIG-IP Products Denial of Service Vulnerability,CVE-2026-41227,7.5,,387339,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000158979
+F5 Multiple BIG-IP Products DTLS Denial of Service Vulnerability,CVE-2026-42920,7.5,,387333,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000160901
+F5 Multiple BIG-IP Products iControl REST / tmsh Rejection Notice,CVE-2026-39459,7.2,,387344,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000160863
+F5 Multiple BIG-IP Products iControl REST Security Bypass Vulnerability,CVE-2026-34176,8.7,,387365,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000160857
+F5 Multiple BIG-IP Products iControl REST Security Bypass Vulnerability,CVE-2026-42930,8.7,,387335,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000160876
+F5 Multiple BIG-IP Products iControl REST Security Bypass Vulnerability,CVE-2026-41225,9.1,,387340,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000160916
+F5 Multiple BIG-IP Products Scripted Monitor Security Bypass Vulnerability,CVE-2026-32673,8.7,,387353,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000161040
+F5 Multiple BIG-IP Products SSL/TLS Denial of Service Vulnerability,CVE-2026-40629,7.5,,387349,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000158978
+F5 Multiple BIG-IP Products TMM Denial of Service Vulnerability,CVE-2026-40423,7.5,,387328,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000161023
+F5 Multiple BIG-IP Products TMM Denial of Service Vulnerability,CVE-2026-42409,7.5,,387354,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000159034
+F5 Multiple BIG-IP Products TMM Denial of Service Vulnerability,CVE-2026-41956,7.5,,387336,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000158038
+F5 Multiple BIG-IP Products TMM Denial of Service Vulnerability,CVE-2026-40618,7.5,,387347,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000158082
+F5 Multiple BIG-IP Products tmsh Security Bypass Vulnerability,CVE-2026-41217,7.9,,387358,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000161107
+F5 Multiple Products Advanced WAF and ASM Denial of Service Vulnerability,CVE-2026-40060,7.5,,387324,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000160727
+F5 Multiple Products Configuration Utility Arbitrary Code Execution Vulnerability,CVE-2026-41957,8.8,,387326,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000156761
+Palo Alto Networks GlobalProtect Certificate Validation Multiple Security Bypass Vulnerabilities,CVE-2026-0249,7,,387368,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://security.paloaltonetworks.com/CVE-2026-0249
+Palo Alto Networks GlobalProtect Multiple Privilege Escalation Vulnerabilities,CVE-2026-0251,7.3,,387369,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://security.paloaltonetworks.com/CVE-2026-0251
+Palo Alto Networks PAN-OS Command Injection Multiple Security Bypass Vulnerabilities,CVE-2026-0261,7,,734237,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://security.paloaltonetworks.com/CVE-2026-0261
+Palo Alto Networks PAN-OS Dataplane Denial of Service Vulnerability,CVE-2026-0262,7.5,,734232,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://security.paloaltonetworks.com/CVE-2026-0262
+Palo Alto Networks PAN-OS GlobalProtect Security Bypass Vulnerability,CVE-2026-0257,7,,734231,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://security.paloaltonetworks.com/CVE-2026-0257
+Palo Alto Networks PAN-OS SSRF Security Bypass Vulnerability,CVE-2026-0258,7,,734233,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://security.paloaltonetworks.com/CVE-2026-0258
+Palo Alto Networks PAN-OS Web Interface Script Insertion Vulnerability,CVE-2026-0256,7,,734235,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://security.paloaltonetworks.com/CVE-2026-0256
+Red Hat update for freerdp,CVE-2026-26986,7.5,,6049608,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16014
+Red Hat update for gimp,CVE-2026-4152,7.8,,6049634,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16484
+Red Hat update for gimp,CVE-2026-4154,7.8,,6049634,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16484
+Red Hat update for gimp,CVE-2026-4151,7.8,,6049634,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16484
+Red Hat update for gimp,CVE-2026-4150,7.8,,6049634,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16484
+Red Hat update for gimp,CVE-2026-4153,7.8,,6049634,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16484
+Red Hat update for git-lfs,CVE-2026-32280,7.5,,6049654,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16875
+Red Hat update for git-lfs,CVE-2026-25679,7.5,,6049654,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16875
+Red Hat update for webkit2gtk3,CVE-2026-20652,7.5,,6049638,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16695
+Red Hat update for webkit2gtk3,CVE-2025-43511,8.8,,6049638,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16695
+Red Hat update for webkit2gtk3,CVE-2025-43214,8.8,,6049638,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16695
+Red Hat update for webkit2gtk3,CVE-2025-43457,8.8,,6049638,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16695
+Linux Fragnesia 'Dirty Frag' Varient,CVE-2026-46300,7.8,,387375,Qualys QID,"Status as of 5/14 
+
+Current Condition: high-severity local privilege escalation (LPE) vulnerability affecting the Linux kernel’s XFRM ESP-in-TCP/IPsec subsystem. The flaw allows an unprivileged local attacker to corrupt kernel page-cache memory and deterministically escalate privileges to root by abusing memory-fragment handling behavior in the networking stack. Researchers have described the issue as a more reliable evolution of prior Linux page-cache exploitation techniques because it does not rely heavily on race conditions, increasing exploitation stability across affected systems. Public proof-of-concept code
+
+Actions: Add to watchlist to monitor for patching
+
+Needs: Patches and confrimation of configuration impact",https://access.redhat.com/security/cve/cve-2026-46300
