@@ -1,48 +1,95 @@
 title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,Refs
-Apache Tomcat Multiple Vulnerabilities,CVE-2026-42498,7.3,,531325,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.55
-Apache Tomcat Multiple Vulnerabilities,CVE-2026-41284,7.5,,531323,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://tomcat.apache.org/security-10.html#Fixed_in_Apache_Tomcat_10.1.55
-F5 BIG-IP Access Policy Manager (APM) apmd Denial of Service Vulnerability,CVE-2026-40067,7.5,,387323,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000161056
-F5 BIG-IP DNS iControl REST / tmsh Security Bypass Vulnerability,CVE-2026-40061,8.7,,387352,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000160788
-F5 BIG-IP DNS TMM Denial of Service Vulnerability,CVE-2026-39458,7.5,,387362,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000160945
-F5 BIG-IP Policy Enforcement Manager (PEM) iRules Denial of Service Vulnerability,CVE-2026-41218,7.5,,387351,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000160875
-F5 Multiple BIG-IP Products Denial of Service Vulnerability,CVE-2026-41227,7.5,,387339,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000158979
-F5 Multiple BIG-IP Products DTLS Denial of Service Vulnerability,CVE-2026-42920,7.5,,387333,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000160901
-F5 Multiple BIG-IP Products iControl REST / tmsh Rejection Notice,CVE-2026-39459,7.2,,387344,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000160863
-F5 Multiple BIG-IP Products iControl REST Security Bypass Vulnerability,CVE-2026-34176,8.7,,387365,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000160857
-F5 Multiple BIG-IP Products iControl REST Security Bypass Vulnerability,CVE-2026-42930,8.7,,387335,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000160876
-F5 Multiple BIG-IP Products iControl REST Security Bypass Vulnerability,CVE-2026-41225,9.1,,387340,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000160916
-F5 Multiple BIG-IP Products Scripted Monitor Security Bypass Vulnerability,CVE-2026-32673,8.7,,387353,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000161040
-F5 Multiple BIG-IP Products SSL/TLS Denial of Service Vulnerability,CVE-2026-40629,7.5,,387349,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000158978
-F5 Multiple BIG-IP Products TMM Denial of Service Vulnerability,CVE-2026-40423,7.5,,387328,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000161023
-F5 Multiple BIG-IP Products TMM Denial of Service Vulnerability,CVE-2026-42409,7.5,,387354,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000159034
-F5 Multiple BIG-IP Products TMM Denial of Service Vulnerability,CVE-2026-41956,7.5,,387336,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000158038
-F5 Multiple BIG-IP Products TMM Denial of Service Vulnerability,CVE-2026-40618,7.5,,387347,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000158082
-F5 Multiple BIG-IP Products tmsh Security Bypass Vulnerability,CVE-2026-41217,7.9,,387358,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000161107
-F5 Multiple Products Advanced WAF and ASM Denial of Service Vulnerability,CVE-2026-40060,7.5,,387324,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000160727
-F5 Multiple Products Configuration Utility Arbitrary Code Execution Vulnerability,CVE-2026-41957,8.8,,387326,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://my.f5.com/manage/s/article/K000156761
-Palo Alto Networks GlobalProtect Certificate Validation Multiple Security Bypass Vulnerabilities,CVE-2026-0249,7,,387368,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://security.paloaltonetworks.com/CVE-2026-0249
-Palo Alto Networks GlobalProtect Multiple Privilege Escalation Vulnerabilities,CVE-2026-0251,7.3,,387369,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://security.paloaltonetworks.com/CVE-2026-0251
-Palo Alto Networks PAN-OS Command Injection Multiple Security Bypass Vulnerabilities,CVE-2026-0261,7,,734237,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://security.paloaltonetworks.com/CVE-2026-0261
-Palo Alto Networks PAN-OS Dataplane Denial of Service Vulnerability,CVE-2026-0262,7.5,,734232,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://security.paloaltonetworks.com/CVE-2026-0262
-Palo Alto Networks PAN-OS GlobalProtect Security Bypass Vulnerability,CVE-2026-0257,7,,734231,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://security.paloaltonetworks.com/CVE-2026-0257
-Palo Alto Networks PAN-OS SSRF Security Bypass Vulnerability,CVE-2026-0258,7,,734233,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://security.paloaltonetworks.com/CVE-2026-0258
-Palo Alto Networks PAN-OS Web Interface Script Insertion Vulnerability,CVE-2026-0256,7,,734235,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://security.paloaltonetworks.com/CVE-2026-0256
-Red Hat update for freerdp,CVE-2026-26986,7.5,,6049608,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16014
-Red Hat update for gimp,CVE-2026-4152,7.8,,6049634,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16484
-Red Hat update for gimp,CVE-2026-4154,7.8,,6049634,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16484
-Red Hat update for gimp,CVE-2026-4151,7.8,,6049634,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16484
-Red Hat update for gimp,CVE-2026-4150,7.8,,6049634,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16484
-Red Hat update for gimp,CVE-2026-4153,7.8,,6049634,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16484
-Red Hat update for git-lfs,CVE-2026-32280,7.5,,6049654,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16875
-Red Hat update for git-lfs,CVE-2026-25679,7.5,,6049654,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16875
-Red Hat update for webkit2gtk3,CVE-2026-20652,7.5,,6049638,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16695
-Red Hat update for webkit2gtk3,CVE-2025-43511,8.8,,6049638,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16695
-Red Hat update for webkit2gtk3,CVE-2025-43214,8.8,,6049638,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16695
-Red Hat update for webkit2gtk3,CVE-2025-43457,8.8,,6049638,Qualys QID,5/14 CH - QID Available | No Exploit or POC known,https://access.redhat.com/errata/RHSA-2026:16695
-Linux Fragnesia 'Dirty Frag' Varient,CVE-2026-46300,7.8,,387375,Qualys QID,"Status as of 5/14 
-
-Current Condition: high-severity local privilege escalation (LPE) vulnerability affecting the Linux kernel’s XFRM ESP-in-TCP/IPsec subsystem. The flaw allows an unprivileged local attacker to corrupt kernel page-cache memory and deterministically escalate privileges to root by abusing memory-fragment handling behavior in the networking stack. Researchers have described the issue as a more reliable evolution of prior Linux page-cache exploitation techniques because it does not rely heavily on race conditions, increasing exploitation stability across affected systems. Public proof-of-concept code
-
-Actions: Add to watchlist to monitor for patching
-
-Needs: Patches and confrimation of configuration impact",https://access.redhat.com/security/cve/cve-2026-46300
+Apple Safari Multiple Vulnerabilities,CVE-2026-28905,7.5,,387366,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://support.apple.com/en-us/127121
+Apple Safari Multiple Vulnerabilities,CVE-2026-28904,7.5,,387366,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://support.apple.com/en-us/127121
+Apple Safari Multiple Vulnerabilities,CVE-2026-28955,7.5,,387366,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://support.apple.com/en-us/127121
+Apple Safari Multiple Vulnerabilities,CVE-2026-43660,7.5,,387366,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://support.apple.com/en-us/127121
+Apple Safari Multiple Vulnerabilities,CVE-2026-43658,7.5,,387366,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://support.apple.com/en-us/127121
+Apple Safari Multiple Vulnerabilities,CVE-2026-28913,7.5,,387366,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://support.apple.com/en-us/127121
+Apple Safari Multiple Vulnerabilities,CVE-2026-28944,7.5,,387366,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://support.apple.com/en-us/127121
+Apple Safari Multiple Vulnerabilities,CVE-2026-28883,7.5,,387366,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://support.apple.com/en-us/127121
+Apple Safari Multiple Vulnerabilities,CVE-2026-28962,7.5,,387366,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://support.apple.com/en-us/127121
+Apple Safari Multiple Vulnerabilities,CVE-2026-28953,7.5,,387366,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://support.apple.com/en-us/127121
+Apple Safari Multiple Vulnerabilities,CVE-2026-28847,8.8,,387366,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://support.apple.com/en-us/127121
+Apple Safari Multiple Vulnerabilities,CVE-2026-28947,8.8,,387366,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://support.apple.com/en-us/127121
+Gitlab Multiple Vulnerabilities,CVE-2025-14870,7.5,,387374,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-18-11-3-released
+Gitlab Multiple Vulnerabilities,CVE-2026-1659,7.5,,387374,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-18-11-3-released
+Gitlab Multiple Vulnerabilities,CVE-2025-14869,7.5,,387374,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-18-11-3-released
+Gitlab Multiple Vulnerabilities,CVE-2026-6073,8.7,,387374,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-18-11-3-released
+Gitlab Multiple Vulnerabilities,CVE-2026-7481,8.7,,387374,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-18-11-3-released
+Gitlab Multiple Vulnerabilities,CVE-2026-5297,8.7,,387374,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-18-11-3-released
+Gitlab Multiple Vulnerabilities,CVE-2026-7377,8.7,,387374,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-18-11-3-released
+Google Chrome Multiple Vulnerabilities,CVE-2026-8521,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8510,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8547,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8557,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8574,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8530,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8515,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8513,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8569,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8575,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8514,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8512,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8520,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8573,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8525,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8548,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8533,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8534,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8523,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8542,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8571,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8522,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8577,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8509,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8517,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8544,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8518,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8531,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8519,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8555,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8551,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8526,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8540,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8581,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8558,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8529,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8532,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8549,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8527,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8524,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8511,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8580,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8563,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8554,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8568,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8536,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8537,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8528,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8562,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8585,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8576,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8586,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8578,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8556,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8579,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8572,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8566,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-8545,not available,,387388,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/05/stable-channel-update-for-desktop_12.html
+IBM WebSphere Application Server Liberty,CVE-2026-3621,7.5,,387144,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,"https://www.ibm.com/support/pages/node/7272628
+https://www.zerodayinitiative.com/advisories/ZDI-25-339"
+Red Hat update for firefox,CVE-2026-6753,7.3,,6049664,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:17477
+Red Hat update for firefox,CVE-2026-6751,7.3,,6049664,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:17477
+Red Hat update for firefox,CVE-2026-6752,7.3,,6049664,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:17477
+Red Hat update for firefox,CVE-2026-6749,7.5,,6049664,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:17477
+Red Hat update for firefox,CVE-2026-6746,7.5,,6049664,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:17477
+Red Hat update for firefox,CVE-2026-6766,7.5,,6049664,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:17477
+Red Hat update for firefox,CVE-2026-6747,7.5,,6049664,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:17477
+Red Hat update for firefox,CVE-2026-6772,7.5,,6049664,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:17477
+Red Hat update for firefox,CVE-2026-6759,7.5,,6049664,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:17477
+Red Hat update for firefox,CVE-2026-6754,7.5,,6049664,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:17477
+Red Hat update for firefox,CVE-2026-6776,7.8,,6049664,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:17477
+Red Hat update for firefox,CVE-2026-6785,8.1,,6049664,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:17477
+Red Hat update for firefox,CVE-2026-6786,8.1,,6049664,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:17477
+Red Hat update for firefox,CVE-2026-6761,8.8,,6049664,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:17477
+Red Hat update for firefox,CVE-2026-6750,8.8,,6049664,Qualys QID,5/15 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:17477
