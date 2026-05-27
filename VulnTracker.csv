@@ -1,13 +1,31 @@
 title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,Refs
-IBM Content Collector for SAP Applications IBM Java Multiple Vulnerabilities,CVE-2026-22016,7.5,,387279,Qualys QID,5/19 CH - QID Available | No Exploit/POC reported,https://www.ibm.com/support/pages/node/7273273
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-5588,7.5,,6049426,Qualys QID,5/19 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:18059
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-33871,7.5,,6049426,Qualys QID,5/19 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:18059
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-5598,7.5,,6049426,Qualys QID,5/19 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:18059
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-33870,7.5,,6049426,Qualys QID,5/19 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:18059
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-3505,7.5,,6049426,Qualys QID,5/19 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:18059
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2025-14813,7.5,,6049426,Qualys QID,5/19 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:18059
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-27904,7.5,,6049426,Qualys QID,5/19 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:18059
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-27446,8.6,,6049426,Qualys QID,5/19 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:18059
-Red Hat update for dovecot,CVE-2026-27858,7.5,,6050466,Qualys QID,5/19 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:18053
-Red Hat update for dovecot,CVE-2025-59032,7.5,,6050466,Qualys QID,5/19 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:18053
-Red Hat update for kpatch-patch-5_14_0,CVE-2026-43284,8.8,,6050470,Qualys QID,5/19 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:18025
+IBM App Connect Enterprise / Integration Bus for z/OS Multiple Vulnerabilities,CVE-2026-34479,7.5,,387394,Qualys QID,5/27 CH - QID Available | No Exploits/poc known,"https://www.ibm.com/support/pages/node/7273809
+https://www.ibm.com/support/pages/node/7273812"
+IBM App Connect Enterprise / Integration Bus for z/OS Multiple Vulnerabilities,CVE-2026-34478,7.5,,387394,Qualys QID,5/27 CH - QID Available | No Exploits/poc known,"https://www.ibm.com/support/pages/node/7273809
+https://www.ibm.com/support/pages/node/7273812"
+IBM App Connect Enterprise / Integration Bus for z/OS Multiple Vulnerabilities,CVE-2026-34480,7.5,,387394,Qualys QID,5/27 CH - QID Available | No Exploits/poc known,"https://www.ibm.com/support/pages/node/7273809
+https://www.ibm.com/support/pages/node/7273812"
+Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2026-24880,7.5,,"6050797, 387499",Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:20405
+Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2026-29146,7.5,,"6050797, 387499",Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:20405
+Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2026-34483,7.5,,"6050797, 387499",Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:20405
+Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2026-29145,9.1,,"6050797, 387499",Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:20405
+Red Hat update for dnsmasq,CVE-2026-2291,7.3,,6050734,Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:20589
+Red Hat update for dnsmasq,CVE-2026-4890,7.5,,6050734,Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:20589
+Red Hat update for dnsmasq,CVE-2026-4892,8.4,,6050734,Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:20589
+Red Hat update for fence-agents,CVE-2026-30922,7.5,,6050761,Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:20588
+Red Hat update for freeipmi,CVE-2026-33554,7.5,,6050724,Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:20579
+Red Hat update for gimp,CVE-2026-4152,7.8,,6050794,Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:20691
+Red Hat update for glibc,CVE-2026-4437,7.5,,6050779,Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:20597
+Red Hat update for kernel,CVE-2026-31532,7,,6050728,Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:20593
+Red Hat update for kernel,CVE-2026-46333,7.1,,6050728,Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:20593
+Red Hat update for kernel,CVE-2025-71238,7.3,,6050728,Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:20593
+Red Hat update for kernel,CVE-2026-46300,7.8,,6050728,Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:20593
+Red Hat update for kernel,CVE-2026-23401,8.1,,6050728,Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:20593
+Red Hat update for kernel,CVE-2026-31419,7,,6050798,Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:21209
+Red Hat update for kernel,CVE-2026-23270,7,,6050798,Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:21209
+Red Hat update for kernel,CVE-2025-39766,7.3,,6050798,Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:21209
+Red Hat update for kernel,CVE-2025-68741,7.3,,6050798,Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:21209
+Red Hat update for libcap,CVE-2026-4878,7,,6050752,Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:20595
+Red Hat update for libssh,CVE-2025-5372,8.8,,6050772,Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:20610
+Red Hat update for wireshark,CVE-2026-5656,7,,6050753,Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:20600
+Red Hat update for wireshark,CVE-2026-5405,7.8,,6050753,Qualys QID,5/27 CH - QID Available | No Exploits/poc known,https://access.redhat.com/errata/RHSA-2026:20600
