@@ -1,9 +1,16 @@
 title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,Refs
-Red Hat update for gnutls,CVE-2026-42012,7.1,,6050777,Qualys QID,2/28 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:20611
-Red Hat update for gnutls,CVE-2026-42010,7.1,,6050777,Qualys QID,2/28 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:20611
-Red Hat update for gnutls,CVE-2026-42011,7.4,,6050777,Qualys QID,2/28 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:20611
-Red Hat update for gnutls,CVE-2026-33845,7.5,,6050777,Qualys QID,2/28 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:20611
-Red Hat update for gnutls,CVE-2026-33846,7.5,,6050777,Qualys QID,2/28 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:20611
-Red Hat update for gnutls,CVE-2026-42009,7.5,,6050777,Qualys QID,2/28 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:20611
-Red Hat update for gnutls,CVE-2026-5260,8.2,,6050777,Qualys QID,2/28 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:20611
-Red Hat update for gnutls,CVE-2026-42013,8.2,,6050777,Qualys QID,2/28 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:20611
+Oracle Database Server Multiple Vulnerabilities,CVE-2026-46833,9,,,,,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
+Oracle Database Server Multiple Vulnerabilities,CVE-2026-46835,7.5,,,,,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
+Oracle Database Server Multiple Vulnerabilities,CVE-2026-46834,7.5,,,,,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46837,8.8,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46824,9.9,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46818,7.4,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46823,7.7,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46828,8.1,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46820,8.5,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46821,7.7,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46819,9.1,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46817,9.8,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46822,9.9,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46827,8.8,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
+Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46826,8.8,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
