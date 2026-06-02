@@ -1,16 +1,24 @@
 title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,Refs
-Oracle Database Server Multiple Vulnerabilities,CVE-2026-46833,9,,,,,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
-Oracle Database Server Multiple Vulnerabilities,CVE-2026-46835,7.5,,,,,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
-Oracle Database Server Multiple Vulnerabilities,CVE-2026-46834,7.5,,,,,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
-Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46837,8.8,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
-Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46824,9.9,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
-Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46818,7.4,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
-Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46823,7.7,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
-Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46828,8.1,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
-Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46820,8.5,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
-Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46821,7.7,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
-Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46819,9.1,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
-Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46817,9.8,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
-Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46822,9.9,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
-Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46827,8.8,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
-Oracle E-Business Suite Multiple Vulnerabilities,CVE-2026-46826,8.8,,20580,Quays QID,5/29 CH - QID Available | No Exploit/POC known,https://www.oracle.com/security-alerts/cspumay2026.html#AppendixDB
+Red Hat update for fence-agents,CVE-2026-30922,7.5,,6050853,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22134
+Red Hat update for go-fdo-client and go-fdo-server,CVE-2026-32282,7.3,,6050850,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22141
+Red Hat update for go-fdo-client and go-fdo-server,CVE-2026-32281,7.5,,6050850,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22141
+Red Hat update for go-fdo-client and go-fdo-server,CVE-2025-68121,8,,6050850,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22141
+Red Hat update for webkitgtk4,CVE-2026-28871,7.3,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
+Red Hat update for webkitgtk4,CVE-2026-20664,7.5,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
+Red Hat update for webkitgtk4,CVE-2026-20635,7.5,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
+Red Hat update for webkitgtk4,CVE-2026-28859,7,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
+Red Hat update for webkitgtk4,CVE-2026-20691,7.5,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
+Red Hat update for webkitgtk4,CVE-2025-46299,7.5,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
+Red Hat update for webkitgtk4,CVE-2026-20676,7.5,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
+Red Hat update for webkitgtk4,CVE-2026-20643,7,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
+Red Hat update for webkitgtk4,CVE-2026-20608,7.5,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
+Red Hat update for webkitgtk4,CVE-2026-28857,7.5,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
+Red Hat update for webkitgtk4,CVE-2026-20644,7,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
+Red Hat update for webkitgtk4,CVE-2025-43213,7.5,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
+Red Hat update for webkitgtk4,CVE-2026-20665,7.5,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
+Red Hat update for webkitgtk4,CVE-2026-20636,7.5,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
+Red Hat update for webkitgtk4,CVE-2026-20652,7.5,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
+Red Hat update for webkitgtk4,CVE-2025-43214,8.8,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
+Red Hat update for webkitgtk4,CVE-2025-43511,8.8,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
+Red Hat update for webkitgtk4,CVE-2025-43457,8.8,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
+,CVE-2026-46243,,,,,,
