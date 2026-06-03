@@ -1,24 +1,45 @@
 title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,Refs
-Red Hat update for fence-agents,CVE-2026-30922,7.5,,6050853,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22134
-Red Hat update for go-fdo-client and go-fdo-server,CVE-2026-32282,7.3,,6050850,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22141
-Red Hat update for go-fdo-client and go-fdo-server,CVE-2026-32281,7.5,,6050850,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22141
-Red Hat update for go-fdo-client and go-fdo-server,CVE-2025-68121,8,,6050850,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22141
-Red Hat update for webkitgtk4,CVE-2026-28871,7.3,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
-Red Hat update for webkitgtk4,CVE-2026-20664,7.5,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
-Red Hat update for webkitgtk4,CVE-2026-20635,7.5,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
-Red Hat update for webkitgtk4,CVE-2026-28859,7,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
-Red Hat update for webkitgtk4,CVE-2026-20691,7.5,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
-Red Hat update for webkitgtk4,CVE-2025-46299,7.5,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
-Red Hat update for webkitgtk4,CVE-2026-20676,7.5,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
-Red Hat update for webkitgtk4,CVE-2026-20643,7,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
-Red Hat update for webkitgtk4,CVE-2026-20608,7.5,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
-Red Hat update for webkitgtk4,CVE-2026-28857,7.5,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
-Red Hat update for webkitgtk4,CVE-2026-20644,7,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
-Red Hat update for webkitgtk4,CVE-2025-43213,7.5,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
-Red Hat update for webkitgtk4,CVE-2026-20665,7.5,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
-Red Hat update for webkitgtk4,CVE-2026-20636,7.5,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
-Red Hat update for webkitgtk4,CVE-2026-20652,7.5,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
-Red Hat update for webkitgtk4,CVE-2025-43214,8.8,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
-Red Hat update for webkitgtk4,CVE-2025-43511,8.8,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
-Red Hat update for webkitgtk4,CVE-2025-43457,8.8,,6050858,Qualys QID,6/2 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:22136
-,CVE-2026-46243,,,,,,
+Apache ActiveMQ Multiple Vulnerabilities,CVE-2026-42588,8.1,,387544,Qualys QID,6/3 CH - QID Available | no poc/exploit known,"https://lists.apache.org/thread/7n97nddyw96w6ykldjv1h40jx86xdo0w
+https://lists.apache.org/thread/j9vmlc410ht5f28fc98gx75jcbq62j00
+https://lists.apache.org/thread/k3233c1x506z3w7x4z0dqvd86d4v2fr2
+https://lists.apache.org/thread/l4lxgr2s73g9pb218f180psfyskf8ldm
+https://lists.apache.org/thread/ns0zktfo16s9ql2mmtqtlb6p6xcs45xm
+https://lists.apache.org/thread/rrcsf6s90hj4tdh89nvkko75q5505rj8"
+Apache ActiveMQ Multiple Vulnerabilities,CVE-2026-49157,8.8,,387544,Qualys QID,6/3 CH - QID Available | no poc/exploit known,"https://lists.apache.org/thread/7n97nddyw96w6ykldjv1h40jx86xdo0w
+https://lists.apache.org/thread/j9vmlc410ht5f28fc98gx75jcbq62j00
+https://lists.apache.org/thread/k3233c1x506z3w7x4z0dqvd86d4v2fr2
+https://lists.apache.org/thread/l4lxgr2s73g9pb218f180psfyskf8ldm
+https://lists.apache.org/thread/ns0zktfo16s9ql2mmtqtlb6p6xcs45xm
+https://lists.apache.org/thread/rrcsf6s90hj4tdh89nvkko75q5505rj8"
+Apache ActiveMQ Multiple Vulnerabilities,CVE-2026-45505,8.8,,387544,Qualys QID,6/3 CH - QID Available | no poc/exploit known,"https://lists.apache.org/thread/7n97nddyw96w6ykldjv1h40jx86xdo0w
+https://lists.apache.org/thread/j9vmlc410ht5f28fc98gx75jcbq62j00
+https://lists.apache.org/thread/k3233c1x506z3w7x4z0dqvd86d4v2fr2
+https://lists.apache.org/thread/l4lxgr2s73g9pb218f180psfyskf8ldm
+https://lists.apache.org/thread/ns0zktfo16s9ql2mmtqtlb6p6xcs45xm
+https://lists.apache.org/thread/rrcsf6s90hj4tdh89nvkko75q5505rj8"
+IBM WebSphere Application Server Arbitrary Code Execution Vulnerability,CVE-2026-9319,9,,387538,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://www.ibm.com/support/pages/node/7274738
+IBM WebSphere Application Server Multiple Security Bypass Vulnerabilities,CVE-2026-9330,8.5,,387533,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://www.ibm.com/support/pages/node/7274733
+IBM WebSphere Application Server Multiple Security Bypass Vulnerabilities,CVE-2026-9311,9,,387533,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://www.ibm.com/support/pages/node/7274733
+IBM WebSphere Application Server Spoofing Vulnerability,CVE-2026-8644,9.1,,387537,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://www.ibm.com/support/pages/node/7274740
+Red Hat update for gnutls,CVE-2026-42010,7.1,,6050896,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://access.redhat.com/errata/RHSA-2026:20612
+Red Hat update for gnutls,CVE-2026-42012,7.1,,6050896,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://access.redhat.com/errata/RHSA-2026:20612
+Red Hat update for gnutls,CVE-2026-42011,7.4,,6050896,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://access.redhat.com/errata/RHSA-2026:20612
+Red Hat update for gnutls,CVE-2026-33846,7.5,,6050896,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://access.redhat.com/errata/RHSA-2026:20612
+Red Hat update for gnutls,CVE-2026-42009,7.5,,6050896,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://access.redhat.com/errata/RHSA-2026:20612
+Red Hat update for gnutls,CVE-2026-33845,7.5,,6050896,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://access.redhat.com/errata/RHSA-2026:20612
+Red Hat update for gnutls,CVE-2026-5260,8.2,,6050896,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://access.redhat.com/errata/RHSA-2026:20612
+Red Hat update for gnutls,CVE-2026-42013,8.2,,6050896,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://access.redhat.com/errata/RHSA-2026:20612
+Red Hat update for httpd:2.4,CVE-2025-53020,7.5,,6050876,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://access.redhat.com/errata/RHSA-2026:22140
+Red Hat update for httpd:2.4,CVE-2026-34059,7.5,,6050876,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://access.redhat.com/errata/RHSA-2026:22140
+Red Hat update for httpd:2.4,CVE-2026-28780,9.8,,6050876,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://access.redhat.com/errata/RHSA-2026:22140
+Red Hat update for osbuild-composer,CVE-2026-27137,7.5,,6050898,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://access.redhat.com/errata/RHSA-2026:22450
+Red Hat update for osbuild-composer,CVE-2026-34986,7.5,,6050898,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://access.redhat.com/errata/RHSA-2026:22450
+Red Hat update for osbuild-composer,CVE-2026-32286,7.5,,6050898,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://access.redhat.com/errata/RHSA-2026:22450
+Red Hat update for osbuild-composer,CVE-2025-61726,7.5,,6050898,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://access.redhat.com/errata/RHSA-2026:22450
+Red Hat update for osbuild-composer,CVE-2026-32283,7.5,,6050898,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://access.redhat.com/errata/RHSA-2026:22450
+Red Hat update for php:8.2,CVE-2026-7262,7.5,,6050852,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://access.redhat.com/errata/RHSA-2026:22142
+Red Hat update for php:8.2,CVE-2026-7568,7.5,,6050852,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://access.redhat.com/errata/RHSA-2026:22142
+Red Hat update for tigervnc,CVE-2026-34003,7.8,,6050885,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://access.redhat.com/errata/RHSA-2026:22424
+Red Hat update for tigervnc,CVE-2026-34001,7.8,,6050885,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://access.redhat.com/errata/RHSA-2026:22424
+Red Hat update for tigervnc,CVE-2026-33999,7.8,,6050885,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://access.redhat.com/errata/RHSA-2026:22424
+Red Hat update for tigervnc,CVE-2026-34352,8.5,,6050885,Qualys QID,6/3 CH - QID Available | no poc/exploit known,https://access.redhat.com/errata/RHSA-2026:22424
