@@ -1,31 +1,401 @@
 title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,Refs
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2026-47912,7.8,,387579,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/acrobat/apsb26-63.html
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2026-47923,3.3,,387579,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/acrobat/apsb26-63.html
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2026-47911,7.8,,387579,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/acrobat/apsb26-63.html
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2026-47921,7.8,,387579,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/acrobat/apsb26-63.html
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2026-47955,7.8,,387579,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/acrobat/apsb26-63.html
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2026-47926,5.5,,387579,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/acrobat/apsb26-63.html
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2026-47959,7.8,,387579,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/acrobat/apsb26-63.html
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2026-47918,7.8,,387579,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/acrobat/apsb26-63.html
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2026-47924,3.3,,387579,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/acrobat/apsb26-63.html
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2026-47920,7.8,,387579,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/acrobat/apsb26-63.html
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2026-47916,7.8,,387579,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/acrobat/apsb26-63.html
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2026-47917,7.8,,387579,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/acrobat/apsb26-63.html
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2026-47914,7.8,,387579,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/acrobat/apsb26-63.html
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2026-47952,7.8,,387579,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/acrobat/apsb26-63.html
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2026-47913,7.8,,387579,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/acrobat/apsb26-63.html
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2026-47915,7.8,,387579,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/acrobat/apsb26-63.html
-Adobe Acrobat / Acrobat Reader Multiple Vulnerabilities,CVE-2026-47919,7.8,,387579,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/acrobat/apsb26-63.html
-Adobe InDesign CC Multiple Vulnerabilities,CVE-2026-48293,7.8,,387578,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/indesign/apsb26-58.html
-Adobe InDesign CC Multiple Vulnerabilities,CVE-2026-34695,7.8,,387578,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/indesign/apsb26-58.html
-Adobe InDesign CC Multiple Vulnerabilities,CVE-2026-34698,7.8,,387578,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/indesign/apsb26-58.html
-Adobe InDesign CC Multiple Vulnerabilities,CVE-2026-34700,7.8,,387578,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/indesign/apsb26-58.html
-Adobe InDesign CC Multiple Vulnerabilities,CVE-2026-34701,7.8,,387578,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/indesign/apsb26-58.html
-Adobe InDesign CC Multiple Vulnerabilities,CVE-2026-34705,5.5,,387578,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/indesign/apsb26-58.html
-Adobe InDesign CC Multiple Vulnerabilities,CVE-2026-34702,7.8,,387578,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/indesign/apsb26-58.html
-Adobe InDesign CC Multiple Vulnerabilities,CVE-2026-34699,7.8,,387578,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/indesign/apsb26-58.html
-Adobe InDesign CC Multiple Vulnerabilities,CVE-2026-34697,7.8,,387578,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/indesign/apsb26-58.html
-Adobe InDesign CC Multiple Vulnerabilities,CVE-2026-34696,7.8,,387578,Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://helpx.adobe.com/security/products/indesign/apsb26-58.html
-VMware Aria Operations / Cloud Foundation Multiple Script Insertion Vulnerabilities,CVE-2026-41723,8,,"734393, 734392",Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/37513
-VMware Aria Operations / Cloud Foundation Multiple Script Insertion Vulnerabilities,CVE-2026-41722,8,,"734393, 734392",Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/37513
-VMware Aria Operations / Cloud Foundation Multiple Script Insertion Vulnerabilities,CVE-2026-41724,8,,"734393, 734392",Qualys QID,6/10 CH - QID Available | No exploit/POC known,https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/37513
+Red Hat update for freerdp,CVE-2026-22856,,,,,,"https://access.redhat.com/errata/RHSA-2026:6727
+https://access.redhat.com/errata/RHSA-2026:6799"
+Red Hat update for freerdp,CVE-2026-24681,,,,,,"https://access.redhat.com/errata/RHSA-2026:6727
+https://access.redhat.com/errata/RHSA-2026:6799"
+Red Hat update for freerdp,CVE-2026-24679,,,,,,"https://access.redhat.com/errata/RHSA-2026:6727
+https://access.redhat.com/errata/RHSA-2026:6799"
+Red Hat update for freerdp,CVE-2026-24684,,,,,,"https://access.redhat.com/errata/RHSA-2026:6727
+https://access.redhat.com/errata/RHSA-2026:6799"
+Red Hat update for freerdp,CVE-2026-23732,,,,,,"https://access.redhat.com/errata/RHSA-2026:6727
+https://access.redhat.com/errata/RHSA-2026:6799"
+Red Hat update for freerdp,CVE-2026-24491,,,,,,"https://access.redhat.com/errata/RHSA-2026:6727
+https://access.redhat.com/errata/RHSA-2026:6799"
+Red Hat update for freerdp,CVE-2026-24676,,,,,,"https://access.redhat.com/errata/RHSA-2026:6727
+https://access.redhat.com/errata/RHSA-2026:6799"
+Red Hat update for freerdp,CVE-2026-31806,,,,,,"https://access.redhat.com/errata/RHSA-2026:6727
+https://access.redhat.com/errata/RHSA-2026:6799"
+Red Hat update for freerdp,CVE-2026-24683,,,,,,"https://access.redhat.com/errata/RHSA-2026:6727
+https://access.redhat.com/errata/RHSA-2026:6799"
+Red Hat update for freerdp,CVE-2026-23948,,,,,,"https://access.redhat.com/errata/RHSA-2026:6727
+https://access.redhat.com/errata/RHSA-2026:6799"
+Red Hat update for freerdp,CVE-2026-22854,,,,,,"https://access.redhat.com/errata/RHSA-2026:6727
+https://access.redhat.com/errata/RHSA-2026:6799"
+Red Hat update for freerdp,CVE-2026-22852,,,,,,"https://access.redhat.com/errata/RHSA-2026:6727
+https://access.redhat.com/errata/RHSA-2026:6799"
+Red Hat update for freerdp,CVE-2026-24675,,,,,,"https://access.redhat.com/errata/RHSA-2026:6727
+https://access.redhat.com/errata/RHSA-2026:6799"
+Red Hat update for vim,CVE-2026-28421,,,,,,"https://access.redhat.com/errata/RHSA-2026:6539
+https://access.redhat.com/errata/RHSA-2026:6540
+https://access.redhat.com/errata/RHSA-2026:6617
+https://access.redhat.com/errata/RHSA-2026:6619
+https://access.redhat.com/errata/RHSA-2026:6620
+https://access.redhat.com/errata/RHSA-2026:6731
+https://access.redhat.com/errata/RHSA-2026:6736"
+Red Hat update for vim,CVE-2026-25749,,,,,,"https://access.redhat.com/errata/RHSA-2026:6539
+https://access.redhat.com/errata/RHSA-2026:6540
+https://access.redhat.com/errata/RHSA-2026:6617
+https://access.redhat.com/errata/RHSA-2026:6619
+https://access.redhat.com/errata/RHSA-2026:6620
+https://access.redhat.com/errata/RHSA-2026:6731
+https://access.redhat.com/errata/RHSA-2026:6736"
+Red Hat update for vim,CVE-2026-33412,,,,,,"https://access.redhat.com/errata/RHSA-2026:6539
+https://access.redhat.com/errata/RHSA-2026:6540
+https://access.redhat.com/errata/RHSA-2026:6617
+https://access.redhat.com/errata/RHSA-2026:6619
+https://access.redhat.com/errata/RHSA-2026:6620
+https://access.redhat.com/errata/RHSA-2026:6731
+https://access.redhat.com/errata/RHSA-2026:6736"
+Red Hat update for vim,CVE-2026-28417,,,,,,"https://access.redhat.com/errata/RHSA-2026:6539
+https://access.redhat.com/errata/RHSA-2026:6540
+https://access.redhat.com/errata/RHSA-2026:6617
+https://access.redhat.com/errata/RHSA-2026:6619
+https://access.redhat.com/errata/RHSA-2026:6620
+https://access.redhat.com/errata/RHSA-2026:6731
+https://access.redhat.com/errata/RHSA-2026:6736"
+Red Hat update for freerdp,CVE-2026-24682,,,,,,https://access.redhat.com/errata/RHSA-2026:6799
+"Red Hat update for gstreamer1-plugins-bad-free, gstreamer1-plugins-base, and gstreamer1-plugins-good",CVE-2026-3085,,,,,,"https://access.redhat.com/errata/RHSA-2026:6300
+https://access.redhat.com/errata/RHSA-2026:6750"
+"Red Hat update for gstreamer1-plugins-bad-free, gstreamer1-plugins-base, and gstreamer1-plugins-good",CVE-2026-2923,,,,,,"https://access.redhat.com/errata/RHSA-2026:6300
+https://access.redhat.com/errata/RHSA-2026:6750"
+"Red Hat update for gstreamer1-plugins-bad-free, gstreamer1-plugins-base, and gstreamer1-plugins-good",CVE-2026-3082,,,,,,"https://access.redhat.com/errata/RHSA-2026:6300
+https://access.redhat.com/errata/RHSA-2026:6750"
+"Red Hat update for gstreamer1-plugins-bad-free, gstreamer1-plugins-base, and gstreamer1-plugins-good",CVE-2026-3083,,,,,,"https://access.redhat.com/errata/RHSA-2026:6300
+https://access.redhat.com/errata/RHSA-2026:6750"
+"Red Hat update for gstreamer1-plugins-bad-free, gstreamer1-plugins-base, and gstreamer1-plugins-good",CVE-2026-2921,,,,,,"https://access.redhat.com/errata/RHSA-2026:6300
+https://access.redhat.com/errata/RHSA-2026:6750"
+"Red Hat update for gstreamer1-plugins-bad-free, gstreamer1-plugins-base, and gstreamer1-plugins-good",CVE-2026-2920,,,,,,"https://access.redhat.com/errata/RHSA-2026:6300
+https://access.redhat.com/errata/RHSA-2026:6750"
+MLflow Multiple Script Insertion Vulnerabilities,CVE-2026-33865,,,,,,"https://cert.pl/en/posts/2026/04/CVE-2026-33865
+https://cert.pl/en/posts/2026/04/CVE-2026-33866"
+MLflow Multiple Script Insertion Vulnerabilities,CVE-2026-33866,,,,,,"https://cert.pl/en/posts/2026/04/CVE-2026-33865
+https://cert.pl/en/posts/2026/04/CVE-2026-33866"
+Red Hat python3.9 Rejection Notice,CVE-2026-4519,,,,,,"https://access.redhat.com/errata/RHSA-2026:6473
+https://access.redhat.com/errata/RHSA-2026:6766"
+Red Hat update for nginx,CVE-2026-27651,,,,,,https://access.redhat.com/errata/RHSA-2026:6906
+Red Hat update for nginx,CVE-2026-32647,,,,,,https://access.redhat.com/errata/RHSA-2026:6906
+Red Hat update for nginx,CVE-2026-27654,,,,,,https://access.redhat.com/errata/RHSA-2026:6906
+Red Hat update for nginx,CVE-2026-27784,,,,,,https://access.redhat.com/errata/RHSA-2026:6906
+Red Hat update for ImageMagick,CVE-2026-28693,,,,,,https://access.redhat.com/errata/RHSA-2026:6713
+Red Hat update for ImageMagick,CVE-2026-28691,,,,,,https://access.redhat.com/errata/RHSA-2026:6713
+Red Hat update for freerdp,CVE-2026-26965,,,,,,"https://access.redhat.com/errata/RHSA-2026:6665
+https://access.redhat.com/errata/RHSA-2026:6764"
+Red Hat update for freerdp,CVE-2026-26955,,,,,,"https://access.redhat.com/errata/RHSA-2026:6665
+https://access.redhat.com/errata/RHSA-2026:6764"
+Red Hat update for gnutls,CVE-2025-14831,,,,,,"https://access.redhat.com/errata/RHSA-2026:6630
+https://access.redhat.com/errata/RHSA-2026:6737
+https://access.redhat.com/errata/RHSA-2026:6738"
+"libcap ""cap_set_file()"" Security Bypass Vulnerability",CVE-2026-4878,,,,,,"https://git.kernel.org/pub/scm/libs/libcap/libcap.git/commit/?id=286ace1259992bd0c5d9016715833f2e148ac596
+https://sites.google.com/site/fullycapable/release-notes-for-libcap#h.x4zn8j3lss6r"
+Dell PowerScale OneFS Privilege Escalation Vulnerability,CVE-2026-27102,,,,,,https://www.dell.com/support/kbdoc/en-us/000449337/dsa-2026-125-security-update-for-dell-powerscale-onefs-multiple-vulnerabilities
+Red Hat update for openssh,CVE-2026-3497,,,,,,https://access.redhat.com/errata/RHSA-2026:6461
+Red Hat update for libxslt,CVE-2023-40403,,,,,,"https://access.redhat.com/errata/RHSA-2026:6499
+https://security.netapp.com/advisory/ntap-20260116-0013"
+Dell EMC Elastic Cloud Storage Rejection Notice,CVE-2026-28261,,,,,,https://www.dell.com/support/kbdoc/en-us/000449325/dsa-2026-143-security-update-for-dell-objectscale-prior-to-4-1-0-3-and-4-2-0-0-insertion-of-sensitive-information-into-log-file-vulnerability
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-39823,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-38477,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-47287,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2024-0985,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-38617,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-32990,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2024-47252,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-38350,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-7425,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-38180,,,,,,"https://access.redhat.com/errata/RHSA-2026:6310
+https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities"
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-21969,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-38323,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-38498,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-6395,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-38546,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2023-42753,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-38685,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-38460,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-53020,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-38352,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-4877,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2024-43204,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-59375,,,,,,"https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1.1
+https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities"
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-32988,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-5318,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-9086,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2024-10041,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-38488,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-38468,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-38553,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-5372,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2024-2236,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2024-42516,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2023-3772,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-32728,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+Dell EMC VPLEX Multiple Vulnerabilities,CVE-2025-38618,,,,,,https://www.dell.com/support/kbdoc/en-uk/000443350/dsa-2026-124-security-update-for-dell-vplex-multiple-third-party-component-vulnerabilities
+"HuggingFace Transformers ""_load_rng_state()"" Rejection Notice",CVE-2026-1839,,,,,,https://huntr.com/bounties/3c77bb97-e493-493d-9a88-c57f5c536485
+Apache Kafka Race Condition Vulnerability,CVE-2026-35554,,,,,,"https://issues.apache.org/jira/browse/KAFKA-19012
+https://lists.apache.org/thread/f07x7j8ovyqhjd1to25jsnqbm6wj01d6"
+Textpattern Multiple Vulnerabilities,CVE-2026-29906,,,,,,https://textpattern.com/weblog/textpattern-491-released-security-fixes-patches-and-tweaks
+IBM Operations Analytics Log Analysis Rejection Notice,CVE-2024-40684,,,,,,https://www.ibm.com/support/pages/node/7268536
+IBM Security Guardium Key Lifecycle Manager Multiple Vulnerabilities,CVE-2026-1726,,,,,,https://www.ibm.com/support/pages/node/7268697
+IBM Security Guardium Key Lifecycle Manager Multiple Vulnerabilities,CVE-2025-68161,,,,,,"https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1.1
+https://www.ibm.com/support/pages/node/7268697"
+Mozilla Firefox ESR Multiple Arbitrary Code Execution Vulnerabilities,CVE-2026-5731,,,,,,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-25
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-26
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-27"
+Mozilla Firefox ESR Multiple Arbitrary Code Execution Vulnerabilities,CVE-2026-5734,,,,,,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-25
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-27"
+Mozilla Firefox ESR Multiple Arbitrary Code Execution Vulnerabilities,CVE-2026-5732,,,,,,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-25
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-27"
+Mozilla Firefox Multiple Arbitrary Code Execution Vulnerabilities,CVE-2026-5733,,,,,,https://www.mozilla.org/en-US/security/advisories/mfsa2026-25
+Mozilla Firefox Multiple Arbitrary Code Execution Vulnerabilities,CVE-2026-5735,,,,,,https://www.mozilla.org/en-US/security/advisories/mfsa2026-25
+Samsung Android Multiple Vulnerabilities,CVE-2026-21008,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2025-64505,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-0058,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-0080,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-0044,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-0059,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2025-47392,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-21003,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-0042,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-0016,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-0043,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-0041,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2025-48651,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb
+https://source.android.com/docs/security/bulletin/2026/2026-04-01"
+Samsung Android Multiple Vulnerabilities,CVE-2025-22424,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-0052,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-0046,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-0045,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-21007,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2025-65018,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1.1
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-21011,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-0039,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-0079,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2025-22426,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-0036,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-0056,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-0018,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-20435,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-21009,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-0048,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-0055,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-0067,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-0050,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2026-0040,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2025-64720,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1.1
+https://security.samsungmobile.com/securityUpdate.smsb"
+Samsung Android Multiple Vulnerabilities,CVE-2023-20713,,,,,,"https://corp.mediatek.com/product-security-bulletin/March-2026
+https://docs.qualcomm.com/securitybulletin/april-2026-bulletin.html
+https://security.samsungmobile.com/securityUpdate.smsb"
+Red Hat update for crun,CVE-2026-30892,,,,,,"https://access.redhat.com/errata/RHSA-2026:6621
+https://access.redhat.com/errata/RHSA-2026:6622"
+Nutanix AOS Multiple Vulnerabilities,CVE-2025-53066,,,,,,"https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1.1"
+Nutanix AOS Multiple Vulnerabilities,CVE-2025-53057,,,,,,"https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1.1"
+Nutanix AOS Multiple Vulnerabilities,CVE-2025-40778,,,,,,"https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1.1"
+Nutanix AOS Multiple Vulnerabilities,CVE-2026-21945,,,,,,"https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1.1
+https://www.ibm.com/support/pages/node/7268446"
+Nutanix AOS Multiple Vulnerabilities,CVE-2025-48795,,,,,,"https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1.1"
+Nutanix AOS Multiple Vulnerabilities,CVE-2025-15367,,,,,,"https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1.1"
+Nutanix AOS Multiple Vulnerabilities,CVE-2026-1299,,,,,,"https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1.1"
+Nutanix AOS Multiple Vulnerabilities,CVE-2025-58364,,,,,,"https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1.1"
+Nutanix AOS Multiple Vulnerabilities,CVE-2025-41249,,,,,,"https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1.1"
+Nutanix AOS Multiple Vulnerabilities,CVE-2025-41242,,,,,,"https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1.1"
+Nutanix AOS Multiple Vulnerabilities,CVE-2025-41248,,,,,,"https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1.1"
+Nutanix AOS Multiple Vulnerabilities,CVE-2026-21933,,,,,,"https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1.1
+https://www.ibm.com/support/pages/node/7268446"
+Nutanix AOS Multiple Vulnerabilities,CVE-2026-21925,,,,,,"https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1.1
+https://www.ibm.com/support/pages/node/7268446"
+Nutanix AOS Multiple Vulnerabilities,CVE-2025-48976,,,,,,"https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1.1"
+Nutanix AOS Multiple Vulnerabilities,CVE-2025-68615,,,,,,"https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1.1"
+Nutanix AOS Multiple Vulnerabilities,CVE-2024-47176,,,,,,"https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1.1"
+Nutanix AOS Multiple Vulnerabilities,CVE-2025-61748,,,,,,"https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1.1"
+Nutanix AOS Multiple Vulnerabilities,CVE-2025-15366,,,,,,"https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1.1"
+Nutanix AOS Multiple Vulnerabilities,CVE-2025-58436,,,,,,"https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AOS-7.5.1.1"
+"libinput ""EvdevDevice:__gc()"" Information Disclosure Vulnerability",CVE-2026-35094,,,,,,https://gitlab.freedesktop.org/libinput/libinput/-/work_items/1272
+"musl ""iconv()"" Denial of Service Vulnerability",,,,,,,"https://git.musl-libc.org/cgit/musl/commit/?id=67219f0130ec7c876ac0b299046460fad31caabf
+https://seclists.org/oss-sec/2026/q2/15
+https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/37191"
+Apache Traffic Server Multiple Vulnerabilities,CVE-2025-58136,,,,,,https://lists.apache.org/thread/2s11roxlv1j8ph6q52rqo1klvl01n14q
+Apache Traffic Server Multiple Vulnerabilities,CVE-2025-65114,,,,,,https://lists.apache.org/thread/2s11roxlv1j8ph6q52rqo1klvl01n14q
+IBM Operations Analytics Log Analysis Multiple Vulnerabilities,CVE-2025-58057,,,,,,"https://www.ibm.com/support/pages/node/7268538
+https://www.ibm.com/support/pages/node/7268634
+https://www.ibm.com/support/pages/node/7268635
+https://www.ibm.com/support/pages/node/7268640"
+IBM Operations Analytics Log Analysis Multiple Vulnerabilities,CVE-2025-48924,,,,,,"https://www.ibm.com/support/pages/node/7268538
+https://www.ibm.com/support/pages/node/7268634
+https://www.ibm.com/support/pages/node/7268635
+https://www.ibm.com/support/pages/node/7268640"
+IBM Operations Analytics Log Analysis Multiple Vulnerabilities,CVE-2024-47535,,,,,,"https://www.ibm.com/support/pages/node/7268538
+https://www.ibm.com/support/pages/node/7268634
+https://www.ibm.com/support/pages/node/7268635
+https://www.ibm.com/support/pages/node/7268640"
+IBM Operations Analytics Log Analysis Multiple Vulnerabilities,CVE-2014-0193,,,,,,"https://www.ibm.com/support/pages/node/7268538
+https://www.ibm.com/support/pages/node/7268634
+https://www.ibm.com/support/pages/node/7268635
+https://www.ibm.com/support/pages/node/7268640"
+IBM Operations Analytics Log Analysis Multiple Vulnerabilities,CVE-2025-24970,,,,,,"https://www.ibm.com/support/pages/node/7268538
+https://www.ibm.com/support/pages/node/7268634
+https://www.ibm.com/support/pages/node/7268635
+https://www.ibm.com/support/pages/node/7268640"
+IBM Operations Analytics Log Analysis Multiple Vulnerabilities,CVE-2025-31672,,,,,,"https://www.ibm.com/support/pages/node/7268538
+https://www.ibm.com/support/pages/node/7268634
+https://www.ibm.com/support/pages/node/7268635
+https://www.ibm.com/support/pages/node/7268640"
+IBM Operations Analytics Log Analysis Multiple Vulnerabilities,CVE-2025-49128,,,,,,"https://www.ibm.com/support/pages/node/7268538
+https://www.ibm.com/support/pages/node/7268634
+https://www.ibm.com/support/pages/node/7268635
+https://www.ibm.com/support/pages/node/7268640"
+IBM Operations Analytics Log Analysis Multiple Vulnerabilities,CVE-2024-13009,,,,,,"https://www.ibm.com/support/pages/node/7268538
+https://www.ibm.com/support/pages/node/7268634
+https://www.ibm.com/support/pages/node/7268635
+https://www.ibm.com/support/pages/node/7268640"
+IBM Operations Analytics Log Analysis Multiple Vulnerabilities,CVE-2014-3488,,,,,,"https://www.ibm.com/support/pages/node/7268538
+https://www.ibm.com/support/pages/node/7268634
+https://www.ibm.com/support/pages/node/7268635
+https://www.ibm.com/support/pages/node/7268640"
+IBM Operations Analytics Log Analysis Multiple Vulnerabilities,CVE-2019-20444,,,,,,"https://www.ibm.com/support/pages/node/7268538
+https://www.ibm.com/support/pages/node/7268634
+https://www.ibm.com/support/pages/node/7268635
+https://www.ibm.com/support/pages/node/7268640"
+IBM Operations Analytics Log Analysis Multiple Vulnerabilities,CVE-2024-6763,,,,,,"https://www.ibm.com/support/pages/node/7268538
+https://www.ibm.com/support/pages/node/7268634
+https://www.ibm.com/support/pages/node/7268635
+https://www.ibm.com/support/pages/node/7268640"
+IBM Operations Analytics Log Analysis Multiple Vulnerabilities,CVE-2024-8184,,,,,,"https://www.ibm.com/support/pages/node/7268538
+https://www.ibm.com/support/pages/node/7268634
+https://www.ibm.com/support/pages/node/7268635
+https://www.ibm.com/support/pages/node/7268640"
+IBM Operations Analytics Log Analysis Multiple Vulnerabilities,CVE-2025-11143,,,,,,"https://www.ibm.com/support/pages/node/7268538
+https://www.ibm.com/support/pages/node/7268634
+https://www.ibm.com/support/pages/node/7268635
+https://www.ibm.com/support/pages/node/7268640"
+IBM Operations Analytics Log Analysis Multiple Vulnerabilities,CVE-2025-52999,,,,,,"https://www.ibm.com/support/pages/node/7268538
+https://www.ibm.com/support/pages/node/7268634
+https://www.ibm.com/support/pages/node/7268635
+https://www.ibm.com/support/pages/node/7268640"
+IBM Operations Analytics Log Analysis Multiple Vulnerabilities,CVE-2025-58457,,,,,,"https://www.ibm.com/support/pages/node/7268538
+https://www.ibm.com/support/pages/node/7268634
+https://www.ibm.com/support/pages/node/7268635
+https://www.ibm.com/support/pages/node/7268640"
+IBM Operations Analytics Log Analysis Multiple Vulnerabilities,CVE-2022-26336,,,,,,"https://www.ibm.com/support/pages/node/7268538
+https://www.ibm.com/support/pages/node/7268634
+https://www.ibm.com/support/pages/node/7268635
+https://www.ibm.com/support/pages/node/7268640"
+Apache ActiveMQ Jolokia Arbitrary Code Execution Vulnerability,CVE-2026-34197,,,,,,https://lists.apache.org/thread/gm13folkt1h67lhv9gk8kqt8sjzr8q9l
+IBM i IBM WebSphere Application Server Liberty Multiple Vulnerabilities,CVE-2026-29063,,,,,,https://www.ibm.com/support/pages/node/7268448
+IBM i IBM WebSphere Application Server Liberty Multiple Vulnerabilities,CVE-2025-12635,,,,,,https://www.ibm.com/support/pages/node/7268448
+IBM Copy Services Manager IBM Java Multiple Vulnerabilities,CVE-2026-21932,,,,,,https://www.ibm.com/support/pages/node/7268446
+IBM Maximo Asset Management Vert.x Denial of Service Vulnerability,CVE-2026-1002,,,,,,https://www.ibm.com/support/pages/node/7268613
+"Red Hat update for gstreamer1-plugins-bad-free, gstreamer1-plugins-base, gstreamer1-plugins-good, and gstreamer1-plugins-ugly-free",CVE-2026-2922,,,,,,https://access.redhat.com/errata/RHSA-2026:6300
+Red Hat update for squid,CVE-2026-33526,,,,,,https://access.redhat.com/errata/RHSA-2026:6301
+Red Hat update for squid,CVE-2026-32748,,,,,,https://access.redhat.com/errata/RHSA-2026:6301
+Red Hat update for kernel,CVE-2025-38154,,,,,,https://access.redhat.com/errata/RHSA-2026:6310
+Red Hat update for kernel,CVE-2026-23209,,,,,,"https://access.redhat.com/errata/RHSA-2026:6310
+https://access.redhat.com/errata/RHSA-2026:6632"
+Red Hat update for kernel,CVE-2026-23001,,,,,,https://access.redhat.com/errata/RHSA-2026:6310
+Red Hat update for kernel,CVE-2026-23111,,,,,,https://access.redhat.com/errata/RHSA-2026:6570
+Red Hat update for kernel,CVE-2026-23231,,,,,,"https://access.redhat.com/errata/RHSA-2026:6570
+https://access.redhat.com/errata/RHSA-2026:6571"
+Red Hat update for kernel,CVE-2025-38109,,,,,,"https://access.redhat.com/errata/RHSA-2026:6570
+https://access.redhat.com/errata/RHSA-2026:6632"
+Red Hat update for kernel,CVE-2026-23210,,,,,,https://access.redhat.com/errata/RHSA-2026:6570
+Red Hat update for kernel,CVE-2026-23193,,,,,,"https://access.redhat.com/errata/RHSA-2026:6571
+https://access.redhat.com/errata/RHSA-2026:6632"
+Red Hat update for kernel,CVE-2026-23144,,,,,,https://access.redhat.com/errata/RHSA-2026:6632
+Red Hat update for kernel,CVE-2026-23204,,,,,,https://access.redhat.com/errata/RHSA-2026:6632
+Red Hat update for kernel,CVE-2026-23191,,,,,,https://access.redhat.com/errata/RHSA-2026:6632
+Red Hat update for kernel,CVE-2026-23171,,,,,,https://access.redhat.com/errata/RHSA-2026:6632
+Red Hat update for libarchive,CVE-2026-4111,,,,,,https://access.redhat.com/errata/RHSA-2026:6647
+Red Hat update for kernel,CVE-2024-26984,,,,,,https://access.redhat.com/errata/RHSA-2026:6571
+Red Hat update for kernel,CVE-2025-71238,,,,,,https://access.redhat.com/errata/RHSA-2026:6571
