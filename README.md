@@ -1,15 +1,1 @@
-ATT&CK ID	Technique
-T1566	Phishing / Social Engineering
-T1190	Exploit Public-Facing Application
-T1055	Process Injection
-T1574	DLL Search Order Hijacking
-T1003	OS Credential Dumping
-T1059	Command and Scripting Interpreter
-T1105	Ingress Tool Transfer
-T1021	Remote Services
-T1082	System Information Discovery
-T1016	Network Discovery
-T1071	Application Layer Protocol
-T1219	Remote Access Software
-T1547	Boot or Logon Autostart Execution
-T1027	Obfuscated/Compressed Files and Information
+RoguePlanet is a newly disclosed local privilege escalation (LPE) proof-of-concept targeting Microsoft Defender. The exploit abuses a Time-of-Check/Time-of-Use (TOCTOU) race condition within Defender's file processing and remediation workflows to elevate a low-privileged user to NT AUTHORITY\SYSTEM on fully patched Windows 10 and Windows 11 systems, including systems updated through June 2026 Patch Tuesday. Public reporting indicates the exploit leverages path redirection techniques similar to those used in earlier Defender vulnerabilities such as BlueHammer and RedSun, where Defender performs privileged operations that can be redirected through NTFS junctions, reparse points, or other filesystem manipulation methods. The current proof-of-concept reportedly requires local execution and an existing foothold on the target system but results in full SYSTEM-level command execution once successful. Reliability varies due to the race-condition nature of the vulnerability, although multiple researchers and vendors have independently reproduced exploitation
