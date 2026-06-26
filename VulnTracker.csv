@@ -1,43 +1,16 @@
 title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,Refs
-Google Chrome Multiple Vulnerabilities,CVE-2026-13037,High,,387717,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0482630350.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-13025,High,,387717,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0482630350.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-13027,High,,387717,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0482630350.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-13036,High,,387717,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0482630350.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-13038,Critical,,387717,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0482630350.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-13031,High,,387717,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0482630350.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-13026,High,,387717,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0482630350.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-13033,Critical,,387717,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0482630350.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-13035,High,,387717,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0482630350.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-13032,Critical,,387717,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0482630350.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-13028,Critical,,387717,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0482630350.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-13022,High,,387717,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/06/stable-channel-update-for-desktop_0482630350.html
-IBM WebSphere Application Server / WebSphere Application Server Liberty HTTP Request Smuggling Vulnerability,CVE-2026-11541,7.4,,,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277550
-IBM WebSphere Application Server Liberty Information Disclosure Vulnerability,CVE-2026-11806,7.2,,,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277536
-IBM WebSphere Application Server Liberty Neethi Multiple Vulnerabilities,CVE-2026-42402,7.5,,,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277531
-IBM WebSphere Application Server Liberty Neethi Multiple Vulnerabilities,CVE-2026-42403,7.5,,,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277531
-IBM WebSphere Application Server Multiple Vulnerabilities,CVE-2026-11594,8.5,,,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277546
-IBM WebSphere Application Server Multiple Vulnerabilities,CVE-2026-11707,9.3,,,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277546
-IBM WebSphere Application Server SOAP/JMX Connector Arbitrary Code Execution Vulnerability,CVE-2026-11536,8.5,,,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277544
-Jenkins Multiple Vulnerabilities,CVE-2026-57303,7.1,,734403,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://www.jenkins.io/security/advisory/2026-06-24/
-Jenkins Multiple Vulnerabilities,CVE-2026-57281,7.5,,734403,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://www.jenkins.io/security/advisory/2026-06-24/
-Jenkins Multiple Vulnerabilities,CVE-2026-57280,8.8,,734403,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://www.jenkins.io/security/advisory/2026-06-24/
-Jenkins Multiple Vulnerabilities,CVE-2026-57296,8.8,,734403,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://www.jenkins.io/security/advisory/2026-06-24/
-Jenkins Multiple Vulnerabilities,CVE-2026-57301,8.8,,734403,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://www.jenkins.io/security/advisory/2026-06-24/
-Red Hat Satellite Multiple Vulnerabilities,CVE-2026-25990,7.5,,6051838,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:28385
-Red Hat Satellite Multiple Vulnerabilities,CVE-2026-27830,8,,6051838,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:28385
-Red Hat update for libreoffice,CVE-2026-4430,7.6,,6051868,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:28290
-Red Hat update for libsolv,CVE-2026-48864,7.8,,6051857,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:28236
-Red Hat update for python-urllib3,CVE-2026-44432,7.5,,6051813,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:27929
-Red Hat update for samba,CVE-2026-1933,7.1,,6051832,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:28053
-Red Hat update for samba,CVE-2026-3012,8,,6051832,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:28053
-Red Hat update for samba,CVE-2026-4408,9,,6051832,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:28053
-Red Hat update for skopeo,CVE-2026-32280,7.5,,6051818,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:28038
-Red Hat update for skopeo,CVE-2026-32283,7.5,,6051818,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:28038
-Red Hat update for tigervnc,CVE-2026-50260,7.8,,6051871,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:28923
-Red Hat update for tigervnc,CVE-2026-50259,7.8,,6051871,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:28923
-Red Hat update for tigervnc,CVE-2026-50257,7.8,,6051871,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:28923
-Red Hat update for tigervnc,CVE-2026-50258,7.8,,6051871,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:28923
-Red Hat update for tigervnc,CVE-2026-50261,7.8,,6051871,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:28923
-Red Hat update for tigervnc,CVE-2026-50264,7.8,,6051871,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:28923
-Red Hat update for tigervnc,CVE-2026-50256,7.8,,6051871,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:28923
-Red Hat update for vim,CVE-2026-35177,7.1,,6051815,Qualys QID,6/24 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:28049
+IBM Db2 Multiple Vulnerabilities,CVE-2026-5598,7.5,,20583,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277417
+IBM Db2 Multiple Vulnerabilities,CVE-2025-14813,7.5,,20583,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277417
+IBM DB2 Multiple Vulnerabilities,CVE-2026-33871,7.5,,20583,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277417
+IBM DB2 Multiple Vulnerabilities,CVE-2026-42583,7.5,,20583,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277417
+IBM DB2 Multiple Vulnerabilities,CVE-2026-42587,7.5,,20583,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277417
+IBM DB2 Multiple Vulnerabilities,CVE-2026-42585,7.5,,20583,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277417
+IBM DB2 Multiple Vulnerabilities,CVE-2026-42584,9.1,,20583,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277417
+IBM Db2 Multiple Vulnerabilities,CVE-2026-10109,9.8,,20583,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277417
+IBM DB2 Multiple Vulnerabilities,CVE-2026-42581,9.8,,20583,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277417
+Red Hat update for buildah,CVE-2026-25679,7.5,,6051881,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:29035
+Red Hat update for buildah,CVE-2026-32283,7.5,,6051881,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:29035
+Red Hat update for buildah,CVE-2026-32281,7.5,,6051881,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:29035
+Red Hat update for buildah,CVE-2026-32280,7.5,,6051881,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:29035
+Red Hat update for buildah,CVE-2026-39829,7.5,,6051895,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:29455
+Red Hat update for buildah,CVE-2026-39830,9.1,,6051895,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:29455
