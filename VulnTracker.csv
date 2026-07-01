@@ -1,16 +1,72 @@
 title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,Refs
-IBM Db2 Multiple Vulnerabilities,CVE-2026-5598,7.5,,20583,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277417
-IBM Db2 Multiple Vulnerabilities,CVE-2025-14813,7.5,,20583,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277417
-IBM DB2 Multiple Vulnerabilities,CVE-2026-33871,7.5,,20583,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277417
-IBM DB2 Multiple Vulnerabilities,CVE-2026-42583,7.5,,20583,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277417
-IBM DB2 Multiple Vulnerabilities,CVE-2026-42587,7.5,,20583,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277417
-IBM DB2 Multiple Vulnerabilities,CVE-2026-42585,7.5,,20583,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277417
-IBM DB2 Multiple Vulnerabilities,CVE-2026-42584,9.1,,20583,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277417
-IBM Db2 Multiple Vulnerabilities,CVE-2026-10109,9.8,,20583,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277417
-IBM DB2 Multiple Vulnerabilities,CVE-2026-42581,9.8,,20583,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277417
-Red Hat update for buildah,CVE-2026-25679,7.5,,6051881,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:29035
-Red Hat update for buildah,CVE-2026-32283,7.5,,6051881,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:29035
-Red Hat update for buildah,CVE-2026-32281,7.5,,6051881,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:29035
-Red Hat update for buildah,CVE-2026-32280,7.5,,6051881,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:29035
-Red Hat update for buildah,CVE-2026-39829,7.5,,6051895,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:29455
-Red Hat update for buildah,CVE-2026-39830,9.1,,6051895,Qualys QID,6/25 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:29455
+Apache ActiveMQ Multiple Vulnerabilities,CVE-2026-53916,7.5,,,,,"https://lists.apache.org/thread/07hjsj88hqgsb7vvg6ttsj56ts9vjs5n
+https://lists.apache.org/thread/85f3q7mkh71y7qwyn6wvgw0bw4jl06ys
+https://lists.apache.org/thread/d3mhyo2116nomz2lwxppyy4pclvdxq3n
+https://lists.apache.org/thread/fsjb26605syqr8xks249h8gkp86t55d2
+https://lists.apache.org/thread/grrd1mwgkgblqjbwkkq6dvmdxd9ov2dx
+https://lists.apache.org/thread/nhkmbdym61yp6wwy0dny8w1p46sm87kr
+https://lists.apache.org/thread/nxso951fnvf72qf9m475mpz4yf931xk0
+https://lists.apache.org/thread/w82vtc3q02j5ot94tnyy1197y3wb98hl"
+Apache ActiveMQ Multiple Vulnerabilities,CVE-2026-53917,7.5,,,,,"https://lists.apache.org/thread/07hjsj88hqgsb7vvg6ttsj56ts9vjs5n
+https://lists.apache.org/thread/85f3q7mkh71y7qwyn6wvgw0bw4jl06ys
+https://lists.apache.org/thread/d3mhyo2116nomz2lwxppyy4pclvdxq3n
+https://lists.apache.org/thread/fsjb26605syqr8xks249h8gkp86t55d2
+https://lists.apache.org/thread/grrd1mwgkgblqjbwkkq6dvmdxd9ov2dx
+https://lists.apache.org/thread/nhkmbdym61yp6wwy0dny8w1p46sm87kr
+https://lists.apache.org/thread/nxso951fnvf72qf9m475mpz4yf931xk0
+https://lists.apache.org/thread/w82vtc3q02j5ot94tnyy1197y3wb98hl"
+Apache ActiveMQ Multiple Vulnerabilities,CVE-2026-50750,7.5,,,,,"https://lists.apache.org/thread/07hjsj88hqgsb7vvg6ttsj56ts9vjs5n
+https://lists.apache.org/thread/85f3q7mkh71y7qwyn6wvgw0bw4jl06ys
+https://lists.apache.org/thread/d3mhyo2116nomz2lwxppyy4pclvdxq3n
+https://lists.apache.org/thread/fsjb26605syqr8xks249h8gkp86t55d2
+https://lists.apache.org/thread/grrd1mwgkgblqjbwkkq6dvmdxd9ov2dx
+https://lists.apache.org/thread/nhkmbdym61yp6wwy0dny8w1p46sm87kr
+https://lists.apache.org/thread/nxso951fnvf72qf9m475mpz4yf931xk0
+https://lists.apache.org/thread/w82vtc3q02j5ot94tnyy1197y3wb98hl"
+Apache ActiveMQ Multiple Vulnerabilities,CVE-2026-50734,7.5,,,,,"https://lists.apache.org/thread/07hjsj88hqgsb7vvg6ttsj56ts9vjs5n
+https://lists.apache.org/thread/85f3q7mkh71y7qwyn6wvgw0bw4jl06ys
+https://lists.apache.org/thread/d3mhyo2116nomz2lwxppyy4pclvdxq3n
+https://lists.apache.org/thread/fsjb26605syqr8xks249h8gkp86t55d2
+https://lists.apache.org/thread/grrd1mwgkgblqjbwkkq6dvmdxd9ov2dx
+https://lists.apache.org/thread/nhkmbdym61yp6wwy0dny8w1p46sm87kr
+https://lists.apache.org/thread/nxso951fnvf72qf9m475mpz4yf931xk0
+https://lists.apache.org/thread/w82vtc3q02j5ot94tnyy1197y3wb98hl"
+Apache ActiveMQ Multiple Vulnerabilities,CVE-2026-49432,7.5,,,,,"https://lists.apache.org/thread/07hjsj88hqgsb7vvg6ttsj56ts9vjs5n
+https://lists.apache.org/thread/85f3q7mkh71y7qwyn6wvgw0bw4jl06ys
+https://lists.apache.org/thread/d3mhyo2116nomz2lwxppyy4pclvdxq3n
+https://lists.apache.org/thread/fsjb26605syqr8xks249h8gkp86t55d2
+https://lists.apache.org/thread/grrd1mwgkgblqjbwkkq6dvmdxd9ov2dx
+https://lists.apache.org/thread/nhkmbdym61yp6wwy0dny8w1p46sm87kr
+https://lists.apache.org/thread/nxso951fnvf72qf9m475mpz4yf931xk0
+https://lists.apache.org/thread/w82vtc3q02j5ot94tnyy1197y3wb98hl"
+Apache ActiveMQ Multiple Vulnerabilities,CVE-2026-54475,7.5,,,,,"https://lists.apache.org/thread/07hjsj88hqgsb7vvg6ttsj56ts9vjs5n
+https://lists.apache.org/thread/85f3q7mkh71y7qwyn6wvgw0bw4jl06ys
+https://lists.apache.org/thread/d3mhyo2116nomz2lwxppyy4pclvdxq3n
+https://lists.apache.org/thread/fsjb26605syqr8xks249h8gkp86t55d2
+https://lists.apache.org/thread/grrd1mwgkgblqjbwkkq6dvmdxd9ov2dx
+https://lists.apache.org/thread/nhkmbdym61yp6wwy0dny8w1p46sm87kr
+https://lists.apache.org/thread/nxso951fnvf72qf9m475mpz4yf931xk0
+https://lists.apache.org/thread/w82vtc3q02j5ot94tnyy1197y3wb98hl"
+Apache ActiveMQ Multiple Vulnerabilities,CVE-2026-49877,8.1,,,,,"https://lists.apache.org/thread/07hjsj88hqgsb7vvg6ttsj56ts9vjs5n
+https://lists.apache.org/thread/85f3q7mkh71y7qwyn6wvgw0bw4jl06ys
+https://lists.apache.org/thread/d3mhyo2116nomz2lwxppyy4pclvdxq3n
+https://lists.apache.org/thread/fsjb26605syqr8xks249h8gkp86t55d2
+https://lists.apache.org/thread/grrd1mwgkgblqjbwkkq6dvmdxd9ov2dx
+https://lists.apache.org/thread/nhkmbdym61yp6wwy0dny8w1p46sm87kr
+https://lists.apache.org/thread/nxso951fnvf72qf9m475mpz4yf931xk0
+https://lists.apache.org/thread/w82vtc3q02j5ot94tnyy1197y3wb98hl"
+Citrix NetScaler ADC / Gateway Multiple Vulnerabilities,CVE-2026-8452,8.8,,387787,Qualys QID,6/30 CH - QID Available | No Exploit/POC Available,https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX696604
+Citrix NetScaler ADC / Gateway Multiple Vulnerabilities,CVE-2026-8451,8.8,,387762,Qualys QID,6/30 CH - QID Available | No Exploit/POC Available,https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX696604
+Citrix NetScaler ADC / Gateway Multiple Vulnerabilities,CVE-2026-10817,6.9,,387786,Qualys QID,6/30 CH - QID Available | No Exploit/POC Available,https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX696604
+Citrix NetScaler ADC / Gateway Multiple Vulnerabilities,CVE-2026-10816,7.1,,387789,Qualys QID,6/30 CH - QID Available | No Exploit/POC Available,https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX696604
+Citrix NetScaler ADC / Gateway Multiple Vulnerabilities,CVE-2026-8655,8.8,,387788,Qualys QID,6/30 CH - QID Available | No Exploit/POC Available,https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX696604
+Citrix NetScaler ADC / Gateway Multiple Vulnerabilities,CVE-2026-13474,8.7,,387785,Qualys QID,6/30 CH - QID Available | No Exploit/POC Available,https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX696604
+F5 r2000 / r4000 Series F5OS-A Intel Ethernet Privilege Escalation Vulnerability,CVE-2025-20093,8.2,,,Qualys QID,6/30 CH - QID Available | No Exploit/POC Available,https://my.f5.com/manage/s/article/K000156944
+F5OS-A Golang Denial of Service Vulnerability,CVE-2025-22869,7.5,,,Qualys QID,6/30 CH - QID Available | No Exploit/POC Available,https://my.f5.com/manage/s/article/K000161970
+Red Hat update for ImageMagick,CVE-2026-49218,7.5,,6051942,Qualys QID,6/30 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:32961
+Red Hat update for ImageMagick,CVE-2026-53460,7.5,,6051942,Qualys QID,6/30 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:32961
+Red Hat update for ImageMagick,CVE-2026-46522,7.5,,6051942,Qualys QID,6/30 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:32961
+Red Hat update for ImageMagick,CVE-2026-46520,7.5,,6051942,Qualys QID,6/30 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:32961
+Spring Security Multiple Vulnerabilities,CVE-2026-41003,7.6,,,,,"https://spring.io/security/cve-2026-41003
+https://spring.io/security/cve-2026-41694
+https://spring.io/security/cve-2026-41706"
