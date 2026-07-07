@@ -1,53 +1,20 @@
 title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,Refs
-Cisco Secure Endpoint Connector for Windows ClamAV Multiple Denial of Service Vulnerabilities,CVE-2026-20217,7.5,,387795,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-catc-file-read-wLH2vf8X
-Cisco Secure Endpoint Connector for Windows ClamAV Multiple Denial of Service Vulnerabilities,CVE-2026-20214,7.5,,387795,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-88cFYyxR
-Cisco Secure Endpoint Connector for Windows ClamAV Multiple Denial of Service Vulnerabilities,CVE-2026-20215,7.5,,387795,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-88cFYyxR
-Cisco Secure Endpoint Connector for Windows ClamAV Multiple Denial of Service Vulnerabilities,CVE-2026-20216,7.5,,387795,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-88cFYyxR
-Cisco Secure Endpoint Connector for Windows ClamAV Multiple Denial of Service Vulnerabilities,CVE-2026-20213,7.5,,387795,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-88cFYyxR
-Cisco Secure Endpoint Connector for Windows ClamAV Multiple Denial of Service Vulnerabilities,CVE-2026-20243,7.5,,387795,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-88cFYyxR
-Cisco Secure Endpoint Connector for Windows ClamAV Multiple Denial of Service Vulnerabilities,CVE-2026-20244,7.5,,387795,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-88cFYyxR
-Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2026-44488,7.4,,6052033,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:34160
-Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2026-44431,7.5,,6052033,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:34160
-Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2026-44293,7.5,,6052033,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:34160
-Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2026-33154,7.5,,6052033,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:34160
-Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2026-6322,8.8,,6052033,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:34160
-Red Hat update for httpd,CVE-2026-34356,7.3,,6052039,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:34109
-Red Hat update for httpd,CVE-2026-42536,7.5,,6052039,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:34109
-Red Hat update for httpd,CVE-2026-34355,7.5,,6052039,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:34109
-Red Hat update for httpd,CVE-2026-44185,7.5,,6052039,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:34109
-Red Hat update for httpd,CVE-2026-44631,7.5,,6052039,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:34109
-Red Hat update for httpd,CVE-2026-29169,9.8,,6052039,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:34109
-Red Hat update for httpd,CVE-2024-42516,7.5,,6052033,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:34160
-Red Hat update for kernel,CVE-2026-45984,7.1,,6052014,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:33743
-Red Hat update for kernel,CVE-2026-23216,7,,6052036,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:34094
-Red Hat update for kernel,CVE-2026-23191,7.1,,6052036,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:34094
-Red Hat update for kernel,CVE-2026-46227,7.1,,6052036,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:34094
-Red Hat update for kernel,CVE-2026-43414,7.1,,6052036,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:34094
-Red Hat update for kernel,CVE-2025-21648,7.3,,6052036,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:34094
-Red Hat update for kernel,CVE-2025-21691,7.5,,6052036,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:34094
-Red Hat update for kernel,CVE-2026-43027,7.8,,6052036,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:34094
-Red Hat update for kernel,CVE-2026-43198,7.8,,6052036,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:34094
-Red Hat update for kernel,CVE-2026-46244,7.5,,6052039,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:34109
-Red Hat update for thunderbird,CVE-2026-12296,7.3,,6051984,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:33445
-Red Hat update for thunderbird,CVE-2026-12310,7.5,,6051984,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:33445
-Red Hat update for thunderbird,CVE-2026-12307,7.5,,6051984,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:33445
-Red Hat update for thunderbird,CVE-2026-12306,7.5,,6051984,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:33445
-Red Hat update for thunderbird,CVE-2026-12329,7.5,,6051984,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:33445
-Red Hat update for thunderbird,CVE-2026-12292,7.8,,6051984,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:33445
-Red Hat update for thunderbird,CVE-2026-12311,8.1,,6051984,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:33445
-Red Hat update for thunderbird,CVE-2026-12298,8.1,,6051984,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:33445
-Red Hat update for thunderbird,CVE-2026-12313,8.3,,6051984,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:33445
-Red Hat update for thunderbird,CVE-2026-12291,8.8,,6051984,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:33445
-Red Hat update for thunderbird,CVE-2026-12330,8.8,,6051984,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:33445
-Red Hat update for thunderbird,CVE-2026-12324,9.1,,6051984,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:33445
-Red Hat update for thunderbird,CVE-2026-12297,9.6,,6051984,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:33445
-Red Hat update for thunderbird,CVE-2026-12308,9.6,,6051984,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:33445
-Red Hat update for thunderbird,CVE-2026-12299,9.6,,6051984,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:33445
-Red Hat update for thunderbird,CVE-2026-12312,9.6,,6051984,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:33445
-Red Hat update for thunderbird,CVE-2026-12295,7,,6052014,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:33743
-IBM WebSphere Application Server Liberty Authorization Bypass Vulnerability,CVE-2026-11714,8.5,,387799,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7278580
-IBM WebSphere Application Server Liberty Server Side Request Forgery (SSRF) Vulnerability,CVE-2026-11546,7.1,,387800,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7278572
-IBM WebSphere Application Server Multiple Vulnerabilities,"CVE-2026-11594, CVE-2026-11707, CVE-2026-11383",7.5,,387745,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277546
-IBM WebSphere Application Server Liberty Multiple Vulnerabilities,"CVE-2026-42402, CVE-2026-42403, CVE-2026-42404",7.5,,387747,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7277531
-IBM WebSphere Application Server Liberty Multiple Vulnerabilities,"CVE-2026-9071, CVE-2026-9320, CVE-2026-8646",7.9,,387697,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7276579
-IBM WebSphere Application Server Insecure Deserialization Vulnerabilities,"CVE-2026-9330, CVE-2026-9319",7.8,,520189,Qualys QID,7/1 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7274733
+IBM AIX BIND Multiple Denial of Service Vulnerabilities,CVE-2026-1519,7.5,,330252,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://aix.software.ibm.com/aix/efixes/security/bind_advisory30.asc
+IBM AIX BIND Multiple Denial of Service Vulnerabilities,CVE-2025-13878,7.5,,330252,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://aix.software.ibm.com/aix/efixes/security/bind_advisory30.asc
+IBM AIX BIND Multiple Denial of Service Vulnerabilities,CVE-2026-5946,7.5,,330252,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://aix.software.ibm.com/aix/efixes/security/bind_advisory30.asc
+IBM i TLS Downgrade Vulnerability,CVE-2026-4942,not available,,,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://www.ibm.com/support/pages/node/7278992
+Red Hat update for compat-openssl11,CVE-2026-45447,9.8,,6052080,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35869
+Red Hat update for flatpak,CVE-2026-34078,9,,6052072,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35843
+Red Hat update for flatpak,CVE-2026-34079,7.5,,6052072,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35843
+Red Hat update for golang-github-openprinting-ipp-usb,CVE-2026-33811,7.5,,6052066,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35832
+Red Hat update for golang-github-openprinting-ipp-usb,CVE-2026-27145,7.5,,6052066,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35832
+Red Hat update for kernel,CVE-2026-46181,7,,6052065,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35863
+Red Hat update for kernel,CVE-2026-43279,5.8,,6052065,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35863
+Red Hat update for kernel,CVE-2026-43198,7,,6052065,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35863
+Red Hat update for kernel,CVE-2026-23270,7,,6052065,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35863
+Red Hat update for libpq,CVE-2026-6478,6.5,,6052079,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35880
+Red Hat update for nodejs24,CVE-2026-9697,7.4,,6052058,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35841
+Red Hat update for nodejs24,CVE-2026-6734,7.5,,6052058,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35841
+Red Hat update for ruby,CVE-2026-41316,8.1,,6052075,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35834
+Red Hat update for ruby,CVE-2026-42258,9.8,,6052075,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35834
+Red Hat update for ruby,CVE-2026-42246,7.4,,6052075,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35834
