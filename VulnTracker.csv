@@ -1,20 +1,53 @@
 title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,Refs
-IBM AIX BIND Multiple Denial of Service Vulnerabilities,CVE-2026-1519,7.5,,330252,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://aix.software.ibm.com/aix/efixes/security/bind_advisory30.asc
-IBM AIX BIND Multiple Denial of Service Vulnerabilities,CVE-2025-13878,7.5,,330252,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://aix.software.ibm.com/aix/efixes/security/bind_advisory30.asc
-IBM AIX BIND Multiple Denial of Service Vulnerabilities,CVE-2026-5946,7.5,,330252,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://aix.software.ibm.com/aix/efixes/security/bind_advisory30.asc
-IBM i TLS Downgrade Vulnerability,CVE-2026-4942,not available,,,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://www.ibm.com/support/pages/node/7278992
-Red Hat update for compat-openssl11,CVE-2026-45447,9.8,,6052080,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35869
-Red Hat update for flatpak,CVE-2026-34078,9,,6052072,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35843
-Red Hat update for flatpak,CVE-2026-34079,7.5,,6052072,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35843
-Red Hat update for golang-github-openprinting-ipp-usb,CVE-2026-33811,7.5,,6052066,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35832
-Red Hat update for golang-github-openprinting-ipp-usb,CVE-2026-27145,7.5,,6052066,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35832
-Red Hat update for kernel,CVE-2026-46181,7,,6052065,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35863
-Red Hat update for kernel,CVE-2026-43279,5.8,,6052065,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35863
-Red Hat update for kernel,CVE-2026-43198,7,,6052065,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35863
-Red Hat update for kernel,CVE-2026-23270,7,,6052065,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35863
-Red Hat update for libpq,CVE-2026-6478,6.5,,6052079,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35880
-Red Hat update for nodejs24,CVE-2026-9697,7.4,,6052058,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35841
-Red Hat update for nodejs24,CVE-2026-6734,7.5,,6052058,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35841
-Red Hat update for ruby,CVE-2026-41316,8.1,,6052075,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35834
-Red Hat update for ruby,CVE-2026-42258,9.8,,6052075,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35834
-Red Hat update for ruby,CVE-2026-42246,7.4,,6052075,Qualys QID,7/6 CH - QID Available | No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:35834
+Juniper Junos OS snmpd Denial of Service Vulnerability,CVE-2026-33799,7.5,,6580012,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://supportportal.juniper.net/s/article/2026-07-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-Receipt-of-a-specific-SNMPv3-request-results-in-memory-leak-and-eventual-snmpd-crash-CVE-2026-33799
+Juniper MX / SRX Series Junos OS flowd Denial of Service Vulnerability,CVE-2026-57023,7.5,,6580014,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://supportportal.juniper.net/s/article/2026-07-Security-Bulletin-Junos-OS-MX-Series-with-SPC3-SRX-Series-A-specifically-malformed-TCP-packet-causes-a-flowd-crash-CVE-2026-57023
+Juniper MX / SRX Series Junos OS flowd Denial of Service Vulnerability,CVE-2026-57026,7.5,,6580006,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://supportportal.juniper.net/s/article/2026-07-Security-Bulletin-Junos-OS-MX-Series-with-SPC3-SRX-Series-Processing-of-a-specifically-malformed-SIP-invite-causes-a-flowd-crash-CVE-2026-57026
+Palo Alto Networks PAN-OS CLI Rejection Notice,CVE-2026-0286,6.5,,734657,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://security.paloaltonetworks.com/CVE-2026-0286
+Palo Alto Networks PAN-OS Information Disclosure Vulnerability,CVE-2026-0281,6.5,,734658,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://security.paloaltonetworks.com/CVE-2026-0281
+Palo Alto Networks PAN-OS IPv6 Firewall Security Bypass Vulnerability,CVE-2026-0280,6.5,,734651,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://security.paloaltonetworks.com/CVE-2026-0280
+Palo Alto Networks PAN-OS Large Scale VPN (LSVPN) Security Bypass Vulnerability,CVE-2026-0283,6.5,,734650,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://security.paloaltonetworks.com/CVE-2026-0283
+Palo Alto Networks PAN-OS Large Scale VPN (LSVPN) XML Injection Vulnerability,CVE-2026-0284,6.5,,734655,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://security.paloaltonetworks.com/CVE-2026-0284
+Palo Alto Networks PAN-OS Multiple Cross-Site Scripting Vulnerabilities,CVE-2026-0279,6.5,,734654,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://security.paloaltonetworks.com/CVE-2026-0279
+Palo Alto Networks PAN-OS Multiple Denial of Service Vulnerabilities,CVE-2026-0287,6.5,,734656,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://security.paloaltonetworks.com/CVE-2026-0287
+Palo Alto Networksn PAN-OS Management Web Interface Rejection Notice,CVE-2026-0282,6.5,,734652,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://security.paloaltonetworks.com/CVE-2026-0282
+Red Hat update for compat-openssl10,CVE-2026-28390,7.5,,6052144,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36217
+Red Hat update for firefox,CVE-2026-12312,7.5,,6052118,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36101
+Red Hat update for firefox,CVE-2026-12328,7.5,,6052118,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36101
+Red Hat update for firefox,CVE-2026-12310,7.5,,6052118,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36101
+Red Hat update for firefox,CVE-2026-12299,7.5,,6052118,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36101
+Red Hat update for firefox,CVE-2026-12314,7.5,,6052118,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36101
+Red Hat update for firefox,CVE-2026-12305,7.5,,6052118,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36101
+Red Hat update for firefox,CVE-2026-12289,7.5,,6052118,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36101
+Red Hat update for firefox,CVE-2026-12329,7.5,,6052118,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36101
+Red Hat update for firefox,CVE-2026-12294,7.5,,6052118,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36101
+Red Hat update for firefox,CVE-2026-12296,7.5,,6052118,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36101
+Red Hat update for firefox,CVE-2026-12298,7.5,,6052118,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36101
+Red Hat update for firefox,CVE-2026-12295,7.5,,6052118,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36101
+Red Hat update for firefox,CVE-2026-12290,7.5,,6052118,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36101
+Red Hat update for firefox,CVE-2026-12327,8.1,,6052118,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36101
+Red Hat update for firefox,CVE-2026-12291,8.3,,6052118,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36101
+Red Hat update for firefox,CVE-2026-12292,8.8,,6052118,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36101
+Red Hat update for firefox,CVE-2026-12304,9.1,,6052118,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36101
+Red Hat update for firefox,CVE-2026-12315,9.1,,6052118,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36101
+Red Hat update for firefox,CVE-2026-12297,9.6,,6052118,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36101
+Red Hat update for freerdp,CVE-2026-44422,7.5,,6052122,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36203
+Red Hat update for freerdp,CVE-2026-40033,8.8,,6052122,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36203
+Red Hat update for freerdp,CVE-2026-44420,8.8,,6052122,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36203
+Red Hat update for freerdp,CVE-2026-45700,8.8,,6052122,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36203
+Red Hat update for freerdp,CVE-2026-44421,8.8,,6052122,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36203
+Red Hat update for httpd:2.4,CVE-2026-34059,7.5,,6052168,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36373
+Red Hat update for httpd:2.4,CVE-2026-49975,7.5,,6052168,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36373
+Red Hat update for httpd:2.4,CVE-2025-53020,7.5,,6052168,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36373
+Red Hat update for httpd:2.4,CVE-2026-28780,9.8,,6052168,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36373
+Red Hat update for nodejs:24,CVE-2026-9697,7.4,,6052095,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:35891
+Red Hat update for nodejs:24,CVE-2026-6734,7.5,,6052095,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:35891
+Red Hat update for ruby:3.3,CVE-2026-42246,7.4,,6052117,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36099
+Red Hat update for ruby:3.3,CVE-2026-42245,7.5,,6052117,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36099
+Red Hat update for ruby:3.3,CVE-2026-42258,9.8,,6052117,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36099
+Red Hat update for xorg-x11-server,CVE-2026-50259,7.8,,6052110,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36083
+Red Hat update for xorg-x11-server,CVE-2026-50258,7.8,,6052110,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36083
+Red Hat update for xorg-x11-server,CVE-2026-50261,7.8,,6052110,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36083
+Red Hat update for xorg-x11-server,CVE-2026-50264,7.8,,6052110,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36083
+Red Hat update for xorg-x11-server,CVE-2026-50257,7.8,,6052110,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36083
+Red Hat update for xorg-x11-server,CVE-2026-50256,7.8,,6052110,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36083
+Red Hat update for xorg-x11-server,CVE-2026-50260,7.8,,6052110,Qualys QID,7/9 CH - QID Available | No Exploit/POC known ,https://access.redhat.com/errata/RHSA-2026:36083
