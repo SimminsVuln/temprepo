@@ -1,47 +1,26 @@
 title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,https://lists.apache.org/thread/fgggbv3sjjqw7p6q0j88gspt9b2rb728
-Atlassian Confluence Data Center Axios Prototype Pollution Vulnerability,CVE-2026-44490,8.2,,734764,Qualys QID,,https://jira.atlassian.com/browse/CONFSERVER-104356
-Atlassian Confluence Data Center Axios Security Bypass Vulnerability,CVE-2026-42035,7.4,,734767,Qualys QID,,https://jira.atlassian.com/browse/CONFSERVER-104355
-Atlassian Confluence Data Center Axios Security Bypass Vulnerability,CVE-2026-42264,9.1,,734768,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/CONFSERVER-104370
-Atlassian Confluence Data Center Axios Security Bypass Vulnerability,CVE-2025-62718,8.5,,734775,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/CONFSERVER-104359
-Atlassian Confluence Data Center Axios Security Bypass Vulnerability,CVE-2026-42043,8.9,,734771,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/CONFSERVER-104363
-Atlassian Confluence Data Center Axios Security Update,CVE-2026-42033,7.4,,734761,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/CONFSERVER-104357
-Atlassian Confluence Data Center fast-uri Security Bypass Vulnerability,CVE-2026-6322,7.5,,387980,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/CONFSERVER-104364
-Atlassian Confluence Data Center fast-uri Security Bypass Vulnerability,CVE-2026-6321,7.5,,734756,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/CONFSERVER-104344
-Atlassian Confluence Data Center form-data Security Update,CVE-2026-12143,7.5,,734778,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/CONFSERVER-104199
-Atlassian Confluence Data Center io.netty:netty-codec-http Denial of Service Vulnerability,CVE-2026-42587,7.5,,734451,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/CONFSERVER-103907
-Atlassian Confluence Data Center Jetty HTTP Request Smuggling Vulnerability,CVE-2026-2332,9.1,,734766,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/CONFSERVER-104353
-Atlassian Confluence Data Center js-cookie Security Update,CVE-2026-46625,7.5,,734763,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/CONFSERVER-104287
-Atlassian Confluence Data Center logback-core Security Update,CVE-2025-11226,8.2,,734757,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/CONFSERVER-104361
-Atlassian Confluence Data Center netty Denial of Service Vulnerability,CVE-2026-42583,7.5,,734762,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/CONFSERVER-103908
-Atlassian Confluence Data Center picomatch Denial of Service Vulnerability,CVE-2026-33671,7.5,,734760,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/CONFSERVER-104342
-Atlassian Confluence Data Center serialize-javascript Denial of Service Vulnerability,CVE-2026-34043,7.5,,734769,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/CONFSERVER-104226
-Atlassian Confluence Data Center ws Denial of Service Vulnerability,CVE-2026-48779,7.5,,734758,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/CWD-6518
-Atlassian Crowd Data Center Arbitrary Code Execution Vulnerability,CVE-2026-27830,8,,734807,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/CRUC-8693
-Atlassian Crucible Server and Data Center Denial of Service Vulnerability,CVE-2022-3509,7.5,,388001,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/CRUC-8695
-Atlassian Crucible Server and Data Center Denial of Service Vulnerability,CVE-2022-3510,7.5,,388001,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/CRUC-8688
-Atlassian Crucible Server and Data Center Denial of Service Vulnerability,CVE-2024-7254,7.5,,388001,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/CRUC-8692
-Atlassian Jira Data Center Immutable.js Information Disclosure Vulnerability,CVE-2026-29063,8.5,,387981,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/JSWSERVER-26867
-Jira Service Management Data Center Apache Tomcat Security Bypass Vulnerability,CVE-2026-29145,8.5,,387977,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/JSWSERVER-26812
-Jira Service Management Data Center Axios Security Bypass Vulnerability,CVE-2026-42044,8.5,,387982,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/JSDSERVER-16658
-Jira Service Management Data Center loader-utils Denial of Service Vulnerability,CVE-2022-37603,7.5,,734805,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/JSDSERVER-16659
-Jira Service Management Data Center loader-utils Denial of Service Vulnerability,CVE-2022-37599,7.5,,387975,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/JSWSERVER-26804
-Jira Service Management Data Center Netty HTTP Request Smuggling Vulnerability,CVE-2026-42581,9.8,,387974,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/JSDSERVER-16657
-Jira Service Management Data Center parseQuery Security Bypass Vulnerability,CVE-2022-37601,9.8,,387974,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://jira.atlassian.com/browse/JSDSERVER-16619
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2026-42498,7.3,,6053153,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:43401
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2026-41284,7.5,,6053153,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:43401
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2026-43513,7.5,,6053153,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:43401
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2026-43515,9.1,,6053153,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:43401
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2026-41293,9.8,,6053153,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:43401
-Red Hat update for kernel,CVE-2026-52973,7,,6053217,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:45114
-Red Hat update for kernel,CVE-2026-46099,7,,6053217,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:45114
-Red Hat update for kernel,CVE-2026-52976,7,,6053215,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:45192
-Red Hat update for kernel,CVE-2026-52950,7,,6053245,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:46951
-Red Hat update for kernel,CVE-2026-31692,7.1,,6053215,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:45192
-Red Hat update for kernel,CVE-2026-46323,7.8,,6053217,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:45114
-Red Hat update for kpatch-patch-6_12_0-211_16_1,CVE-2026-64600,7.8,,6053201,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:44308
-Red Hat update for libpq,CVE-2026-6477,8.8,,6053236,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:46386
-Red Hat update for libreoffice,CVE-2026-4430,7.6,,6053120,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:41947
-Red Hat update for libreoffice,CVE-2026-8357,7.8,,6053236,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:46386
-Red Hat update for nodejs:22,CVE-2026-48933,7.5,,6053120,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:41947
-Red Hat update for nodejs:22,CVE-2026-12151,7.5,,6053120,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:41947
-Red Hat update for nodejs:22,CVE-2026-48618,7.7,,6053120,Qualys QID,7/28 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:41947
+Apache ActiveMQ Multiple Vulnerabilities,CVE-2026-59878,7.5,,388166,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,"https://lists.apache.org/thread/6rwn6cq65dy4lhmsmjf2bxnhbmhkcswz
+https://lists.apache.org/thread/dnyx4d2oldshcj4lthso7b53y4bqmjvn"
+F5 BIG-IP DNS Unbound Multiple Denial of Service Vulnerabilities,CVE-2026-41292,7.5,,388121,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,https://my.f5.com/manage/s/article/K000162456
+IBM WebSphere Application Server / WebSphere Application Server Liberty Multiple Vulnerabilities,CVE-2026-15328,7.4,,387918,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7281625
+IBM WebSphere Application Server / WebSphere Application Server Liberty Multiple Vulnerabilities,CVE-2026-14981,7.5,,387918,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7281625
+IBM WebSphere Application Server / WebSphere Application Server Liberty Multiple Vulnerabilities,CVE-2026-15325,8.7,,387918,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7281625
+IBM WebSphere Application Server / WebSphere Application Server Liberty Multiple Vulnerabilities,CVE-2026-15064,8.7,,387918,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7281625
+IBM WebSphere Application Server / WebSphere Application Server Liberty Security Bypass Vulnerability,CVE-2026-14529,9.4,,387918,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7281721
+IBM WebSphere Application Server Authentication Bypass Vulnerability,CVE-2026-16184,7,,387918,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7281628
+IBM WebSphere Application Server Liberty Denial of Service Vulnerability,CVE-2026-16192,7.1,,387918,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7281648
+IBM WebSphere Application Server Liberty Multiple Cross-Site Request Forgery Vulnerabilities,CVE-2026-14980,8.3,,387918,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7281651
+IBM WebSphere Application Server Liberty Multiple Vulnerabilities,CVE-2026-14976,7.1,,387918,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7281633
+IBM WebSphere Application Server Liberty Multiple Vulnerabilities,CVE-2026-15280,7.5,,387918,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7281633
+IBM WebSphere Application Server Multiple Vulnerabilities,CVE-2026-14974,8.1,,387799,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7281641
+IBM WebSphere Application Server Security Bypass Vulnerability,CVE-2026-14446,9.8,,387799,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7281631
+Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2026-27145,7.5,,6053123,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:42080
+Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2026-39821,9.6,,6053123,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:42080
+Red Hat update for Advanced Cluster Management for Kubernetes,CVE-2026-44495,7,,6053245,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:46903
+Red Hat update for Advanced Cluster Management for Kubernetes,CVE-2026-44496,7.5,,6053245,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:46903
+Red Hat update for Advanced Cluster Management for Kubernetes,CVE-2026-44488,7.5,,6053245,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:46903
+Red Hat update for Advanced Cluster Management for Kubernetes,CVE-2026-44487,7.5,,6053245,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:46903
+Red Hat update for Advanced Cluster Management for Kubernetes,CVE-2026-44486,7.5,,6053245,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:46903
+Red Hat update for Advanced Cluster Management for Kubernetes,CVE-2026-44492,8.6,,6053245,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:46903
+Red Hat update for Advanced Cluster Management for Kubernetes,CVE-2026-44494,8.7,,6053245,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:46903
+Red Hat update for kernel,CVE-2026-52993,7,,6053250,Qualys QID,7/29 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:47017
