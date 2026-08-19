@@ -1,590 +1,308 @@
 title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,https://lists.apache.org/thread/fgggbv3sjjqw7p6q0j88gspt9b2rb728
-GitLab Multiple Vulnerabilities,CVE-2026-16494,7.1,,388347,,,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-2-2-released
-GitLab Multiple Vulnerabilities,CVE-2026-16627,7.7,,388347,,,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-2-2-released
-GitLab Multiple Vulnerabilities,CVE-2026-15423,8.5,,388347,,,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-2-2-released
-GitLab Multiple Vulnerabilities,CVE-2026-19228,8.5,,388347,,,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-2-2-released
-GitLab Multiple Vulnerabilities,CVE-2026-15217,8.7,,388347,,,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-2-2-released
-GitLab Multiple Vulnerabilities,CVE-2026-15216,8.7,,388347,,,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-2-2-released
-GitLab Multiple Vulnerabilities,CVE-2026-10053,8.7,,388347,,,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-2-2-released
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-47058,7.4,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-47063,7.5,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-41254,7.5,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-16243,7.5,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-47057,7.5,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-8400,8.1,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-18511,7.3,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-18077,7.5,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-17199,7.5,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-17217,7.5,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-17229,7.5,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-17208,7.5,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-17004,7.5,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-16982,7.5,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-18846,7.5,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-17069,8.1,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-17045,8.1,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-16867,8.1,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-16868,8.1,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-17197,8.1,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-17206,8.1,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-16858,8.2,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-17220,8.2,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-18249,8.4,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-16815,8.6,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-17502,8.6,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-17029,8.8,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-16674,8.8,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-18101,8.8,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-17223,8.8,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-IBM Advanced Interactive eXecutive (AIX) Aix Multiple Vulnerabilities,CVE-2026-18193,8.9,,330257,,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
-Microsoft Malware Protection Engine Privilege Escalation Vulnerability,CVE-2026-69414,7.8,,,,,https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69414
-NetApp Active IQ Unified Manager for VMware vSphere Libssh2 Arbitrary Code Execution Vulnerability,CVE-2026-66032,8.8,,,,,https://security.netapp.com/advisory/NTAP-20260807-0001
-NetApp Active IQ Unified Manager for VMware vSphere Libssh2 Rejection Notice,CVE-2026-7598,7.3,,,,,https://security.netapp.com/advisory/NTAP-20260814-0020
-NetApp Active IQ Unified Manager for VMware vSphere OpenSSL Denial of Service Vulnerability,CVE-2026-34183,7.5,,,,,https://security.netapp.com/advisory/NTAP-20260617-0006
-NetApp Active IQ Unified Manager for VMware vSphere OpenSSL Denial of Service Vulnerability,CVE-2026-42764,7.5,,,,,https://security.netapp.com/advisory/NTAP-20260617-0004
-NetApp Active IQ Unified Manager for VMware vSphere OpenSSL Security Bypass Vulnerability,CVE-2026-34181,7.4,,,,,https://security.netapp.com/advisory/NTAP-20260617-0010
-NetApp Active IQ Unified Manager Libssh2 Rejection Notice,CVE-2026-66033,7.5,,,,,https://security.netapp.com/advisory/NTAP-20260807-0002
-NetApp Active IQ Unified Manager MySQL Server Multiple Vulnerabilities,CVE-2026-60316,7.2,,,,,https://security.netapp.com/advisory/NTAP-20260731-0017
-NetApp Active IQ Unified Manager MySQL Server Multiple Vulnerabilities,CVE-2026-61094,7.2,,,,,https://security.netapp.com/advisory/NTAP-20260731-0017
-NetApp Active IQ Unified Manager MySQL Server Multiple Vulnerabilities,CVE-2026-60315,8.2,,,,,https://security.netapp.com/advisory/NTAP-20260731-0017
-NetApp Active IQ Unified Manager MySQL Server Multiple Vulnerabilities,CVE-2026-60163,8.4,,,,,https://security.netapp.com/advisory/NTAP-20260731-0017
-NetApp Active IQ Unified Manager OpenSSL Arbitrary Code Execution Vulnerability,CVE-2026-45447,9.8,,,,,https://security.netapp.com/advisory/NTAP-20260617-0002
-NetApp Active IQ Unified Manager OpenSSL Denial of Service Vulnerability,CVE-2026-9076,7.5,,,,,https://security.netapp.com/advisory/NTAP-20260617-0008
-NetApp Active IQ Unified Manager OpenSSL Security Bypass Vulnerability,CVE-2026-34182,9.1,,,,,https://security.netapp.com/advisory/NTAP-20260617-0001
-NetApp Active IQ Unified Manager OpenSSL Vulnerability,CVE-2026-34180,7.5,,,,,https://security.netapp.com/advisory/NTAP-20260617-0009
-NetApp Active IQ Unified Manager Python Denial of Service Vulnerability,CVE-2026-3276,not available,,,,,https://security.netapp.com/advisory/NTAP-20260731-0013
-NetApp Multiple Products OpenSSL Rejection Notice,CVE-2026-7383,8.1,,,,,https://security.netapp.com/advisory/NTAP-20260617-0003
-NetApp Multiple Products Oracle Java Multiple Vulnerabilities,CVE-2026-21932,7.4,,,,,https://security.netapp.com/advisory/NTAP-20260123-0012
-NetApp Multiple Products Oracle Java Multiple Vulnerabilities,CVE-2026-21945,7.5,,,,,https://security.netapp.com/advisory/NTAP-20260123-0012
-PostgreSQL Multiple Vulnerabilities,CVE-2026-6471,7.2,,,,,"https://www.postgresql.org/about/news/postgresql-186-1711-1615-1519-1424-and-19-beta-3-released-3365
-https://www.postgresql.org/support/security/CVE-2026-14662/
-https://www.postgresql.org/support/security/CVE-2026-14663/
-https://www.postgresql.org/support/security/CVE-2026-14664/
-https://www.postgresql.org/support/security/CVE-2026-14666/
-https://www.postgresql.org/support/security/CVE-2026-14668/
-https://www.postgresql.org/support/security/CVE-2026-14669/
-https://www.postgresql.org/support/security/CVE-2026-14670/
-https://www.postgresql.org/support/security/CVE-2026-14671/
-https://www.postgresql.org/support/security/CVE-2026-14676/
-https://www.postgresql.org/support/security/CVE-2026-14677/
-https://www.postgresql.org/support/security/CVE-2026-14678/
-https://www.postgresql.org/support/security/CVE-2026-14679/
-https://www.postgresql.org/support/security/CVE-2026-14680/
-https://www.postgresql.org/support/security/CVE-2026-14681/
-https://www.postgresql.org/support/security/CVE-2026-15741/
-https://www.postgresql.org/support/security/CVE-2026-15742/
-https://www.postgresql.org/support/security/CVE-2026-16238/
-https://www.postgresql.org/support/security/CVE-2026-16239/
-https://www.postgresql.org/support/security/CVE-2026-18024/
-https://www.postgresql.org/support/security/CVE-2026-18408/
-https://www.postgresql.org/support/security/CVE-2026-19385/
-https://www.postgresql.org/support/security/CVE-2026-6464/
-https://www.postgresql.org/support/security/CVE-2026-6470/
-https://www.postgresql.org/support/security/CVE-2026-6471/"
-PostgreSQL Multiple Vulnerabilities,CVE-2026-14668,8.1,,,,,"https://www.postgresql.org/about/news/postgresql-186-1711-1615-1519-1424-and-19-beta-3-released-3365
-https://www.postgresql.org/support/security/CVE-2026-14662/
-https://www.postgresql.org/support/security/CVE-2026-14663/
-https://www.postgresql.org/support/security/CVE-2026-14664/
-https://www.postgresql.org/support/security/CVE-2026-14666/
-https://www.postgresql.org/support/security/CVE-2026-14668/
-https://www.postgresql.org/support/security/CVE-2026-14669/
-https://www.postgresql.org/support/security/CVE-2026-14670/
-https://www.postgresql.org/support/security/CVE-2026-14671/
-https://www.postgresql.org/support/security/CVE-2026-14676/
-https://www.postgresql.org/support/security/CVE-2026-14677/
-https://www.postgresql.org/support/security/CVE-2026-14678/
-https://www.postgresql.org/support/security/CVE-2026-14679/
-https://www.postgresql.org/support/security/CVE-2026-14680/
-https://www.postgresql.org/support/security/CVE-2026-14681/
-https://www.postgresql.org/support/security/CVE-2026-15741/
-https://www.postgresql.org/support/security/CVE-2026-15742/
-https://www.postgresql.org/support/security/CVE-2026-16238/
-https://www.postgresql.org/support/security/CVE-2026-16239/
-https://www.postgresql.org/support/security/CVE-2026-18024/
-https://www.postgresql.org/support/security/CVE-2026-18408/
-https://www.postgresql.org/support/security/CVE-2026-19385/
-https://www.postgresql.org/support/security/CVE-2026-6464/
-https://www.postgresql.org/support/security/CVE-2026-6470/
-https://www.postgresql.org/support/security/CVE-2026-6471/"
-PostgreSQL Multiple Vulnerabilities,CVE-2026-6464,8.1,,,,,"https://www.postgresql.org/about/news/postgresql-186-1711-1615-1519-1424-and-19-beta-3-released-3365
-https://www.postgresql.org/support/security/CVE-2026-14662/
-https://www.postgresql.org/support/security/CVE-2026-14663/
-https://www.postgresql.org/support/security/CVE-2026-14664/
-https://www.postgresql.org/support/security/CVE-2026-14666/
-https://www.postgresql.org/support/security/CVE-2026-14668/
-https://www.postgresql.org/support/security/CVE-2026-14669/
-https://www.postgresql.org/support/security/CVE-2026-14670/
-https://www.postgresql.org/support/security/CVE-2026-14671/
-https://www.postgresql.org/support/security/CVE-2026-14676/
-https://www.postgresql.org/support/security/CVE-2026-14677/
-https://www.postgresql.org/support/security/CVE-2026-14678/
-https://www.postgresql.org/support/security/CVE-2026-14679/
-https://www.postgresql.org/support/security/CVE-2026-14680/
-https://www.postgresql.org/support/security/CVE-2026-14681/
-https://www.postgresql.org/support/security/CVE-2026-15741/
-https://www.postgresql.org/support/security/CVE-2026-15742/
-https://www.postgresql.org/support/security/CVE-2026-16238/
-https://www.postgresql.org/support/security/CVE-2026-16239/
-https://www.postgresql.org/support/security/CVE-2026-18024/
-https://www.postgresql.org/support/security/CVE-2026-18408/
-https://www.postgresql.org/support/security/CVE-2026-19385/
-https://www.postgresql.org/support/security/CVE-2026-6464/
-https://www.postgresql.org/support/security/CVE-2026-6470/
-https://www.postgresql.org/support/security/CVE-2026-6471/"
-PostgreSQL Multiple Vulnerabilities,CVE-2026-14679,8.2,,,,,"https://www.postgresql.org/about/news/postgresql-186-1711-1615-1519-1424-and-19-beta-3-released-3365
-https://www.postgresql.org/support/security/CVE-2026-14662/
-https://www.postgresql.org/support/security/CVE-2026-14663/
-https://www.postgresql.org/support/security/CVE-2026-14664/
-https://www.postgresql.org/support/security/CVE-2026-14666/
-https://www.postgresql.org/support/security/CVE-2026-14668/
-https://www.postgresql.org/support/security/CVE-2026-14669/
-https://www.postgresql.org/support/security/CVE-2026-14670/
-https://www.postgresql.org/support/security/CVE-2026-14671/
-https://www.postgresql.org/support/security/CVE-2026-14676/
-https://www.postgresql.org/support/security/CVE-2026-14677/
-https://www.postgresql.org/support/security/CVE-2026-14678/
-https://www.postgresql.org/support/security/CVE-2026-14679/
-https://www.postgresql.org/support/security/CVE-2026-14680/
-https://www.postgresql.org/support/security/CVE-2026-14681/
-https://www.postgresql.org/support/security/CVE-2026-15741/
-https://www.postgresql.org/support/security/CVE-2026-15742/
-https://www.postgresql.org/support/security/CVE-2026-16238/
-https://www.postgresql.org/support/security/CVE-2026-16239/
-https://www.postgresql.org/support/security/CVE-2026-18024/
-https://www.postgresql.org/support/security/CVE-2026-18408/
-https://www.postgresql.org/support/security/CVE-2026-19385/
-https://www.postgresql.org/support/security/CVE-2026-6464/
-https://www.postgresql.org/support/security/CVE-2026-6470/
-https://www.postgresql.org/support/security/CVE-2026-6471/"
-PostgreSQL Multiple Vulnerabilities,CVE-2026-14662,8.8,,,,,"https://www.postgresql.org/about/news/postgresql-186-1711-1615-1519-1424-and-19-beta-3-released-3365
-https://www.postgresql.org/support/security/CVE-2026-14662/
-https://www.postgresql.org/support/security/CVE-2026-14663/
-https://www.postgresql.org/support/security/CVE-2026-14664/
-https://www.postgresql.org/support/security/CVE-2026-14666/
-https://www.postgresql.org/support/security/CVE-2026-14668/
-https://www.postgresql.org/support/security/CVE-2026-14669/
-https://www.postgresql.org/support/security/CVE-2026-14670/
-https://www.postgresql.org/support/security/CVE-2026-14671/
-https://www.postgresql.org/support/security/CVE-2026-14676/
-https://www.postgresql.org/support/security/CVE-2026-14677/
-https://www.postgresql.org/support/security/CVE-2026-14678/
-https://www.postgresql.org/support/security/CVE-2026-14679/
-https://www.postgresql.org/support/security/CVE-2026-14680/
-https://www.postgresql.org/support/security/CVE-2026-14681/
-https://www.postgresql.org/support/security/CVE-2026-15741/
-https://www.postgresql.org/support/security/CVE-2026-15742/
-https://www.postgresql.org/support/security/CVE-2026-16238/
-https://www.postgresql.org/support/security/CVE-2026-16239/
-https://www.postgresql.org/support/security/CVE-2026-18024/
-https://www.postgresql.org/support/security/CVE-2026-18408/
-https://www.postgresql.org/support/security/CVE-2026-19385/
-https://www.postgresql.org/support/security/CVE-2026-6464/
-https://www.postgresql.org/support/security/CVE-2026-6470/
-https://www.postgresql.org/support/security/CVE-2026-6471/"
-PostgreSQL Multiple Vulnerabilities,CVE-2026-19385,8.8,,,,,"https://www.postgresql.org/about/news/postgresql-186-1711-1615-1519-1424-and-19-beta-3-released-3365
-https://www.postgresql.org/support/security/CVE-2026-14662/
-https://www.postgresql.org/support/security/CVE-2026-14663/
-https://www.postgresql.org/support/security/CVE-2026-14664/
-https://www.postgresql.org/support/security/CVE-2026-14666/
-https://www.postgresql.org/support/security/CVE-2026-14668/
-https://www.postgresql.org/support/security/CVE-2026-14669/
-https://www.postgresql.org/support/security/CVE-2026-14670/
-https://www.postgresql.org/support/security/CVE-2026-14671/
-https://www.postgresql.org/support/security/CVE-2026-14676/
-https://www.postgresql.org/support/security/CVE-2026-14677/
-https://www.postgresql.org/support/security/CVE-2026-14678/
-https://www.postgresql.org/support/security/CVE-2026-14679/
-https://www.postgresql.org/support/security/CVE-2026-14680/
-https://www.postgresql.org/support/security/CVE-2026-14681/
-https://www.postgresql.org/support/security/CVE-2026-15741/
-https://www.postgresql.org/support/security/CVE-2026-15742/
-https://www.postgresql.org/support/security/CVE-2026-16238/
-https://www.postgresql.org/support/security/CVE-2026-16239/
-https://www.postgresql.org/support/security/CVE-2026-18024/
-https://www.postgresql.org/support/security/CVE-2026-18408/
-https://www.postgresql.org/support/security/CVE-2026-19385/
-https://www.postgresql.org/support/security/CVE-2026-6464/
-https://www.postgresql.org/support/security/CVE-2026-6470/
-https://www.postgresql.org/support/security/CVE-2026-6471/"
-PostgreSQL Multiple Vulnerabilities,CVE-2026-14677,8.8,,,,,"https://www.postgresql.org/about/news/postgresql-186-1711-1615-1519-1424-and-19-beta-3-released-3365
-https://www.postgresql.org/support/security/CVE-2026-14662/
-https://www.postgresql.org/support/security/CVE-2026-14663/
-https://www.postgresql.org/support/security/CVE-2026-14664/
-https://www.postgresql.org/support/security/CVE-2026-14666/
-https://www.postgresql.org/support/security/CVE-2026-14668/
-https://www.postgresql.org/support/security/CVE-2026-14669/
-https://www.postgresql.org/support/security/CVE-2026-14670/
-https://www.postgresql.org/support/security/CVE-2026-14671/
-https://www.postgresql.org/support/security/CVE-2026-14676/
-https://www.postgresql.org/support/security/CVE-2026-14677/
-https://www.postgresql.org/support/security/CVE-2026-14678/
-https://www.postgresql.org/support/security/CVE-2026-14679/
-https://www.postgresql.org/support/security/CVE-2026-14680/
-https://www.postgresql.org/support/security/CVE-2026-14681/
-https://www.postgresql.org/support/security/CVE-2026-15741/
-https://www.postgresql.org/support/security/CVE-2026-15742/
-https://www.postgresql.org/support/security/CVE-2026-16238/
-https://www.postgresql.org/support/security/CVE-2026-16239/
-https://www.postgresql.org/support/security/CVE-2026-18024/
-https://www.postgresql.org/support/security/CVE-2026-18408/
-https://www.postgresql.org/support/security/CVE-2026-19385/
-https://www.postgresql.org/support/security/CVE-2026-6464/
-https://www.postgresql.org/support/security/CVE-2026-6470/
-https://www.postgresql.org/support/security/CVE-2026-6471/"
-PostgreSQL Multiple Vulnerabilities,CVE-2026-14670,8.8,,,,,"https://www.postgresql.org/about/news/postgresql-186-1711-1615-1519-1424-and-19-beta-3-released-3365
-https://www.postgresql.org/support/security/CVE-2026-14662/
-https://www.postgresql.org/support/security/CVE-2026-14663/
-https://www.postgresql.org/support/security/CVE-2026-14664/
-https://www.postgresql.org/support/security/CVE-2026-14666/
-https://www.postgresql.org/support/security/CVE-2026-14668/
-https://www.postgresql.org/support/security/CVE-2026-14669/
-https://www.postgresql.org/support/security/CVE-2026-14670/
-https://www.postgresql.org/support/security/CVE-2026-14671/
-https://www.postgresql.org/support/security/CVE-2026-14676/
-https://www.postgresql.org/support/security/CVE-2026-14677/
-https://www.postgresql.org/support/security/CVE-2026-14678/
-https://www.postgresql.org/support/security/CVE-2026-14679/
-https://www.postgresql.org/support/security/CVE-2026-14680/
-https://www.postgresql.org/support/security/CVE-2026-14681/
-https://www.postgresql.org/support/security/CVE-2026-15741/
-https://www.postgresql.org/support/security/CVE-2026-15742/
-https://www.postgresql.org/support/security/CVE-2026-16238/
-https://www.postgresql.org/support/security/CVE-2026-16239/
-https://www.postgresql.org/support/security/CVE-2026-18024/
-https://www.postgresql.org/support/security/CVE-2026-18408/
-https://www.postgresql.org/support/security/CVE-2026-19385/
-https://www.postgresql.org/support/security/CVE-2026-6464/
-https://www.postgresql.org/support/security/CVE-2026-6470/
-https://www.postgresql.org/support/security/CVE-2026-6471/"
-PostgreSQL Multiple Vulnerabilities,CVE-2026-14669,8.8,,,,,"https://www.postgresql.org/about/news/postgresql-186-1711-1615-1519-1424-and-19-beta-3-released-3365
-https://www.postgresql.org/support/security/CVE-2026-14662/
-https://www.postgresql.org/support/security/CVE-2026-14663/
-https://www.postgresql.org/support/security/CVE-2026-14664/
-https://www.postgresql.org/support/security/CVE-2026-14666/
-https://www.postgresql.org/support/security/CVE-2026-14668/
-https://www.postgresql.org/support/security/CVE-2026-14669/
-https://www.postgresql.org/support/security/CVE-2026-14670/
-https://www.postgresql.org/support/security/CVE-2026-14671/
-https://www.postgresql.org/support/security/CVE-2026-14676/
-https://www.postgresql.org/support/security/CVE-2026-14677/
-https://www.postgresql.org/support/security/CVE-2026-14678/
-https://www.postgresql.org/support/security/CVE-2026-14679/
-https://www.postgresql.org/support/security/CVE-2026-14680/
-https://www.postgresql.org/support/security/CVE-2026-14681/
-https://www.postgresql.org/support/security/CVE-2026-15741/
-https://www.postgresql.org/support/security/CVE-2026-15742/
-https://www.postgresql.org/support/security/CVE-2026-16238/
-https://www.postgresql.org/support/security/CVE-2026-16239/
-https://www.postgresql.org/support/security/CVE-2026-18024/
-https://www.postgresql.org/support/security/CVE-2026-18408/
-https://www.postgresql.org/support/security/CVE-2026-19385/
-https://www.postgresql.org/support/security/CVE-2026-6464/
-https://www.postgresql.org/support/security/CVE-2026-6470/
-https://www.postgresql.org/support/security/CVE-2026-6471/"
-PostgreSQL Multiple Vulnerabilities,CVE-2026-14671,8.8,,,,,"https://www.postgresql.org/about/news/postgresql-186-1711-1615-1519-1424-and-19-beta-3-released-3365
-https://www.postgresql.org/support/security/CVE-2026-14662/
-https://www.postgresql.org/support/security/CVE-2026-14663/
-https://www.postgresql.org/support/security/CVE-2026-14664/
-https://www.postgresql.org/support/security/CVE-2026-14666/
-https://www.postgresql.org/support/security/CVE-2026-14668/
-https://www.postgresql.org/support/security/CVE-2026-14669/
-https://www.postgresql.org/support/security/CVE-2026-14670/
-https://www.postgresql.org/support/security/CVE-2026-14671/
-https://www.postgresql.org/support/security/CVE-2026-14676/
-https://www.postgresql.org/support/security/CVE-2026-14677/
-https://www.postgresql.org/support/security/CVE-2026-14678/
-https://www.postgresql.org/support/security/CVE-2026-14679/
-https://www.postgresql.org/support/security/CVE-2026-14680/
-https://www.postgresql.org/support/security/CVE-2026-14681/
-https://www.postgresql.org/support/security/CVE-2026-15741/
-https://www.postgresql.org/support/security/CVE-2026-15742/
-https://www.postgresql.org/support/security/CVE-2026-16238/
-https://www.postgresql.org/support/security/CVE-2026-16239/
-https://www.postgresql.org/support/security/CVE-2026-18024/
-https://www.postgresql.org/support/security/CVE-2026-18408/
-https://www.postgresql.org/support/security/CVE-2026-19385/
-https://www.postgresql.org/support/security/CVE-2026-6464/
-https://www.postgresql.org/support/security/CVE-2026-6470/
-https://www.postgresql.org/support/security/CVE-2026-6471/"
-PostgreSQL Multiple Vulnerabilities,CVE-2026-15742,8.8,,,,,"https://www.postgresql.org/about/news/postgresql-186-1711-1615-1519-1424-and-19-beta-3-released-3365
-https://www.postgresql.org/support/security/CVE-2026-14662/
-https://www.postgresql.org/support/security/CVE-2026-14663/
-https://www.postgresql.org/support/security/CVE-2026-14664/
-https://www.postgresql.org/support/security/CVE-2026-14666/
-https://www.postgresql.org/support/security/CVE-2026-14668/
-https://www.postgresql.org/support/security/CVE-2026-14669/
-https://www.postgresql.org/support/security/CVE-2026-14670/
-https://www.postgresql.org/support/security/CVE-2026-14671/
-https://www.postgresql.org/support/security/CVE-2026-14676/
-https://www.postgresql.org/support/security/CVE-2026-14677/
-https://www.postgresql.org/support/security/CVE-2026-14678/
-https://www.postgresql.org/support/security/CVE-2026-14679/
-https://www.postgresql.org/support/security/CVE-2026-14680/
-https://www.postgresql.org/support/security/CVE-2026-14681/
-https://www.postgresql.org/support/security/CVE-2026-15741/
-https://www.postgresql.org/support/security/CVE-2026-15742/
-https://www.postgresql.org/support/security/CVE-2026-16238/
-https://www.postgresql.org/support/security/CVE-2026-16239/
-https://www.postgresql.org/support/security/CVE-2026-18024/
-https://www.postgresql.org/support/security/CVE-2026-18408/
-https://www.postgresql.org/support/security/CVE-2026-19385/
-https://www.postgresql.org/support/security/CVE-2026-6464/
-https://www.postgresql.org/support/security/CVE-2026-6470/
-https://www.postgresql.org/support/security/CVE-2026-6471/"
-PostgreSQL Multiple Vulnerabilities,CVE-2026-14680,8.8,,,,,"https://www.postgresql.org/about/news/postgresql-186-1711-1615-1519-1424-and-19-beta-3-released-3365
-https://www.postgresql.org/support/security/CVE-2026-14662/
-https://www.postgresql.org/support/security/CVE-2026-14663/
-https://www.postgresql.org/support/security/CVE-2026-14664/
-https://www.postgresql.org/support/security/CVE-2026-14666/
-https://www.postgresql.org/support/security/CVE-2026-14668/
-https://www.postgresql.org/support/security/CVE-2026-14669/
-https://www.postgresql.org/support/security/CVE-2026-14670/
-https://www.postgresql.org/support/security/CVE-2026-14671/
-https://www.postgresql.org/support/security/CVE-2026-14676/
-https://www.postgresql.org/support/security/CVE-2026-14677/
-https://www.postgresql.org/support/security/CVE-2026-14678/
-https://www.postgresql.org/support/security/CVE-2026-14679/
-https://www.postgresql.org/support/security/CVE-2026-14680/
-https://www.postgresql.org/support/security/CVE-2026-14681/
-https://www.postgresql.org/support/security/CVE-2026-15741/
-https://www.postgresql.org/support/security/CVE-2026-15742/
-https://www.postgresql.org/support/security/CVE-2026-16238/
-https://www.postgresql.org/support/security/CVE-2026-16239/
-https://www.postgresql.org/support/security/CVE-2026-18024/
-https://www.postgresql.org/support/security/CVE-2026-18408/
-https://www.postgresql.org/support/security/CVE-2026-19385/
-https://www.postgresql.org/support/security/CVE-2026-6464/
-https://www.postgresql.org/support/security/CVE-2026-6470/
-https://www.postgresql.org/support/security/CVE-2026-6471/"
-PostgreSQL Multiple Vulnerabilities,CVE-2026-15741,8.8,,,,,"https://www.postgresql.org/about/news/postgresql-186-1711-1615-1519-1424-and-19-beta-3-released-3365
-https://www.postgresql.org/support/security/CVE-2026-14662/
-https://www.postgresql.org/support/security/CVE-2026-14663/
-https://www.postgresql.org/support/security/CVE-2026-14664/
-https://www.postgresql.org/support/security/CVE-2026-14666/
-https://www.postgresql.org/support/security/CVE-2026-14668/
-https://www.postgresql.org/support/security/CVE-2026-14669/
-https://www.postgresql.org/support/security/CVE-2026-14670/
-https://www.postgresql.org/support/security/CVE-2026-14671/
-https://www.postgresql.org/support/security/CVE-2026-14676/
-https://www.postgresql.org/support/security/CVE-2026-14677/
-https://www.postgresql.org/support/security/CVE-2026-14678/
-https://www.postgresql.org/support/security/CVE-2026-14679/
-https://www.postgresql.org/support/security/CVE-2026-14680/
-https://www.postgresql.org/support/security/CVE-2026-14681/
-https://www.postgresql.org/support/security/CVE-2026-15741/
-https://www.postgresql.org/support/security/CVE-2026-15742/
-https://www.postgresql.org/support/security/CVE-2026-16238/
-https://www.postgresql.org/support/security/CVE-2026-16239/
-https://www.postgresql.org/support/security/CVE-2026-18024/
-https://www.postgresql.org/support/security/CVE-2026-18408/
-https://www.postgresql.org/support/security/CVE-2026-19385/
-https://www.postgresql.org/support/security/CVE-2026-6464/
-https://www.postgresql.org/support/security/CVE-2026-6470/
-https://www.postgresql.org/support/security/CVE-2026-6471/"
-PostgreSQL Multiple Vulnerabilities,CVE-2026-18408,8.8,,,,,"https://www.postgresql.org/about/news/postgresql-186-1711-1615-1519-1424-and-19-beta-3-released-3365
-https://www.postgresql.org/support/security/CVE-2026-14662/
-https://www.postgresql.org/support/security/CVE-2026-14663/
-https://www.postgresql.org/support/security/CVE-2026-14664/
-https://www.postgresql.org/support/security/CVE-2026-14666/
-https://www.postgresql.org/support/security/CVE-2026-14668/
-https://www.postgresql.org/support/security/CVE-2026-14669/
-https://www.postgresql.org/support/security/CVE-2026-14670/
-https://www.postgresql.org/support/security/CVE-2026-14671/
-https://www.postgresql.org/support/security/CVE-2026-14676/
-https://www.postgresql.org/support/security/CVE-2026-14677/
-https://www.postgresql.org/support/security/CVE-2026-14678/
-https://www.postgresql.org/support/security/CVE-2026-14679/
-https://www.postgresql.org/support/security/CVE-2026-14680/
-https://www.postgresql.org/support/security/CVE-2026-14681/
-https://www.postgresql.org/support/security/CVE-2026-15741/
-https://www.postgresql.org/support/security/CVE-2026-15742/
-https://www.postgresql.org/support/security/CVE-2026-16238/
-https://www.postgresql.org/support/security/CVE-2026-16239/
-https://www.postgresql.org/support/security/CVE-2026-18024/
-https://www.postgresql.org/support/security/CVE-2026-18408/
-https://www.postgresql.org/support/security/CVE-2026-19385/
-https://www.postgresql.org/support/security/CVE-2026-6464/
-https://www.postgresql.org/support/security/CVE-2026-6470/
-https://www.postgresql.org/support/security/CVE-2026-6471/"
-PostgreSQL Multiple Vulnerabilities,CVE-2026-14664,8.8,,,,,"https://www.postgresql.org/about/news/postgresql-186-1711-1615-1519-1424-and-19-beta-3-released-3365
-https://www.postgresql.org/support/security/CVE-2026-14662/
-https://www.postgresql.org/support/security/CVE-2026-14663/
-https://www.postgresql.org/support/security/CVE-2026-14664/
-https://www.postgresql.org/support/security/CVE-2026-14666/
-https://www.postgresql.org/support/security/CVE-2026-14668/
-https://www.postgresql.org/support/security/CVE-2026-14669/
-https://www.postgresql.org/support/security/CVE-2026-14670/
-https://www.postgresql.org/support/security/CVE-2026-14671/
-https://www.postgresql.org/support/security/CVE-2026-14676/
-https://www.postgresql.org/support/security/CVE-2026-14677/
-https://www.postgresql.org/support/security/CVE-2026-14678/
-https://www.postgresql.org/support/security/CVE-2026-14679/
-https://www.postgresql.org/support/security/CVE-2026-14680/
-https://www.postgresql.org/support/security/CVE-2026-14681/
-https://www.postgresql.org/support/security/CVE-2026-15741/
-https://www.postgresql.org/support/security/CVE-2026-15742/
-https://www.postgresql.org/support/security/CVE-2026-16238/
-https://www.postgresql.org/support/security/CVE-2026-16239/
-https://www.postgresql.org/support/security/CVE-2026-18024/
-https://www.postgresql.org/support/security/CVE-2026-18408/
-https://www.postgresql.org/support/security/CVE-2026-19385/
-https://www.postgresql.org/support/security/CVE-2026-6464/
-https://www.postgresql.org/support/security/CVE-2026-6470/
-https://www.postgresql.org/support/security/CVE-2026-6471/"
-PostgreSQL Multiple Vulnerabilities,CVE-2026-14676,8.8,,,,,"https://www.postgresql.org/about/news/postgresql-186-1711-1615-1519-1424-and-19-beta-3-released-3365
-https://www.postgresql.org/support/security/CVE-2026-14662/
-https://www.postgresql.org/support/security/CVE-2026-14663/
-https://www.postgresql.org/support/security/CVE-2026-14664/
-https://www.postgresql.org/support/security/CVE-2026-14666/
-https://www.postgresql.org/support/security/CVE-2026-14668/
-https://www.postgresql.org/support/security/CVE-2026-14669/
-https://www.postgresql.org/support/security/CVE-2026-14670/
-https://www.postgresql.org/support/security/CVE-2026-14671/
-https://www.postgresql.org/support/security/CVE-2026-14676/
-https://www.postgresql.org/support/security/CVE-2026-14677/
-https://www.postgresql.org/support/security/CVE-2026-14678/
-https://www.postgresql.org/support/security/CVE-2026-14679/
-https://www.postgresql.org/support/security/CVE-2026-14680/
-https://www.postgresql.org/support/security/CVE-2026-14681/
-https://www.postgresql.org/support/security/CVE-2026-15741/
-https://www.postgresql.org/support/security/CVE-2026-15742/
-https://www.postgresql.org/support/security/CVE-2026-16238/
-https://www.postgresql.org/support/security/CVE-2026-16239/
-https://www.postgresql.org/support/security/CVE-2026-18024/
-https://www.postgresql.org/support/security/CVE-2026-18408/
-https://www.postgresql.org/support/security/CVE-2026-19385/
-https://www.postgresql.org/support/security/CVE-2026-6464/
-https://www.postgresql.org/support/security/CVE-2026-6470/
-https://www.postgresql.org/support/security/CVE-2026-6471/"
-PostgreSQL Multiple Vulnerabilities,CVE-2026-16238,8.8,,,,,"https://www.postgresql.org/about/news/postgresql-186-1711-1615-1519-1424-and-19-beta-3-released-3365
-https://www.postgresql.org/support/security/CVE-2026-14662/
-https://www.postgresql.org/support/security/CVE-2026-14663/
-https://www.postgresql.org/support/security/CVE-2026-14664/
-https://www.postgresql.org/support/security/CVE-2026-14666/
-https://www.postgresql.org/support/security/CVE-2026-14668/
-https://www.postgresql.org/support/security/CVE-2026-14669/
-https://www.postgresql.org/support/security/CVE-2026-14670/
-https://www.postgresql.org/support/security/CVE-2026-14671/
-https://www.postgresql.org/support/security/CVE-2026-14676/
-https://www.postgresql.org/support/security/CVE-2026-14677/
-https://www.postgresql.org/support/security/CVE-2026-14678/
-https://www.postgresql.org/support/security/CVE-2026-14679/
-https://www.postgresql.org/support/security/CVE-2026-14680/
-https://www.postgresql.org/support/security/CVE-2026-14681/
-https://www.postgresql.org/support/security/CVE-2026-15741/
-https://www.postgresql.org/support/security/CVE-2026-15742/
-https://www.postgresql.org/support/security/CVE-2026-16238/
-https://www.postgresql.org/support/security/CVE-2026-16239/
-https://www.postgresql.org/support/security/CVE-2026-18024/
-https://www.postgresql.org/support/security/CVE-2026-18408/
-https://www.postgresql.org/support/security/CVE-2026-19385/
-https://www.postgresql.org/support/security/CVE-2026-6464/
-https://www.postgresql.org/support/security/CVE-2026-6470/
-https://www.postgresql.org/support/security/CVE-2026-6471/"
-PostgreSQL Multiple Vulnerabilities,CVE-2026-16239,8.8,,,,,"https://www.postgresql.org/about/news/postgresql-186-1711-1615-1519-1424-and-19-beta-3-released-3365
-https://www.postgresql.org/support/security/CVE-2026-14662/
-https://www.postgresql.org/support/security/CVE-2026-14663/
-https://www.postgresql.org/support/security/CVE-2026-14664/
-https://www.postgresql.org/support/security/CVE-2026-14666/
-https://www.postgresql.org/support/security/CVE-2026-14668/
-https://www.postgresql.org/support/security/CVE-2026-14669/
-https://www.postgresql.org/support/security/CVE-2026-14670/
-https://www.postgresql.org/support/security/CVE-2026-14671/
-https://www.postgresql.org/support/security/CVE-2026-14676/
-https://www.postgresql.org/support/security/CVE-2026-14677/
-https://www.postgresql.org/support/security/CVE-2026-14678/
-https://www.postgresql.org/support/security/CVE-2026-14679/
-https://www.postgresql.org/support/security/CVE-2026-14680/
-https://www.postgresql.org/support/security/CVE-2026-14681/
-https://www.postgresql.org/support/security/CVE-2026-15741/
-https://www.postgresql.org/support/security/CVE-2026-15742/
-https://www.postgresql.org/support/security/CVE-2026-16238/
-https://www.postgresql.org/support/security/CVE-2026-16239/
-https://www.postgresql.org/support/security/CVE-2026-18024/
-https://www.postgresql.org/support/security/CVE-2026-18408/
-https://www.postgresql.org/support/security/CVE-2026-19385/
-https://www.postgresql.org/support/security/CVE-2026-6464/
-https://www.postgresql.org/support/security/CVE-2026-6470/
-https://www.postgresql.org/support/security/CVE-2026-6471/"
-Red Hat dracut Rejection Notice,CVE-2026-15816,7.5,,,,,"https://access.redhat.com/errata/RHSA-2026:54571
-https://access.redhat.com/errata/RHSA-2026:54575
-https://access.redhat.com/errata/RHSA-2026:54576"
-Red Hat update for bind,CVE-2026-11721,7.5,,,,,"https://access.redhat.com/errata/RHSA-2026:54509
-https://access.redhat.com/errata/RHSA-2026:54510
-https://access.redhat.com/errata/RHSA-2026:54654
-https://access.redhat.com/errata/RHSA-2026:55437
-https://access.redhat.com/errata/RHSA-2026:55441"
-Red Hat update for bind,CVE-2026-11622,7.5,,,,,"https://access.redhat.com/errata/RHSA-2026:54509
-https://access.redhat.com/errata/RHSA-2026:54510
-https://access.redhat.com/errata/RHSA-2026:54654
-https://access.redhat.com/errata/RHSA-2026:55437
-https://access.redhat.com/errata/RHSA-2026:55441"
-Red Hat update for bind,CVE-2026-5946,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:55441
-Red Hat update for bind,CVE-2026-13204,7.5,,,,,"https://access.redhat.com/errata/RHSA-2026:54509
-https://access.redhat.com/errata/RHSA-2026:54510
-https://access.redhat.com/errata/RHSA-2026:54654
-https://access.redhat.com/errata/RHSA-2026:55437
-https://access.redhat.com/errata/RHSA-2026:55441"
-Red Hat update for bind,CVE-2026-11331,7.5,,,,,"https://access.redhat.com/errata/RHSA-2026:54509
-https://access.redhat.com/errata/RHSA-2026:54510
-https://access.redhat.com/errata/RHSA-2026:55437
-https://access.redhat.com/errata/RHSA-2026:55441"
-Red Hat update for bind,CVE-2026-3039,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:55441
-Red Hat update for bind,CVE-2026-13321,8.6,,,,,"https://access.redhat.com/errata/RHSA-2026:54509
-https://access.redhat.com/errata/RHSA-2026:54510
-https://access.redhat.com/errata/RHSA-2026:54654
-https://access.redhat.com/errata/RHSA-2026:55437
-https://access.redhat.com/errata/RHSA-2026:55441"
-Red Hat update for compat-libtiff3,CVE-2026-12912,7.3,,,,,https://access.redhat.com/errata/RHSA-2026:54638
-Red Hat update for dotnet10.0,CVE-2026-62901,7.5,,,,,"https://access.redhat.com/errata/RHSA-2026:54538
-https://access.redhat.com/errata/RHSA-2026:54541
-https://access.redhat.com/errata/RHSA-2026:54542
-https://access.redhat.com/errata/RHSA-2026:54550
-https://access.redhat.com/errata/RHSA-2026:54574
-https://access.redhat.com/errata/RHSA-2026:54590"
-Red Hat update for dotnet10.0,CVE-2026-62909,7.8,,,,,"https://access.redhat.com/errata/RHSA-2026:54538
-https://access.redhat.com/errata/RHSA-2026:54541
-https://access.redhat.com/errata/RHSA-2026:54542
-https://access.redhat.com/errata/RHSA-2026:54550
-https://access.redhat.com/errata/RHSA-2026:54574
-https://access.redhat.com/errata/RHSA-2026:54590"
-Red Hat update for gstreamer1-plugins-bad-free,CVE-2026-59691,7.1,,,,,"https://access.redhat.com/errata/RHSA-2026:54658
-https://access.redhat.com/errata/RHSA-2026:54660
-https://access.redhat.com/errata/RHSA-2026:54664
-https://access.redhat.com/errata/RHSA-2026:54752"
-Red Hat update for gstreamer1-plugins-bad-free,CVE-2026-59692,7.5,,,,,"https://access.redhat.com/errata/RHSA-2026:54658
-https://access.redhat.com/errata/RHSA-2026:54660
-https://access.redhat.com/errata/RHSA-2026:54664
-https://access.redhat.com/errata/RHSA-2026:54752"
-Red Hat update for kernel,CVE-2026-53264,7.8,,,,,"https://access.redhat.com/errata/RHSA-2026:54482
-https://access.redhat.com/errata/RHSA-2026:55443"
-Red Hat update for libXfont2,CVE-2026-59679,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:55448
-Red Hat update for libXfont2,CVE-2026-44950,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:55448
-Red Hat update for postgresql-jdbc,CVE-2026-42198,7.5,,,,,https://access.redhat.com/errata/RHSA-2026:54532
-Red Hat update for webkit2gtk3,CVE-2026-43725,7.1,,,,,"https://access.redhat.com/errata/RHSA-2026:54572
-https://access.redhat.com/errata/RHSA-2026:54634"
-Red Hat update for webkit2gtk3,CVE-2026-43731,8.8,,,,,"https://access.redhat.com/errata/RHSA-2026:54572
-https://access.redhat.com/errata/RHSA-2026:54634"
-Red Hat update for webkit2gtk3,CVE-2026-43705,8.8,,,,,"https://access.redhat.com/errata/RHSA-2026:54572
-https://access.redhat.com/errata/RHSA-2026:54634"
-Red Hat update for webkit2gtk3,CVE-2026-43715,8.8,,,,,"https://access.redhat.com/errata/RHSA-2026:54572
-https://access.redhat.com/errata/RHSA-2026:54634"
-Red Hat update for webkit2gtk3,CVE-2024-4367,8.8,,,,,"https://access.redhat.com/errata/RHSA-2026:54572
-https://access.redhat.com/errata/RHSA-2026:54634"
-Red Hat update for webkit2gtk3,CVE-2026-43721,9.3,,,,,"https://access.redhat.com/errata/RHSA-2026:54572
-https://access.redhat.com/errata/RHSA-2026:54634"
-Red Hat update for webkit2gtk3,CVE-2026-43701,9.6,,,,,"https://access.redhat.com/errata/RHSA-2026:54572
-https://access.redhat.com/errata/RHSA-2026:54634"
-Red Hat yelp Rejection Notice,CVE-2026-13601,7.1,,,,,"https://access.redhat.com/errata/RHSA-2026:54539
-https://access.redhat.com/errata/RHSA-2026:54540
-https://access.redhat.com/errata/RHSA-2026:54624
-https://access.redhat.com/errata/RHSA-2026:54637"
-Wazuh Multiple Vulnerabilities,CVE-2026-44901,9.9,,,,,https://www.zerodayinitiative.com/advisories/ZDI-26-527
-Wazuh Multiple Vulnerabilities,CVE-2026-48162,not available,,,,,https://www.zerodayinitiative.com/advisories/ZDI-26-527
-Wazuh Multiple Vulnerabilities,CVE-2026-49392,not available,,,,,https://www.zerodayinitiative.com/advisories/ZDI-26-527
-Wazuh Multiple Vulnerabilities,CVE-2026-45798,not available,,,,,https://www.zerodayinitiative.com/advisories/ZDI-26-527
-Wazuh Multiple Vulnerabilities,CVE-2026-44256,not available,,,,,https://www.zerodayinitiative.com/advisories/ZDI-26-527
-Wazuh Multiple Vulnerabilities,CVE-2026-41424,not available,,,,,https://www.zerodayinitiative.com/advisories/ZDI-26-527
-Wazuh Multiple Vulnerabilities,CVE-2026-44254,not available,,,,,https://www.zerodayinitiative.com/advisories/ZDI-26-527
-Wazuh Multiple Vulnerabilities,CVE-2026-49441,not available,,,,,https://www.zerodayinitiative.com/advisories/ZDI-26-527
-Wazuh Multiple Vulnerabilities,CVE-2026-48024,not available,,,,,https://www.zerodayinitiative.com/advisories/ZDI-26-527
+Apache Struts Multiple Vulnerabilities,CVE-2026-73633,n/a,,388361,Qualys QID,8/18 CH - QID Available | No Exploit/POC,https://groups.google.com/g/golang-announce/c/94pEornpRlI/m/_JhCbsOZBAAJ
+Apache Struts Multiple Vulnerabilities,CVE-2026-73635,n/a,,388361,Qualys QID,8/18 CH - QID Available | No Exploit/POC,https://cwiki.apache.org/confluence/spaces/WW/pages/444334417/S2-070
+Apache Struts Multiple Vulnerabilities,CVE-2026-73634,n/a,,388361,Qualys QID,8/18 CH - QID Available | No Exploit/POC,https://cwiki.apache.org/confluence/spaces/WW/pages/444334417/S2-070
+Apple Safari Multiple Vulnerabilities,CVE-2026-43794,n/a,,388382,Qualys QID,8/18 CH - QID Available | No Exploit/POC,https://support.apple.com/en-us/148281
+Google Chrome Multiple Vulnerabilities,CVE-2026-76044,High,,388374,Qualys QID,8/18 CH - QID Available | No Exploit/POC,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76046,High,,388374,Qualys QID,8/18 CH - QID Available | No Exploit/POC,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76037,High,,388374,Qualys QID,8/18 CH - QID Available | No Exploit/POC,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76043,High,,388374,Qualys QID,8/18 CH - QID Available | No Exploit/POC,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76034,Critical,,388374,Qualys QID,8/18 CH - QID Available | No Exploit/POC,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76047,High,,388374,Qualys QID,8/18 CH - QID Available | No Exploit/POC,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76045,High,,388374,Qualys QID,8/18 CH - QID Available | No Exploit/POC,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76040,High,,388374,Qualys QID,8/18 CH - QID Available | No Exploit/POC,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76035,High,,388374,Qualys QID,8/18 CH - QID Available | No Exploit/POC,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76036,Critical,,388374,Qualys QID,8/18 CH - QID Available | No Exploit/POC,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76038,High,,388374,Qualys QID,8/18 CH - QID Available | No Exploit/POC,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74954,7.5,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74958,7.5,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74977,7.5,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74978,8.1,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74946,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74939,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74953,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-75
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74942,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74941,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74949,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74935,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74965,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74955,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-75
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74937,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74947,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74950,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74938,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74956,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74990,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://support.apple.com/en-us/148281
+https://support.apple.com/en-us/148282
+https://support.apple.com/en-us/148286"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74979,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74959,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-75
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74969,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-75
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74948,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-75
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74957,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74944,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-75
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74934,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74962,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-75
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74945,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74987,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-75
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74964,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-75
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74960,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74943,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74936,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-75
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74983,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74976,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74940,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-75
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-76
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-79
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74985,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74961,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74984,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74986,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74981,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74988,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74966,8.8,,"388379, 388377, 388376, 388375",Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-74/
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-77
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-78
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-80"
+Oracle Communications Unified Inventory Management Multiple Vulnerabilities,CVE-2026-71143,7.4,,388444,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixCGBU
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+Oracle Communications Unified Inventory Management Multiple Vulnerabilities,CVE-2025-13151,7.5,,388444,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixDB
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+Oracle Communications Unified Inventory Management Multiple Vulnerabilities,CVE-2026-71142,7.5,,388444,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixCGBU
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2026-61308,6.8,,388370,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2026-70906,7.5,,388370,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+Oracle Java SE Multiple Vulnerabilities,CVE-2026-62574,7.8,,388370,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixJAVA
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+Oracle WebLogic Server Multiple Vulnerabilities,CVE-2023-21839,7.5,,87617,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+Oracle WebLogic Server Multiple Vulnerabilities,CVE-2024-20931,7.5,,87617,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+Oracle WebLogic Server Multiple Vulnerabilities,CVE-2026-60679,7.5,,87617,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+Oracle WebLogic Server Multiple Vulnerabilities,CVE-2026-60415,8.1,,87617,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+Oracle WebLogic Server Multiple Vulnerabilities,CVE-2026-60680,8.1,,87617,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+Oracle WebLogic Server Multiple Vulnerabilities,CVE-2026-60699,8.6,,87617,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+Oracle WebLogic Server Multiple Vulnerabilities,CVE-2026-60672,9.8,,87617,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+Oracle WebLogic Server Multiple Vulnerabilities,CVE-2026-60696,9.8,,87617,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+Oracle WebLogic Server Multiple Vulnerabilities,CVE-2026-60698,9.8,,87617,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+Oracle WebLogic Server Multiple Vulnerabilities,CVE-2026-60977,9.8,,87617,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+Oracle WebLogic Server Multiple Vulnerabilities,CVE-2026-60702,9.9,,87617,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixFMW
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+PeopleSoft Enterprise PeopleTools Multiple Vulnerabilities,CVE-2026-60902,7,,388371,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+PeopleSoft Enterprise PeopleTools Multiple Vulnerabilities,CVE-2026-60883,7.2,,388371,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+PeopleSoft Enterprise PeopleTools Multiple Vulnerabilities,CVE-2026-60873,7.2,,388371,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+PeopleSoft Enterprise PeopleTools Multiple Vulnerabilities,CVE-2026-60856,7.4,,388371,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+PeopleSoft Enterprise PeopleTools Multiple Vulnerabilities,CVE-2026-60975,7.5,,388371,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+PeopleSoft Enterprise PeopleTools Multiple Vulnerabilities,CVE-2026-60742,8.1,,388371,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+PeopleSoft Enterprise PeopleTools Multiple Vulnerabilities,CVE-2026-60831,8.1,,388371,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+PeopleSoft Enterprise PeopleTools Multiple Vulnerabilities,CVE-2026-60879,8.8,,388371,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://chromereleases.googleblog.com/2026/08/chrome-for-android-update_0145056186.html
+https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html"
+PeopleSoft Enterprise PeopleTools Multiple Vulnerabilities,CVE-2026-60967,8.8,,388371,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+PeopleSoft Enterprise PeopleTools Multiple Vulnerabilities,CVE-2026-60821,9.8,,388371,Qualys QID,8/18 CH - QID Available | No Exploit/POC,"https://www.oracle.com/security-alerts/cspuaug2026.html#AppendixPS
+https://www.oracle.com/security-alerts/cspuaug2026verbose.html"
+Red Hat update for abrt,CVE-2026-54230,7,,6053609,Qualys QID,8/18 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:54272
+Red Hat update for abrt,CVE-2026-54229,7,,6053609,Qualys QID,8/18 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:54272
+Red Hat update for abrt,CVE-2026-54228,7.8,,6053609,Qualys QID,8/18 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:54272
+Red Hat update for mod_http2,CVE-2025-53020,7.5,,6055000,Qualys QID,8/18 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:55930
+Red Hat update for mod_http2,CVE-2026-49975,7.5,,6055000,Qualys QID,8/18 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:55930
+Red Hat update for pipewire,CVE-2026-5674,8.8,,6055000,Qualys QID,8/18 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:55930
