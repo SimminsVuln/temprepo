@@ -1,48 +1,1162 @@
 title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,https://lists.apache.org/thread/fgggbv3sjjqw7p6q0j88gspt9b2rb728
-Atlassian Confluence Multiple Vulnerabilities,CVE-2026-59874,7.5,,734976,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Atlassian Confluence Multiple Vulnerabilities,CVE-2026-40983,7.5,,734976,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Atlassian Confluence Multiple Vulnerabilities,CVE-2026-59887,7.5,,734976,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Atlassian Confluence Multiple Vulnerabilities,CVE-2026-42198,7.5,,734976,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Atlassian Confluence Multiple Vulnerabilities,CVE-2026-59873,7.5,,734976,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Atlassian Confluence Multiple Vulnerabilities,CVE-2026-48801,7.5,,734976,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Atlassian Confluence Multiple Vulnerabilities,CVE-2026-59871,7.5,,734976,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Atlassian Confluence Multiple Vulnerabilities,CVE-2026-21580,7.5,,734976,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Atlassian JIRA Multiple Vulnerabilities,CVE-2026-42587,7.5,,735065,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Atlassian JIRA Multiple Vulnerabilities,CVE-2026-41842,7.5,,735065,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Atlassian JIRA Multiple Vulnerabilities,CVE-2026-12151,7.5,,735065,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Atlassian JIRA Multiple Vulnerabilities,CVE-2026-13149,7.5,,735065,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Atlassian JIRA Multiple Vulnerabilities,CVE-2026-42583,7.5,,735065,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Atlassian JIRA Multiple Vulnerabilities,CVE-2026-55685,7.5,,735065,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Atlassian JIRA Multiple Vulnerabilities,CVE-2026-69192,8.6,,735065,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Atlassian JIRA Multiple Vulnerabilities,CVE-2026-27606,8.6,,735065,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Atlassian JIRA Multiple Vulnerabilities,CVE-2026-21582,8.6,,735065,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Jira Service Management Data Center Multiple Vulnerabilities,CVE-2026-44488,7.5,,388393,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Jira Service Management Data Center Multiple Vulnerabilities,CVE-2026-44486,7.5,,388393,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Jira Service Management Data Center Multiple Vulnerabilities,CVE-2026-44487,7.5,,388393,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Jira Service Management Data Center Multiple Vulnerabilities,CVE-2026-50010,7.5,,388393,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Jira Service Management Data Center Multiple Vulnerabilities,CVE-2026-44496,7.5,,388393,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Jira Service Management Data Center Multiple Vulnerabilities,CVE-2026-48043,7.5,,388393,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Jira Service Management Data Center Multiple Vulnerabilities,CVE-2026-45416,7.5,,388393,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Jira Service Management Data Center Multiple Vulnerabilities,CVE-2026-24734,7.5,,388393,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Jira Service Management Data Center Multiple Vulnerabilities,CVE-2026-44249,8.1,,388393,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Jira Service Management Data Center Multiple Vulnerabilities,CVE-2026-44490,8.2,,388393,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Jira Service Management Data Center Multiple Vulnerabilities,CVE-2026-44492,8.6,,388393,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Jira Service Management Data Center Multiple Vulnerabilities,CVE-2026-44494,8.7,,388393,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://confluence.atlassian.com/security/security-bulletin-august-18-2026-1821999768.html
-Red Hat update for bind9.18,CVE-2026-11721,7.5,,6054957,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:55442
-Red Hat update for bind9.18,CVE-2026-11622,7.5,,6054957,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:55442
-Red Hat update for bind9.18,CVE-2026-11331,7.5,,6054957,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:55442
-Red Hat update for bind9.18,CVE-2026-13204,7.5,,6054957,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:55442
-Red Hat update for bind9.18,CVE-2026-13321,8.6,,6054957,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:55442
-Red Hat update for curl,CVE-2026-9547,7.4,,6054961,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:55450
-Red Hat update for curl,CVE-2026-12064,7.5,,6054961,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:55450
-Red Hat update for curl,CVE-2026-8286,8.1,,6054961,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:55450
-Red Hat update for curl,CVE-2026-8927,9.1,,6054961,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:55450
-Red Hat update for glib2,CVE-2026-58014,7.3,,6054961,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:55440
-Red Hat update for kernel,CVE-2025-54518,7,,6055027,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:56574
-Red Hat update for kernel,CVE-2026-53016,7,,6055027,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:56574
-Red Hat update for kernel,CVE-2026-31411,7.1,,6055027,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:56574
-Red Hat update for kernel,CVE-2026-43112,8.1,,6055027,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:56574
-Red Hat update for mysql8.4,CVE-2026-60316,7.2,,6055025,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:56007
-Red Hat update for mysql8.4,CVE-2026-61094,7.2,,6055025,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:56007
-Red Hat update for mysql8.4,CVE-2026-60315,8.2,,6055025,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:56007
-Red Hat update for mysql8.4,CVE-2026-60163,8.4,,6055025,Qualys QID,8/19 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:56007
+Google Chrome Multiple Vulnerabilities,CVE-2026-76042,High,,388374,Qualys QID,,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76033,High,,388374,Qualys QID,,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76041,High,,388374,Qualys QID,,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76039,High,,388374,Qualys QID,,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76044,High,,388374,Qualys QID,,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76046,High,,388374,Qualys QID,,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76037,High,,388374,Qualys QID,,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76043,High,,388374,Qualys QID,,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76034,Critical,,388374,Qualys QID,,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76038,High,,388374,Qualys QID,,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76047,High,,388374,Qualys QID,,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76045,High,,388374,Qualys QID,,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76040,High,,388374,Qualys QID,,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76035,High,,388374,Qualys QID,,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-76036,Critical,,388374,Qualys QID,,https://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html
+IBM AIX Multiple Vulnerabilities,CVE-2026-22007,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-34268,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2025-12817,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16891,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16890,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-22018,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-60000,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-47010,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-47059,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16888,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-59997,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16825,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-59996,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-59995,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16886,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-2003,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16849,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-6474,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17009,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17424,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16866,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-47021,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-47027,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-22013,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-22021,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16833,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16829,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17120,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-6472,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-18828,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16855,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2025-15649,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16883,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16973,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16952,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-46968,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16827,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2025-12818,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-59999,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16980,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16846,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-8368,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16958,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-60147,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-19653,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16972,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17195,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-19448,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16964,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17007,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16914,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-19783,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16951,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16944,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16923,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16838,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16922,7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16989,7.1,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16925,7.1,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16927,7.3,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16851,7.4,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17163,7.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16852,7.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16818,7.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16928,7.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17170,7.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-19446,7.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-22016,7.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16831,7.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16837,7.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16924,7.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16817,7.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16824,7.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17165,7.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-8829,7.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16690,7.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17425,7.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16706,7.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16243,7.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16836,7.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17121,7.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-48959,7.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17159,7.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-14970,7.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17003,7.7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-60002,7.7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16819,7.7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17024,7.7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17423,7.7,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16935,7.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16937,7.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16875,7.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16873,7.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16703,7.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16991,7.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17124,7.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16997,7.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17171,7.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16946,7.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16945,7.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16869,7.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16874,7.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-18716,7.9,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17138,8.1,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17000,8.1,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-19437,8.1,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17060,8.1,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-15078,8.1,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-18670,8.2,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-18840,8.2,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16857,8.2,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16943,8.2,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16686,8.2,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-19442,8.2,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-15061,8.2,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17006,8.3,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-18842,8.4,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-18824,8.4,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17168,8.5,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16841,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16877,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16909,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-6473,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16865,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-2004,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16848,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16934,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-2006,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16911,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-6475,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16842,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16814,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16936,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16901,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16847,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-6477,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16932,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17436,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16844,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16996,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16850,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-18832,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-19449,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-6637,8.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16926,9.1,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-15065,9.1,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-12087,9.1,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17422,9.3,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16822,9.3,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16839,9.4,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16903,9.6,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16894,9.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16864,9.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17118,9.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17160,9.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17157,9.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16840,9.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17152,9.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16862,9.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16919,9.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17136,9.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16872,9.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17122,9.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17141,9.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17142,9.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16885,9.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16917,9.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16834,9.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16656,9.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17145,9.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16882,9.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16845,9.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16913,9.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-17040,9.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-18835,9.9,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16816,9.9,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-15068,9.9,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+IBM AIX Multiple Vulnerabilities,CVE-2026-16821,7.8,,330257,Qualys QID,,https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc
+Kibana Multiple Vulnerabilities,CVE-2026-49096,7,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72655,7,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72671,7,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72650,7,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72673,7,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72667,7,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72661,7,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72681,7,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72659,7,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-49089,7,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72680,7,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72663,7,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72653,7,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72631,7,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72660,7,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72664,7,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72651,7,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72674,7,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72666,7,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72643,7.1,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72675,7.1,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72630,7.1,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72629,7.1,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72632,7.1,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72677,7.3,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72658,7.3,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72669,7.6,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72670,7.7,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72672,7.7,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Kibana Multiple Vulnerabilities,CVE-2026-72665,8.1,,388471,Qualys QID,,"https://discuss.elastic.co/t/kibana-8-19-17-9-3-6-9-4-3-security-update-esa-2026-94/389512
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-102/389513
+https://discuss.elastic.co/t/kibana-8-19-19-9-3-8-9-4-4-security-update-esa-2026-108/389514
+https://discuss.elastic.co/t/kibana-8-19-19-and-9-4-5-security-update-esa-2026-86/389515
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-5-9-4-2-security-update-esa-2026-136/389510
+https://discuss.elastic.co/t/kibana-8-19-20-9-3-8-and-9-4-5-security-update-esa-2026-101/389517
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-126/389530
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-127/389531
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-9-5-1-security-update-esa-2026-129/389532
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-100/389519
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-106/389522
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-110/389523
+https://discuss.elastic.co/t/kibana-8-19-20-9-4-5-security-update-esa-2026-137/389511
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-4-security-update-esa-2026-90/389518
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-104/389520
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-105/389521
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-87/389524
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-88/389525
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-92/389526
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-95/389527
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-96/389528
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-98/389516
+https://discuss.elastic.co/t/kibana-8-19-20-and-9-4-5-security-update-esa-2026-99/389529
+https://discuss.elastic.co/t/kibana-9-3-8-9-4-4-security-update-esa-2026-91/389533
+https://discuss.elastic.co/t/kibana-9-4-4-security-update-esa-2026-83/389534
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-124/389538
+https://discuss.elastic.co/t/kibana-9-4-5-9-5-1-security-update-esa-2026-128/389539
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-82/389535
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-89/389536
+https://discuss.elastic.co/t/kibana-9-4-5-security-update-esa-2026-97/389537"
+Microsoft Edge Based on Chromium Prior to 151.0.4129.101 Multiple Vulnerabilities,CVE-2026-76042,7,,388464,Qualys QID,,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#august-20-2026
+Microsoft Edge Based on Chromium Prior to 151.0.4129.101 Multiple Vulnerabilities,CVE-2026-76033,7,,388464,Qualys QID,,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#august-20-2026
+Microsoft Edge Based on Chromium Prior to 151.0.4129.101 Multiple Vulnerabilities,CVE-2026-76041,7,,388464,Qualys QID,,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#august-20-2026
+Microsoft Edge Based on Chromium Prior to 151.0.4129.101 Multiple Vulnerabilities,CVE-2026-76039,7,,388464,Qualys QID,,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#august-20-2026
+Microsoft Edge Based on Chromium Prior to 151.0.4129.101 Multiple Vulnerabilities,CVE-2026-76044,8.3,,388464,Qualys QID,,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#august-20-2026
+Microsoft Edge Based on Chromium Prior to 151.0.4129.101 Multiple Vulnerabilities,CVE-2026-76046,8.3,,388464,Qualys QID,,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#august-20-2026
+Microsoft Edge Based on Chromium Prior to 151.0.4129.101 Multiple Vulnerabilities,CVE-2026-76037,8.4,,388464,Qualys QID,,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#august-20-2026
+Microsoft Edge Based on Chromium Prior to 151.0.4129.101 Multiple Vulnerabilities,CVE-2026-76043,8.8,,388464,Qualys QID,,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#august-20-2026
+Microsoft Edge Based on Chromium Prior to 151.0.4129.101 Multiple Vulnerabilities,CVE-2026-76034,8.8,,388464,Qualys QID,,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#august-20-2026
+Microsoft Edge Based on Chromium Prior to 151.0.4129.101 Multiple Vulnerabilities,CVE-2026-76038,8.8,,388464,Qualys QID,,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#august-20-2026
+Microsoft Edge Based on Chromium Prior to 151.0.4129.101 Multiple Vulnerabilities,CVE-2026-76047,8.8,,388464,Qualys QID,,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#august-20-2026
+Microsoft Edge Based on Chromium Prior to 151.0.4129.101 Multiple Vulnerabilities,CVE-2026-76045,8.8,,388464,Qualys QID,,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#august-20-2026
+Microsoft Edge Based on Chromium Prior to 151.0.4129.101 Multiple Vulnerabilities,CVE-2026-76040,8.8,,388464,Qualys QID,,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#august-20-2026
+Microsoft Edge Based on Chromium Prior to 151.0.4129.101 Multiple Vulnerabilities,CVE-2026-76035,8.6,,388464,Qualys QID,,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#august-20-2026
+Microsoft Edge Based on Chromium Prior to 151.0.4129.101 Multiple Vulnerabilities,CVE-2026-76036,8.6,,388464,Qualys QID,,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#august-20-2026
+Red Hat update for bind,CVE-2026-10723,7,,6055056,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57189
+Red Hat update for bind,CVE-2026-11331,7.5,,6055056,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57189
+Red Hat update for bind,CVE-2026-11622,7.5,,6055056,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57189
+Red Hat update for bind,CVE-2026-11721,7.5,,6055056,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57189
+Red Hat update for bind,CVE-2026-13204,7.5,,6055056,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57189
+Red Hat update for bind,CVE-2026-5946,7.5,,6055056,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57189
+Red Hat update for bind,CVE-2026-3039,7.5,,6055056,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57189
+Red Hat update for bind,CVE-2026-13321,8.6,,6055056,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57189
+Red Hat update for glib2,CVE-2026-15588,7,,6055032,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57015
+Red Hat update for glib2,CVE-2026-58015,7,,6055032,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57015
+Red Hat update for glib2,CVE-2026-58013,7,,6055032,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57015
+Red Hat update for glib2,CVE-2026-58011,7,,6055032,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57015
+Red Hat update for glib2,CVE-2026-58012,7,,6055032,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57015
+Red Hat update for glib2,CVE-2026-58010,7,,6055032,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57015
+Red Hat update for glib2,CVE-2026-58014,7.3,,6055032,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57015
+Red Hat update for kernel,CVE-2026-53189,7,,6055064,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57253
+Red Hat update for kernel,CVE-2026-68388,7,,6055064,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57253
+Red Hat update for kernel,CVE-2024-56602,7,,6055064,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57253
+Red Hat update for kernel,CVE-2026-63887,7,,6055064,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57253
+Red Hat update for kernel,CVE-2026-64048,7,,6055064,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57253
+Red Hat update for kernel,CVE-2026-63888,7,,6055064,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57253
+Red Hat update for kernel,CVE-2026-52991,7,,6055064,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57253
+Red Hat update for kernel,CVE-2026-64379,7,,6055064,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57253
+Red Hat update for kernel,CVE-2026-46120,7.1,,6055064,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:57253
+Red Hat update for mysql:8.4,CVE-2026-60190,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-61081,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-61096,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-60191,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-60189,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-60182,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-60187,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-60177,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-47012,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-60184,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-60186,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-60185,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-60188,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-46936,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-60145,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-47023,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-47052,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-60747,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-60183,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-60332,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-60331,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-47064,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-61109,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-60585,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-60178,7,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-60316,7.2,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-61094,7.2,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-60315,8.2,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
+Red Hat update for mysql:8.4,CVE-2026-60163,8.4,,6055036,Qualys QID,,https://access.redhat.com/errata/RHSA-2026:56936
