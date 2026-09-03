@@ -1,50 +1,125 @@
 title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,https://lists.apache.org/thread/fgggbv3sjjqw7p6q0j88gspt9b2rb728
-Google Chrome Multiple Vulnerabilities,CVE-2026-84352,,Critical,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84353,,Critical,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84324,,High,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84325,,High,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84326,,High,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84333,,High,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84349,,High,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84351,,High,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84354,,High,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84357,,High,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84359,,High,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84323,,Medium,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84327,,Medium,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84328,,Medium,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84329,,Medium,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84330,,Medium,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84331,,Medium,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84332,,Medium,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84334,,Medium,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84335,,Medium,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84347,,Medium,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84348,,Medium,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84350,,Medium,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84355,,Medium,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84356,,Medium,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-84358,,Medium,388601,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop.html
-Red Hat update for gimp,CVE-2026-18301,,7.8,6055344,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:61587
-Red Hat update for gimp,CVE-2026-18302,,7.8,6055344,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:61587
-Red Hat update for gimp,CVE-2026-18303,,7.8,6055344,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:61587
-Red Hat update for gimp,CVE-2026-18304,,7.8,6055344,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:61587
-Red Hat update for gimp,CVE-2026-18305,,7.8,6055344,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:61587
-Red Hat update for gimp,CVE-2026-18306,,7.8,6055344,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:61587
-Red Hat update for gimp,CVE-2026-18307,,7.8,6055344,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:61587
-Red Hat update for gimp,CVE-2026-18308,,7.8,6055344,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:61587
-Red Hat update for gimp,CVE-2026-59090,,8.4,6055344,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:61587
-Red Hat update for glib2,CVE-2026-58014,,7.3,6055346,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:61766
-Red Hat update for kernel,CVE-2023-52924,,7,6055336,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:61692
-Red Hat update for kernel,CVE-2026-43116,,7,6055336,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:61692
-Red Hat update for kernel,CVE-2026-45984,,7.8,6055336,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:61692
-Red Hat update for libreswan,CVE-2026-12413,,7.5,6055339,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:61779
-Red Hat update for libreswan,CVE-2026-14957,,7.5,6055339,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:61779
-Red Hat update for libreswan,CVE-2026-44950,,7.5,6055339,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:61779
-Red Hat update for libreswan,CVE-2026-59679,,7.5,6055339,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:61779
-Red Hat update for libreswan,CVE-2026-50721,,8.1,6055339,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:61779
-Red Hat update for libreswan,CVE-2026-50722,,8.1,6055339,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:61779
-Red Hat update for libssh2,CVE-2026-58050,,7,6055314,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:61752
-Red Hat update for libssh2,CVE-2026-7598,,7.3,6055314,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:61752
-Red Hat update for libssh2,CVE-2026-66032,,8.8,6055314,Quakys QID,9/1 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:61752
-,CVE-2026-62911,,,,,,
+Cisco IOS XR Multiple Vulnerabilities,CVE-2026-20277,8.2,,317876,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-iosxr-qg64NcM
+Cisco IOS XR Multiple Vulnerabilities,CVE-2026-20276,8.6,,317876,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-iosxr-qg64NcM
+Cisco IOS XR Multiple Vulnerabilities,CVE-2026-20278,8.8,,317876,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-iosxr-qg64NcM
+Cisco IOS XR Multiple Vulnerabilities,CVE-2026-20275,8.8,,317876,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-iosxr-qg64NcM
+Cisco IOS XR Multiple Vulnerabilities,CVE-2026-20280,8.8,,317876,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-iosxr-qg64NcM
+Cisco IOS XR Multiple Vulnerabilities,CVE-2026-20279,9.8,,317876,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-iosxr-qg64NcM
+Cisco IOS XR Multiple Vulnerabilities,CVE-2026-20274,9.8,,317876,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-iosxr-qg64NcM
+Cisco IP Phone 8800 / 7800 Series Denial of Service Vulnerability,CVE-2026-20281,7.5,,735268,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-phone-dos-txMYNRzv
+Cisco Nexus 9000 Series Silicon One Arbitrary Code Execution Vulnerability,CVE-2026-20212,9.8,,735268,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-n9k-s1-rce-EH8dEtr
+Kibana Multiple Vulnerabilities,CVE-2026-78606,7,,388621,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://discuss.elastic.co/t/kibana-9-4-6-security-update-esa-2026-84/390054
+Kibana Multiple Vulnerabilities,CVE-2026-78597,7,,388621,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://discuss.elastic.co/t/kibana-9-4-6-security-update-esa-2026-84/390054
+Kibana Multiple Vulnerabilities,CVE-2026-72633,7,,388621,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://discuss.elastic.co/t/kibana-9-4-6-security-update-esa-2026-84/390054
+Kibana Multiple Vulnerabilities,CVE-2026-82293,7,,388621,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://discuss.elastic.co/t/kibana-9-4-6-security-update-esa-2026-84/390054
+Kibana Multiple Vulnerabilities,CVE-2026-72641,7.3,,388621,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://discuss.elastic.co/t/kibana-9-4-6-security-update-esa-2026-84/390054
+Kibana Multiple Vulnerabilities,CVE-2026-78598,7.3,,388621,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://discuss.elastic.co/t/kibana-9-4-6-security-update-esa-2026-84/390054
+Kibana Multiple Vulnerabilities,CVE-2026-78601,7.3,,388621,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://discuss.elastic.co/t/kibana-9-4-6-security-update-esa-2026-84/390054
+Kibana Multiple Vulnerabilities,CVE-2026-78591,7.3,,388621,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://discuss.elastic.co/t/kibana-9-4-6-security-update-esa-2026-84/390054
+Kibana Multiple Vulnerabilities,CVE-2026-72628,7.3,,388621,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://discuss.elastic.co/t/kibana-9-4-6-security-update-esa-2026-84/390054
+Kibana Multiple Vulnerabilities,CVE-2026-72644,7.3,,388621,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://discuss.elastic.co/t/kibana-9-4-6-security-update-esa-2026-84/390054
+Kibana Multiple Vulnerabilities,CVE-2026-72682,7.3,,388621,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://discuss.elastic.co/t/kibana-9-4-6-security-update-esa-2026-84/390054
+Kibana Multiple Vulnerabilities,CVE-2026-78586,7.3,,388621,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://discuss.elastic.co/t/kibana-9-4-6-security-update-esa-2026-84/390054
+Kibana Multiple Vulnerabilities,CVE-2026-63138,7.3,,388621,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://discuss.elastic.co/t/kibana-9-4-6-security-update-esa-2026-84/390054
+Kibana Multiple Vulnerabilities,CVE-2026-78608,7.3,,388621,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://discuss.elastic.co/t/kibana-9-4-6-security-update-esa-2026-84/390054
+Kibana Multiple Vulnerabilities,CVE-2026-78599,7.3,,388621,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://discuss.elastic.co/t/kibana-9-4-6-security-update-esa-2026-84/390054
+Kibana Multiple Vulnerabilities,CVE-2026-72654,7.3,,388621,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://discuss.elastic.co/t/kibana-9-4-6-security-update-esa-2026-84/390054
+Kibana Multiple Vulnerabilities,CVE-2026-72652,7.3,,388621,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://discuss.elastic.co/t/kibana-9-4-6-security-update-esa-2026-84/390054
+Kibana Multiple Vulnerabilities,CVE-2026-33465,7.3,,388621,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://discuss.elastic.co/t/kibana-9-4-6-security-update-esa-2026-84/390054
+Kibana Multiple Vulnerabilities,CVE-2026-78592,7.3,,388621,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://discuss.elastic.co/t/kibana-9-4-6-security-update-esa-2026-84/390054
+Kibana Multiple Vulnerabilities,CVE-2026-78590,7.3,,388621,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://discuss.elastic.co/t/kibana-9-4-6-security-update-esa-2026-84/390054
+Kibana Multiple Vulnerabilities,CVE-2026-63137,8.3,,388621,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://discuss.elastic.co/t/kibana-9-4-6-security-update-esa-2026-84/390054
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84331,7,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84328,7,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84355,7,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84359,7,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84358,7,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84356,7,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84329,7,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84323,7.3,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84330,7.3,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84357,7.3,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84348,7.3,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84332,7.3,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84327,7.3,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84334,8.1,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84349,8.3,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84335,8.3,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84351,8.3,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84350,8.8,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84326,8.8,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84347,8.8,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84324,9,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84354,9.6,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84352,9.6,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84353,9.6,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84333,9.6,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-84325,9.8,,692615,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-2-2026
+Mozilla Firefox Multiple Vulnerabilities,CVE-2026-84135,7,,388592,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-82
+Mozilla Firefox Multiple Vulnerabilities,CVE-2026-84127,7,,388592,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-82
+Mozilla Firefox Multiple Vulnerabilities,CVE-2026-84117,8.8,,388592,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-82
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-16365,8.8,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-16371,8.8,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-74952,8.8,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-84637,9.8,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-75874,10,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84134,7,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84139,7,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84126,7,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84122,7.3,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84120,7.3,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84124,7.3,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84125,7.3,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84118,7.3,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84141,7.3,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84140,7.3,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84641,7.5,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84642,7.5,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84145,7.5,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84128,8.8,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84123,8.8,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84131,8.8,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84639,9.1,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84119,9.6,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84121,9.6,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84129,9.8,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84132,7,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84133,7,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84136,7,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84137,7,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84130,7,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84143,7,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84144,7,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-84142,7,,"388588, 388589, 388590, 388593, 388594",Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://www.mozilla.org/en-US/security/advisories/mfsa2026-83
+Red Hat update for freerdp,CVE-2026-73242,7.3,,6055324,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:61378
+Red Hat update for freerdp,CVE-2026-63652,7.3,,6055324,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:61378
+Red Hat update for freerdp,CVE-2026-67288,7.5,,6055324,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:61378
+Red Hat update for freerdp,CVE-2026-67291,7.5,,6055324,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:61378
+Red Hat update for freerdp,CVE-2026-73241,7.5,,6055324,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:61378
+Red Hat update for freerdp,CVE-2026-67301,7.5,,6055324,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:61378
+Red Hat update for freerdp,CVE-2026-67296,7.5,,6055324,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:61378
+Red Hat update for freerdp,CVE-2026-67297,7.5,,6055324,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:61378
+Red Hat update for freerdp,CVE-2026-67304,7.5,,6055324,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:61378
+Red Hat update for freerdp,CVE-2026-67298,7.5,,6055324,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:61378
+Red Hat update for freerdp,CVE-2026-55194,8.8,,6055324,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:61378
+Red Hat update for freerdp,CVE-2026-63633,not available,,6055324,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:61378
+Red Hat update for httpd,CVE-2026-34032,7.3,,6055374,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:62165
+Red Hat update for httpd,CVE-2026-33007,7.3,,6055374,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:62165
+Red Hat update for httpd,CVE-2026-33857,7.3,,6055374,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:62165
+Red Hat update for httpd,CVE-2026-43951,7.3,,6055374,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:62165
+Red Hat update for httpd,CVE-2026-44186,7.3,,6055374,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:62165
+Red Hat update for httpd,CVE-2026-44185,7.3,,6055374,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:62165
+Red Hat update for httpd,CVE-2026-34355,7.5,,6055374,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:62165
+Red Hat update for httpd,CVE-2026-34356,7.5,,6055374,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:62165
+Red Hat update for httpd,CVE-2026-34059,7.5,,6055374,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:62165
+Red Hat update for httpd,CVE-2026-29169,7.5,,6055374,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:62165
+Red Hat update for httpd,CVE-2026-42536,7.5,,6055374,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:62165
+Red Hat update for httpd,CVE-2024-42516,7.5,,6055374,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:62165
+Red Hat update for httpd,CVE-2026-28780,9.8,,6055374,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:62165
+Red Hat update for httpd,CVE-2026-29167,9.8,,6055374,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:62165
+Red Hat update for httpd,CVE-2026-44631,9.8,,6055374,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:62165
+Red Hat update for kernel,CVE-2026-53006,7.3,,6055353,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:61932
+Red Hat update for kernel,CVE-2026-64002,7.3,,6055353,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:61932
+Red Hat update for kernel,CVE-2026-74581,7.8,,6055353,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:61932
+Red Hat update for kernel,CVE-2026-17523,7.8,,6055353,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:61932
+Red Hat update for kernel,CVE-2026-74480,7.8,,6055353,Qualys QID,9/2 CH - QID Available | No Exploit/POC,https://access.redhat.com/errata/RHSA-2026:62345
