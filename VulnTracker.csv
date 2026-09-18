@@ -1,604 +1,462 @@
 title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,https://lists.apache.org/thread/fgggbv3sjjqw7p6q0j88gspt9b2rb728
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-65371,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149043
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-28935,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149043
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-65330,N/A,,"388706, 388707",Qualys QID,"9/15 CH - QID Available | No exploitation reported, POC Publicaly available",https://support.apple.com/en-us/149043
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-65339,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149043
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-65346,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149043
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-64736,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149043
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-28930,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149043
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-84555,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149043
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-65349,N/A,,"388706, 388707",Qualys QID,"9/15 CH - QID Available | No exploitation reported, POC Publicaly available",https://support.apple.com/en-us/149043
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-65375,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149043
-Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-43684,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149043
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84618,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65377,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43698,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84514,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43785,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65402,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84509,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84568,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-86924,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-28966,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84532,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84621,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84548,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84540,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84624,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84511,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43691,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-86882,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84620,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84561,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84619,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65374,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65408,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84538,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65361,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84564,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43791,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84546,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84630,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-28934,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84541,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65381,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84556,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84505,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65406,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84534,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84549,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43763,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65369,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43743,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84622,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84554,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65362,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65360,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84572,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84525,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-64756,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43737,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84573,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84497,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65364,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84515,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43787,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-64790,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84537,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84607,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43719,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84535,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65359,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43683,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84512,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84602,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84519,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43789,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43790,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-28899,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-86876,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65405,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84626,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84544,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-64712,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84566,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65409,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-28968,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84521,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84510,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84559,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84617,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65365,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43692,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43786,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84609,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84507,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-86888,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43690,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65382,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-86881,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43664,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65342,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84567,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84611,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84523,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84575,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84587,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43741,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84492,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65407,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84524,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe/Sequoia Multiple Vulnerabilities,CVE-2026-65400,N/A,,"388706, 388707",Qualys QID,"9/16 CH - QID Available | Exploitation reported, POC Publically available",https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84563,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-86891,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84580,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65413,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84506,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84543,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-86917,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43697,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84583,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65395,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43686,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65358,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65410,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84581,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43702,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-86889,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65403,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65345,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65414,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84632,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84550,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65348,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84577,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43695,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84574,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84576,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84513,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-20683,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43760,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84516,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43687,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84616,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-28969,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43677,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2022-3437,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65376,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84578,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84526,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84570,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65344,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84517,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84612,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84552,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84536,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65399,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84553,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65378,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84487,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84527,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84530,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-86910,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-65401,N/A,,"388706, 388707",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.apple.com/en-us/149042
-Check Point Multiple Products Arbitrary Code Execution Vulnerability,CVE-2026-85102,9.8,,388699,Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://support.checkpoint.com/results/sk/sk1000117
-F5 Multiple Products Intel UEFI Privilege Escalation Vulnerability,CVE-2025-20064,7.5,,388629,Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,https://my.f5.com/manage/s/article/K000163187
-Grafana Enterprise Multiple Security Bypass Vulnerabilities,CVE-2026-14199,7.1,,"532374, 735331",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,"https://grafana.com/security/security-advisories/cve-2026-12704
-https://grafana.com/security/security-advisories/cve-2026-14199"
-IBM App Connect Enterprise Multiple Vulnerabilities,CVE-2026-17444,5.3,,388639,Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,"https://www.ibm.com/support/pages/node/7285726
-https://www.ibm.com/support/pages/node/7286372"
-IBM App Connect Enterprise Multiple Vulnerabilities,CVE-2026-78543,5.3,,388639,Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,"https://www.ibm.com/support/pages/node/7285726
-https://www.ibm.com/support/pages/node/7286372"
-IBM App Connect Enterprise Multiple Vulnerabilities,CVE-2026-17443,5.3,,388639,Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,"https://www.ibm.com/support/pages/node/7285726
-https://www.ibm.com/support/pages/node/7286372"
-IBM App Connect Enterprise Multiple Vulnerabilities,CVE-2026-17440,5.5,,388639,Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,"https://www.ibm.com/support/pages/node/7285726
-https://www.ibm.com/support/pages/node/7286372"
-IBM App Connect Enterprise Multiple Vulnerabilities,CVE-2026-81832,7.7,,388639,Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,"https://www.ibm.com/support/pages/node/7285726
-https://www.ibm.com/support/pages/node/7286372"
-Kibana Multiple Vulnerabilities,CVE-2026-82298,7,,"520275, 388641",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,"https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-140/390158
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-151/390159
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-154/390161
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-174/390162
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-178/390164
-https://discuss.elastic.co/t/kibana-9-4-6-9-5-3-security-update-esa-2026-153/390160"
-Kibana Multiple Vulnerabilities,CVE-2026-78595,7,,"520275, 388641",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,"https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-140/390158
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-151/390159
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-154/390161
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-174/390162
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-178/390164
-https://discuss.elastic.co/t/kibana-9-4-6-9-5-3-security-update-esa-2026-153/390160"
-Kibana Multiple Vulnerabilities,CVE-2026-78596,7,,"520275, 388641",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,"https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-140/390158
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-151/390159
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-154/390161
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-174/390162
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-178/390164
-https://discuss.elastic.co/t/kibana-9-4-6-9-5-3-security-update-esa-2026-153/390160"
-Kibana Multiple Vulnerabilities,CVE-2026-78593,7,,"520275, 388641",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,"https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-140/390158
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-151/390159
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-154/390161
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-174/390162
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-178/390164
-https://discuss.elastic.co/t/kibana-9-4-6-9-5-3-security-update-esa-2026-153/390160"
-Kibana Multiple Vulnerabilities,CVE-2026-78583,8.1,,"520275, 388641",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,"https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-140/390158
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-151/390159
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-154/390161
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-174/390162
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-178/390164
-https://discuss.elastic.co/t/kibana-9-4-6-9-5-3-security-update-esa-2026-153/390160"
-Kibana Multiple Vulnerabilities,CVE-2026-82302,8.1,,"520275, 388641",Qualys QID,9/15 CH - QID Available | No exploitation/POC reported,"https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-140/390158
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-151/390159
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-154/390161
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-174/390162
-https://discuss.elastic.co/t/kibana-8-19-21-9-4-6-9-5-3-security-update-esa-2026-178/390164
-https://discuss.elastic.co/t/kibana-9-4-6-9-5-3-security-update-esa-2026-153/390160"
-Oracle Critical Security Update: Applications DBA | AD Utilities,CVE-2026-83117,7.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Applications DBA | AD Utilities,CVE-2026-83118,7.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Applications DBA | ADPatch,CVE-2026-83159,7.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Enterprise Command Center Framework | Security,CVE-2026-83356,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Advanced Benefits | Self-serv What-if Analysis,CVE-2026-83483,8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Agile Engineering Data Management | Engineering Communication Interface,CVE-2026-87262,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Agile Engineering Data Management | Engineering Communication Interface,CVE-2026-87260,7.3,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Agile Engineering Data Management | Engineering Communication Interface,CVE-2026-87261,7.3,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Agile Engineering Data Management | Engineering Communication Interface,CVE-2026-87259,8.4,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Agile PLM | Application Server,CVE-2026-87256,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Agile PLM | Application Server,CVE-2026-87266,8.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Agile PLM | Event Java PX,CVE-2026-83260,9.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-"Oracle Critical Security Update: Oracle Agile PLM | Folders, Files & Attachments",CVE-2026-87254,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-"Oracle Critical Security Update: Oracle Agile PLM | Folders, Files & Attachments",CVE-2026-87258,7.6,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Agile PLM | SDK,CVE-2026-87257,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Agile PLM MCAD Connector | CAX Client,CVE-2026-83277,7.3,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Alert | Internal Operations,CVE-2026-83089,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Alert | Internal Operations,CVE-2026-83120,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Application Object Library | Attachments / File Upload,CVE-2026-83163,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Application Object Library | Core,CVE-2026-83162,7.4,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Application Object Library | Core,CVE-2026-83184,7.4,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Application Object Library | Core,CVE-2026-83167,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Application Object Library | Core,CVE-2026-83178,8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Applications Framework | Personalization,CVE-2026-83332,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Applications Framework | Personalization,CVE-2026-83328,7.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Applications Framework | Personalization,CVE-2026-83205,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Applications Framework | Personalization,CVE-2026-83329,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Applications Framework | Personalization,CVE-2026-83331,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Applications Framework | Personalization,CVE-2026-83327,9.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Applications Framework | Search Bean [Incl. Advanced],CVE-2026-83072,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Applications Manager | Command Line - RapidClone,CVE-2026-83158,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Applications Manager | Command Line - RapidClone,CVE-2026-83115,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Applications Manager | Command Line - RapidClone,CVE-2026-83341,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Applications Manager | Command Line - RapidClone,CVE-2026-83157,8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Applications Manager | Oracle Diagnostics Interfaces,CVE-2026-83168,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Applications Manager | Oracle Diagnostics Interfaces,CVE-2026-83338,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Autonomous Health Framework | AHFCOMMON (OpenSSL),CVE-2026-14456,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Banking Branch | Reports,CVE-2026-83080,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Banking Branch | Reports,CVE-2026-87164,8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Banking Corporate Lending | Core,CVE-2026-83081,8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Banking Corporate Lending Process Management | Base,CVE-2026-83206,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Banking Origination | Onboarding Batch Processes,CVE-2026-83489,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Banking Treasury Management | Infrastructure (Apache Log4j),CVE-2026-34480,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Bills of Material | Internal Operations,CVE-2026-83447,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Bills of Material | Internal Operations,CVE-2026-83448,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Bills of Material | Internal Operations,CVE-2026-83435,8.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Bills of Material | Internal Operations,CVE-2026-83449,8.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Bills of Material | Setup Workbench,CVE-2026-87151,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Bills of Material | Setup Workbench,CVE-2026-83450,8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Bills of Material | Setup Workbench,CVE-2026-87150,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Common Applications | CRM User Management Framework,CVE-2026-83176,7.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Common Applications | CRM User Management Framework,CVE-2026-83185,7.3,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Common Applications Calendar | Applications Calendar,CVE-2026-83179,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Common Applications Calendar | Applications Calendar,CVE-2026-83186,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Common Applications Calendar | Applications Calendar,CVE-2026-83187,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Communications Cloud Native Core Security Edge Protection Proxy | SEPP,CVE-2026-83417,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Communications Cloud Native Core Security Edge Protection Proxy | SEPP,CVE-2026-83418,8.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Communications MetaSolv Solution Module - ASR | Access Service Request (Apache Log4j),CVE-2026-34477,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Communications Service Catalog and Design | Third Party Patch (Eclipse Parsson),CVE-2026-9563,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Communications Service Catalog and Design | Third Party Patch (Netty),CVE-2026-73508,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Communications Unified Assurance | Core (Apache HttpClient),CVE-2026-71290,9.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Communications Unified Assurance | Core (Apache Tomcat),CVE-2026-66299,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Communications Unified Assurance | Core (DBI),CVE-2026-73194,9.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Communications Unified Assurance | Core (Erlang/OTP),CVE-2026-55952,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Communications Unified Assurance | Core (Fluentd),CVE-2026-44024,9.8,,,None,"9/15 CH - Monirot for QID | No Exploitation Reported, POC Publically Available",https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Communications Unified Assurance | Core (Golang Go),CVE-2026-39822,7.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Communications Unified Assurance | Core (Guzzle),CVE-2026-67355,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Communications Unified Assurance | Core (jackson-databind),CVE-2026-54518,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Communications Unified Assurance | Core (MLflow),CVE-2026-64849,8.1,,,None,"9/15 CH - Monirot for QID | Exploitation Reported, POC Publically Available",https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Communications Unified Assurance | Core (PHP),CVE-2026-17544,9.8,,,None,"9/15 CH - Monitor for QID | No Exploitation Reported, POC Publically available",https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Communications Unified Assurance | Core (SimpleSAMLphp),CVE-2026-49284,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Communications Unified Assurance | Message Bus (Apache ActiveMQ),CVE-2026-50734,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Communications Unified Assurance | Message Bus (Pivotal RabbitMQ),CVE-2026-57220,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-"Oracle Critical Security Update: Oracle Complex Maintenance, Repair and Overhaul | Internal Operations",CVE-2026-83425,8.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-"Oracle Critical Security Update: Oracle Complex Maintenance, Repair and Overhaul | Internal Operations",CVE-2026-83445,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Contract Lifecycle Management for Public Sector | Award/PO,CVE-2026-87149,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Contract Lifecycle Management for Public Sector | Award/PO,CVE-2026-87162,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Contract Lifecycle Management for Public Sector | ECC For Award and IDV,CVE-2026-87165,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Contracts | Internal Operations,CVE-2026-83481,7.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Contracts | Internal Operations,CVE-2026-83482,7.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Contracts | Internal Operations,CVE-2026-83479,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle CRM Technical Foundation | Application Framework,CVE-2026-83174,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Customer Interaction History | Outcome-Result,CVE-2026-83166,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Customer Interaction History | Outcome-Result,CVE-2026-83164,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Customer Interaction History | User Interface,CVE-2026-83165,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Demand Signal Repository | Internal Operations,CVE-2026-83428,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Demand Signal Repository | Internal Operations,CVE-2026-83429,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Demand Signal Repository | Internal Operations,CVE-2026-83455,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Demand Signal Repository | Internal Operations,CVE-2026-83457,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Demand Signal Repository | Internal Operations,CVE-2026-83456,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Depot Repair | Estimate and Actual Charges,CVE-2026-83432,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Depot Repair | Internal Operations,CVE-2026-83188,7.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Depot Repair | Internal Operations,CVE-2026-83194,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Depot Repair | Recall Management,CVE-2026-83436,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Document Management and Collaboration | Internal Operations,CVE-2026-83453,7.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Document Management and Collaboration | Internal Operations,CVE-2026-83454,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Document Management and Collaboration | Internal Operations,CVE-2026-83452,9.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Engineering | Change Management,CVE-2026-83437,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Engineering | Internal Operations,CVE-2026-83438,8.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Enterprise Manager Base Platform | Agent Next Gen (Apache Mina),CVE-2026-41635,9.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Enterprise Manager Base Platform | OMS (Eclipse Jetty),CVE-2026-2332,9.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Enterprise Manager for Fusion Middleware | Metrics,CVE-2026-83355,9.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Enterprise Manager for Oracle Database | Core,CVE-2026-83068,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Field Service | Internal Operations,CVE-2026-83092,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Field Service | Internal Operations,CVE-2026-83091,7.6,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Field Service | Internal Operations,CVE-2026-83141,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Financials Common Modules | Common Components,CVE-2026-83446,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Financials for Asia/Pacific | Internal Operations,CVE-2026-87125,8.3,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle GraalVM for JDK | Compiler,CVE-2026-83357,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle GraalVM for JDK | Compiler,CVE-2026-83408,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-"Oracle Critical Security Update: Oracle GraalVM for JDK, Oracle GraalVM Enterprise Edition | Compiler",CVE-2026-83368,7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle HRMS (India) | Internal Operations,CVE-2026-87160,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle HRMS (India) | Internal Operations,CVE-2026-87159,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle HRMS (India) | Internal Operations,CVE-2026-87161,8.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Data Relationship Management | Access and security,CVE-2026-87135,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Data Relationship Management | Access and security,CVE-2026-87142,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Data Relationship Management | Access and security,CVE-2026-87146,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Data Relationship Management | Access and security,CVE-2026-87145,7.3,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Data Relationship Management | Access and security,CVE-2026-87130,7.4,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Data Relationship Management | Access and security,CVE-2026-87143,7.4,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Data Relationship Management | Access and security,CVE-2026-87136,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Data Relationship Management | Access and security,CVE-2026-87138,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Data Relationship Management | Access and security,CVE-2026-87139,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Data Relationship Management | Access and security,CVE-2026-87140,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Data Relationship Management | Access and security,CVE-2026-87148,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Data Relationship Management | Access and security,CVE-2026-87131,7.6,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Data Relationship Management | Access and security,CVE-2026-87132,7.6,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Data Relationship Management | Access and security,CVE-2026-87133,7.6,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Data Relationship Management | Access and security,CVE-2026-87137,7.6,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Data Relationship Management | Access and security,CVE-2026-87144,7.6,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Data Relationship Management | Access and security,CVE-2026-87134,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Data Relationship Management | Access and security,CVE-2026-87141,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Data Relationship Management | Access and security,CVE-2026-87147,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Data Relationship Management | Access and security,CVE-2026-87128,9.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Data Relationship Management | Access and security,CVE-2026-87129,9.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87240,7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87191,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87192,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87208,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87209,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87220,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87225,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87236,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87249,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87207,7.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87239,7.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87244,7.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87246,7.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87195,7.4,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87198,7.4,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87206,7.4,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87212,7.4,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87213,7.4,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87235,7.4,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87242,7.4,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87190,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87193,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87194,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87199,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87203,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87205,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87211,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87215,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87221,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87222,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87237,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87247,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87233,7.6,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87250,7.6,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87183,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87216,7.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87243,8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87245,8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87218,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87231,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87232,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87234,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87241,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87174,8.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87196,8.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87197,8.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87200,8.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87228,8.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87229,8.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87210,8.3,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87219,8.4,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87177,8.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87171,8.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87178,8.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87179,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87180,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87181,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87182,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87185,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87187,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87201,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87202,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87204,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87224,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87226,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87227,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87238,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87170,9.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87173,9.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87175,9.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87176,9.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87189,9.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87214,9.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87217,9.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87223,9.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87186,9.6,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87184,9.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87188,9.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87172,9.9,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Hyperion Financial Management | Security,CVE-2026-87230,10,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Installed Base | Create Item Instance,CVE-2026-87152,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle iRecruitment | Internal Operations,CVE-2026-87124,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle iRecruitment | Internal Operations,CVE-2026-83490,8.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle iStore | Shopping Cart,CVE-2026-83133,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle iStore | Shopping Cart,CVE-2026-83134,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle iStore | Shopping Cart,CVE-2026-83132,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle iStore | Shopping Cart,CVE-2026-83135,8.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Lease and Finance Management | Internal Operations,CVE-2026-83112,7.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Marketing | Audience,CVE-2026-83082,7.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Marketing | Audience,CVE-2026-83110,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Marketing | Audience,CVE-2026-83084,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Marketing | Audience,CVE-2026-83083,8.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Marketing | Audience,CVE-2026-83121,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Mobile Application Server | MWA Terminal Server,CVE-2026-83463,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Mobile Application Server | MWA Terminal Server,CVE-2026-83464,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Mobile Application Server | MWA Terminal Server,CVE-2026-83461,8.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Mobile Application Server | MWA Terminal Server,CVE-2026-83465,8.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Mobile Application Server | MWA Terminal Server,CVE-2026-83462,9.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Net Services | Connection Manager,CVE-2026-83349,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Net Services | Connection Manager,CVE-2026-83350,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Net Services | Listener,CVE-2026-83333,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle One-to-One Fulfillment | Documents,CVE-2026-83171,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle One-to-One Fulfillment | Documents,CVE-2026-83173,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle One-to-One Fulfillment | Documents,CVE-2026-83170,8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle One-to-One Fulfillment | Documents,CVE-2026-83177,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle One-to-One Fulfillment | Java Server Issues,CVE-2026-83169,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Order Management | Enterprise Command Center,CVE-2026-87158,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Order Management | Product Diagnostic Tools,CVE-2026-83116,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Order Management | Product Diagnostic Tools,CVE-2026-87157,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Partner Management | Internal Operations,CVE-2026-83111,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Product Hub | Internal Operations,CVE-2026-87156,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Product Hub | Internal Operations,CVE-2026-83440,7.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Product Hub | Internal Operations,CVE-2026-83442,7.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Product Hub | Internal Operations,CVE-2026-87153,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Product Hub | Internal Operations,CVE-2026-87154,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Product Hub | Internal Operations,CVE-2026-83444,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Product Hub | Internal Operations,CVE-2026-87155,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Product Hub | Item Catalog,CVE-2026-83485,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Product Hub | Item Catalog,CVE-2026-83486,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Product Hub | Item Catalog,CVE-2026-83487,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Product Lifecycle Analytics | Core,CVE-2026-83261,9.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Product Lifecycle Analytics | Installation Issues,CVE-2026-83262,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Product Lifecycle Analytics | Installation Issues,CVE-2026-83263,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Product Lifecycle Analytics | Installation Issues,CVE-2026-83264,8.4,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Product Workbench | Internal Operations,CVE-2026-83430,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Product Workbench | Internal Operations,CVE-2026-83434,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Product Workbench | Internal Operations,CVE-2026-83451,8.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Project Intelligence | Internal Operations,CVE-2026-83161,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Project Intelligence | Internal Operations,CVE-2026-83152,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Proposals | Internal Operations,CVE-2026-83142,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Purchasing | G-Invoicing,CVE-2026-87127,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Purchasing | G-Invoicing,CVE-2026-87167,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Purchasing | G-Invoicing,CVE-2026-87168,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Purchasing | Other issue,CVE-2026-87166,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Purchasing | Other issue,CVE-2026-87265,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Purchasing | Other issue,CVE-2026-87163,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Quality | Internal Operations,CVE-2026-83113,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Quality | Internal Operations,CVE-2026-83114,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Report Manager | Internal Operations,CVE-2026-83123,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Report Manager | Internal Operations,CVE-2026-83122,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Report Manager | Internal Operations,CVE-2026-83125,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Report Manager | Reports Security,CVE-2026-87126,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Sales | Internal Operations,CVE-2026-83129,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Sales Offline | Internal Operations,CVE-2026-83128,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Sales Offline | Internal Operations,CVE-2026-83127,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Sales Online | Internal Operations,CVE-2026-83126,7.6,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Sales Online | Internal Operations,CVE-2026-83124,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Sales Online | OSO Other,CVE-2026-83172,8.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Site Hub | Internal Operations,CVE-2026-83130,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Sourcing | Internal Operations,CVE-2026-83204,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Spares Management | Internal Operations,CVE-2026-83138,8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Spares Management | Internal Operations,CVE-2026-83090,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Spares Management | Internal Operations,CVE-2026-83136,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Spares Management | Internal Operations,CVE-2026-83137,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Text | Create Index,CVE-2026-83272,8.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle US Federal Human Resources | Internal Operations,CVE-2026-83484,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle User Management | Internal Operations,CVE-2026-83119,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle User Management | Proxy User Delegation,CVE-2026-83189,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Web Applications Desktop Integrator | File download,CVE-2026-83131,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle Work in Process | Workbenches,CVE-2026-83477,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle XML Developers Kit | XDKC,CVE-2026-83156,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle XML Gateway | Install,CVE-2026-83044,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle XML Gateway | Install,CVE-2026-83300,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle XML Gateway | Install,CVE-2026-83345,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: Oracle XML Gateway | Install,CVE-2026-83352,7.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: PeopleSoft Enterprise CC Common Application Objects | Chatbot Framework (Axios),CVE-2026-25639,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: PeopleSoft Enterprise FIN Engineering Brazil | Engineering,CVE-2026-83420,7.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: PeopleSoft Enterprise FIN Inventory Brazil | Inventory,CVE-2026-83147,7.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: PeopleSoft Enterprise PeopleTools | Business Interlink,CVE-2026-73954,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: PeopleSoft Enterprise PeopleTools | Business Interlink,CVE-2026-82993,8.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: PeopleSoft Enterprise PeopleTools | Charting,CVE-2026-73955,7.3,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: PeopleSoft Enterprise PeopleTools | Cube Manager,CVE-2026-83015,7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: PeopleSoft Enterprise PeopleTools | Cube Manager,CVE-2026-83014,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: PeopleSoft Enterprise PeopleTools | File Processing (libssh2),CVE-2026-7598,7.3,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: PeopleSoft Enterprise PeopleTools | Integration Broker,CVE-2026-87264,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: PeopleSoft Enterprise PeopleTools | Ren Server,CVE-2026-73960,7.5,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: PeopleSoft Enterprise PeopleTools | Report Distribution,CVE-2026-83017,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: PeopleSoft Enterprise PeopleTools | SQR,CVE-2026-83016,7.2,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: PeopleSoft Enterprise PeopleTools | SQR,CVE-2026-83018,7.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: PeopleSoft Enterprise PeopleTools | SQR,CVE-2026-83019,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: PeopleSoft Enterprise PRTL Interaction Hub | Enterprise Portal,CVE-2026-83070,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: RDBMS | Authenticated User,CVE-2026-83088,7.7,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: RDBMS | Create DB Link,CVE-2026-83348,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: RDBMS | Create Table,CVE-2026-83160,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: RDBMS | Execute on DBMS_REDEFINITION,CVE-2026-83271,8.8,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Oracle Critical Security Update: RDBMS | None,CVE-2026-83351,8.1,,,None,9/15 CH - No QID Available | No Exploit/POC reported,https://www.oracle.com/security-alerts/cspusep2026.html
-Red Hat glib2 Update,CVE-2026-16118,7.1,,6055602,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:66451
-Red Hat update for firefox,CVE-2026-74983,3.4,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74973,4.2,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74972,4.3,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74971,4.3,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74959,4.3,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74967,5.4,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74963,5.4,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74974,5.4,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74960,8.1,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74962,8.1,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74957,8.1,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74939,8.8,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74953,8.8,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74942,8.8,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74946,8.8,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74935,8.8,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74940,8.8,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74944,8.8,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74965,8.8,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74943,8.8,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74949,8.8,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74941,8.8,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74969,8.8,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74987,9.8,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74964,9.8,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for firefox,CVE-2026-74990,9.8,,6055513,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65103
-Red Hat update for gstreamer1-plugins-bad-free,CVE-2026-19387,7.6,,6055511,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65124
-Red Hat update for httpd,CVE-2026-33007,5.3,,6055617,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67152
-Red Hat update for httpd,CVE-2026-33857,5.3,,6055617,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67152
-Red Hat update for httpd,CVE-2026-34032,5.3,,6055617,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67152
-Red Hat update for httpd,CVE-2026-44185,7.3,,6055617,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67152
-Red Hat update for httpd,CVE-2026-44186,7.3,,6055617,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67152
-Red Hat update for httpd,CVE-2026-29169,7.5,,6055617,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67152
-Red Hat update for httpd,CVE-2026-34059,7.5,,6055617,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67152
-Red Hat update for httpd,CVE-2026-34355,7.5,,6055617,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67152
-Red Hat update for httpd,CVE-2024-42516,7.5,,6055617,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67152
-Red Hat update for httpd,CVE-2026-34356,7.5,,6055617,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67152
-Red Hat update for httpd,CVE-2026-29167,9.8,,6055617,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67152
-Red Hat update for httpd,CVE-2026-28780,9.8,,6055617,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67152
-Red Hat update for httpd,CVE-2026-44631,9.8,,6055617,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67152
-Red Hat update for ignition,CVE-2026-41178,5.3,,6055505,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65117
-Red Hat update for ignition,CVE-2026-56860,5.9,,6055505,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65117
-Red Hat update for ignition,CVE-2026-56858,6.1,,6055505,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65117
-Red Hat update for ignition,CVE-2026-56853,7.5,,6055505,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65117
-Red Hat update for ignition,CVE-2026-56859,7.5,,6055505,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65117
-Red Hat update for ignition,CVE-2026-33818,7.5,,6055505,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65117
-Red Hat update for ignition,CVE-2026-56862,7.5,,6055505,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65117
-Red Hat update for ignition,CVE-2026-39820,7.5,,6055505,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65117
-Red Hat update for ignition,CVE-2026-42499,7.5,,6055505,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65117
-Red Hat update for ignition,CVE-2026-33810,8.2,,6055505,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65117
-Red Hat update for ignition,CVE-2026-39821,9.6,,6055505,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65117
-Red Hat update for image-builder,CVE-2026-25681,6.1,,6055624,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67138
-Red Hat update for image-builder,CVE-2026-42502,6.1,,6055624,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67138
-Red Hat update for image-builder,CVE-2026-27136,6.1,,6055624,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67138
-Red Hat update for microcode_ctl,CVE-2025-35973,7.2,,6055520,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65147
-Red Hat update for microcode_ctl,CVE-2025-31936,7.2,,6055520,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:65147
-Red Hat update for openssl,CVE-2026-63074,7.5,,6055610,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67154
-Red Hat update for openssl,CVE-2026-18798,7.5,,6055610,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67154
-Red Hat update for openssl,CVE-2026-14457,7.5,,6055610,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67154
-Red Hat update for openssl,CVE-2026-63075,7.5,,6055610,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67154
-Red Hat update for openssl,CVE-2026-54874,7.5,,6055610,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67154
-Red Hat update for openssl,CVE-2026-63072,7.5,,6055610,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67154
-Red Hat update for openssl,CVE-2026-14456,7.5,,6055610,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67154
-Red Hat update for openssl,CVE-2026-63076,7.5,,6055610,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67154
-Red Hat update for openssl,CVE-2026-63073,9.8,,6055610,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67154
-Red Hat update for osbuild-composer,CVE-2025-22866,4,,6055613,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67148
-Red Hat update for osbuild-composer,CVE-2026-55677,7.5,,6055613,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67148
-Red Hat update for osbuild-composer,CVE-2026-32281,7.5,,6055613,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67148
-Red Hat update for sg3_utils,CVE-2026-16313,7.6,,6055622,Qualys QID,9/15 CH - QID Available | No Exploit/POC reported,https://access.redhat.com/errata/RHSA-2026:67157
+Red Hat update for kernel,CVE-2026-31479,7.1,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-31692,7.1,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-43334,7,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-52917,7,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-52918,8.8,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-53053,8.8,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-53072,7,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-53091,7,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-53209,7,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-53254,7,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-53256,7,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-63801,7,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-63944,7,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-63945,7.8,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-63946,7,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-63947,7,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-63971,7,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-63975,7,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-64037,9.8,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-64113,7,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-64255,7,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-64515,8.3,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-68086,7,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-68117,7,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-68300,7,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-68315,7,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-68376,7,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-68402,7,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-53182,8.2,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-72098,9.8,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-63889,8.1,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-68264,7.8,,6055637,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67150
+Red Hat update for kernel,CVE-2026-74480,7.8,,6055633,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67277
+Red Hat update for postgresql:16,CVE-2026-14664,8.8,,6055639,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67280
+Red Hat update for postgresql:16,CVE-2026-14668,8.1,,6055639,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67280
+Red Hat update for postgresql:16,CVE-2026-14670,8.8,,6055639,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67280
+Red Hat update for postgresql:16,CVE-2026-14671,8.8,,6055639,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67280
+Red Hat update for postgresql:16,CVE-2026-14677,8.8,,6055639,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67280
+Red Hat update for postgresql:16,CVE-2026-14679,8.2,,6055639,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67280
+Red Hat update for postgresql:16,CVE-2026-14680,8.8,,6055639,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67280
+Red Hat update for postgresql:16,CVE-2026-15741,8.8,,6055639,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67280
+Red Hat update for postgresql:16,CVE-2026-15742,8.8,,6055639,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67280
+Red Hat update for postgresql:16,CVE-2026-16239,8.8,,6055639,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67280
+Red Hat update for postgresql:16,CVE-2026-18408,8.8,,6055639,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67280
+Red Hat update for postgresql:16,CVE-2026-19385,8.8,,6055639,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67280
+Red Hat update for postgresql18,CVE-2026-14676,8.8,,6055639,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67280
+Red Hat update for postgresql18,CVE-2026-16238,8.8,,6055639,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67280
+Red Hat update for postgresql18,CVE-2026-6476,7.2,,6055662,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67280
+Red Hat update for podman,CVE-2026-39829,7.5,,6055650,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67450
+Red Hat update for podman,CVE-2026-39830,9.1,,6055650,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67450
+Red Hat update for podman,CVE-2026-39831,9.1,,6055650,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67450
+Red Hat update for podman,CVE-2026-39832,9.1,,6055650,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67450
+Red Hat update for podman,CVE-2026-42508,9.1,,6055650,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67450
+Red Hat update for podman,CVE-2026-46597,7.5,,6055650,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67450
+Red Hat update for rsync,CVE-2026-53783,8.1,,6055658,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67462
+Red Hat update for rsync,CVE-2026-53784,7.1,,6055658,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67462
+Red Hat update for rsync,CVE-2026-53785,7.1,,6055658,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67462
+Red Hat update for rsync,CVE-2026-53790,8.1,,6055658,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67462
+Red Hat update for rsync,CVE-2026-53791,9.1,,6055658,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67462
+Red Hat update for rsync,CVE-2026-53793,7.4,,6055658,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67462
+Red Hat update for rsync,CVE-2026-53795,8.1,,6055658,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67462
+Red Hat update for rsync,CVE-2026-53802,7.1,,6055658,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67462
+Red Hat update for rsync,CVE-2026-53803,7.8,,6055658,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67462
+Red Hat update for rsync,CVE-2026-70452,7.4,,6055658,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67462
+Red Hat update for rsync,CVE-2026-70453,7.5,,6055658,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67462
+Red Hat update for rsync,CVE-2026-70454,8,,6055658,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67462
+Red Hat update for rsync,CVE-2026-70456,8.2,,6055658,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67462
+Red Hat update for rsync,CVE-2026-70458,8.2,,6055658,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67462
+Red Hat update for rsync,CVE-2026-70460,8.1,,6055658,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67462
+Red Hat update for rsync,CVE-2026-70461,8.2,,6055658,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67462
+Red Hat update for rsync,CVE-2026-70464,7.5,,6055658,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67462
+Red Hat update for kernel,CVE-2026-63802,7.8,,6055662,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67468
+Red Hat update for kernel,CVE-2026-68143,7.8,,6055673,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67470
+Red Hat update for kernel,CVE-2026-68294,7.3,,6055673,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67470
+Red Hat update for kernel,CVE-2026-72045,8.8,,6055673,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67470
+Red Hat update for kernel,CVE-2026-43248,7,,6055666,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67471
+Red Hat update for kernel,CVE-2026-46149,7,,6055666,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67471
+Red Hat update for kernel,CVE-2026-52947,7,,6055666,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67471
+Red Hat update for kernel,CVE-2026-53131,7,,6055666,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67471
+Red Hat update for kernel,CVE-2026-53239,7,,6055666,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67471
+Red Hat update for kernel,CVE-2026-53361,7.8,,6055666,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67471
+Red Hat update for kernel,CVE-2026-63917,7,,6055666,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67471
+Red Hat update for kernel,CVE-2026-63919,7,,6055666,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67471
+Red Hat update for kernel,CVE-2026-63921,7,,6055666,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67471
+Red Hat update for kernel,CVE-2026-63923,7,,6055666,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67471
+Red Hat update for kernel,CVE-2026-64015,7,,6055666,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67471
+Red Hat update for kernel,CVE-2026-64111,7.1,,6055666,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67471
+Red Hat update for kernel,CVE-2026-64117,7,,6055666,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67471
+Red Hat update for kernel,CVE-2026-68363,7,,6055666,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67471
+Red Hat update for kernel,CVE-2026-68426,7,,6055666,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67471
+Red Hat update for kernel,CVE-2026-74556,7,,6055666,,9/16 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:67471
+Cisco Secure Firewall Management Center (FMC) / Secure Firewall Threat Defense (FTD) sftunnel Multiple Vulnerabilities,CVE-2026-20295,8.6,,317915,,9/16 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory
+Cisco Secure Firewall Management Center (FMC) / Secure Firewall Threat Defense (FTD) sftunnel Multiple Vulnerabilities,CVE-2026-20323,8.3,,317923,,9/16 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory
+Cisco Adaptive Security Appliance (ASA) / Firepower Threat Defense (FTD) IKEv2 Denial of Service Vulnerability,CVE-2026-20249,8.6,,317927,,9/16 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-ikev2cert-dos-uWyc2xtv
+Cisco Secure Firewall Threat Defense (FTD) TLS 1.3 Denial of Service Vulnerability,CVE-2026-20135,8.6,,317909,,9/16 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ftd-tls1.3-dos-dLxwFWgF
+Cisco Multiple Products Multiple Vulnerabilities,CVE-2026-20329,9.9,,"317918, 317917, 317907",,9/16 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-asaftdfmc-uvpPROhN
+Cisco Multiple Products Multiple Vulnerabilities,CVE-2026-20330,9.9,,"317918, 317917, 317907",,9/16 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-asaftdfmc-uvpPROhN
+Cisco Multiple Products Multiple Vulnerabilities,CVE-2026-20331,9.6,,"317918, 317917, 317907",,9/16 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-asaftdfmc-uvpPROhN
+Cisco Multiple Products Multiple Vulnerabilities,CVE-2026-20332,9.9,,"317918, 317917, 317907",,9/16 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-asaftdfmc-uvpPROhN
+Cisco Multiple Products Multiple Vulnerabilities,CVE-2026-20333,8.8,,"317918, 317917, 317907",,9/16 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-asaftdfmc-uvpPROhN
+Cisco Multiple Products Multiple Vulnerabilities,CVE-2026-20334,8.4,,"317918, 317917, 317907",,9/16 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-asaftdfmc-uvpPROhN
+Cisco Multiple Products Multiple Vulnerabilities,CVE-2026-20335,8.1,,"317918, 317917, 317907",,9/16 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-asaftdfmc-uvpPROhN
+Cisco Multiple Products Multiple Vulnerabilities,CVE-2026-20336,8.8,,"317918, 317917, 317907",,9/16 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-asaftdfmc-uvpPROhN
+Cisco Identity Services Engine (ISE) Multiple Command Injection Vulnerabilities,CVE-2026-20305,9.1,,317896,,9/16 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-cmd-inj-e2CuZCYZ
+Cisco Identity Services Engine (ISE) Multiple Command Injection Vulnerabilities,CVE-2026-20306,9.1,,317910,,9/16 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-cmd-inj-e2CuZCYZ
+Cisco ISE and Cisco ISE-PIC Multiple Vulnerabilities,CVE-2026-76424,7.2,,317914,,9/16 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-multi-hrP9jQSQ
+Cisco ISE and Cisco ISE-PIC Multiple Vulnerabilities,CVE-2026-76425,7.6,,317914,,9/16 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-multi-hrP9jQSQ
+Cisco Identity Services Engine (ISE) RADIUS Denial of Service Vulnerability,CVE-2026-20352,8.6,,317887,,9/16 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-RADIUS-dos-wR3hYPMw
+Cisco Identity Services Engine (ISE) Multiple Security Bypass Vulnerabilities,CVE-2026-20176,9.1,,317900,,9/16 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-rce-se7bYU57
+Cisco Identity Services Engine (ISE) Multiple Security Bypass Vulnerabilities,CVE-2026-20211,9.1,,317908,,9/16 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-rce-se7bYU57
+Cisco Identity Services Engine (ISE) Multiple Security Bypass Vulnerabilities,CVE-2026-20307,9.9,,317885,,9/16 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-rce-se7bYU57
+Cisco Identity Services Engine (ISE) Multiple SQL Injection Vulnerabilities,CVE-2026-20247,7.5,,317888,,9/16 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-sql-inj-3QTKR947
+Cisco Identity Services Engine (ISE) Multiple SQL Injection Vulnerabilities,CVE-2026-20300,7.1,,317888,,9/16 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ise-sql-inj-3QTKR947
+IBM DB2 Denial of Service Vulnerability,CVE-2026-10649,8.6,,20618,,9/16 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7286983
+IBM DB2 Denial of Service Vulnerability,CVE-2026-41586,9.8,,20617,,9/16 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7286983
+IBM DB2 Denial of Service Vulnerability,CVE-2026-44249,8.1,,20621,,9/16 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7286983
+IBM DB2 Denial of Service Vulnerability,CVE-2026-50010,7.5,,20621,,9/16 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7286983
+IBM DB2 Denial of Service Vulnerability,CVE-2026-55831,7.5,,20621,,9/16 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7286983
+IBM DB2 Denial of Service Vulnerability,CVE-2026-55833,7.5,,20621,,9/16 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7286983
+IBM DB2 Denial of Service Vulnerability,CVE-2026-56745,7.5,,20621,,9/16 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7286983
+IBM DB2 Denial of Service Vulnerability,CVE-2026-56819,7.5,,20621,,9/16 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7286983
+IBM DB2 Denial of Service Vulnerability,CVE-2026-86093,7.5,,20621,,9/16 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7286983
+IBM DB2 Denial of Service Vulnerability,CVE-2026-87958,8.1,,20621,,9/16 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7286983
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92006,8.8,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-91
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92007,8.8,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-91
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92008,8.8,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-91
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92009,8.8,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-91
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92010,8.8,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-91
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92011,8.8,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-91
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92012,8.8,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-91
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92013,8.8,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-91
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92015,8.8,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-91
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92017,8.8,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-91
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92018,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-91
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92019,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-91
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92020,8.8,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-91
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92022,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-91
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92023,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-91
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92024,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-91
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92025,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-91
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92027,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-91
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92028,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-91
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92029,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-91
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92005,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92016,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92026,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92030,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92031,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92032,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92035,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92038,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92039,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92041,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92042,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92043,8.8,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92044,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92045,9.6,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92046,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92047,8.8,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92048,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92049,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92052,8.8,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92053,8.8,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92054,8.8,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92055,8.8,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92056,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92057,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92058,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92059,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92060,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92062,8.8,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92064,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92065,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92067,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92068,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92069,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92070,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92071,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92072,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92073,8.8,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92074,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92075,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92076,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92079,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-93
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92034,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92036,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92037,8.8,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92040,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92050,9.6,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92061,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94"
+Mozilla Thunderbird Multiple Vulnerabilities,CVE-2026-92066,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-90
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-94"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92014,8.8,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-91
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92021,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-92
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95"
+Mozilla Thunderbird ESR Multiple Vulnerabilities,CVE-2026-92239,7.5,,"388717, 388718, 388720, 388775, 388776, 388784",,9/16 CH - QID Available | No Exploit/POC known,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-94
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-95
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-96"
