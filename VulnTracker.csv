@@ -1,27 +1,47 @@
 title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,https://lists.apache.org/thread/fgggbv3sjjqw7p6q0j88gspt9b2rb728
-Citrix Workspace app for Windows Multiple Vulnerabilities,CVE-2026-78546,7,,388663,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX697034&articleTitle=Citrix_Workspace_app_for_Windows_Security_Bulletin_CVE_2026_78546_and_CVE_2026_78547
-Citrix Workspace app for Windows Multiple Vulnerabilities,CVE-2026-78547,7,,388663,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX697034&articleTitle=Citrix_Workspace_app_for_Windows_Security_Bulletin_CVE_2026_78546_and_CVE_2026_78547
-F5 BIG-IP DNS NLnet Labs Denial of Service Vulnerability,CVE-2026-42959,7.5,,388547,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://my.f5.com/manage/s/article/K000163141
-F5 BIG-IP DNS NLnet Labs Vulnerability,CVE-2026-33278,8.1,,388546,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://my.f5.com/manage/s/article/K000163139
-IBM AIX Python Multiple Vulnerabilities,CVE-2026-3644,7.5,,330259,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc
-IBM AIX Python Multiple Vulnerabilities,CVE-2026-76957,4.9,,330259,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc
-IBM AIX Python Multiple Vulnerabilities,CVE-2026-72522,6.2,,330259,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc
-IBM AIX Python Multiple Vulnerabilities,CVE-2026-15308,7.5,,330259,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc
-IBM AIX Python Multiple Vulnerabilities,CVE-2026-76956,5.9,,330259,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc
-IBM AIX Python Multiple Vulnerabilities,CVE-2026-7210,7.5,,330259,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc
-IBM AIX Python Multiple Vulnerabilities,CVE-2026-76641,7.5,,330259,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc
-IBM AIX Python Multiple Vulnerabilities,CVE-2026-66046,7.5,,330259,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc
-IBM AIX Python Multiple Vulnerabilities,CVE-2025-13462,3.3,,330259,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc
-IBM WebSphere Application Server Liberty Apache Neethi Multiple Denial of Service Vulnerabilities,CVE-2026-66143,7.5,,388516,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://www.ibm.com/support/pages/node/7286659
-IBM WebSphere Application Server Liberty Apache Neethi Multiple Denial of Service Vulnerabilities,CVE-2026-66142,7.5,,388516,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://www.ibm.com/support/pages/node/7286659
-IBM WebSphere Application Server Liberty Apache Neethi Multiple Denial of Service Vulnerabilities,CVE-2026-66144,7.5,,388516,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://www.ibm.com/support/pages/node/7286659
-IBM WebSphere Application Server Liberty Multiple Vulnerabilities,CVE-2026-15634,6.5,,520300,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://www.ibm.com/support/pages/node/7286611
-IBM WebSphere Application Server Liberty Multiple Vulnerabilities,CVE-2026-10841,4.2,,520300,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://www.ibm.com/support/pages/node/7286611
-IBM WebSphere Application Server Liberty Multiple Vulnerabilities,CVE-2026-11722,4.8,,520300,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://www.ibm.com/support/pages/node/7286611
-IBM WebSphere Application Server Liberty Multiple Vulnerabilities,CVE-2026-15396,6.5,,520300,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://www.ibm.com/support/pages/node/7286611
-IBM WebSphere Application Server Liberty Multiple Vulnerabilities,CVE-2026-11549,6.5,,520300,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://www.ibm.com/support/pages/node/7286611
-IBM WebSphere Application Server Liberty Multiple Vulnerabilities,CVE-2026-11548,4.8,,520300,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://www.ibm.com/support/pages/node/7286611
-IBM WebSphere Application Server Liberty Multiple Vulnerabilities,CVE-2026-15412,6.5,,520300,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://www.ibm.com/support/pages/node/7286611
-IBM WebSphere Application Server Multiple Vulnerabilities,CVE-2026-70907,5.3,,388611,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://www.ibm.com/support/pages/node/7287432
-IBM WebSphere Application Server Multiple Vulnerabilities,CVE-2026-61308,6.8,,388611,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://www.ibm.com/support/pages/node/7287432
-IBM WebSphere Application Server Multiple Vulnerabilities,CVE-2026-60589,3.7,,388611,Qualys QID,9/18 CH - QID Available | No Exploit/POC,https://www.ibm.com/support/pages/node/7287432
+Red Hat Satellite Multiple Vulnerabilities,CVE-2026-10051,7.5,,6055433,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:63327
+Red Hat Satellite Multiple Vulnerabilities,CVE-2026-69243,7,,6055433,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:63327
+Red Hat update for gstreamer1-plugins-base,CVE-2026-85150,7.5,,6055618,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:67151
+Red Hat update for gstreamer1-plugins-base,CVE-2026-18297,7.8,,6055618,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:67151
+Red Hat update for abrt,CVE-2026-54231,5.5,,6055789,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69097
+Red Hat update for yggdrasil-worker-package-manager,CVE-2026-56860,5.9,,6055780,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69099
+Red Hat tesseract Rejection Notice,CVE-2026-73066,7.1,,6055812,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69100
+Red Hat update for rhc,CVE-2026-56858,6.1,,6055791,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69104
+Red Hat update for rhc,CVE-2026-33818,7.5,,6055791,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69104
+Red Hat update for openssh,CVE-2026-73282,4.8,,6055800,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69111
+Red Hat update for unbound,CVE-2026-50252,6.5,,6055787,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69112
+Red Hat update for apr-util,CVE-2026-34502,7.5,,6055799,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69113
+Red Hat update for apr-util,CVE-2026-34501,7.5,,6055799,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69113
+Red Hat update for apr-util,CVE-2025-49506,7.5,,6055799,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69113
+Red Hat update for perl-DBI:1.641,CVE-2026-73194,9.1,,6055799,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69113
+Red Hat update for rhc,CVE-2026-56862,7.5,,6055792,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69117
+Red Hat update for rust,CVE-2026-53587,7.5,,6055792,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69117
+Red Hat Satellite Multiple Vulnerabilities,CVE-2026-69244,7.5,,6055790,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69120
+Red Hat update for abrt,CVE-2026-54230,7,,6055803,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69129
+Red Hat update for openssh,CVE-2026-73283,2.5,,6055803,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69129
+Red Hat update for openssh,CVE-2026-59999,5.9,,6055803,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69129
+Red Hat update for openssh,CVE-2026-59995,4.2,,6055803,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69129
+Red Hat update for openssh,CVE-2026-73281,3.5,,6055803,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69129
+Red Hat update for apr-util,CVE-2026-32327,9.1,,6055804,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69232
+Red Hat update for gstreamer1-plugins-good,CVE-2026-73433,6.6,,6055804,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69232
+Red Hat update for gstreamer1-plugins-good,CVE-2026-73434,6.1,,6055804,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69232
+Red Hat update for gstreamer1-plugins-good,CVE-2026-18649,7.5,,6055804,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69232
+Red Hat update for tomcat,CVE-2026-32990,5.3,,6055804,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69258
+Red Hat update for tomcat,CVE-2026-42498,7.3,,6055805,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69259
+Red Hat update for yggdrasil-worker-package-manager,CVE-2026-56859,7.5,,6055823,Qualys QID,9/21 CH - QID Available | No Expoit/POC,https://access.redhat.com/errata/RHSA-2026:69259
+Microsoft Edge (Chromium-based) Multiple Vulnerabilities,CVE-2026-93377,8.8,,,None,9/21 CH - Monitor for QID | No Expoit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-18-2026
+Microsoft Edge (Chromium-based) Multiple Vulnerabilities,CVE-2026-93375,8.1,,,None,9/21 CH - Monitor for QID | No Expoit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-18-2026
+Microsoft Edge (Chromium-based) Multiple Vulnerabilities,CVE-2026-93387,4.3,,,None,9/21 CH - Monitor for QID | No Expoit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-18-2026
+Microsoft Edge (Chromium-based) Multiple Vulnerabilities,CVE-2026-93372,9.6,,,None,9/21 CH - Monitor for QID | No Expoit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-18-2026
+Microsoft Edge (Chromium-based) Multiple Vulnerabilities,CVE-2026-93381,8.8,,,None,9/21 CH - Monitor for QID | No Expoit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-18-2026
+Microsoft Edge (Chromium-based) Multiple Vulnerabilities,CVE-2026-93378,3.1,,,None,9/21 CH - Monitor for QID | No Expoit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-18-2026
+Microsoft Edge (Chromium-based) Multiple Vulnerabilities,CVE-2026-93386,5.4,,,None,9/21 CH - Monitor for QID | No Expoit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-18-2026
+Microsoft Edge (Chromium-based) Multiple Vulnerabilities,CVE-2026-93380,3.1,,,None,9/21 CH - Monitor for QID | No Expoit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-18-2026
+Microsoft Edge (Chromium-based) Multiple Vulnerabilities,CVE-2026-93373,9.6,,,None,9/21 CH - Monitor for QID | No Expoit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-18-2026
+Microsoft Edge (Chromium-based) Multiple Vulnerabilities,CVE-2026-93385,6.5,,,None,9/21 CH - Monitor for QID | No Expoit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-18-2026
+Microsoft Edge (Chromium-based) Multiple Vulnerabilities,CVE-2026-93374,9.6,,,None,9/21 CH - Monitor for QID | No Expoit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-18-2026
+Microsoft Edge (Chromium-based) Multiple Vulnerabilities,CVE-2026-93379,4.3,,,None,9/21 CH - Monitor for QID | No Expoit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-18-2026
+Microsoft Edge (Chromium-based) Multiple Vulnerabilities,CVE-2026-93384,3.7,,,None,9/21 CH - Monitor for QID | No Expoit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-18-2026
+Microsoft Edge (Chromium-based) Multiple Vulnerabilities,CVE-2026-93382,8.8,,,None,9/21 CH - Monitor for QID | No Expoit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-18-2026
+Microsoft Edge (Chromium-based) Multiple Vulnerabilities,CVE-2026-93383,4.3,,,None,9/21 CH - Monitor for QID | No Expoit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-18-2026
+Microsoft Edge (Chromium-based) Multiple Vulnerabilities,CVE-2026-93376,6.3,,,None,9/21 CH - Monitor for QID | No Expoit/POC,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#september-18-2026
