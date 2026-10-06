@@ -1,175 +1,62 @@
 title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,https://lists.apache.org/thread/fgggbv3sjjqw7p6q0j88gspt9b2rb728
-Google Chrome Multiple Vulnerabilities,CVE-2026-102311,Critical,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102305,Low,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102314,Low,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102327,Low,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102330,Low,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102320,Medium,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102299,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102300,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102301,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102302,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102303,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102304,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102306,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102307,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102308,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102309,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102310,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102312,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102313,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102315,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102316,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102317,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102318,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102319,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102321,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102323,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102324,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102325,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102326,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102328,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102329,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-Google Chrome Multiple Vulnerabilities,CVE-2026-102331,High,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://chromereleases.googleblog.com/2026/09/stable-channel-update-for-desktop_01807488085.html
-IBM AIX perl Multiple Vulnerabilities,CVE-2026-19487,7.5,,330262,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://aix.software.ibm.com/aix/efixes/security/perl_advisory14.asc.sig
-IBM AIX perl Multiple Vulnerabilities,CVE-2026-15534,7,,330262,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://aix.software.ibm.com/aix/efixes/security/perl_advisory14.asc.sig
-IBM AIX perl Multiple Vulnerabilities,CVE-2026-19953,7,,330262,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://aix.software.ibm.com/aix/efixes/security/perl_advisory14.asc.sig
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100766,7,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100802,7.3,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-96869,7.3,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100806,7,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100799,7,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100783,7,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100805,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100791,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100782,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100801,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100785,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100796,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100764,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100757,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100776,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100773,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100765,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100769,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100777,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100761,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100767,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100784,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100779,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100774,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100772,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100807,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100813,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100815,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100814,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100820,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100824,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100790,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100768,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100780,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100789,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100797,8.8,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100811,9.6,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100818,9.6,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100762,9.6,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100819,9.6,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100770,9.6,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100800,9.6,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100786,9.6,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100778,9.6,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100804,9.6,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100809,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100816,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100758,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100828,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100763,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100781,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100822,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100794,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100788,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100821,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100803,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100793,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100792,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100830,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100823,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100760,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100829,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100808,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100775,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100810,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100817,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100771,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100787,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100756,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100759,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-100798,7.5,,,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-97
-Red Hat update for postgresql,CVE-2026-6471,7.2,,6056005,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72362
-Red Hat update for postgresql,CVE-2026-14668,8.1,,6056005,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72362
-Red Hat update for postgresql,CVE-2026-6464,8.1,,6056005,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72362
-Red Hat update for postgresql,CVE-2026-14679,8.2,,6056005,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72362
-Red Hat update for postgresql,CVE-2026-14669,8.8,,6056005,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72362
-Red Hat update for postgresql,CVE-2026-14677,8.8,,6056005,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72362
-Red Hat update for postgresql,CVE-2026-16239,8.8,,6056005,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72362
-Red Hat update for postgresql,CVE-2026-14664,8.8,,6056005,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72362
-Red Hat update for postgresql,CVE-2026-15742,8.8,,6056005,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72362
-Red Hat update for postgresql,CVE-2026-19385,8.8,,6056005,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72362
-Red Hat update for postgresql,CVE-2026-14680,8.8,,6056005,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72362
-Red Hat update for postgresql,CVE-2026-14671,8.8,,6056005,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72362
-Red Hat update for postgresql,CVE-2026-14670,8.8,,6056005,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72362
-Red Hat update for postgresql,CVE-2026-14662,8.8,,6056005,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72362
-Red Hat update for webkit2gtk3,CVE-2026-84359,7,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-65340,7,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-65336,7,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-64783,7,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-43795,7,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-65332,7,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-65337,7,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-28984,7,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-65351,7,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-65335,7.5,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-91740,7,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-65331,7.3,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-64757,7.5,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-64780,7.5,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-64718,7,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-84635,7,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-13820,7.3,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-17992,7.5,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-64730,7.3,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-64728,7.8,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-11099,7.3,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-43804,7,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-64787,7,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-91733,7,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-91747,7,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-8510,7.5,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-64713,8.1,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-9892,8.3,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-10020,8.3,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-10925,8.3,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-17712,8.8,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-85049,8.8,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-13885,8.8,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-83596,8.8,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-78376,8.8,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2026-19154,9,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat update for webkit2gtk3,CVE-2023-4860,9.6,,6055811,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:69098
-Red Hat Update for kpatch-patch-4_18_0-553_109_1,CVE-2026-45852,8.6,,6056033,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72629
-Red Hat Update for kpatch-patch-4_18_0-553_109_1, CVE-2026-46145,8.6,,6056033,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72629
-Red Hat Update for kpatch-patch-4_18_0-553_109_1, CVE-2026-46189,8.6,,6056033,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72629
-Red Hat Update for kpatch-patch-4_18_0-553_109_1, CVE-2026-74581,8.6,,6056033,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72629
-Red Hat Update for kernel security,CVE-2026-45942,8.5,,6056027,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72623
-Red Hat Update for kernel security, CVE-2026-46325,8.5,,6056027,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72623
-Red Hat Update for kernel security, CVE-2026-52972,8.5,,6056027,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72623
-Red Hat Update for kernel security, CVE-2026-53341,8.5,,6056027,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72623
-Red Hat Update for kernel security, CVE-2026-63875,8.5,,6056027,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72623
-Red Hat Update for kernel security, CVE-2026-64102,8.5,,6056027,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72623
-Red Hat Update for kernel security, CVE-2026-64556,8.5,,6056027,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72623
-Red Hat Update for kernel security, CVE-2026-74753,8.5,,6056027,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72623
-Red Hat Update for kernel security, CVE-2026-80522,8.5,,6056027,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72623
-Red Hat Update for java-21-ibm-semeru-certified-Java Development Toolkit,CVE-2026-16440,7.8,,6056025,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72888
-Red Hat Update for java-21-ibm-semeru-certified-Java Development Toolkit, CVE-2026-60589,7.8,,6056025,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72888
-Red Hat Update for java-21-ibm-semeru-certified-Java Development Toolkit, CVE-2026-61308,7.8,,6056025,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72888
-Red Hat Update for java-21-ibm-semeru-certified-Java Development Toolkit, CVE-2026-70907,7.8,,6056025,Qualys QID,9/29 CH - QID Available | No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:72888
+Red Hat update for kernel,CVE-2026-52972,7,,6056139,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75747
+Red Hat update for kernel,CVE-2026-53230,7,,6056139,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75747
+Red Hat update for kernel,CVE-2025-39994,5.8,,6056139,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75747
+Red Hat update for kernel,CVE-2026-63994,7,,6056139,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75747
+Red Hat update for kernel,CVE-2026-89972,9.8,,6056139,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75747
+Red Hat update for kernel,CVE-2022-50756,7,,6056139,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75747
+Red Hat update for kernel,CVE-2026-74516,7,,6056139,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75747
+Red Hat update for kernel,CVE-2026-80921,8.8,,6056139,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75747
+Red Hat update for kernel,CVE-2026-97417,7.5,,6056139,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75747
+Red Hat update for kernel,CVE-2026-74746,7,,6056139,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75747
+Red Hat update for kernel,CVE-2025-40242,5.9,,6056139,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75747
+Red Hat update for kernel,CVE-2026-46319,7.5,,6056139,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75747
+Red Hat update for kernel,CVE-2026-89481,7,,6056139,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75747
+Red Hat update for kernel,CVE-2026-90227,7.8,,6056139,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75747
+Red Hat update for kernel,CVE-2026-23105,7.8,,6056139,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75747
+Red Hat update for kernel,CVE-2026-63992,7,,6056139,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75747
+Red Hat update for kernel,CVE-2026-53049,7,,6056139,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75747
+Red Hat update for kernel,CVE-2026-45861,7,,6056139,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75747
+Red Hat update for kernel,CVE-2026-63829,8.8,,6056139,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75747
+Red Hat update for kernel,CVE-2026-74744,8.8,,6056139,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75747
+Red Hat update for kernel,CVE-2026-68432,7,,6056139,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75747
+Red Hat update for kernel,CVE-2026-72052,8.8,,6056139,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75747
+Red Hat update for nodejs:22,CVE-2026-9496,7.5,,6056140,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75870
+Red Hat update for nodejs:22,CVE-2026-19534,7.5,,6056140,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75870
+Red Hat update for kernel,CVE-2025-39964,7.8,,6055939,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71569
+Red Hat update for kernel,CVE-2026-74469,7.8,,6055939,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71569
+Red Hat update for kernel,CVE-2026-68121,7.3,,6055939,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71569
+Red Hat update for kernel,CVE-2026-81000,7.8,,6055939,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71569
+Red Hat update for kernel,CVE-2026-53266,8.8,,6055939,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71569
+Red Hat update for libxml2,CVE-2026-86138,7.8,,6055972,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71585
+Red Hat update for libxml2,CVE-2026-74860,8.5,,6055972,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71585
+Red Hat update for libxml2,CVE-2026-86140,7.8,,6055972,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71585
+Red Hat update for libxml2,CVE-2026-86144,7.8,,6055972,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71585
+Red Hat update for libxml2,CVE-2026-86142,6.9,,6055972,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71585
+Red Hat update for libxml2,CVE-2026-86143,7.3,,6055972,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71585
+Red Hat update for kernel,CVE-2026-72261,7.8,,6055917,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71213
+Red Hat update for kernel,CVE-2026-64564,7.8,,6055917,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71213
+Red Hat update for kernel,CVE-2026-43370,7,,6055917,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71213
+Red Hat update for kernel,CVE-2026-63831,8.8,,6055917,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71213
+Red Hat update for kernel,CVE-2026-89846,7.1,,6055917,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71213
+Red Hat update for kernel,CVE-2026-68201,7.3,,6055917,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71213
+Red Hat update for kernel,CVE-2026-64534,7,,6055917,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71213
+Red Hat update for kernel,CVE-2026-63802,7,,6055917,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71213
+Red Hat update for kernel,CVE-2026-53005,7,,6055917,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71213
+Red Hat update for kernel,CVE-2026-23007,4.7,,6055917,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71213
+Red Hat update for kernel,CVE-2026-64383,9.8,,6055917,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71213
+Red Hat update for kernel,CVE-2026-64053,7,,6055917,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71213
+Red Hat update for kernel,CVE-2026-72243,7,,6055917,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71213
+Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2026-84719,9.9,,6055906,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71115
+Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2026-84502,9.9,,6055906,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71115
+Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2026-12564,9.6,,6055906,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71115
+Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2026-84684,7,,6055906,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71115
+Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2026-84474,9.9,,6055906,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71115
+Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2026-84711,7,,6055906,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71115
+Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2026-75884,9.1,,6055906,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71115
+Red Hat Ansible Automation Platform Multiple Vulnerabilities,CVE-2026-84638,not available,,6055906,Qualys QID,10/5 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:71115
+Atlassian Arbitrary File Access Vulnerability,CVE-2026-21589,9.3,89,"735702, 735703, 735704, 388903, 388907",Qualys Pipeline,"10/5 CH - QID in Pipeline |  Exploit reported, no known POC released","https://jira.atlassian.com/browse/JRASERVER-79546
+https://jira.atlassian.com/browse/BAM-26567
+https://jira.atlassian.com/browse/CONFSERVER-104488
+https://jira.atlassian.com/browse/BSERV-20604
+https://jira.atlassian.com/browse/JSDSERVER-16809"
