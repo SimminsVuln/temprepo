@@ -1,93 +1,172 @@
 title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,https://lists.apache.org/thread/fgggbv3sjjqw7p6q0j88gspt9b2rb728
-Kibana Multiple Vulnerabilities,CVE-2026-102406,8.8,,388922,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://discuss.elastic.co/t/kibana-8-19-22-9-4-6-security-update-esa-2026-103/390679
-Kibana Multiple Vulnerabilities,CVE-2026-102410,4.3,,388923,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://discuss.elastic.co/t/kibana-8-19-22-9-4-6-security-update-esa-2026-103/390679
-Kibana Multiple Vulnerabilities,CVE-2026-78582,6.5,,"520323, 388844",Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://discuss.elastic.co/t/kibana-8-19-22-9-4-6-security-update-esa-2026-103/390679
-Kibana Multiple Vulnerabilities,CVE-2026-72662,6.3,,"520321, 388841",Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://discuss.elastic.co/t/kibana-8-19-22-9-4-6-security-update-esa-2026-103/390679
-Kibana Multiple Vulnerabilities,CVE-2026-102412,6.5,,388924,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://discuss.elastic.co/t/kibana-8-19-22-9-4-6-security-update-esa-2026-103/390679
-Kibana Multiple Vulnerabilities,CVE-2026-94400,6.5,,"388842, 520324",Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://discuss.elastic.co/t/kibana-8-19-22-9-4-6-security-update-esa-2026-103/390679
-Kibana Multiple Vulnerabilities,CVE-2026-72668,7.3,,"520322, 388835 ",Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://discuss.elastic.co/t/kibana-8-19-22-9-4-6-security-update-esa-2026-103/390679
-Red Hat update for thunderbird,CVE-2026-84120,5.4,,6056148,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76740
-Red Hat update for thunderbird,CVE-2026-84143,9.8,,6056148,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76740
-Red Hat update for thunderbird,CVE-2026-84145,7.5,,6056148,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76740
-Red Hat update for thunderbird,CVE-2026-75874,10,,6056148,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76740
-Red Hat update for thunderbird,CVE-2026-84639,7.5,,6056148,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76740
-Red Hat update for thunderbird,CVE-2026-84641,3.4,,6056148,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76740
-Red Hat update for thunderbird,CVE-2026-84124,5.4,,6056148,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76740
-Red Hat update for thunderbird,CVE-2026-84121,9.6,,6056148,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76740
-Red Hat update for thunderbird,CVE-2026-84131,8.8,,6056148,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76740
-Red Hat update for thunderbird,CVE-2026-84119,9.6,,6056148,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76740
-Red Hat update for thunderbird,CVE-2026-84122,5.4,,6056148,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76740
-Red Hat update for thunderbird,CVE-2026-84640,6.1,,6056148,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76740
-Red Hat update for thunderbird,CVE-2026-16365,8.8,,6056148,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76740
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2026-68763,7.5,,6056086,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:73981
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2026-34180,7.5,,6056086,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:73981
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2026-66422,8.1,,6056086,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:73981
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2026-73180,6.8,,6056086,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:73981
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2026-65183,8.1,,6056086,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:73981
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2026-68525,9.1,,6056086,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:73981
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2026-59083,9.1,,6056086,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:73981
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2026-65927,7.5,,6056086,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:73981
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2026-34181,7.4,,6056086,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:73981
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2026-68569,8.1,,6056086,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:73981
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2026-45447,9.8,,6056086,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:73981
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2026-65182,9.1,,6056086,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:73981
-Red Hat JBoss Web Server Multiple Vulnerabilities,CVE-2026-65905,9.8,,6056086,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:73981
-Red Hat build of MicroShift Multiple Vulnerabilities,CVE-2026-42504,7.5,,6056165,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:74796
-Red Hat build of MicroShift Multiple Vulnerabilities,CVE-2026-33818,7.5,,6056165,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:74796
-Red Hat build of MicroShift Multiple Vulnerabilities,CVE-2026-56858,6.1,,6056165,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:74796
-Red Hat build of MicroShift Multiple Vulnerabilities,CVE-2026-56860,5.9,,6056165,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:74796
-Red Hat build of MicroShift Multiple Vulnerabilities,CVE-2026-56862,7.5,,6056165,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:74796
-Red Hat update for grafana,CVE-2026-42499,7.5,,6056153,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76795
-Red Hat update for grafana,CVE-2026-33377,7.1,,6056153,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76795
-Red Hat update for grafana,CVE-2026-33376,7.4,,6056153,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76795
-Red Hat update for grafana,CVE-2026-56859,7.5,,6056153,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76795
-Red Hat update for grafana,CVE-2026-39821,9.6,,6056153,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76795
-Red Hat update for grafana,CVE-2026-27137,7.5,,6056153,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76795
-Red Hat update for grafana,CVE-2026-56853,7.5,,6056153,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76795
-Red Hat update for grafana,CVE-2026-33810,8.2,,6056153,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76795
-Red Hat update for grafana,CVE-2026-39820,7.5,,6056153,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76795
-Red Hat update for firefox,CVE-2026-100801,8.8,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-92035,9.6,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100803,5.4,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100772,8.8,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100775,9.6,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100820,8.8,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100778,9.6,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100818,9.6,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100771,8.1,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100758,9.6,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100797,8.8,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100821,4.7,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100757,8.8,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100791,8.8,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100792,7.1,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100782,8.8,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100786,9.6,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100819,9.6,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100783,4.3,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100784,8.8,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100781,9.6,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100790,8.8,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100789,8.8,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100780,8.8,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100779,8.8,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100811,9.6,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100766,4.3,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100774,8.8,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100785,8.8,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100767,8.8,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-96869,4.3,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100777,8.8,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100776,8.8,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100773,8.8,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100759,8.1,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100794,8.8,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100762,9.6,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100770,9.6,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100807,8.8,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100769,8.8,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100756,8.1,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100788,9.8,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Red Hat update for firefox,CVE-2026-100832,8.8,,6056164,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://access.redhat.com/errata/RHSA-2026:76895
-Citrix NetScaler Application Delivery Controller (ADC) and NetScaler Gateway Security Bulletin,CVE-2026-107406,not available,,388935,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://support.citrix.com/support-home/kbsearch/article?articleNumber=CTX697191
-IBM DB2 Log4j Vulnerability,CVE-2026-49844,5.9,,20631,Qualys QID,10/8 CH - QID Available | No Exploit/Poc known,https://www.ibm.com/support/pages/node/7291607
+Red Hat update for freerdp,CVE-2026-91963,6.5,,6056127,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75570
+Red Hat update for freerdp,CVE-2026-91964,8.8,,6056127,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75570
+Red Hat update for freerdp,CVE-2026-91956,6.5,,6056127,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75570
+Red Hat update for freerdp,CVE-2026-91954,6.5,,6056127,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75570
+Red Hat update for freerdp,CVE-2026-91959,6.5,,6056127,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75570
+Red Hat update for freerdp,CVE-2026-91953,6.5,,6056127,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75570
+Red Hat update for thunderbird,CVE-2026-84131,8.8,,6056199,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77627
+Red Hat update for thunderbird,CVE-2026-84143,9.8,,6056199,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77627
+Red Hat update for thunderbird,CVE-2026-84640,6.1,,6056199,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77627
+Red Hat update for thunderbird,CVE-2026-84121,9.6,,6056199,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77627
+Red Hat update for thunderbird,CVE-2026-75874,10,,6056199,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77627
+Red Hat update for thunderbird,CVE-2026-84145,7.5,,6056199,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77627
+Red Hat update for thunderbird,CVE-2026-84639,7.5,,6056199,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77627
+Red Hat update for thunderbird,CVE-2026-84124,5.4,,6056199,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77627
+Red Hat update for thunderbird,CVE-2026-84122,5.4,,6056199,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77627
+Red Hat update for thunderbird,CVE-2026-84641,3.4,,6056199,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77627
+Red Hat update for thunderbird,CVE-2026-84120,5.4,,6056199,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77627
+Red Hat update for thunderbird,CVE-2026-84119,9.6,,6056199,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77627
+Red Hat update for thunderbird,CVE-2026-16365,8.8,,6056199,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77627
+Red Hat update for resteasy,CVE-2026-17615,7.5,,6056199,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77627
+Red Hat update for curl,CVE-2026-8924,9.1,,6056252,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80511
+Red Hat update for curl,CVE-2026-11856,9.8,,6056252,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80511
+Red Hat update for gimp,CVE-2026-18301,7.8,,6056242,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80509
+Red Hat update for gimp,CVE-2026-18307,7.8,,6056242,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80509
+Red Hat update for gimp,CVE-2026-59090,8.4,,6056242,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80509
+Red Hat update for gimp,CVE-2026-18302,7.8,,6056242,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80509
+Red Hat update for gimp,CVE-2026-42169,7.3,,6056242,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80509
+Red Hat update for gimp,CVE-2026-18305,7.8,,6056242,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80509
+Red Hat update for gimp,CVE-2026-18306,7.8,,6056242,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80509
+Red Hat update for gimp,CVE-2026-18304,7.8,,6056242,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80509
+Red Hat update for gimp,CVE-2026-58379,7.3,,6056242,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80509
+Red Hat update for gimp,CVE-2026-58380,7.3,,6056242,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80509
+Red Hat update for gimp,CVE-2026-66758,7.8,,6056242,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80509
+Red Hat update for gimp,CVE-2026-18303,7.8,,6056242,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80509
+Red Hat update for gimp,CVE-2026-58384,7.3,,6056242,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80509
+Red Hat update for openssh,CVE-2026-55653,6.5,,6056253,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80513
+Red Hat update for openssh,CVE-2026-55655,6.1,,6056253,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80513
+Red Hat update for openssh,CVE-2026-59996,4.2,,6056253,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80513
+Red Hat update for openssh,CVE-2026-60001,6.5,,6056253,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80513
+Red Hat update for openssh,CVE-2026-59999,5.9,,6056253,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80513
+Red Hat update for openssh,CVE-2026-59995,5.4,,6056253,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80513
+Red Hat update for curl,CVE-2026-6429,5.3,,6056260,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80512
+Red Hat update for curl,CVE-2026-7168,5.3,,6056260,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80512
+Red Hat update for curl,CVE-2026-6253,5.9,,6056260,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80512
+Red Hat update for curl,CVE-2026-10536,9.8,,6056260,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80512
+Red Hat update for curl,CVE-2026-5545,6.5,,6056260,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80512
+Red Hat update for libxml2,CVE-2026-86142,6.9,,6056254,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:80675
+Red Hat update for bind9.16,CVE-2026-80274,7.5,,6056219,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79113
+Red Hat update for bind9.16,CVE-2026-19667,7.5,,6056219,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79113
+Red Hat update for bind9.16,CVE-2026-19666,7.5,,6056219,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79113
+Red Hat update for kernel,CVE-2026-64162,7.1,,6056224,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77689
+Red Hat update for kernel,CVE-2026-53398,7,,6056224,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77689
+Red Hat update for kernel,CVE-2026-64115,7,,6056224,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77689
+Red Hat update for kernel,CVE-2026-89663,7,,6056224,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77689
+Red Hat update for kernel,CVE-2026-89690,7,,6056224,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77689
+Red Hat update for kernel,CVE-2026-53360,8.8,,6056224,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77689
+Red Hat update for kernel,CVE-2026-64035,7,,6056224,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77689
+Red Hat update for kernel,CVE-2026-74744,8.8,,6056224,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77689
+Red Hat update for kernel,CVE-2026-89669,7,,6056224,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77689
+Red Hat update for kernel,CVE-2026-72317,7,,6056224,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77689
+Red Hat update for kernel,CVE-2026-23103,7.8,,6056224,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77689
+Red Hat update for kernel,CVE-2026-63970,7,,6056224,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77689
+Red Hat update for kernel,CVE-2026-53365,7.8,,6056224,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77689
+Red Hat update for kernel,CVE-2026-89530,7,,6056224,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77689
+Red Hat update for glibc,CVE-2026-6368,5.5,,6056221,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79281
+Red Hat update for glibc,CVE-2026-19542,5.6,,6056221,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79281
+Red Hat update for glibc,CVE-2026-6791,5.9,,6056221,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79281
+Red Hat update for glibc,CVE-2026-19499,7.7,,6056221,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79281
+Red Hat update for kernel,CVE-2026-46043,7,,6056198,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77219
+Red Hat update for kernel,CVE-2026-23442,6.5,,6056198,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77219
+Red Hat update for kernel,CVE-2026-63924,9.8,,6056198,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77219
+Red Hat update for kernel,CVE-2026-64383,9.8,,6056198,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77219
+Red Hat update for kernel,CVE-2026-46133,7,,6056198,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77219
+Red Hat update for kernel,CVE-2026-64582,7.8,,6056198,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77219
+Red Hat update for kernel,CVE-2026-64386,9.8,,6056198,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77219
+Red Hat update for kernel,CVE-2026-80863,7.3,,6056198,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77219
+Red Hat update for kernel,CVE-2026-80864,7,,6056198,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77219
+Red Hat update for kernel,CVE-2026-80792,7,,6056198,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77219
+Red Hat update for kernel,CVE-2026-45910,7,,6056198,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77219
+Red Hat update for kernel,CVE-2026-63920,7.1,,6056198,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77219
+Red Hat update for kernel,CVE-2026-63922,7,,6056198,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77219
+Red Hat update for kernel,CVE-2026-63984,7,,6056198,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77219
+Red Hat update for kernel,CVE-2026-46114,7,,6056198,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77219
+Red Hat update for kernel,CVE-2026-64385,7,,6056198,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:77219
+Red Hat update for bind9.16,CVE-2026-3039,7.5,,6056228,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79160
+Red Hat update for bind9.16,CVE-2026-11331,7.5,,6056228,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79160
+Red Hat update for bind9.16,CVE-2026-13321,8.6,,6056228,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79160
+Red Hat update for bind9.16,CVE-2026-10723,6.8,,6056228,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79160
+Red Hat update for bind9.16,CVE-2026-11721,7.5,,6056228,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79160
+Red Hat update for bind9.16,CVE-2026-13204,7.5,,6056228,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79160
+Red Hat update for bind9.16,CVE-2026-11622,7.5,,6056228,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79160
+Red Hat update for bind9.16,CVE-2026-5946,7.5,,6056228,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79160
+Red Hat update for kernel,CVE-2026-72052,8.8,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-43332,7,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-97417,7.5,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-72289,7,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-89481,7,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2025-40149,5,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-46076,7,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-74746,7.8,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-63993,7,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-63994,7,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-63829,8.8,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-80921,8.8,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-89972,9.8,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-64557,7,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-53049,7,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-53357,7,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-93288,7.8,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-46317,7,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-46275,7.8,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-74669,7,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-74569,9.8,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-52942,7,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-45861,7,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-52986,7,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-72099,7.3,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-89480,7,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-90227,7.8,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-74516,7,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-68432,7,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-72255,7,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for kernel,CVE-2026-63992,7,,6056210,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76739
+Red Hat update for glibc,CVE-2026-80489,5.9,,6056221,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79281
+Red Hat update for glibc,CVE-2026-18374,4.9,,6056221,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79281
+Red Hat update for glibc,CVE-2026-77117,5.9,,6056221,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79281
+Red Hat update for dovecot,CVE-2026-33605,7.5,,6056233,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79371
+Red Hat update for dovecot,CVE-2026-40019,5.9,,6056233,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79371
+Red Hat update for dovecot,CVE-2026-33263,4.3,,6056233,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79371
+Red Hat update for dovecot,CVE-2026-42007,9.1,,6056233,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79371
+Red Hat update for dovecot,CVE-2026-27852,7.5,,6056233,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79371
+Red Hat update for dovecot,CVE-2026-73208,7.4,,6056233,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79371
+Red Hat update for dovecot,CVE-2026-40018,7.4,,6056233,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79371
+Red Hat update for dovecot,CVE-2026-42391,7.5,,6056233,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:79371
+Red Hat update for freerdp,CVE-2026-91950,6.5,,6056127,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75570
+Red Hat update for freerdp,CVE-2026-91946,6.5,,6056127,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75570
+Red Hat update for freerdp,CVE-2026-85089,6.5,,6056127,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75570
+Red Hat update for freerdp,CVE-2026-91947,7.5,,6056127,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75570
+Red Hat update for freerdp,CVE-2026-91960,6.5,,6056127,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:75570
+IBM AIX OpenSSL Multiple Vulnerabilities,CVE-2026-54874,7.5,,330263,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,"https://aix.software.ibm.com/aix/efixes/security/openssl_advisory49.asc
+https://www.ibm.com/support/pages/node/7290182"
+IBM AIX OpenSSL Multiple Vulnerabilities,CVE-2026-75803,3.7,,330263,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,"https://aix.software.ibm.com/aix/efixes/security/openssl_advisory49.asc
+https://www.ibm.com/support/pages/node/7290182"
+IBM AIX OpenSSL Multiple Vulnerabilities,CVE-2026-63074,7.5,,330263,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,"https://aix.software.ibm.com/aix/efixes/security/openssl_advisory49.asc
+https://www.ibm.com/support/pages/node/7290182"
+IBM AIX OpenSSL Multiple Vulnerabilities,CVE-2026-63076,7.5,,330263,Qualys QID,10/12 CH - QID Available | No Exploit/POC known,"https://aix.software.ibm.com/aix/efixes/security/openssl_advisory49.asc
+https://www.ibm.com/support/pages/node/7290182"
+Gitlab Multiple Vulnerabilities,CVE-2026-92883,8.7,,388968,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2026-16301,8.5,,388968,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2026-14814,8.2,,388968,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2026-81839,7.7,,388968,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2026-96893,7.3,,388968,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2026-101168,6.2,,388968,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2026-7767,5.8,,388968,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2026-16275,5.3,,388968,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2026-84284,5.3,,388968,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2026-85529,5.3,,388968,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2026-100755,4.6,,388968,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2026-14552,4.3,,388968,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2026-6567,4.3,,388968,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2026-104661,4.3,,388968,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2026-14210,4.3,,388968,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2026-105458,4.3,,388968,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2026-5954,4.2,,388968,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2026-92528,4.2,,388968,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2026-78335,4.2,,388968,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2026-100104,3.5,,388968,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2026-82632,3.1,,388968,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2026-103549,2.7,,388968,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+Gitlab Multiple Vulnerabilities,CVE-2026-9268,2.7,,388968,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
+Integer Overflow issue in CI/CD Regular Expression Compiler impacts GitLab CE/EE,CVE-2026-97229,10,,388969,Qualys Pipeline,10/12 CH - QID in Pipeline | No Exploit/POC known,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/
