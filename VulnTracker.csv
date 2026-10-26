@@ -1,111 +1,19 @@
 title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,https://lists.apache.org/thread/fgggbv3sjjqw7p6q0j88gspt9b2rb728
-Cisco Multiple Products Snort 3 Multiple Vulnerabilities,CVE-2026-20043,9,,"317948, 317947",Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-snort3-ybgmhTQe
-Cisco Multiple Products Snort 3 Multiple Vulnerabilities,CVE-2026-20356,7.5,,"317948, 317947",Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-snort3-ybgmhTQe
-Cisco Multiple Products Snort 3 Multiple Vulnerabilities,CVE-2026-20236,9,,"317948, 317947",Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-snort3-ybgmhTQe
-Cisco Multiple Products Snort 3 Multiple Vulnerabilities,CVE-2026-20291,7.8,,"317948, 317947",Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-snort3-ybgmhTQe
-IBM AIX IBM Java Multiple Vulnerabilities,CVE-2026-61308,6.8,,330267,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7292996
-IBM AIX IBM Java Multiple Vulnerabilities,CVE-2026-60589,3.7,,330267,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7292996
-IBM AIX IBM Java Multiple Vulnerabilities,CVE-2026-70907,5.3,,330267,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://www.ibm.com/support/pages/node/7292996
-Red Hat update for dotnet9.0,CVE-2026-70183,7.5,,6056471,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:86168
-Red Hat update for dotnet9.0,CVE-2026-96225,7.8,,6056471,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:86168
-Red Hat update for dotnet9.0,CVE-2026-69651,7.5,,6056471,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:86168
-Red Hat update for dotnet9.0,CVE-2026-70196,5.9,,6056471,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:86168
-Red Hat update for dotnet9.0,CVE-2026-96233,7.5,,6056471,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:86168
-Red Hat update for dotnet9.0,CVE-2026-92707,5.3,,6056471,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:86168
-Red Hat update for dotnet9.0,CVE-2026-70179,7.5,,6056471,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:86168
-Red Hat update for dotnet9.0,CVE-2026-70188,9.1,,6056471,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:86168
-Red Hat update for dotnet9.0,CVE-2026-96231,7.8,,6056471,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:86168
-Red Hat update for dotnet9.0,CVE-2026-96238,6.5,,6056471,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:86168
-Red Hat update for dotnet9.0,CVE-2026-96237,7.5,,6056471,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:86168
-Red Hat update for dotnet9.0,CVE-2026-66822,5.9,,6056471,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:86168
-Red Hat update for dotnet9.0,CVE-2026-70175,8.1,,6056471,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:86168
-Red Hat update for dotnet9.0,CVE-2026-96230,8.8,,6056471,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:86168
-Red Hat update for dotnet9.0,CVE-2026-96236,7.5,,6056471,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:86168
-Red Hat update for dotnet9.0,CVE-2026-70181,7.5,,6056471,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:86168
-Red Hat update for dotnet9.0,CVE-2026-70186,7.5,,6056471,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:86168
-Red Hat update for dotnet9.0,CVE-2026-70159,7.5,,6056471,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:86168
-Red Hat update for dotnet9.0,CVE-2026-88092,9.4,,6056471,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:86168
-Red Hat update for dotnet9.0,CVE-2026-58280,7.5,,6056471,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:86168
-Red Hat update for dotnet8.0,CVE-2026-96222,7.4,,6056471,Qualys QID,10/23 CH - QID Available | No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:86168
-"## CVE-2026-111497 — Google Brotli / Node.js Remote Code Execution (Node2Shell)
-
-### Summary
-
-CVE-2026-111497 is a critical buffer overflow vulnerability affecting the Google Brotli decompression library, including its implementation within Node.js. The vulnerability originates from an out-of-bounds memory write in the Brotli decoder (`c/dec/decode.c`) when processing specially crafted compressed data. An unauthenticated remote attacker may exploit this vulnerability to corrupt application memory, disclose sensitive information, cause denial of service (DoS), or potentially achieve remote code execution (RCE). The vulnerability carries a CVSS v4.0 score of 9.2 (Critical) and affects applications that process attacker-controlled Brotli-compressed content.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://www.tenable.com\&sz=32)
-
-Tenable®
-
-+1
-
-
-
-Successful exploitation requires a vulnerable application to decompress malicious Brotli data, such as compressed HTTP requests or responses. Applications using Node.js, including Express-based web services, may be exposed when handling untrusted compressed input. Security researchers at Imperva have demonstrated successful remote code execution against vulnerable Node.js deployments, confirming the potential for application compromise. Public proof-of-concept code is available, although widespread exploitation in production environments has not been confirmed. Organizations should prioritize updating affected Node.js runtimes and Brotli libraries, particularly those supporting internet-facing applications.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://www.imperva.com\&sz=32)
-
-Imperva
-
-+1
-
-
-
-Affected Versions:
-
-- Google Brotli: 1.0.3 through 1.2.0, excluding versions containing the applicable backported fix.
-- Node.js: 22.x before 22.23.4, 24.x before 24.22.1, and 26.x before 26.12.1.
-- End-of-life Node.js releases may also be affected and do not receive standard security updates.
-
-Fixed Versions:
-
-- Google Brotli: 1.0.10, 1.1.1, and 1.2.1, depending on the release branch.
-- Node.js: 22.23.4, 24.22.1, and 26.12.1 or later.&#x20;
-
-  [image](https://www.google.com/s2/favicons?domain=https://nodejs.org\&sz=32)
-
-  Wednesday, October 21, 2026 Security Releases
-
-  +1
-
-
-
-QID: 5020012, 389117 (provided identifiers; association not independently verified)
-
-CVEID: CVE-2026-111497
-
-EPSS: N/A — No score published by FIRST as of October 23, 2026.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://api.first.org\&sz=32)
-
-FIRST.Org API
-
-
-
-Vector String: `CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N`
-
-CVSS: 9.2 Critical (v4.0).&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://github.com\&sz=32)
-
-GitHub
-
-
-
-Exploit Availability: Yes — Public proof-of-concept implementations and demonstrated RCE in controlled environments.
-
-POC Code: Available — [GitHub PoC repository](https://github.com/dimasma0305/CVE-2026-111497-POC?utm_source=chatgpt.com). Demonstrates RCE against a specific Node.js build in a controlled local environment; remote exploitability is not established by this PoC.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://github.com\&sz=32)
-
-GitHub
-
-
-
-Known Exploitation: No confirmed in-the-wild exploitation as of October 23, 2026. Not currently listed in CISA's Known Exploited Vulnerabilities (KEV) catalog.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://threatsensor.csurface.io\&sz=32)
-
-Detalhes da CVE
-
-+1",,,,,,,
+Gitlab Multiple Vulnerabilities,CVE-2026-15723,8.2,,,,,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released
+Gitlab Multiple Vulnerabilities,CVE-2026-110264,10,,,,,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released
+Gitlab Multiple Vulnerabilities,CVE-2026-14288,3.1,,,,,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released
+Gitlab Multiple Vulnerabilities,CVE-2026-12664,6.8,,,,,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released
+Gitlab Multiple Vulnerabilities,CVE-2026-105711,3.5,,,,,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released
+Gitlab Multiple Vulnerabilities,CVE-2026-112212,7.5,,,,,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released
+Gitlab Multiple Vulnerabilities,CVE-2026-16255,5.9,,,,,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released
+Gitlab Multiple Vulnerabilities,CVE-2026-13319,4.3,,,,,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released
+Gitlab Multiple Vulnerabilities,CVE-2026-112326,3.1,,,,,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released
+Gitlab Multiple Vulnerabilities,CVE-2026-105777,4.3,,,,,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released
+IBM AIX cURL Multiple Security Bypass Vulnerabilities,CVE-2026-19931,9.8,,,,,"https://aix.software.ibm.com/aix/efixes/security/curl_advisory13.asc
+https://www.ibm.com/support/pages/node/7292372"
+IBM AIX cURL Multiple Security Bypass Vulnerabilities,CVE-2026-80231,7.5,,,,,"https://aix.software.ibm.com/aix/efixes/security/curl_advisory13.asc
+https://www.ibm.com/support/pages/node/7292372"
+IBM AIX RPM Multiple Denial of Service Vulnerabilities,CVE-2026-18739,2.5,,,,,"https://aix.software.ibm.com/aix/efixes/security/rpm_advisory5.asc
+https://www.ibm.com/support/pages/node/7292030"
+IBM AIX RPM Multiple Denial of Service Vulnerabilities,CVE-2026-18743,2.5,,,,,"https://aix.software.ibm.com/aix/efixes/security/rpm_advisory5.asc
+https://www.ibm.com/support/pages/node/7292030"
