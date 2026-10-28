@@ -1,111 +1,903 @@
 Title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,https://lists.apache.org/thread/fgggbv3sjjqw7p6q0j88gspt9b2rb728
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-15563,7.4,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-15554,7.4,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-56745,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-46581,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-62243,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-5680,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-69152,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-55833,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-3505,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-49362,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-15561,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-59899,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-59649,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-49363,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-73508,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-15567,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-15562,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-68494,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-15565,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-55831,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-15560,8.1,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-54513,8.1,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-86404,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-49364,9.1,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat JBoss Enterprise Application Platform Multiple Vulnerabilities,CVE-2026-49875,9.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:70228
-https://access.redhat.com/errata/RHSA-2026:70229
-https://access.redhat.com/errata/RHSA-2026:70230
-https://access.redhat.com/errata/RHSA-2026:70277"
-Red Hat update for compat-openssl11,CVE-2026-84782,8.2,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89736
+Apple iOS / iPadOS Multiple Vulnerabilities,CVE-2026-112518,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521"
+Apple macOS Multiple Vulnerabilities,CVE-2026-113948,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-113934,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-113945,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-113938,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-84495,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112468,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112432,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-65397,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112676,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112652,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112470,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112513,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112477,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112516,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112624,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112559,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112698,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112679,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-113941,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-65384,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112705,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-113940,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112501,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112658,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-113943,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2022-26704,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112415,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-113944,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-113915,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-84494,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-113910,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112517,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-86968,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112466,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112554,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-113936,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112469,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-113907,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-113947,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112689,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112606,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-86990,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-113942,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112678,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112617,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112446,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-113896,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-113898,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-113935,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112577,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112696,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112427,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-113937,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112576,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-86969,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112660,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112567,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112476,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112506,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-86943,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112455,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112685,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-86925,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112616,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112474,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112544,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-86978,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112628,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112459,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-112665,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-113946,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-113939,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Multiple Vulnerabilities,CVE-2026-65350,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149521
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112498,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-86923,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-65368,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112425,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112540,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112442,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112704,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-86992,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112656,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-84498,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-86929,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-64789,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112553,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112523,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112546,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112548,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-84545,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112562,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112593,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-65327,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112484,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112690,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112505,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112429,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112449,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112457,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112522,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112561,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-84595,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112627,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112633,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112521,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112519,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112482,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-28991,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149523
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-84590,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112424,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112495,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-86954,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112437,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112515,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112497,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112479,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-113913,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112555,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-113899,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112638,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112563,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112601,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149523
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-86936,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112486,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112565,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112558,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-113900,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112480,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112524,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-86970,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112510,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112475,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112675,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112569,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-65363,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-64750,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112529,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112683,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112688,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-65373,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-86941,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112485,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112677,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112483,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112668,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112464,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112571,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112642,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112672,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112575,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-86966,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112545,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-84542,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112541,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112511,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-86984,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112428,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112560,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-86971,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112481,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112530,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112441,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112525,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112632,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112625,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112493,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-86931,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112491,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112539,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112630,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112453,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112543,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112537,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-86958,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112531,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112550,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112430,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-86896,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-86945,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112556,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112533,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112514,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112438,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112708,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112508,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112647,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112410,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-84528,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-86946,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112414,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112413,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-113912,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-84610,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112502,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-86920,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112552,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112535,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112671,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-28864,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-86991,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112487,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112532,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-86937,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-65392,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149523
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112423,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112456,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112416,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112570,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112434,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112568,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112634,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112504,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112451,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112534,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112629,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112492,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112447,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-86942,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112512,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112526,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112473,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112461,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112471,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112536,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112670,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112462,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-64767,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149523
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-84604,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112557,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112421,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Sequoia Multiple Vulnerabilities,CVE-2026-112542,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522
+https://support.apple.com/en-us/149523"
+Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-86916,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149522
+Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84496,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522"
+Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-112467,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522"
+Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-112604,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522"
+Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-112444,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522"
+Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-84539,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149522
+Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-86964,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149522
+Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-112443,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522"
+Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-43736,N/A,,,,10/27 CH - No Exploit/POC Known,https://support.apple.com/en-us/149522
+Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-112494,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522"
+Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-86939,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522"
+Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-112551,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522"
+Apple macOS Tahoe Multiple Vulnerabilities,CVE-2026-112478,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149522"
+Apple Safari Multiple Vulnerabilities,CVE-2026-112695,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-112615,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-112599,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-112699,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-86986,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-112651,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-112680,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-112626,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-86974,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-112666,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-112673,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-113903,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-113952,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-112655,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-112623,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-113949,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-112640,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-112639,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-112659,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-112653,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-112654,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-113901,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-113904,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-112637,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-112697,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-112621,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-113897,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Apple Safari Multiple Vulnerabilities,CVE-2026-112693,N/A,,,,10/27 CH - No Exploit/POC Known,"https://support.apple.com/en-us/149227
+https://support.apple.com/en-us/149230
+https://support.apple.com/en-us/149521
+https://support.apple.com/en-us/149527"
+Google Chrome Multiple Vulnerabilities,CVE-2026-118345,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118320,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118334,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118332,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118329,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118316,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118312,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118348,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118352,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118335,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118313,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118343,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118359,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118305,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118336,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118310,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118322,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118309,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118358,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118357,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118311,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118318,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118338,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118353,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118315,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118341,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118314,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118350,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118354,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118319,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118340,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118349,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118327,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118355,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118356,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118308,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118351,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118342,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118328,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118331,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118339,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118347,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118344,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118306,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118317,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118346,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118307,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118321,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118330,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118304,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118337,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-118333,N/A,,,,10/27 CH - No Exploit/POC Known,https://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_0562499947.html
+Red Hat freeipmi Update,CVE-2026-85507,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89753
+https://access.redhat.com/errata/RHSA-2026:89754
+https://access.redhat.com/errata/RHSA-2026:89905"
+Red Hat freeipmi Update,CVE-2026-85508,9.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89753
+https://access.redhat.com/errata/RHSA-2026:89754
+https://access.redhat.com/errata/RHSA-2026:89905"
+Red Hat freeipmi Update,CVE-2026-85506,9.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89753
+https://access.redhat.com/errata/RHSA-2026:89754
+https://access.redhat.com/errata/RHSA-2026:89905"
+Red Hat freeipmi Update,CVE-2026-85505,7.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89753
+https://access.redhat.com/errata/RHSA-2026:89754
+https://access.redhat.com/errata/RHSA-2026:89905"
+Red Hat freeipmi Update,CVE-2026-85504,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89753
+https://access.redhat.com/errata/RHSA-2026:89754
+https://access.redhat.com/errata/RHSA-2026:89905"
+Red Hat freeipmi Update,CVE-2026-85509,9.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89753
+https://access.redhat.com/errata/RHSA-2026:89754
+https://access.redhat.com/errata/RHSA-2026:89905"
+Red Hat update for bind,CVE-2026-19662,5.9,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89745
+https://access.redhat.com/errata/RHSA-2026:89746
+https://access.redhat.com/errata/RHSA-2026:90328"
+Red Hat update for buildah,CVE-2026-56855,7.5,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90424
+Red Hat update for compat-openssl11,CVE-2026-63072,9.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89736
 https://access.redhat.com/errata/RHSA-2026:89737
 https://access.redhat.com/errata/RHSA-2026:89738"
-Red Hat update for compat-openssl11,CVE-2026-63072,9.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89736
+Red Hat update for compat-openssl11,CVE-2026-84782,8.2,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89736
 https://access.redhat.com/errata/RHSA-2026:89737
 https://access.redhat.com/errata/RHSA-2026:89738"
-Red Hat update for delve,CVE-2026-78667,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:88262
+Red Hat update for delve,CVE-2026-94440,7.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89732
+https://access.redhat.com/errata/RHSA-2026:89885
+https://access.redhat.com/errata/RHSA-2026:89888"
+Red Hat update for flatpak,CVE-2026-96280,7.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:80687
+https://access.redhat.com/errata/RHSA-2026:89733
+https://access.redhat.com/errata/RHSA-2026:90364"
+Red Hat update for flatpak,CVE-2026-96275,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:80687
+https://access.redhat.com/errata/RHSA-2026:89733
+https://access.redhat.com/errata/RHSA-2026:90364"
+Red Hat update for flatpak,CVE-2026-90616,7.4,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:80687
+https://access.redhat.com/errata/RHSA-2026:89733
+https://access.redhat.com/errata/RHSA-2026:90364"
+Red Hat update for flatpak,CVE-2026-96808,7.4,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:80687
+https://access.redhat.com/errata/RHSA-2026:89733
+https://access.redhat.com/errata/RHSA-2026:90364"
+Red Hat update for grafana,CVE-2026-17183,7.1,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89732
+https://access.redhat.com/errata/RHSA-2026:89744"
+Red Hat update for jackson-databind,CVE-2026-91777,7.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89734
+https://access.redhat.com/errata/RHSA-2026:89924
+https://www.ibm.com/support/pages/node/7293255"
+Red Hat update for jackson-databind,CVE-2026-68497,7.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89734
+https://access.redhat.com/errata/RHSA-2026:89924
+https://www.ibm.com/support/pages/node/7293255"
+Red Hat update for libxml2,CVE-2026-86138,7.8,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90309
+Red Hat update for libxml2,CVE-2026-11979,7.8,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90309
+Red Hat update for libxml2,CVE-2026-6653,5.9,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90309
+Red Hat update for libxml2,CVE-2026-86143,7.3,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90309
+Red Hat update for libxml2,CVE-2026-86144,7.8,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90309
+Red Hat update for libxml2,CVE-2026-74860,8.5,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90309
+Red Hat update for libxml2,CVE-2026-86142,6.9,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90309
+Red Hat update for libxml2,CVE-2026-86140,7.8,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90309
+Red Hat update for osbuild-composer,CVE-2026-55677,7.5,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90363
+Red Hat update for osbuild-composer,CVE-2026-27136,6.1,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90363
+Red Hat update for osbuild-composer,CVE-2026-42502,6.1,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90363
+Red Hat update for osbuild-composer,CVE-2026-25681,6.1,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90363
+Red Hat update for pcre2,CVE-2026-86145,8.2,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:86206
+Red Hat update for pcre2,CVE-2026-103111,7.6,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:86206
+Red Hat update for postgresql:18,CVE-2026-103484,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:85791
+https://access.redhat.com/errata/RHSA-2026:85814"
+Red Hat update for python-lxml,CVE-2026-49825,8.2,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90327
+Red Hat update for python-tornado,CVE-2026-49853,7.7,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90777
+Red Hat update for rhc,CVE-2026-32282,6.4,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90726
+Red Hat update for rhc,CVE-2024-45336,6.1,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90726
+Red Hat update for rhc,CVE-2026-27145,6.5,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90726
+Red Hat update for rhc,CVE-2026-56858,6.1,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90726
+Red Hat update for rhc,CVE-2026-42504,7.5,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90726
+Red Hat update for rhc,CVE-2026-97031,7.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:86093
+https://access.redhat.com/errata/RHSA-2026:86196
+https://access.redhat.com/errata/RHSA-2026:88280
+https://access.redhat.com/errata/RHSA-2026:89740
+https://access.redhat.com/errata/RHSA-2026:89741
+https://access.redhat.com/errata/RHSA-2026:89744
+https://access.redhat.com/errata/RHSA-2026:89751
+https://access.redhat.com/errata/RHSA-2026:89832
+https://access.redhat.com/errata/RHSA-2026:89885
+https://access.redhat.com/errata/RHSA-2026:89888
+https://access.redhat.com/errata/RHSA-2026:89908
+https://access.redhat.com/errata/RHSA-2026:89914
+https://access.redhat.com/errata/RHSA-2026:89915
+https://access.redhat.com/errata/RHSA-2026:90726"
+Red Hat update for rhc,CVE-2026-32280,7.5,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90726
+Red Hat update for rhc,CVE-2026-78669,7.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:86093
+https://access.redhat.com/errata/RHSA-2026:86196
+https://access.redhat.com/errata/RHSA-2026:88262
+https://access.redhat.com/errata/RHSA-2026:88280
+https://access.redhat.com/errata/RHSA-2026:89740
+https://access.redhat.com/errata/RHSA-2026:89741
+https://access.redhat.com/errata/RHSA-2026:89744
+https://access.redhat.com/errata/RHSA-2026:89751
+https://access.redhat.com/errata/RHSA-2026:89832
+https://access.redhat.com/errata/RHSA-2026:89885
+https://access.redhat.com/errata/RHSA-2026:89888
+https://access.redhat.com/errata/RHSA-2026:89908
+https://access.redhat.com/errata/RHSA-2026:89914
+https://access.redhat.com/errata/RHSA-2026:89915
+https://access.redhat.com/errata/RHSA-2026:90726"
+Red Hat update for rhc,CVE-2026-56860,5.9,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90726
+Red Hat update for rhc,CVE-2026-32283,7.5,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90726
+Red Hat update for rhc,CVE-2026-39821,9.6,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90726
+Red Hat update for rhc,CVE-2026-33811,7.5,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90726
+Red Hat update for rhc,CVE-2026-33818,7.5,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90726
+Red Hat update for rhc,CVE-2024-9355,6.5,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90726
+Red Hat update for rhc,CVE-2025-68121,10,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90726
+Red Hat update for rhc,CVE-2026-56862,7.5,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90726
+Red Hat update for rsyslog,CVE-2026-78002,7.5,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90349
+Red Hat update for ruby:2.5,CVE-2026-80212,7.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:73519
+https://jira.mongodb.org/browse/RUBY-3941"
+Red Hat update for ruby:2.5,CVE-2026-88030,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:73519
+https://jira.mongodb.org/browse/RUBY-3941"
+Red Hat update for skopeo,CVE-2026-111943,6.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:86093
+https://access.redhat.com/errata/RHSA-2026:86196
+https://access.redhat.com/errata/RHSA-2026:88262
+https://access.redhat.com/errata/RHSA-2026:88280
 https://access.redhat.com/errata/RHSA-2026:89740
 https://access.redhat.com/errata/RHSA-2026:89741
 https://access.redhat.com/errata/RHSA-2026:89744
@@ -116,489 +908,642 @@ https://access.redhat.com/errata/RHSA-2026:89761
 https://access.redhat.com/errata/RHSA-2026:89832
 https://access.redhat.com/errata/RHSA-2026:89885
 https://access.redhat.com/errata/RHSA-2026:89888
-https://access.redhat.com/errata/RHSA-2026:89908"
-Red Hat update for delve,CVE-2026-97031,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89740
-https://access.redhat.com/errata/RHSA-2026:89741
-https://access.redhat.com/errata/RHSA-2026:89744
-https://access.redhat.com/errata/RHSA-2026:89751
-https://access.redhat.com/errata/RHSA-2026:89832
-https://access.redhat.com/errata/RHSA-2026:89885
-https://access.redhat.com/errata/RHSA-2026:89888
-https://access.redhat.com/errata/RHSA-2026:89908"
-Red Hat update for delve,CVE-2026-94440,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89732
-https://access.redhat.com/errata/RHSA-2026:89885
-https://access.redhat.com/errata/RHSA-2026:89888"
-Red Hat update for delve,CVE-2026-78669,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:88262
+https://access.redhat.com/errata/RHSA-2026:89908
+https://access.redhat.com/errata/RHSA-2026:89914
+https://access.redhat.com/errata/RHSA-2026:89915
+https://access.redhat.com/errata/RHSA-2026:89920
+https://access.redhat.com/errata/RHSA-2026:89921
+https://access.redhat.com/errata/RHSA-2026:89922
+https://access.redhat.com/errata/RHSA-2026:89925
+https://access.redhat.com/errata/RHSA-2026:90362
+https://access.redhat.com/errata/RHSA-2026:90363
+https://access.redhat.com/errata/RHSA-2026:90424
+https://access.redhat.com/errata/RHSA-2026:90462
+https://access.redhat.com/errata/RHSA-2026:90514
+https://access.redhat.com/errata/RHSA-2026:90518
+https://access.redhat.com/errata/RHSA-2026:90519
+https://access.redhat.com/errata/RHSA-2026:90726"
+Red Hat update for skopeo,CVE-2025-11395,5.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:88262
+https://access.redhat.com/errata/RHSA-2026:89761
+https://access.redhat.com/errata/RHSA-2026:90362
+https://access.redhat.com/errata/RHSA-2026:90424
+https://access.redhat.com/errata/RHSA-2026:90462"
+Red Hat update for skopeo,CVE-2026-78667,7.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:86093
+https://access.redhat.com/errata/RHSA-2026:86196
+https://access.redhat.com/errata/RHSA-2026:88262
+https://access.redhat.com/errata/RHSA-2026:88280
 https://access.redhat.com/errata/RHSA-2026:89740
 https://access.redhat.com/errata/RHSA-2026:89741
 https://access.redhat.com/errata/RHSA-2026:89744
 https://access.redhat.com/errata/RHSA-2026:89751
+https://access.redhat.com/errata/RHSA-2026:89752
+https://access.redhat.com/errata/RHSA-2026:89760
+https://access.redhat.com/errata/RHSA-2026:89761
 https://access.redhat.com/errata/RHSA-2026:89832
 https://access.redhat.com/errata/RHSA-2026:89885
 https://access.redhat.com/errata/RHSA-2026:89888
-https://access.redhat.com/errata/RHSA-2026:89908"
-Red Hat update for firefox,CVE-2026-100792,7.1,25,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100756,8.1,25,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100771,8.1,25,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100759,8.1,25,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100774,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100794,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100767,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100757,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100807,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100790,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100832,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100820,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100776,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100779,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100780,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100769,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100782,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100772,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100801,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100773,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100777,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100791,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100784,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100785,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100797,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100789,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100762,9.6,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100818,9.6,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-92035,9.6,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100778,9.6,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100758,9.6,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100819,9.6,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100811,9.6,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100770,9.6,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100786,9.6,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100781,9.6,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100775,9.6,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for firefox,CVE-2026-100788,9.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76761
-Red Hat update for flatpak,CVE-2026-96808,7.4,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:80687
-https://access.redhat.com/errata/RHSA-2026:89733"
-Red Hat update for flatpak,CVE-2026-90616,7.4,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:80687
-https://access.redhat.com/errata/RHSA-2026:89733"
-Red Hat update for flatpak,CVE-2026-96280,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:80687
-https://access.redhat.com/errata/RHSA-2026:89733"
-Red Hat update for flatpak,CVE-2026-96275,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:80687
-https://access.redhat.com/errata/RHSA-2026:89733"
-Red Hat update for grafana,CVE-2026-17183,7.1,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89732
-https://access.redhat.com/errata/RHSA-2026:89744"
-Red Hat update for httpd,CVE-2026-73637,7.3,25,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:89860
-Red Hat update for httpd,CVE-2026-63045,7.5,26,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:89860
-Red Hat update for httpd,CVE-2026-63292,7.5,26,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:89860
-Red Hat update for httpd,CVE-2026-48005,7.5,26,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:89860
-Red Hat update for httpd,CVE-2026-56153,7.5,26,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:89860
-Red Hat update for httpd,CVE-2026-63718,7.5,26,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:89860
-Red Hat update for httpd,CVE-2026-46729,7.5,26,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:89860
-Red Hat update for httpd,CVE-2026-63686,7.5,26,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:89860
-Red Hat update for httpd,CVE-2026-73636,8.1,25,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:89860
-Red Hat update for httpd,CVE-2026-93546,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:89860
-Red Hat update for httpd,CVE-2026-56154,9.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:89860
-Red Hat update for kernel,CVE-2026-52972,7,25,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-74516,7,25,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-68476,7,25,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-53357,7,25,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-63920,7,25,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-63794,7,25,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-63918,7,25,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-80775,7,25,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-80792,7,25,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-45856,7.1,25,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-64078,7.1,25,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-45860,7.5,26,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-97417,7.5,26,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-72255,7.8,30,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-93288,7.8,30,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-74582,7.8,30,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-46275,7.8,30,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-90227,7.8,30,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-53270,7.8,30,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-68432,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-63829,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-80921,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-72052,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-64557,8.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-63992,9.1,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-72320,9.1,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-64024,9.4,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-63922,9.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-63994,9.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-63984,9.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-89972,9.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-64132,9.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-63924,9.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-74669,9.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for kernel,CVE-2026-74746,9.8,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:76738
-Red Hat update for libX11,CVE-2026-88806,7.5,26,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:89730
-Red Hat update for libxml2,CVE-2026-86143,7.3,25,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:89750
-Red Hat update for libxml2,CVE-2026-86144,7.8,30,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:89750
-Red Hat update for libxml2,CVE-2026-11979,7.8,30,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:89750
-Red Hat update for libxml2,CVE-2026-86140,7.8,30,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:89750
-Red Hat update for libxml2,CVE-2026-86138,7.8,30,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:89750
-Red Hat update for libxml2,CVE-2026-74860,8.5,68,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:89750
-Red Hat update for oci-seccomp-bpf-hook,CVE-2026-56853,7.5,26,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:89752
-Red Hat update for openssh,CVE-2026-60002,7.7,26,,,10/26 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:89739
-Red Hat update for webkit2gtk3,CVE-2026-17811,7.1,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89908
+https://access.redhat.com/errata/RHSA-2026:89914
+https://access.redhat.com/errata/RHSA-2026:89915
+https://access.redhat.com/errata/RHSA-2026:90362
+https://access.redhat.com/errata/RHSA-2026:90424
+https://access.redhat.com/errata/RHSA-2026:90462
+https://access.redhat.com/errata/RHSA-2026:90726"
+Red Hat update for sssd,CVE-2026-87853,7.5,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:77534
+Red Hat update for sudo,CVE-2026-96512,7.8,,,,10/27 CH - No Exploit/POC Known,https://access.redhat.com/errata/RHSA-2026:90287
+Red Hat update for webkit2gtk3,CVE-2026-14389,8.2,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-17750,7.1,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-8525,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-5283,7.4,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-10974,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-79270,7.4,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2024-8636,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-19161,7.4,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-14388,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-14418,7.4,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-17785,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-76041,7.4,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9975,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-10009,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-17678,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9909,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-5283,7.4,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9901,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-10914,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-8510,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-84635,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-5277,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-65334,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-78906,7.5,26,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-19157,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-11111,8.1,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-4452,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-13819,8.1,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-13885,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-64713,8.1,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-15774,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-10930,8.1,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-78958,3.1,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-14389,8.2,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-79240,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-19176,8.2,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9914,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-14412,8.2,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-64728,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-8525,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-10009,7.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9975,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9915,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-15774,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-14427,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9914,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-11268,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9915,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-78978,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-14427,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-78989,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-13834,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-13834,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-7920,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-4464,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9946,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-79138,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-16413,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-79230,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-14401,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-16419,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-7353,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-79118,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9904,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-64753,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9900,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-4460,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-10012,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9940,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-10020,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-17682,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9892,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-11110,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9916,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-13971,5.7,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-14429,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-7920,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9893,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-13883,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9899,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-79282,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9925,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-10913,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-10919,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-10907,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-10929,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-79142,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9877,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-13781,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-11663,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-64780,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-19173,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-7943,4.2,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-7923,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-64718,5.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-11040,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-14384,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-14400,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9878,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-10889,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-14387,6.1,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9998,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-19154,9,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-76046,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-17721,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-13841,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-78376,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9982,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-14413,9,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9926,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-65341,5.4,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-10925,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-7340,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9932,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-79048,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-7900,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-15766,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9924,8.3,25,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-79120,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2024-8636,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9946,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-17678,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-17697,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-10914,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-14397,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-4452,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-17702,3.1,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-13885,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-79269,9.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-79240,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-11111,8.1,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-78978,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-5868,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-4464,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-43795,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-79230,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9965,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-4460,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-10993,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9940,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-7903,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-10913,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2024-7532,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-10907,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-10018,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-79142,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-11044,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9878,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-16413,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-78376,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-64782,3.1,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-79048,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-79149,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-5868,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-5870,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9965,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-14419,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-7903,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9879,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-5870,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2025-9478,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2025-9478,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-65335,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-7901,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9909,7.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9923,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-10019,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-3538,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-79229,6.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2024-8198,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-11099,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9928,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-7901,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2025-8901,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-13833,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-17712,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-13975,5.7,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2025-0436,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-78914,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9910,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-14386,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9927,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-17811,7.1,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-10883,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-14401,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-3931,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9923,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-11124,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-11137,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-17677,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-3538,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-3536,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-65338,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2024-7966,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-14396,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-14385,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-7353,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9969,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-13780,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9983,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-11066,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-11191,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2024-8198,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-8519,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-65332,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-10955,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-78965,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-7354,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9904,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-5879,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-65331,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-64715,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9928,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-78905,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-8579,3.1,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-7359,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9900,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-10941,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-10012,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-79127,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-14402,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-11024,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-11005,5.7,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-4448,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2025-8901,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9941,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-11004,5.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2024-9123,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-11123,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2025-10502,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9882,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2024-8193,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-11061,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2025-0444,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-17712,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-5275,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-79020,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-83596,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-65351,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-11055,8.8,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2025-0436,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-19154,9,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9910,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-14413,9,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-17701,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-17653,9,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9927,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-79269,9.3,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-10020,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-14382,9.3,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-13819,8.1,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-10974,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-14414,5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-19157,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9892,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-78989,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-10883,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-79138,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-17832,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-16419,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-17801,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-17682,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-3931,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-13883,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9916,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-79282,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-11124,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-13781,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-15109,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-17721,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-14411,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-17697,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-13859,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-14397,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-17745,5.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2024-7532,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-10011,3.1,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-79149,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-65336,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-14419,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-79019,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-9879,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-17677,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-13780,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-79270,7.4,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-11066,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-14429,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-11061,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-3536,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-17701,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-17704,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-17832,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-6296,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-17801,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-19160,6.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-14411,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9893,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-13859,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-10881,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-79019,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2024-7966,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-17704,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-14385,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-6296,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-11138,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-10881,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-17847,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-17847,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9899,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-11113,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9925,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-14152,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9969,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-17691,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-11113,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-17717,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-64730,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-79189,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-64757,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-14044,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9913,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-79188,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-10919,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-11065,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-11051,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-14425,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-11159,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-17671,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-9983,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-79130,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-17683,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-14390,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-17668,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-79131,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-11191,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-17695,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-14152,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-79043,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-8519,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-17687,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-17691,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-78904,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-14391,5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-11043,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-10929,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-79275,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-17790,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-17676,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-17914,5.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-17718,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-6298,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-17675,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-8567,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-11088,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-17717,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-17655,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-64778,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2026-14398,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-10955,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
-Red Hat update for webkit2gtk3,CVE-2023-4860,9.6,68,,,10/26 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+Red Hat update for webkit2gtk3,CVE-2026-10994,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-7354,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-5879,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-79189,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-17653,9,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-9877,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-9911,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-9953,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-64715,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-13877,5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-10999,5.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-14044,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-78905,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-79188,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-64783,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-11663,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-7359,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-10977,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-14125,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-17714,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-19161,7.4,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-17891,5.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-7949,3.1,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-9942,5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-19173,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-11675,3.1,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-14382,9.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-11065,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-11109,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-10941,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-11104,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-14425,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-64779,3.1,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-79285,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-17671,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-9901,7.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-9944,3.1,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-7923,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-11087,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-11040,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-14400,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-17667,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-64713,8.1,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-79127,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-10889,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-17740,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-79130,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-65333,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-14390,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-17771,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-79131,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-17695,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-9998,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-11024,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-8510,7.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-28984,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-76046,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-4448,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-79043,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-8554,3.1,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-17687,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-5277,7.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-13841,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-8556,3.1,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-9941,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-16417,3.1,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2024-9123,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-11039,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-10979,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-11121,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-65337,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-78904,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-79147,5.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-14418,7.4,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-9935,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2025-10502,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2024-8193,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-11043,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-11090,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-19176,8.2,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-6364,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-79275,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-17689,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-10930,8.1,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-17992,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-17676,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-13820,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2025-0444,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-79144,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-9982,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-14410,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-64784,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-9926,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-10985,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-5275,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-17718,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-65340,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-76041,7.4,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-10925,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-14412,8.2,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-78906,7.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-9932,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-83596,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-9981,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-9908,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-17675,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-11055,8.8,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-11088,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-17655,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-7942,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-43804,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-14398,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-7900,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-9924,8.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-17757,4.3,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-17750,7.1,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2026-79112,6.5,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
+https://access.redhat.com/errata/RHSA-2026:89822"
+Red Hat update for webkit2gtk3,CVE-2023-4860,9.6,,,,10/27 CH - No Exploit/POC Known,"https://access.redhat.com/errata/RHSA-2026:89821
 https://access.redhat.com/errata/RHSA-2026:89822"
