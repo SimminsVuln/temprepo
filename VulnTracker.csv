@@ -1,888 +1,833 @@
 Title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,https://lists.apache.org/thread/fgggbv3sjjqw7p6q0j88gspt9b2rb728
-F5 Multiple Products SFTP Data Manipulation Vulnerability,CVE-2026-59995,5.4,,,,10/28 CH - No Exploit/POC Available,https://my.f5.com/manage/s/article/K000163738
-Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-42579,9.1,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:76129
-https://access.redhat.com/errata/RHSA-2026:76130"
-Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-47691,10,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:76129
-https://access.redhat.com/errata/RHSA-2026:76130"
-Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2025-9784,7.5,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:76129
-https://access.redhat.com/errata/RHSA-2026:76130"
-Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-48043,7.5,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:76129
-https://access.redhat.com/errata/RHSA-2026:76130"
-Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-2092,7.7,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:76129
-https://access.redhat.com/errata/RHSA-2026:76130"
-Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-44249,8.1,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:76129
-https://access.redhat.com/errata/RHSA-2026:76130"
-Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2025-12543,9.6,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:76129
-https://access.redhat.com/errata/RHSA-2026:76130"
-Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-45674,10,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:76129
-https://access.redhat.com/errata/RHSA-2026:76130"
-Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-50010,7.5,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:76129
-https://access.redhat.com/errata/RHSA-2026:76130"
-Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-50193,7.5,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:76129
-https://access.redhat.com/errata/RHSA-2026:76130"
-Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-42587,7.5,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:76129
-https://access.redhat.com/errata/RHSA-2026:76130"
-Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-15563,7.4,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:76129
-https://access.redhat.com/errata/RHSA-2026:76130"
-Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-2575,5.3,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:76129
-https://access.redhat.com/errata/RHSA-2026:76130"
-Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-42578,7.5,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:76129
-https://access.redhat.com/errata/RHSA-2026:76130"
-Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-42581,9.8,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:76129
-https://access.redhat.com/errata/RHSA-2026:76130"
-Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-45416,7.5,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:76129
-https://access.redhat.com/errata/RHSA-2026:76130"
-Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-7307,7.5,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:76129
-https://access.redhat.com/errata/RHSA-2026:76130"
-Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-0603,8.3,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:76129
-https://access.redhat.com/errata/RHSA-2026:76130"
-Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-4634,7.5,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:76129
-https://access.redhat.com/errata/RHSA-2026:76130"
-Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-3505,7.5,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:76129
-https://access.redhat.com/errata/RHSA-2026:76130"
-Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-7507,7.5,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:76129
-https://access.redhat.com/errata/RHSA-2026:76130"
-Microsoft .NET Multiple Vulnerabilities,CVE-2026-114148,7.8,,,,10/28 CH - No Exploit/POC Available,https://devblogs.microsoft.com/dotnet/dotnet-october-2026-oob-security-updates
-Microsoft .NET Multiple Vulnerabilities,CVE-2026-102870,8.8,,,,10/28 CH - No Exploit/POC Available,https://devblogs.microsoft.com/dotnet/dotnet-october-2026-oob-security-updates
-Microsoft .NET Multiple Vulnerabilities,CVE-2026-70197,8.1,,,,10/28 CH - No Exploit/POC Available,https://devblogs.microsoft.com/dotnet/dotnet-october-2026-oob-security-updates
-Atlassian Jira Service Management Bouncy Castle Information Disclosure Vulnerability,CVE-2026-18036,5.9,,,,10/28 CH - No Exploit/POC Available,https://jira.atlassian.com/browse/JSDSERVER-16831
-Atlassian Jira Service Management netty-handler Denial of Service Vulnerability,CVE-2026-75596,7.5,,,,10/28 CH - No Exploit/POC Available,"https://jira.atlassian.com/browse/BAM-26534
-https://jira.atlassian.com/browse/CWD-6597
-https://jira.atlassian.com/browse/JSDSERVER-16780
-https://jira.atlassian.com/browse/JSWSERVER-27010
-https://jira.atlassian.com/browse/JSWSERVER-27025
-https://jira.atlassian.com/browse/JSWSERVER-27026"
-Atlassian Jira Service Management netty-handler Multiple Security Bypass Vulnerabilities,CVE-2026-75595,9.1,,,,10/28 CH - No Exploit/POC Available,"https://jira.atlassian.com/browse/CONFSERVER-104506
-https://jira.atlassian.com/browse/CONFSERVER-104520
-https://jira.atlassian.com/browse/JSDSERVER-16781
-https://jira.atlassian.com/browse/JSDSERVER-16789
-https://jira.atlassian.com/browse/JSWSERVER-27010
-https://jira.atlassian.com/browse/JSWSERVER-27025
-https://jira.atlassian.com/browse/JSWSERVER-27026"
-Atlassian Jira Service Management netty-handler Multiple Security Bypass Vulnerabilities,CVE-2026-62243,7.5,,,,10/28 CH - No Exploit/POC Available,"https://jira.atlassian.com/browse/BAM-26545
-https://jira.atlassian.com/browse/CONFSERVER-104506
-https://jira.atlassian.com/browse/CONFSERVER-104520
-https://jira.atlassian.com/browse/JSDSERVER-16781
-https://jira.atlassian.com/browse/JSDSERVER-16789
-https://jira.atlassian.com/browse/JSWSERVER-27010
-https://jira.atlassian.com/browse/JSWSERVER-27025
-https://jira.atlassian.com/browse/JSWSERVER-27026"
-Atlassian Jira fast-uri Security Bypass Vulnerability,CVE-2026-84292,7.5,,,,10/28 CH - No Exploit/POC Available,https://jira.atlassian.com/browse/JSWSERVER-27018
-Atlassian Jira js-yaml Denial of Service Vulnerability,CVE-2026-84375,7.5,,,,10/28 CH - No Exploit/POC Available,https://jira.atlassian.com/browse/JSWSERVER-27019
-Atlassian Jira undici Denial of Service Vulnerability,CVE-2026-19534,7.5,,,,10/28 CH - No Exploit/POC Available,https://jira.atlassian.com/browse/JSWSERVER-26988
-Atlassian Jira http-cache-semantics Rejection Notice,CVE-2026-93748,7.5,,,,10/28 CH - No Exploit/POC Available,https://jira.atlassian.com/browse/JSWSERVER-27024
-Atlassian Confluence logback-core Rejection Notice,CVE-2026-13006,6,,,,10/28 CH - No Exploit/POC Available,https://jira.atlassian.com/browse/CONFSERVER-104474
-Atlassian Confluence spring-web Cross-Site Scripting Vulnerability,CVE-2026-41845,6.1,,,,10/28 CH - No Exploit/POC Available,https://jira.atlassian.com/browse/CONFSERVER-104503
-Atlassian Confluence spring-expression Rejection Notice,CVE-2026-41850,7.5,,,,10/28 CH - No Exploit/POC Available,"https://jira.atlassian.com/browse/CONFSERVER-104504
-https://spring.io/security/cve-2026-41850"
-Atlassian Confluence postcss Information Disclosure Vulnerability,CVE-2026-73646,7.5,,,,10/28 CH - No Exploit/POC Available,https://jira.atlassian.com/browse/CONFSERVER-104519
-Atlassian Confluence spring-webmvc Denial of Service Vulnerability,CVE-2026-41842,7.5,,,,10/28 CH - No Exploit/POC Available,https://jira.atlassian.com/browse/CONFSERVER-104502
-Atlassian Confluence fast-uri Security Bypass Vulnerability,CVE-2026-13676,7.5,,,,10/28 CH - No Exploit/POC Available,https://jira.atlassian.com/browse/CONFSERVER-104501
-Atlassian Confluence extract-zip Security Bypass Vulnerability,CVE-2026-19693,8.1,,,,10/28 CH - No Exploit/POC Available,https://jira.atlassian.com/browse/CONFSERVER-104458
-Atlassian Crucible sshd-core Multiple Security Bypass Vulnerabilities,CVE-2026-93994,8.1,,,,10/28 CH - No Exploit/POC Available,"https://jira.atlassian.com/browse/CRUC-8745
-https://jira.atlassian.com/browse/CRUC-8746"
-Atlassian Crucible sshd-core Multiple Security Bypass Vulnerabilities,CVE-2026-77185,9.1,,,,10/28 CH - No Exploit/POC Available,"https://jira.atlassian.com/browse/CRUC-8745
-https://jira.atlassian.com/browse/CRUC-8746"
-Atlassian Confluence Apache Tomcat Security Bypass Vulnerability,CVE-2026-65637,9.8,,,,10/28 CH - No Exploit/POC Available,https://jira.atlassian.com/browse/CONFSERVER-104509
-Adobe Campaign Classic Multiple Vulnerabilities,CVE-2026-104353,9.9,,,,10/28 CH - No Exploit/POC Available,https://www.adobe.com/trust/security/products/campaign/apsb26-162.html
-Adobe Campaign Classic Multiple Vulnerabilities,CVE-2026-105489,9.9,,,,10/28 CH - No Exploit/POC Available,https://www.adobe.com/trust/security/products/campaign/apsb26-162.html
-Adobe Campaign Classic Multiple Vulnerabilities,CVE-2026-105779,9.1,,,,10/28 CH - No Exploit/POC Available,https://www.adobe.com/trust/security/products/campaign/apsb26-162.html
-Adobe Campaign Classic Multiple Vulnerabilities,CVE-2026-105781,10,,,,10/28 CH - No Exploit/POC Available,https://www.adobe.com/trust/security/products/campaign/apsb26-162.html
-Adobe Campaign Classic Multiple Vulnerabilities,CVE-2026-104350,9.3,,,,10/28 CH - No Exploit/POC Available,https://www.adobe.com/trust/security/products/campaign/apsb26-162.html
-Adobe Campaign Classic Multiple Vulnerabilities,CVE-2026-105780,9.9,,,,10/28 CH - No Exploit/POC Available,https://www.adobe.com/trust/security/products/campaign/apsb26-162.html
-Adobe Campaign Classic Multiple Vulnerabilities,CVE-2026-104351,9.9,,,,10/28 CH - No Exploit/POC Available,https://www.adobe.com/trust/security/products/campaign/apsb26-162.html
-Adobe Campaign Classic Multiple Vulnerabilities,CVE-2026-104354,9.1,,,,10/28 CH - No Exploit/POC Available,https://www.adobe.com/trust/security/products/campaign/apsb26-162.html
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113225,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113308,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113079,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113001,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113294,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113117,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113309,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113252,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113319,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113212,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113226,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113179,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-112999,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113236,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113326,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113123,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113173,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113245,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113012,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113107,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113061,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113005,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113065,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113259,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113144,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113124,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113253,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113039,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113198,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113338,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113206,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113086,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113092,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113165,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113024,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113267,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113118,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113130,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113278,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113276,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113010,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113126,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113293,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113090,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113146,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113292,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113317,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113313,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-112996,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113018,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113168,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113284,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113119,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113052,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113115,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113069,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113273,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113249,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113256,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113177,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113301,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113094,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113096,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113132,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113324,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113180,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113011,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113208,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113322,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113335,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113265,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113261,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113243,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113255,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113174,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113150,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113290,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113029,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113120,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113285,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113223,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113260,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113195,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113157,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113341,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113167,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113277,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113019,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113176,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113183,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113066,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113082,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113282,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113104,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113040,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113275,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113074,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113201,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113274,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113159,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113054,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113241,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113172,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113187,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113257,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113044,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113138,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113305,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-112995,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113131,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113112,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113178,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113076,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113219,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113025,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113164,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113247,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113015,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113197,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113320,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113193,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113238,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113043,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113340,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113080,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113237,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113269,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113114,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113093,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113135,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113188,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113171,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113053,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113007,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113333,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113199,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113287,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113242,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113108,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113297,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113122,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113186,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113268,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113266,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113169,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113262,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113304,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113009,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113205,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113342,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113148,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-112998,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113217,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113091,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113110,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113136,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113000,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113062,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113218,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113328,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113272,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113158,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113081,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113339,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113283,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113315,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113270,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113224,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113095,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113170,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113239,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113234,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113200,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113306,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113258,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113166,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113289,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113250,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113343,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113344,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113045,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113286,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113229,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113113,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113026,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113194,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113083,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113230,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113155,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113023,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113228,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-112992,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113050,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113211,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113098,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113156,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113231,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113006,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113102,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113030,5.4,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113003,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113220,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113189,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113336,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113215,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113202,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113296,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113036,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113078,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113152,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113331,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113097,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113330,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113280,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113125,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113071,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113089,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113310,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113042,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113085,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113279,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113057,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113337,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113002,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113028,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113004,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113161,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113047,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113175,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113303,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113134,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113022,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113191,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113129,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113073,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113060,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113214,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113203,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113216,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113235,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113041,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113037,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113099,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113038,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113190,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113300,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113063,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113151,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113248,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113160,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113103,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113070,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113196,5.4,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113067,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113291,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113162,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113142,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113048,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113034,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113207,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113101,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-112994,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113139,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113072,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113154,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113075,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113111,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113027,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113140,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113051,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113077,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113327,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113246,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113109,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113254,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113121,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113046,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113271,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113325,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113332,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113153,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113182,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113221,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113058,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113244,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-112997,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113311,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113084,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113056,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113059,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113314,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113016,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113204,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113021,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113240,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113014,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113141,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113213,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113020,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113049,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113184,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113008,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113316,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113143,4.3,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113281,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113334,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113137,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113299,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113105,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113013,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113116,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113233,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-112993,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113087,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113181,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113210,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113263,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113307,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113163,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113033,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113288,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113106,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113251,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113302,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113295,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113128,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113232,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113088,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113298,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113209,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113222,9.6,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113318,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113017,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113149,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113031,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113147,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113145,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113227,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113323,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113064,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113100,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113055,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113321,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113264,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113032,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113329,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113192,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113035,6.5,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113068,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113312,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113133,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113127,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-113185,8.8,,,,10/28 CH - No Exploit/POC Available,https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-22-2026
-Red Hat update for kernel,CVE-2026-53236,7.1,,,,10/28 CH - No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:91565
-Red Hat update for kernel,CVE-2026-68338,7.8,,,,10/28 CH - No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:91565
-Red Hat update for kernel,CVE-2026-89638,7.8,,,,10/28 CH - No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:91565
-Red Hat update for kernel,CVE-2026-80824,7,,,,10/28 CH - No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:91565
-Red Hat update for kernel,CVE-2026-93262,7.3,,,,10/28 CH - No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:91565
-Red Hat update for kernel,CVE-2026-53388,7.8,,,,10/28 CH - No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:91565
-Red Hat update for kernel,CVE-2026-64027,7.8,,,,10/28 CH - No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:91565
-Red Hat update for kernel,CVE-2026-74515,6.1,,,,10/28 CH - No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:91565
-Red Hat update for kernel,CVE-2026-63978,9.8,,,,10/28 CH - No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:91565
-Red Hat update for kernel,CVE-2026-64109,8.8,,,,10/28 CH - No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:91565
-Red Hat update for kernel,CVE-2026-68136,9.8,,,,10/28 CH - No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:91565
-Red Hat update for kernel,CVE-2026-74631,8.4,,,,10/28 CH - No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:91565
-Red Hat update for kernel,CVE-2026-89777,7,,,,10/28 CH - No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:91565
-Red Hat update for kernel,CVE-2026-63979,9.8,,,,10/28 CH - No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:91565
-Red Hat update for kernel,CVE-2026-72083,9.8,,,,10/28 CH - No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:91565
-Red Hat update for kernel,CVE-2026-64523,9.8,,,,10/28 CH - No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:91565
-Red Hat update for osbuild-composer,CVE-2026-78669,7.5,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:86093
-https://access.redhat.com/errata/RHSA-2026:86196
-https://access.redhat.com/errata/RHSA-2026:88280
-https://access.redhat.com/errata/RHSA-2026:89914
-https://access.redhat.com/errata/RHSA-2026:89915
-https://access.redhat.com/errata/RHSA-2026:90726
-https://access.redhat.com/errata/RHSA-2026:91138
-https://access.redhat.com/errata/RHSA-2026:91587"
-Red Hat update for osbuild-composer,CVE-2026-84445,7.5,,,,10/28 CH - No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:91587
-Red Hat update for osbuild-composer,CVE-2026-94440,7.5,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:91138
-https://access.redhat.com/errata/RHSA-2026:91587"
-Red Hat update for osbuild-composer,CVE-2026-97031,7.5,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:86093
-https://access.redhat.com/errata/RHSA-2026:86196
-https://access.redhat.com/errata/RHSA-2026:88280
-https://access.redhat.com/errata/RHSA-2026:89914
-https://access.redhat.com/errata/RHSA-2026:89915
-https://access.redhat.com/errata/RHSA-2026:90726
-https://access.redhat.com/errata/RHSA-2026:91587"
-Red Hat update for osbuild-composer,CVE-2026-78667,7.5,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:86093
-https://access.redhat.com/errata/RHSA-2026:86196
-https://access.redhat.com/errata/RHSA-2026:88280
-https://access.redhat.com/errata/RHSA-2026:89914
-https://access.redhat.com/errata/RHSA-2026:89915
-https://access.redhat.com/errata/RHSA-2026:90362
-https://access.redhat.com/errata/RHSA-2026:90424
-https://access.redhat.com/errata/RHSA-2026:90462
-https://access.redhat.com/errata/RHSA-2026:90726
-https://access.redhat.com/errata/RHSA-2026:91587"
-Red Hat update for osbuild-composer,CVE-2026-42504,7.5,,,,10/28 CH - No Exploit/POC Available,https://access.redhat.com/errata/RHSA-2026:91587
-Red Hat libXtst Rejection Notice,CVE-2026-94286,7.1,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:91294
-https://access.redhat.com/errata/RHSA-2026:91612"
-Red Hat xdg-dbus-proxy Rejection Notice,CVE-2026-94422,8.8,,,,10/28 CH - No Exploit/POC Available,"https://access.redhat.com/errata/RHSA-2026:90522
-https://access.redhat.com/errata/RHSA-2026:90523
-https://access.redhat.com/errata/RHSA-2026:91623
-https://access.redhat.com/errata/RHSA-2026:91624
-https://access.redhat.com/errata/RHSA-2026:91625"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117974,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117915,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117873,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117889,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117870,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117922,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117930,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117941,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117892,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117869,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117992,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117964,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117903,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117877,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117973,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117890,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117933,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117902,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117991,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117924,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117895,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117943,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117872,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117999,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117876,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117982,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117931,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117948,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117956,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117978,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117987,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117901,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117990,7.1,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117906,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117905,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117988,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117939,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117881,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117917,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117981,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117912,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117938,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117913,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117893,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117936,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117994,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117986,7.1,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117900,8.8,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117937,7.1,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117908,8.8,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117975,8.8,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117996,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117985,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117875,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117976,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117970,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117977,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117863,7.1,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117954,8.8,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117989,8.8,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117972,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117918,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117995,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117897,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-118003,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117909,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117879,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117886,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117957,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-118000,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117914,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117932,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117969,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117899,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117960,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117998,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117923,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117935,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117958,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117880,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117865,7.1,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117949,8.8,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117867,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117888,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117971,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117926,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117871,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117878,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117919,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117967,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117882,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117920,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117944,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117925,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117993,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117916,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117959,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117887,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117884,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117952,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117968,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117979,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117896,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117910,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117927,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117942,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117945,7.1,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117934,8.8,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117950,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117864,7.1,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117911,8.8,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117980,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117907,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117951,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117883,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117947,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117965,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117963,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117874,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117955,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117860,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117894,7.1,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117961,8.8,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117928,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117966,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117898,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-118002,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117868,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-118004,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117904,7.1,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117861,8.8,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117862,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117885,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117929,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117953,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117946,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117891,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117940,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117997,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117984,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117983,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117921,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117866,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-117962,7.5,,,,10/28 CH - No Exploit/POC Available,"https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120"
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-109707,7.1,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-109708,8.8,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-109705,9.6,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-Mozilla Firefox ESR Multiple Vulnerabilities,CVE-2026-118027,9.6,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-119
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-118008,8.8,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-118021,7.5,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-118020,7.5,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-118023,7.5,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-118022,7.5,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-118011,7.5,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-118018,7.5,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-118012,7.1,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-118015,8.8,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-118017,7.5,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-118010,7.5,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-118013,7.5,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-118016,7.5,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-118019,7.5,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-118024,7.5,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-118025,7.5,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-118007,7.5,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-118006,7.5,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-118014,7.5,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-118005,7.5,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-118009,7.5,,,,10/28 CH - No Exploit/POC Available,https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
+Drupal Webform Multiple Vulnerabilities,CVE-2026-96372,7,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
+https://www.drupal.org/sa-contrib-2026-158
+https://www.drupal.org/sa-contrib-2026-159
+https://www.drupal.org/sa-contrib-2026-160
+https://www.drupal.org/sa-contrib-2026-161
+https://www.drupal.org/sa-contrib-2026-162
+https://www.drupal.org/sa-contrib-2026-163
+https://www.drupal.org/sa-contrib-2026-164
+https://www.drupal.org/sa-contrib-2026-165
+https://www.drupal.org/sa-contrib-2026-166
+https://www.drupal.org/sa-contrib-2026-167
+https://www.drupal.org/sa-contrib-2026-168
+https://www.drupal.org/sa-contrib-2026-169
+https://www.drupal.org/sa-contrib-2026-170
+https://www.drupal.org/sa-contrib-2026-171
+https://www.drupal.org/sa-contrib-2026-172
+https://www.drupal.org/sa-contrib-2026-173
+https://www.drupal.org/sa-contrib-2026-175"
+Drupal Webform Multiple Vulnerabilities,CVE-2026-96359,7,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
+https://www.drupal.org/sa-contrib-2026-158
+https://www.drupal.org/sa-contrib-2026-159
+https://www.drupal.org/sa-contrib-2026-160
+https://www.drupal.org/sa-contrib-2026-161
+https://www.drupal.org/sa-contrib-2026-162
+https://www.drupal.org/sa-contrib-2026-163
+https://www.drupal.org/sa-contrib-2026-164
+https://www.drupal.org/sa-contrib-2026-165
+https://www.drupal.org/sa-contrib-2026-166
+https://www.drupal.org/sa-contrib-2026-167
+https://www.drupal.org/sa-contrib-2026-168
+https://www.drupal.org/sa-contrib-2026-169
+https://www.drupal.org/sa-contrib-2026-170
+https://www.drupal.org/sa-contrib-2026-171
+https://www.drupal.org/sa-contrib-2026-172
+https://www.drupal.org/sa-contrib-2026-173
+https://www.drupal.org/sa-contrib-2026-175"
+Drupal Webform Multiple Vulnerabilities,CVE-2026-96362,7,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
+https://www.drupal.org/sa-contrib-2026-158
+https://www.drupal.org/sa-contrib-2026-159
+https://www.drupal.org/sa-contrib-2026-160
+https://www.drupal.org/sa-contrib-2026-161
+https://www.drupal.org/sa-contrib-2026-162
+https://www.drupal.org/sa-contrib-2026-163
+https://www.drupal.org/sa-contrib-2026-164
+https://www.drupal.org/sa-contrib-2026-165
+https://www.drupal.org/sa-contrib-2026-166
+https://www.drupal.org/sa-contrib-2026-167
+https://www.drupal.org/sa-contrib-2026-168
+https://www.drupal.org/sa-contrib-2026-169
+https://www.drupal.org/sa-contrib-2026-170
+https://www.drupal.org/sa-contrib-2026-171
+https://www.drupal.org/sa-contrib-2026-172
+https://www.drupal.org/sa-contrib-2026-173
+https://www.drupal.org/sa-contrib-2026-175"
+Drupal Webform Multiple Vulnerabilities,CVE-2026-96366,7.5,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
+https://www.drupal.org/sa-contrib-2026-158
+https://www.drupal.org/sa-contrib-2026-159
+https://www.drupal.org/sa-contrib-2026-160
+https://www.drupal.org/sa-contrib-2026-161
+https://www.drupal.org/sa-contrib-2026-162
+https://www.drupal.org/sa-contrib-2026-163
+https://www.drupal.org/sa-contrib-2026-164
+https://www.drupal.org/sa-contrib-2026-165
+https://www.drupal.org/sa-contrib-2026-166
+https://www.drupal.org/sa-contrib-2026-167
+https://www.drupal.org/sa-contrib-2026-168
+https://www.drupal.org/sa-contrib-2026-169
+https://www.drupal.org/sa-contrib-2026-170
+https://www.drupal.org/sa-contrib-2026-171
+https://www.drupal.org/sa-contrib-2026-172
+https://www.drupal.org/sa-contrib-2026-173
+https://www.drupal.org/sa-contrib-2026-175"
+Drupal Webform Multiple Vulnerabilities,CVE-2026-96361,4.6,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
+https://www.drupal.org/sa-contrib-2026-158
+https://www.drupal.org/sa-contrib-2026-159
+https://www.drupal.org/sa-contrib-2026-160
+https://www.drupal.org/sa-contrib-2026-161
+https://www.drupal.org/sa-contrib-2026-162
+https://www.drupal.org/sa-contrib-2026-163
+https://www.drupal.org/sa-contrib-2026-164
+https://www.drupal.org/sa-contrib-2026-165
+https://www.drupal.org/sa-contrib-2026-166
+https://www.drupal.org/sa-contrib-2026-167
+https://www.drupal.org/sa-contrib-2026-168
+https://www.drupal.org/sa-contrib-2026-169
+https://www.drupal.org/sa-contrib-2026-170
+https://www.drupal.org/sa-contrib-2026-171
+https://www.drupal.org/sa-contrib-2026-172
+https://www.drupal.org/sa-contrib-2026-173
+https://www.drupal.org/sa-contrib-2026-175"
+Drupal Webform Multiple Vulnerabilities,CVE-2026-96398,7.3,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
+https://www.drupal.org/sa-contrib-2026-158
+https://www.drupal.org/sa-contrib-2026-159
+https://www.drupal.org/sa-contrib-2026-160
+https://www.drupal.org/sa-contrib-2026-161
+https://www.drupal.org/sa-contrib-2026-162
+https://www.drupal.org/sa-contrib-2026-163
+https://www.drupal.org/sa-contrib-2026-164
+https://www.drupal.org/sa-contrib-2026-165
+https://www.drupal.org/sa-contrib-2026-166
+https://www.drupal.org/sa-contrib-2026-167
+https://www.drupal.org/sa-contrib-2026-168
+https://www.drupal.org/sa-contrib-2026-169
+https://www.drupal.org/sa-contrib-2026-170
+https://www.drupal.org/sa-contrib-2026-171
+https://www.drupal.org/sa-contrib-2026-172
+https://www.drupal.org/sa-contrib-2026-173
+https://www.drupal.org/sa-contrib-2026-175"
+Drupal Webform Multiple Vulnerabilities,CVE-2026-96368,7,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
+https://www.drupal.org/sa-contrib-2026-158
+https://www.drupal.org/sa-contrib-2026-159
+https://www.drupal.org/sa-contrib-2026-160
+https://www.drupal.org/sa-contrib-2026-161
+https://www.drupal.org/sa-contrib-2026-162
+https://www.drupal.org/sa-contrib-2026-163
+https://www.drupal.org/sa-contrib-2026-164
+https://www.drupal.org/sa-contrib-2026-165
+https://www.drupal.org/sa-contrib-2026-166
+https://www.drupal.org/sa-contrib-2026-167
+https://www.drupal.org/sa-contrib-2026-168
+https://www.drupal.org/sa-contrib-2026-169
+https://www.drupal.org/sa-contrib-2026-170
+https://www.drupal.org/sa-contrib-2026-171
+https://www.drupal.org/sa-contrib-2026-172
+https://www.drupal.org/sa-contrib-2026-173
+https://www.drupal.org/sa-contrib-2026-175"
+Drupal Webform Multiple Vulnerabilities,CVE-2026-96363,7,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
+https://www.drupal.org/sa-contrib-2026-158
+https://www.drupal.org/sa-contrib-2026-159
+https://www.drupal.org/sa-contrib-2026-160
+https://www.drupal.org/sa-contrib-2026-161
+https://www.drupal.org/sa-contrib-2026-162
+https://www.drupal.org/sa-contrib-2026-163
+https://www.drupal.org/sa-contrib-2026-164
+https://www.drupal.org/sa-contrib-2026-165
+https://www.drupal.org/sa-contrib-2026-166
+https://www.drupal.org/sa-contrib-2026-167
+https://www.drupal.org/sa-contrib-2026-168
+https://www.drupal.org/sa-contrib-2026-169
+https://www.drupal.org/sa-contrib-2026-170
+https://www.drupal.org/sa-contrib-2026-171
+https://www.drupal.org/sa-contrib-2026-172
+https://www.drupal.org/sa-contrib-2026-173
+https://www.drupal.org/sa-contrib-2026-175"
+Drupal Webform Multiple Vulnerabilities,CVE-2026-96357,7.6,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
+https://www.drupal.org/sa-contrib-2026-158
+https://www.drupal.org/sa-contrib-2026-159
+https://www.drupal.org/sa-contrib-2026-160
+https://www.drupal.org/sa-contrib-2026-161
+https://www.drupal.org/sa-contrib-2026-162
+https://www.drupal.org/sa-contrib-2026-163
+https://www.drupal.org/sa-contrib-2026-164
+https://www.drupal.org/sa-contrib-2026-165
+https://www.drupal.org/sa-contrib-2026-166
+https://www.drupal.org/sa-contrib-2026-167
+https://www.drupal.org/sa-contrib-2026-168
+https://www.drupal.org/sa-contrib-2026-169
+https://www.drupal.org/sa-contrib-2026-170
+https://www.drupal.org/sa-contrib-2026-171
+https://www.drupal.org/sa-contrib-2026-172
+https://www.drupal.org/sa-contrib-2026-173
+https://www.drupal.org/sa-contrib-2026-175"
+Drupal Webform Multiple Vulnerabilities,CVE-2026-96365,7.8,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
+https://www.drupal.org/sa-contrib-2026-158
+https://www.drupal.org/sa-contrib-2026-159
+https://www.drupal.org/sa-contrib-2026-160
+https://www.drupal.org/sa-contrib-2026-161
+https://www.drupal.org/sa-contrib-2026-162
+https://www.drupal.org/sa-contrib-2026-163
+https://www.drupal.org/sa-contrib-2026-164
+https://www.drupal.org/sa-contrib-2026-165
+https://www.drupal.org/sa-contrib-2026-166
+https://www.drupal.org/sa-contrib-2026-167
+https://www.drupal.org/sa-contrib-2026-168
+https://www.drupal.org/sa-contrib-2026-169
+https://www.drupal.org/sa-contrib-2026-170
+https://www.drupal.org/sa-contrib-2026-171
+https://www.drupal.org/sa-contrib-2026-172
+https://www.drupal.org/sa-contrib-2026-173
+https://www.drupal.org/sa-contrib-2026-175"
+Drupal Webform Multiple Vulnerabilities,CVE-2026-96370,8.1,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
+https://www.drupal.org/sa-contrib-2026-158
+https://www.drupal.org/sa-contrib-2026-159
+https://www.drupal.org/sa-contrib-2026-160
+https://www.drupal.org/sa-contrib-2026-161
+https://www.drupal.org/sa-contrib-2026-162
+https://www.drupal.org/sa-contrib-2026-163
+https://www.drupal.org/sa-contrib-2026-164
+https://www.drupal.org/sa-contrib-2026-165
+https://www.drupal.org/sa-contrib-2026-166
+https://www.drupal.org/sa-contrib-2026-167
+https://www.drupal.org/sa-contrib-2026-168
+https://www.drupal.org/sa-contrib-2026-169
+https://www.drupal.org/sa-contrib-2026-170
+https://www.drupal.org/sa-contrib-2026-171
+https://www.drupal.org/sa-contrib-2026-172
+https://www.drupal.org/sa-contrib-2026-173
+https://www.drupal.org/sa-contrib-2026-175"
+Drupal Webform Multiple Vulnerabilities,CVE-2026-96373,8.4,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
+https://www.drupal.org/sa-contrib-2026-158
+https://www.drupal.org/sa-contrib-2026-159
+https://www.drupal.org/sa-contrib-2026-160
+https://www.drupal.org/sa-contrib-2026-161
+https://www.drupal.org/sa-contrib-2026-162
+https://www.drupal.org/sa-contrib-2026-163
+https://www.drupal.org/sa-contrib-2026-164
+https://www.drupal.org/sa-contrib-2026-165
+https://www.drupal.org/sa-contrib-2026-166
+https://www.drupal.org/sa-contrib-2026-167
+https://www.drupal.org/sa-contrib-2026-168
+https://www.drupal.org/sa-contrib-2026-169
+https://www.drupal.org/sa-contrib-2026-170
+https://www.drupal.org/sa-contrib-2026-171
+https://www.drupal.org/sa-contrib-2026-172
+https://www.drupal.org/sa-contrib-2026-173
+https://www.drupal.org/sa-contrib-2026-175"
+Drupal Webform Multiple Vulnerabilities,CVE-2026-96369,8.7,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
+https://www.drupal.org/sa-contrib-2026-158
+https://www.drupal.org/sa-contrib-2026-159
+https://www.drupal.org/sa-contrib-2026-160
+https://www.drupal.org/sa-contrib-2026-161
+https://www.drupal.org/sa-contrib-2026-162
+https://www.drupal.org/sa-contrib-2026-163
+https://www.drupal.org/sa-contrib-2026-164
+https://www.drupal.org/sa-contrib-2026-165
+https://www.drupal.org/sa-contrib-2026-166
+https://www.drupal.org/sa-contrib-2026-167
+https://www.drupal.org/sa-contrib-2026-168
+https://www.drupal.org/sa-contrib-2026-169
+https://www.drupal.org/sa-contrib-2026-170
+https://www.drupal.org/sa-contrib-2026-171
+https://www.drupal.org/sa-contrib-2026-172
+https://www.drupal.org/sa-contrib-2026-173
+https://www.drupal.org/sa-contrib-2026-175"
+Drupal Webform Multiple Vulnerabilities,CVE-2026-96371,9,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
+https://www.drupal.org/sa-contrib-2026-158
+https://www.drupal.org/sa-contrib-2026-159
+https://www.drupal.org/sa-contrib-2026-160
+https://www.drupal.org/sa-contrib-2026-161
+https://www.drupal.org/sa-contrib-2026-162
+https://www.drupal.org/sa-contrib-2026-163
+https://www.drupal.org/sa-contrib-2026-164
+https://www.drupal.org/sa-contrib-2026-165
+https://www.drupal.org/sa-contrib-2026-166
+https://www.drupal.org/sa-contrib-2026-167
+https://www.drupal.org/sa-contrib-2026-168
+https://www.drupal.org/sa-contrib-2026-169
+https://www.drupal.org/sa-contrib-2026-170
+https://www.drupal.org/sa-contrib-2026-171
+https://www.drupal.org/sa-contrib-2026-172
+https://www.drupal.org/sa-contrib-2026-173
+https://www.drupal.org/sa-contrib-2026-175"
+Drupal Webform Multiple Vulnerabilities,CVE-2026-96367,9.3,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
+https://www.drupal.org/sa-contrib-2026-158
+https://www.drupal.org/sa-contrib-2026-159
+https://www.drupal.org/sa-contrib-2026-160
+https://www.drupal.org/sa-contrib-2026-161
+https://www.drupal.org/sa-contrib-2026-162
+https://www.drupal.org/sa-contrib-2026-163
+https://www.drupal.org/sa-contrib-2026-164
+https://www.drupal.org/sa-contrib-2026-165
+https://www.drupal.org/sa-contrib-2026-166
+https://www.drupal.org/sa-contrib-2026-167
+https://www.drupal.org/sa-contrib-2026-168
+https://www.drupal.org/sa-contrib-2026-169
+https://www.drupal.org/sa-contrib-2026-170
+https://www.drupal.org/sa-contrib-2026-171
+https://www.drupal.org/sa-contrib-2026-172
+https://www.drupal.org/sa-contrib-2026-173
+https://www.drupal.org/sa-contrib-2026-175"
+Drupal Webform Multiple Vulnerabilities,CVE-2026-96364,9.6,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
+https://www.drupal.org/sa-contrib-2026-158
+https://www.drupal.org/sa-contrib-2026-159
+https://www.drupal.org/sa-contrib-2026-160
+https://www.drupal.org/sa-contrib-2026-161
+https://www.drupal.org/sa-contrib-2026-162
+https://www.drupal.org/sa-contrib-2026-163
+https://www.drupal.org/sa-contrib-2026-164
+https://www.drupal.org/sa-contrib-2026-165
+https://www.drupal.org/sa-contrib-2026-166
+https://www.drupal.org/sa-contrib-2026-167
+https://www.drupal.org/sa-contrib-2026-168
+https://www.drupal.org/sa-contrib-2026-169
+https://www.drupal.org/sa-contrib-2026-170
+https://www.drupal.org/sa-contrib-2026-171
+https://www.drupal.org/sa-contrib-2026-172
+https://www.drupal.org/sa-contrib-2026-173
+https://www.drupal.org/sa-contrib-2026-175"
+Drupal Webform Multiple Vulnerabilities,CVE-2026-96355,9.1,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
+https://www.drupal.org/sa-contrib-2026-158
+https://www.drupal.org/sa-contrib-2026-159
+https://www.drupal.org/sa-contrib-2026-160
+https://www.drupal.org/sa-contrib-2026-161
+https://www.drupal.org/sa-contrib-2026-162
+https://www.drupal.org/sa-contrib-2026-163
+https://www.drupal.org/sa-contrib-2026-164
+https://www.drupal.org/sa-contrib-2026-165
+https://www.drupal.org/sa-contrib-2026-166
+https://www.drupal.org/sa-contrib-2026-167
+https://www.drupal.org/sa-contrib-2026-168
+https://www.drupal.org/sa-contrib-2026-169
+https://www.drupal.org/sa-contrib-2026-170
+https://www.drupal.org/sa-contrib-2026-171
+https://www.drupal.org/sa-contrib-2026-172
+https://www.drupal.org/sa-contrib-2026-173
+https://www.drupal.org/sa-contrib-2026-175"
+Drupal Webform Multiple Vulnerabilities,CVE-2026-96358,4.6,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
+https://www.drupal.org/sa-contrib-2026-158
+https://www.drupal.org/sa-contrib-2026-159
+https://www.drupal.org/sa-contrib-2026-160
+https://www.drupal.org/sa-contrib-2026-161
+https://www.drupal.org/sa-contrib-2026-162
+https://www.drupal.org/sa-contrib-2026-163
+https://www.drupal.org/sa-contrib-2026-164
+https://www.drupal.org/sa-contrib-2026-165
+https://www.drupal.org/sa-contrib-2026-166
+https://www.drupal.org/sa-contrib-2026-167
+https://www.drupal.org/sa-contrib-2026-168
+https://www.drupal.org/sa-contrib-2026-169
+https://www.drupal.org/sa-contrib-2026-170
+https://www.drupal.org/sa-contrib-2026-171
+https://www.drupal.org/sa-contrib-2026-172
+https://www.drupal.org/sa-contrib-2026-173
+https://www.drupal.org/sa-contrib-2026-175"
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92954,8.6,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-19534,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92947,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92940,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-76172,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92951,9.9,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92935,9,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92959,7.1,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92955,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92950,8.6,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-93603,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92939,9.9,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92937,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-82333,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92961,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-77037,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-82417,5.3,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-54284,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-84961,7.4,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92956,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92942,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-47698,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-88932,5.3,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92941,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-59893,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92957,9.9,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-93605,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92946,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-84394,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-75899,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92948,9.9,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-71491,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92960,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-47683,not available,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-47686,9.9,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-55553,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92938,9.9,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-84375,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92953,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92934,9,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92958,8.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-93606,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-75975,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92944,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-75931,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-13697,9.1,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-84292,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-93604,7.2,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
+Red Hat update for dotnet9.0,CVE-2026-66822,5.9,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
+Red Hat update for dotnet9.0,CVE-2026-70186,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
+Red Hat update for dotnet9.0,CVE-2026-96236,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
+Red Hat update for dotnet9.0,CVE-2026-70175,8.1,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
+Red Hat update for dotnet9.0,CVE-2026-96237,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
+Red Hat update for dotnet9.0,CVE-2026-70179,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
+Red Hat update for dotnet9.0,CVE-2026-92707,5.3,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
+Red Hat update for dotnet9.0,CVE-2026-96230,8.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
+Red Hat update for dotnet9.0,CVE-2026-70159,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
+Red Hat update for dotnet9.0,CVE-2026-70181,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
+Red Hat update for dotnet9.0,CVE-2026-58280,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
+Red Hat update for dotnet9.0,CVE-2026-69806,7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
+Red Hat update for dotnet9.0,CVE-2026-96225,7.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
+Red Hat update for dotnet9.0,CVE-2026-69651,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
+Red Hat update for dotnet9.0,CVE-2026-70196,5.9,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
+Red Hat update for dotnet9.0,CVE-2026-70188,9.1,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
+Red Hat update for dotnet9.0,CVE-2026-96238,6.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
+Red Hat update for dotnet9.0,CVE-2026-96233,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
+Red Hat update for dotnet9.0,CVE-2026-70183,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
+Red Hat update for dotnet9.0,CVE-2026-96231,7.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
+Red Hat update for dotnet9.0,CVE-2026-58649,6.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
+Red Hat update for dotnet9.0,CVE-2026-88092,9.4,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
+Red Hat update for pki-deps:10.6,CVE-2026-89425,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90909
+Red Hat update for pki-deps:10.6,CVE-2026-68498,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90909
+Red Hat update for pki-deps:10.6,CVE-2026-91777,7.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90909
+https://www.ibm.com/support/pages/node/7290178"
+Red Hat update for thunderbird,CVE-2026-45186,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90895
+Red Hat update for libXrender,CVE-2026-88807,8.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:91003
+https://access.redhat.com/errata/RHSA-2026:91057
+https://access.redhat.com/errata/RHSA-2026:91267"
+Red Hat update for firefox,CVE-2026-100832,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100779,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100756,8.1,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100781,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100757,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100774,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100770,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100821,4.7,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100778,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100818,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100791,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100758,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100766,4.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100786,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-96869,4.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100790,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100803,5.4,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100771,8.1,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100794,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100762,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100785,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100819,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100801,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-120
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-121
+https://www.mozilla.org/en-US/security/advisories/mfsa2026-122"
+Red Hat update for firefox,CVE-2026-100784,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100767,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100788,9.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100820,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-92035,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100759,8.1,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100782,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100797,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100792,7.1,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100811,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100807,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100783,4.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100775,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100772,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100776,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100773,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100777,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100780,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100769,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for firefox,CVE-2026-100789,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
+https://access.redhat.com/errata/RHSA-2026:91633
+https://access.redhat.com/errata/RHSA-2026:92012
+https://access.redhat.com/errata/RHSA-2026:92226"
+Red Hat update for resteasy,CVE-2026-17615,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90894
+Red Hat update for osbuild-composer,CVE-2026-84445,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91958
+Red Hat update for osbuild-composer,CVE-2026-55677,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91958
+Red Hat update for osbuild-composer,CVE-2026-41178,5.3,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91958
+Red Hat update for osbuild-composer,CVE-2026-42504,7.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
+https://access.redhat.com/errata/RHSA-2026:88395
+https://access.redhat.com/errata/RHSA-2026:91958"
+Red Hat update for librsvg2,CVE-2026-96889,7.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:86841
+https://access.redhat.com/errata/RHSA-2026:86842
+https://access.redhat.com/errata/RHSA-2026:86921
+https://access.redhat.com/errata/RHSA-2026:92212
+https://access.redhat.com/errata/RHSA-2026:92213
+https://access.redhat.com/errata/RHSA-2026:92218"
+Red Hat update for gimp:2.8,CVE-2026-97185,7.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:75575
+https://access.redhat.com/errata/RHSA-2026:84744"
+Red Hat update for gimp:2.8,CVE-2026-90948,7.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:75575
+https://access.redhat.com/errata/RHSA-2026:84744"
+Red Hat update for gimp:2.8,CVE-2026-90947,7.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:75575
+https://access.redhat.com/errata/RHSA-2026:84744"
+Red Hat update for gimp:2.8,CVE-2026-92248,7.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:75575
+https://access.redhat.com/errata/RHSA-2026:84744"
+Red Hat mrtg Rejection Notice,CVE-2026-72694,7.1,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:91644
+https://access.redhat.com/errata/RHSA-2026:91843
+https://access.redhat.com/errata/RHSA-2026:92051
+https://access.redhat.com/errata/RHSA-2026:92071"
+Red Hat update for kpatch-patch-6_12_0,CVE-2026-80844,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:91638
+https://access.redhat.com/errata/RHSA-2026:91639
+https://access.redhat.com/errata/RHSA-2026:91650
+https://access.redhat.com/errata/RHSA-2026:92061
+https://access.redhat.com/errata/RHSA-2026:92062
+https://access.redhat.com/errata/RHSA-2026:92063"
+Red Hat update for kpatch-patch-6_12_0,CVE-2026-53266,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:91638
+https://access.redhat.com/errata/RHSA-2026:91639
+https://access.redhat.com/errata/RHSA-2026:91650
+https://access.redhat.com/errata/RHSA-2026:92061
+https://access.redhat.com/errata/RHSA-2026:92062
+https://access.redhat.com/errata/RHSA-2026:92063"
+Red Hat update for kpatch-patch-6_12_0,CVE-2026-74582,7.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:91638
+https://access.redhat.com/errata/RHSA-2026:91639
+https://access.redhat.com/errata/RHSA-2026:91650
+https://access.redhat.com/errata/RHSA-2026:92061
+https://access.redhat.com/errata/RHSA-2026:92062
+https://access.redhat.com/errata/RHSA-2026:92063"
+Red Hat update for kpatch-patch-6_12_0,CVE-2026-68121,7.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:91638
+https://access.redhat.com/errata/RHSA-2026:91639
+https://access.redhat.com/errata/RHSA-2026:91650
+https://access.redhat.com/errata/RHSA-2026:92061
+https://access.redhat.com/errata/RHSA-2026:92062
+https://access.redhat.com/errata/RHSA-2026:92063"
+Red Hat update for kpatch-patch-6_12_0,CVE-2026-74480,9.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:91638
+https://access.redhat.com/errata/RHSA-2026:91639
+https://access.redhat.com/errata/RHSA-2026:91650
+https://access.redhat.com/errata/RHSA-2026:92061
+https://access.redhat.com/errata/RHSA-2026:92062
+https://access.redhat.com/errata/RHSA-2026:92063"
+Red Hat update for java-17-openjdk,CVE-2026-91382,6.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:88352
+Red Hat update for java-17-openjdk,CVE-2026-87294,6.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-91463,5.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-91394,5.9,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-91397,3.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-83400,5.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-83376,3.7,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-91380,4,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-91334,3.7,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-91335,2.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-91464,5.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-83381,4.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-91453,5.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-83374,5.9,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-83380,5.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-91373,5.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-91461,3.7,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-91487,4.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-91375,4.7,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-91451,5.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-91418,5.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-91374,4.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-91415,7,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-83395,6.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-101516,6.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-87367,3.7,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-91332,5.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-87290,5.9,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-91462,5.9,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-83387,5.9,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-91398,6.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-91400,3.1,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-91452,5.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-91379,4.7,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-87292,3.7,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-17-openjdk,CVE-2026-91410,5.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
+https://access.redhat.com/errata/RHSA-2026:88352"
+Red Hat update for java-25-openjdk,CVE-2026-87255,3.7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:88347
+Red Hat update for java-25-openjdk,CVE-2026-87291,5.3,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:88347
+Red Hat update for java-25-openjdk,CVE-2026-91333,3.7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:88347
+Red Hat update for java-25-openjdk,CVE-2026-83378,4.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:88347
+Red Hat update for kernel,CVE-2026-72288,9.3,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:92209
+Red Hat update for kernel,CVE-2026-90011,8.1,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:92209
+Red Hat update for kernel,CVE-2026-98222,7,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90365
+https://access.redhat.com/errata/RHSA-2026:92209"
+Red Hat update for kernel,CVE-2026-72289,7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:92209
+Red Hat update for kernel,CVE-2026-53388,7.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
+Red Hat update for kernel,CVE-2026-68476,7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
+Red Hat update for kernel,CVE-2026-64523,9.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
+Red Hat update for kernel,CVE-2026-98320,7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
+Red Hat update for kernel,CVE-2026-89638,7.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
+Red Hat update for kernel,CVE-2026-74515,6.1,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
+Red Hat update for kernel,CVE-2026-72242,7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
+Red Hat update for kernel,CVE-2026-64266,7.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
+Red Hat update for kernel,CVE-2026-63979,9.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
+Red Hat update for kernel,CVE-2026-80824,7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
+Red Hat update for kernel,CVE-2026-89777,7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
+Red Hat update for kernel,CVE-2026-93262,7.3,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
+Red Hat update for kernel,CVE-2024-57974,4.7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
+Red Hat update for kernel,CVE-2026-63978,9.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
+Red Hat update for kernel,CVE-2026-43020,7.3,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
+Red Hat update for kernel,CVE-2026-63831,8.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
+Red Hat update for kernel,CVE-2025-39797,5.3,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
+Red Hat update for kernel,CVE-2026-63802,7.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
+Red Hat update for kernel,CVE-2026-89846,7.1,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
+Red Hat update for kernel,CVE-2026-74641,7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
+Red Hat update for kernel,CVE-2026-52972,7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
+Red Hat update for kernel,CVE-2026-72243,7.3,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
+Red Hat update for kernel,CVE-2026-46259,7.1,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
+Red Hat update for kernel,CVE-2026-64017,7.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
+Red Hat update for kernel,CVE-2026-43023,7.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
+Red Hat update for kernel,CVE-2026-43450,7.1,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
+Red Hat update for kernel,CVE-2025-68745,9.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
+Red Hat update for kernel,CVE-2026-46149,7.1,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
+Red Hat update for kernel,CVE-2026-63993,9.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
+Red Hat update for kernel,CVE-2026-43493,9.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
+Red Hat update for kernel,CVE-2026-64319,9.1,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
+Microsoft Visual Studio Multiple Arbitrary Code Execution Vulnerabilities,CVE-2026-70197,8.1,,,,10/29 CH - No Exploit/POC known,"https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-102870
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-111497
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70197"
+Microsoft Visual Studio Multiple Arbitrary Code Execution Vulnerabilities,CVE-2026-102870,8.8,,,,10/29 CH - No Exploit/POC known,"https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-102870
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-111497
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70197"
+Grafana Multiple Vulnerabilities,CVE-2026-33374,6.5,,,,10/29 CH - No Exploit/POC known,"https://grafana.com/security/security-advisories/cve-2026-13719
+https://grafana.com/security/security-advisories/cve-2026-13720
+https://grafana.com/security/security-advisories/cve-2026-15577
+https://grafana.com/security/security-advisories/cve-2026-33374
+https://grafana.com/security/security-advisories/cve-2026-81841
+https://grafana.com/security/security-advisories/cve-2026-81842
+https://grafana.com/security/security-advisories/cve-2026-93294"
+Grafana Multiple Vulnerabilities,CVE-2026-13719,4.3,,,,10/29 CH - No Exploit/POC known,"https://grafana.com/security/security-advisories/cve-2026-13719
+https://grafana.com/security/security-advisories/cve-2026-13720
+https://grafana.com/security/security-advisories/cve-2026-15577
+https://grafana.com/security/security-advisories/cve-2026-33374
+https://grafana.com/security/security-advisories/cve-2026-81841
+https://grafana.com/security/security-advisories/cve-2026-81842
+https://grafana.com/security/security-advisories/cve-2026-93294"
+Grafana Multiple Vulnerabilities,CVE-2026-93294,6.3,,,,10/29 CH - No Exploit/POC known,"https://grafana.com/security/security-advisories/cve-2026-13719
+https://grafana.com/security/security-advisories/cve-2026-13720
+https://grafana.com/security/security-advisories/cve-2026-15577
+https://grafana.com/security/security-advisories/cve-2026-33374
+https://grafana.com/security/security-advisories/cve-2026-81841
+https://grafana.com/security/security-advisories/cve-2026-81842
+https://grafana.com/security/security-advisories/cve-2026-93294"
+Grafana Multiple Vulnerabilities,CVE-2026-81841,5.3,,,,10/29 CH - No Exploit/POC known,"https://grafana.com/security/security-advisories/cve-2026-13719
+https://grafana.com/security/security-advisories/cve-2026-13720
+https://grafana.com/security/security-advisories/cve-2026-15577
+https://grafana.com/security/security-advisories/cve-2026-33374
+https://grafana.com/security/security-advisories/cve-2026-81841
+https://grafana.com/security/security-advisories/cve-2026-81842
+https://grafana.com/security/security-advisories/cve-2026-93294"
+Grafana Multiple Vulnerabilities,CVE-2026-81842,4.3,,,,10/29 CH - No Exploit/POC known,"https://grafana.com/security/security-advisories/cve-2026-13719
+https://grafana.com/security/security-advisories/cve-2026-13720
+https://grafana.com/security/security-advisories/cve-2026-15577
+https://grafana.com/security/security-advisories/cve-2026-33374
+https://grafana.com/security/security-advisories/cve-2026-81841
+https://grafana.com/security/security-advisories/cve-2026-81842
+https://grafana.com/security/security-advisories/cve-2026-93294"
+Grafana Multiple Vulnerabilities,CVE-2026-13720,5.4,,,,10/29 CH - No Exploit/POC known,"https://grafana.com/security/security-advisories/cve-2026-13719
+https://grafana.com/security/security-advisories/cve-2026-13720
+https://grafana.com/security/security-advisories/cve-2026-15577
+https://grafana.com/security/security-advisories/cve-2026-33374
+https://grafana.com/security/security-advisories/cve-2026-81841
+https://grafana.com/security/security-advisories/cve-2026-81842
+https://grafana.com/security/security-advisories/cve-2026-93294"
+Grafana Multiple Vulnerabilities,CVE-2026-15577,6.5,,,,10/29 CH - No Exploit/POC known,"https://grafana.com/security/security-advisories/cve-2026-13719
+https://grafana.com/security/security-advisories/cve-2026-13720
+https://grafana.com/security/security-advisories/cve-2026-15577
+https://grafana.com/security/security-advisories/cve-2026-33374
+https://grafana.com/security/security-advisories/cve-2026-81841
+https://grafana.com/security/security-advisories/cve-2026-81842
+https://grafana.com/security/security-advisories/cve-2026-93294"
+Red Hat update for grafana,CVE-2026-32283,7.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
+https://access.redhat.com/errata/RHSA-2026:88395"
+Red Hat update for grafana,CVE-2026-56853,7.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
+https://access.redhat.com/errata/RHSA-2026:88395"
+Red Hat update for grafana,CVE-2026-39821,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
+https://access.redhat.com/errata/RHSA-2026:88395"
+Red Hat update for grafana,CVE-2026-56862,7.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
+https://access.redhat.com/errata/RHSA-2026:88395"
+Red Hat update for grafana,CVE-2026-33818,7.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
+https://access.redhat.com/errata/RHSA-2026:88395"
+Red Hat update for grafana,CVE-2026-56858,6.1,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
+https://access.redhat.com/errata/RHSA-2026:88395"
+Red Hat update for grafana,CVE-2026-56859,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:88340
+Red Hat update for grafana,CVE-2025-68121,10,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
+https://access.redhat.com/errata/RHSA-2026:88395"
+Red Hat update for grafana,CVE-2026-32281,7.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
+https://access.redhat.com/errata/RHSA-2026:88395"
+Red Hat update for grafana,CVE-2025-22866,4,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
+https://access.redhat.com/errata/RHSA-2026:88395"
+Red Hat update for grafana,CVE-2026-27137,7.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
+https://access.redhat.com/errata/RHSA-2026:88395"
+Red Hat update for grafana,CVE-2026-32280,7.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
+https://access.redhat.com/errata/RHSA-2026:88395"
+Red Hat update for grafana,CVE-2026-32282,6.4,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
+https://access.redhat.com/errata/RHSA-2026:88395"
+Red Hat update for grafana,CVE-2024-45336,6.1,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
+https://access.redhat.com/errata/RHSA-2026:88395"
+Red Hat update for grafana,CVE-2026-39820,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:88340
+Red Hat update for grafana,CVE-2026-33810,8.2,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
+https://access.redhat.com/errata/RHSA-2026:88395"
+Red Hat update for grafana,CVE-2026-56860,5.9,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
+https://access.redhat.com/errata/RHSA-2026:88395"
+Red Hat update for grafana,CVE-2026-42499,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:88340
