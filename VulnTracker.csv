@@ -1,833 +1,387 @@
 Title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,https://lists.apache.org/thread/fgggbv3sjjqw7p6q0j88gspt9b2rb728
-Drupal Webform Multiple Vulnerabilities,CVE-2026-96372,7,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
-https://www.drupal.org/sa-contrib-2026-158
-https://www.drupal.org/sa-contrib-2026-159
-https://www.drupal.org/sa-contrib-2026-160
-https://www.drupal.org/sa-contrib-2026-161
-https://www.drupal.org/sa-contrib-2026-162
-https://www.drupal.org/sa-contrib-2026-163
-https://www.drupal.org/sa-contrib-2026-164
-https://www.drupal.org/sa-contrib-2026-165
-https://www.drupal.org/sa-contrib-2026-166
-https://www.drupal.org/sa-contrib-2026-167
-https://www.drupal.org/sa-contrib-2026-168
-https://www.drupal.org/sa-contrib-2026-169
-https://www.drupal.org/sa-contrib-2026-170
-https://www.drupal.org/sa-contrib-2026-171
-https://www.drupal.org/sa-contrib-2026-172
-https://www.drupal.org/sa-contrib-2026-173
-https://www.drupal.org/sa-contrib-2026-175"
-Drupal Webform Multiple Vulnerabilities,CVE-2026-96359,7,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
-https://www.drupal.org/sa-contrib-2026-158
-https://www.drupal.org/sa-contrib-2026-159
-https://www.drupal.org/sa-contrib-2026-160
-https://www.drupal.org/sa-contrib-2026-161
-https://www.drupal.org/sa-contrib-2026-162
-https://www.drupal.org/sa-contrib-2026-163
-https://www.drupal.org/sa-contrib-2026-164
-https://www.drupal.org/sa-contrib-2026-165
-https://www.drupal.org/sa-contrib-2026-166
-https://www.drupal.org/sa-contrib-2026-167
-https://www.drupal.org/sa-contrib-2026-168
-https://www.drupal.org/sa-contrib-2026-169
-https://www.drupal.org/sa-contrib-2026-170
-https://www.drupal.org/sa-contrib-2026-171
-https://www.drupal.org/sa-contrib-2026-172
-https://www.drupal.org/sa-contrib-2026-173
-https://www.drupal.org/sa-contrib-2026-175"
-Drupal Webform Multiple Vulnerabilities,CVE-2026-96362,7,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
-https://www.drupal.org/sa-contrib-2026-158
-https://www.drupal.org/sa-contrib-2026-159
-https://www.drupal.org/sa-contrib-2026-160
-https://www.drupal.org/sa-contrib-2026-161
-https://www.drupal.org/sa-contrib-2026-162
-https://www.drupal.org/sa-contrib-2026-163
-https://www.drupal.org/sa-contrib-2026-164
-https://www.drupal.org/sa-contrib-2026-165
-https://www.drupal.org/sa-contrib-2026-166
-https://www.drupal.org/sa-contrib-2026-167
-https://www.drupal.org/sa-contrib-2026-168
-https://www.drupal.org/sa-contrib-2026-169
-https://www.drupal.org/sa-contrib-2026-170
-https://www.drupal.org/sa-contrib-2026-171
-https://www.drupal.org/sa-contrib-2026-172
-https://www.drupal.org/sa-contrib-2026-173
-https://www.drupal.org/sa-contrib-2026-175"
-Drupal Webform Multiple Vulnerabilities,CVE-2026-96366,7.5,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
-https://www.drupal.org/sa-contrib-2026-158
-https://www.drupal.org/sa-contrib-2026-159
-https://www.drupal.org/sa-contrib-2026-160
-https://www.drupal.org/sa-contrib-2026-161
-https://www.drupal.org/sa-contrib-2026-162
-https://www.drupal.org/sa-contrib-2026-163
-https://www.drupal.org/sa-contrib-2026-164
-https://www.drupal.org/sa-contrib-2026-165
-https://www.drupal.org/sa-contrib-2026-166
-https://www.drupal.org/sa-contrib-2026-167
-https://www.drupal.org/sa-contrib-2026-168
-https://www.drupal.org/sa-contrib-2026-169
-https://www.drupal.org/sa-contrib-2026-170
-https://www.drupal.org/sa-contrib-2026-171
-https://www.drupal.org/sa-contrib-2026-172
-https://www.drupal.org/sa-contrib-2026-173
-https://www.drupal.org/sa-contrib-2026-175"
-Drupal Webform Multiple Vulnerabilities,CVE-2026-96361,4.6,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
-https://www.drupal.org/sa-contrib-2026-158
-https://www.drupal.org/sa-contrib-2026-159
-https://www.drupal.org/sa-contrib-2026-160
-https://www.drupal.org/sa-contrib-2026-161
-https://www.drupal.org/sa-contrib-2026-162
-https://www.drupal.org/sa-contrib-2026-163
-https://www.drupal.org/sa-contrib-2026-164
-https://www.drupal.org/sa-contrib-2026-165
-https://www.drupal.org/sa-contrib-2026-166
-https://www.drupal.org/sa-contrib-2026-167
-https://www.drupal.org/sa-contrib-2026-168
-https://www.drupal.org/sa-contrib-2026-169
-https://www.drupal.org/sa-contrib-2026-170
-https://www.drupal.org/sa-contrib-2026-171
-https://www.drupal.org/sa-contrib-2026-172
-https://www.drupal.org/sa-contrib-2026-173
-https://www.drupal.org/sa-contrib-2026-175"
-Drupal Webform Multiple Vulnerabilities,CVE-2026-96398,7.3,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
-https://www.drupal.org/sa-contrib-2026-158
-https://www.drupal.org/sa-contrib-2026-159
-https://www.drupal.org/sa-contrib-2026-160
-https://www.drupal.org/sa-contrib-2026-161
-https://www.drupal.org/sa-contrib-2026-162
-https://www.drupal.org/sa-contrib-2026-163
-https://www.drupal.org/sa-contrib-2026-164
-https://www.drupal.org/sa-contrib-2026-165
-https://www.drupal.org/sa-contrib-2026-166
-https://www.drupal.org/sa-contrib-2026-167
-https://www.drupal.org/sa-contrib-2026-168
-https://www.drupal.org/sa-contrib-2026-169
-https://www.drupal.org/sa-contrib-2026-170
-https://www.drupal.org/sa-contrib-2026-171
-https://www.drupal.org/sa-contrib-2026-172
-https://www.drupal.org/sa-contrib-2026-173
-https://www.drupal.org/sa-contrib-2026-175"
-Drupal Webform Multiple Vulnerabilities,CVE-2026-96368,7,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
-https://www.drupal.org/sa-contrib-2026-158
-https://www.drupal.org/sa-contrib-2026-159
-https://www.drupal.org/sa-contrib-2026-160
-https://www.drupal.org/sa-contrib-2026-161
-https://www.drupal.org/sa-contrib-2026-162
-https://www.drupal.org/sa-contrib-2026-163
-https://www.drupal.org/sa-contrib-2026-164
-https://www.drupal.org/sa-contrib-2026-165
-https://www.drupal.org/sa-contrib-2026-166
-https://www.drupal.org/sa-contrib-2026-167
-https://www.drupal.org/sa-contrib-2026-168
-https://www.drupal.org/sa-contrib-2026-169
-https://www.drupal.org/sa-contrib-2026-170
-https://www.drupal.org/sa-contrib-2026-171
-https://www.drupal.org/sa-contrib-2026-172
-https://www.drupal.org/sa-contrib-2026-173
-https://www.drupal.org/sa-contrib-2026-175"
-Drupal Webform Multiple Vulnerabilities,CVE-2026-96363,7,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
-https://www.drupal.org/sa-contrib-2026-158
-https://www.drupal.org/sa-contrib-2026-159
-https://www.drupal.org/sa-contrib-2026-160
-https://www.drupal.org/sa-contrib-2026-161
-https://www.drupal.org/sa-contrib-2026-162
-https://www.drupal.org/sa-contrib-2026-163
-https://www.drupal.org/sa-contrib-2026-164
-https://www.drupal.org/sa-contrib-2026-165
-https://www.drupal.org/sa-contrib-2026-166
-https://www.drupal.org/sa-contrib-2026-167
-https://www.drupal.org/sa-contrib-2026-168
-https://www.drupal.org/sa-contrib-2026-169
-https://www.drupal.org/sa-contrib-2026-170
-https://www.drupal.org/sa-contrib-2026-171
-https://www.drupal.org/sa-contrib-2026-172
-https://www.drupal.org/sa-contrib-2026-173
-https://www.drupal.org/sa-contrib-2026-175"
-Drupal Webform Multiple Vulnerabilities,CVE-2026-96357,7.6,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
-https://www.drupal.org/sa-contrib-2026-158
-https://www.drupal.org/sa-contrib-2026-159
-https://www.drupal.org/sa-contrib-2026-160
-https://www.drupal.org/sa-contrib-2026-161
-https://www.drupal.org/sa-contrib-2026-162
-https://www.drupal.org/sa-contrib-2026-163
-https://www.drupal.org/sa-contrib-2026-164
-https://www.drupal.org/sa-contrib-2026-165
-https://www.drupal.org/sa-contrib-2026-166
-https://www.drupal.org/sa-contrib-2026-167
-https://www.drupal.org/sa-contrib-2026-168
-https://www.drupal.org/sa-contrib-2026-169
-https://www.drupal.org/sa-contrib-2026-170
-https://www.drupal.org/sa-contrib-2026-171
-https://www.drupal.org/sa-contrib-2026-172
-https://www.drupal.org/sa-contrib-2026-173
-https://www.drupal.org/sa-contrib-2026-175"
-Drupal Webform Multiple Vulnerabilities,CVE-2026-96365,7.8,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
-https://www.drupal.org/sa-contrib-2026-158
-https://www.drupal.org/sa-contrib-2026-159
-https://www.drupal.org/sa-contrib-2026-160
-https://www.drupal.org/sa-contrib-2026-161
-https://www.drupal.org/sa-contrib-2026-162
-https://www.drupal.org/sa-contrib-2026-163
-https://www.drupal.org/sa-contrib-2026-164
-https://www.drupal.org/sa-contrib-2026-165
-https://www.drupal.org/sa-contrib-2026-166
-https://www.drupal.org/sa-contrib-2026-167
-https://www.drupal.org/sa-contrib-2026-168
-https://www.drupal.org/sa-contrib-2026-169
-https://www.drupal.org/sa-contrib-2026-170
-https://www.drupal.org/sa-contrib-2026-171
-https://www.drupal.org/sa-contrib-2026-172
-https://www.drupal.org/sa-contrib-2026-173
-https://www.drupal.org/sa-contrib-2026-175"
-Drupal Webform Multiple Vulnerabilities,CVE-2026-96370,8.1,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
-https://www.drupal.org/sa-contrib-2026-158
-https://www.drupal.org/sa-contrib-2026-159
-https://www.drupal.org/sa-contrib-2026-160
-https://www.drupal.org/sa-contrib-2026-161
-https://www.drupal.org/sa-contrib-2026-162
-https://www.drupal.org/sa-contrib-2026-163
-https://www.drupal.org/sa-contrib-2026-164
-https://www.drupal.org/sa-contrib-2026-165
-https://www.drupal.org/sa-contrib-2026-166
-https://www.drupal.org/sa-contrib-2026-167
-https://www.drupal.org/sa-contrib-2026-168
-https://www.drupal.org/sa-contrib-2026-169
-https://www.drupal.org/sa-contrib-2026-170
-https://www.drupal.org/sa-contrib-2026-171
-https://www.drupal.org/sa-contrib-2026-172
-https://www.drupal.org/sa-contrib-2026-173
-https://www.drupal.org/sa-contrib-2026-175"
-Drupal Webform Multiple Vulnerabilities,CVE-2026-96373,8.4,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
-https://www.drupal.org/sa-contrib-2026-158
-https://www.drupal.org/sa-contrib-2026-159
-https://www.drupal.org/sa-contrib-2026-160
-https://www.drupal.org/sa-contrib-2026-161
-https://www.drupal.org/sa-contrib-2026-162
-https://www.drupal.org/sa-contrib-2026-163
-https://www.drupal.org/sa-contrib-2026-164
-https://www.drupal.org/sa-contrib-2026-165
-https://www.drupal.org/sa-contrib-2026-166
-https://www.drupal.org/sa-contrib-2026-167
-https://www.drupal.org/sa-contrib-2026-168
-https://www.drupal.org/sa-contrib-2026-169
-https://www.drupal.org/sa-contrib-2026-170
-https://www.drupal.org/sa-contrib-2026-171
-https://www.drupal.org/sa-contrib-2026-172
-https://www.drupal.org/sa-contrib-2026-173
-https://www.drupal.org/sa-contrib-2026-175"
-Drupal Webform Multiple Vulnerabilities,CVE-2026-96369,8.7,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
-https://www.drupal.org/sa-contrib-2026-158
-https://www.drupal.org/sa-contrib-2026-159
-https://www.drupal.org/sa-contrib-2026-160
-https://www.drupal.org/sa-contrib-2026-161
-https://www.drupal.org/sa-contrib-2026-162
-https://www.drupal.org/sa-contrib-2026-163
-https://www.drupal.org/sa-contrib-2026-164
-https://www.drupal.org/sa-contrib-2026-165
-https://www.drupal.org/sa-contrib-2026-166
-https://www.drupal.org/sa-contrib-2026-167
-https://www.drupal.org/sa-contrib-2026-168
-https://www.drupal.org/sa-contrib-2026-169
-https://www.drupal.org/sa-contrib-2026-170
-https://www.drupal.org/sa-contrib-2026-171
-https://www.drupal.org/sa-contrib-2026-172
-https://www.drupal.org/sa-contrib-2026-173
-https://www.drupal.org/sa-contrib-2026-175"
-Drupal Webform Multiple Vulnerabilities,CVE-2026-96371,9,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
-https://www.drupal.org/sa-contrib-2026-158
-https://www.drupal.org/sa-contrib-2026-159
-https://www.drupal.org/sa-contrib-2026-160
-https://www.drupal.org/sa-contrib-2026-161
-https://www.drupal.org/sa-contrib-2026-162
-https://www.drupal.org/sa-contrib-2026-163
-https://www.drupal.org/sa-contrib-2026-164
-https://www.drupal.org/sa-contrib-2026-165
-https://www.drupal.org/sa-contrib-2026-166
-https://www.drupal.org/sa-contrib-2026-167
-https://www.drupal.org/sa-contrib-2026-168
-https://www.drupal.org/sa-contrib-2026-169
-https://www.drupal.org/sa-contrib-2026-170
-https://www.drupal.org/sa-contrib-2026-171
-https://www.drupal.org/sa-contrib-2026-172
-https://www.drupal.org/sa-contrib-2026-173
-https://www.drupal.org/sa-contrib-2026-175"
-Drupal Webform Multiple Vulnerabilities,CVE-2026-96367,9.3,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
-https://www.drupal.org/sa-contrib-2026-158
-https://www.drupal.org/sa-contrib-2026-159
-https://www.drupal.org/sa-contrib-2026-160
-https://www.drupal.org/sa-contrib-2026-161
-https://www.drupal.org/sa-contrib-2026-162
-https://www.drupal.org/sa-contrib-2026-163
-https://www.drupal.org/sa-contrib-2026-164
-https://www.drupal.org/sa-contrib-2026-165
-https://www.drupal.org/sa-contrib-2026-166
-https://www.drupal.org/sa-contrib-2026-167
-https://www.drupal.org/sa-contrib-2026-168
-https://www.drupal.org/sa-contrib-2026-169
-https://www.drupal.org/sa-contrib-2026-170
-https://www.drupal.org/sa-contrib-2026-171
-https://www.drupal.org/sa-contrib-2026-172
-https://www.drupal.org/sa-contrib-2026-173
-https://www.drupal.org/sa-contrib-2026-175"
-Drupal Webform Multiple Vulnerabilities,CVE-2026-96364,9.6,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
-https://www.drupal.org/sa-contrib-2026-158
-https://www.drupal.org/sa-contrib-2026-159
-https://www.drupal.org/sa-contrib-2026-160
-https://www.drupal.org/sa-contrib-2026-161
-https://www.drupal.org/sa-contrib-2026-162
-https://www.drupal.org/sa-contrib-2026-163
-https://www.drupal.org/sa-contrib-2026-164
-https://www.drupal.org/sa-contrib-2026-165
-https://www.drupal.org/sa-contrib-2026-166
-https://www.drupal.org/sa-contrib-2026-167
-https://www.drupal.org/sa-contrib-2026-168
-https://www.drupal.org/sa-contrib-2026-169
-https://www.drupal.org/sa-contrib-2026-170
-https://www.drupal.org/sa-contrib-2026-171
-https://www.drupal.org/sa-contrib-2026-172
-https://www.drupal.org/sa-contrib-2026-173
-https://www.drupal.org/sa-contrib-2026-175"
-Drupal Webform Multiple Vulnerabilities,CVE-2026-96355,9.1,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
-https://www.drupal.org/sa-contrib-2026-158
-https://www.drupal.org/sa-contrib-2026-159
-https://www.drupal.org/sa-contrib-2026-160
-https://www.drupal.org/sa-contrib-2026-161
-https://www.drupal.org/sa-contrib-2026-162
-https://www.drupal.org/sa-contrib-2026-163
-https://www.drupal.org/sa-contrib-2026-164
-https://www.drupal.org/sa-contrib-2026-165
-https://www.drupal.org/sa-contrib-2026-166
-https://www.drupal.org/sa-contrib-2026-167
-https://www.drupal.org/sa-contrib-2026-168
-https://www.drupal.org/sa-contrib-2026-169
-https://www.drupal.org/sa-contrib-2026-170
-https://www.drupal.org/sa-contrib-2026-171
-https://www.drupal.org/sa-contrib-2026-172
-https://www.drupal.org/sa-contrib-2026-173
-https://www.drupal.org/sa-contrib-2026-175"
-Drupal Webform Multiple Vulnerabilities,CVE-2026-96358,4.6,,,,10/29 CH - No Exploit/POC known,"https://www.drupal.org/sa-contrib-2026-155
-https://www.drupal.org/sa-contrib-2026-158
-https://www.drupal.org/sa-contrib-2026-159
-https://www.drupal.org/sa-contrib-2026-160
-https://www.drupal.org/sa-contrib-2026-161
-https://www.drupal.org/sa-contrib-2026-162
-https://www.drupal.org/sa-contrib-2026-163
-https://www.drupal.org/sa-contrib-2026-164
-https://www.drupal.org/sa-contrib-2026-165
-https://www.drupal.org/sa-contrib-2026-166
-https://www.drupal.org/sa-contrib-2026-167
-https://www.drupal.org/sa-contrib-2026-168
-https://www.drupal.org/sa-contrib-2026-169
-https://www.drupal.org/sa-contrib-2026-170
-https://www.drupal.org/sa-contrib-2026-171
-https://www.drupal.org/sa-contrib-2026-172
-https://www.drupal.org/sa-contrib-2026-173
-https://www.drupal.org/sa-contrib-2026-175"
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92954,8.6,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-19534,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92947,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92940,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-76172,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92951,9.9,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92935,9,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92959,7.1,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92955,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92950,8.6,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-93603,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92939,9.9,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92937,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-82333,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92961,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-77037,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-82417,5.3,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-54284,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-84961,7.4,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92956,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92942,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-47698,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-88932,5.3,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92941,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-59893,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92957,9.9,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-93605,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92946,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-84394,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-75899,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92948,9.9,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-71491,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92960,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-47683,not available,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-47686,9.9,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-55553,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92938,9.9,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-84375,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92953,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92934,9,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92958,8.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-93606,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-75975,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-92944,10,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-75931,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-13697,9.1,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-84292,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for Red Hat Ansible Automation Platform,CVE-2026-93604,7.2,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82151
-Red Hat update for dotnet9.0,CVE-2026-66822,5.9,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
-Red Hat update for dotnet9.0,CVE-2026-70186,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
-Red Hat update for dotnet9.0,CVE-2026-96236,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
-Red Hat update for dotnet9.0,CVE-2026-70175,8.1,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
-Red Hat update for dotnet9.0,CVE-2026-96237,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
-Red Hat update for dotnet9.0,CVE-2026-70179,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
-Red Hat update for dotnet9.0,CVE-2026-92707,5.3,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
-Red Hat update for dotnet9.0,CVE-2026-96230,8.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
-Red Hat update for dotnet9.0,CVE-2026-70159,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
-Red Hat update for dotnet9.0,CVE-2026-70181,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
-Red Hat update for dotnet9.0,CVE-2026-58280,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
-Red Hat update for dotnet9.0,CVE-2026-69806,7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
-Red Hat update for dotnet9.0,CVE-2026-96225,7.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
-Red Hat update for dotnet9.0,CVE-2026-69651,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
-Red Hat update for dotnet9.0,CVE-2026-70196,5.9,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
-Red Hat update for dotnet9.0,CVE-2026-70188,9.1,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
-Red Hat update for dotnet9.0,CVE-2026-96238,6.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
-Red Hat update for dotnet9.0,CVE-2026-96233,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
-Red Hat update for dotnet9.0,CVE-2026-70183,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
-Red Hat update for dotnet9.0,CVE-2026-96231,7.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
-Red Hat update for dotnet9.0,CVE-2026-58649,6.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
-Red Hat update for dotnet9.0,CVE-2026-88092,9.4,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89735
-Red Hat update for pki-deps:10.6,CVE-2026-89425,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90909
-Red Hat update for pki-deps:10.6,CVE-2026-68498,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90909
-Red Hat update for pki-deps:10.6,CVE-2026-91777,7.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90909
-https://www.ibm.com/support/pages/node/7290178"
-Red Hat update for thunderbird,CVE-2026-45186,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90895
-Red Hat update for libXrender,CVE-2026-88807,8.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:91003
-https://access.redhat.com/errata/RHSA-2026:91057
-https://access.redhat.com/errata/RHSA-2026:91267"
-Red Hat update for firefox,CVE-2026-100832,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100779,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100756,8.1,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100781,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100757,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100774,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100770,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100821,4.7,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100778,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100818,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100791,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100758,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100766,4.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100786,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-96869,4.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100790,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100803,5.4,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100771,8.1,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100794,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100762,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100785,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100819,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100801,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-118
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-120
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-121
-https://www.mozilla.org/en-US/security/advisories/mfsa2026-122"
-Red Hat update for firefox,CVE-2026-100784,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100767,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100788,9.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100820,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-92035,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100759,8.1,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100782,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100797,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100792,7.1,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100811,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100807,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100783,4.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100775,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100772,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100776,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100773,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100777,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100780,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100769,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for firefox,CVE-2026-100789,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90913
-https://access.redhat.com/errata/RHSA-2026:91633
-https://access.redhat.com/errata/RHSA-2026:92012
-https://access.redhat.com/errata/RHSA-2026:92226"
-Red Hat update for resteasy,CVE-2026-17615,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90894
-Red Hat update for osbuild-composer,CVE-2026-84445,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91958
-Red Hat update for osbuild-composer,CVE-2026-55677,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91958
-Red Hat update for osbuild-composer,CVE-2026-41178,5.3,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91958
-Red Hat update for osbuild-composer,CVE-2026-42504,7.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
-https://access.redhat.com/errata/RHSA-2026:88395
-https://access.redhat.com/errata/RHSA-2026:91958"
-Red Hat update for librsvg2,CVE-2026-96889,7.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:86841
-https://access.redhat.com/errata/RHSA-2026:86842
-https://access.redhat.com/errata/RHSA-2026:86921
-https://access.redhat.com/errata/RHSA-2026:92212
-https://access.redhat.com/errata/RHSA-2026:92213
-https://access.redhat.com/errata/RHSA-2026:92218"
-Red Hat update for gimp:2.8,CVE-2026-97185,7.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:75575
-https://access.redhat.com/errata/RHSA-2026:84744"
-Red Hat update for gimp:2.8,CVE-2026-90948,7.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:75575
-https://access.redhat.com/errata/RHSA-2026:84744"
-Red Hat update for gimp:2.8,CVE-2026-90947,7.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:75575
-https://access.redhat.com/errata/RHSA-2026:84744"
-Red Hat update for gimp:2.8,CVE-2026-92248,7.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:75575
-https://access.redhat.com/errata/RHSA-2026:84744"
-Red Hat mrtg Rejection Notice,CVE-2026-72694,7.1,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:91644
-https://access.redhat.com/errata/RHSA-2026:91843
-https://access.redhat.com/errata/RHSA-2026:92051
-https://access.redhat.com/errata/RHSA-2026:92071"
-Red Hat update for kpatch-patch-6_12_0,CVE-2026-80844,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:91638
-https://access.redhat.com/errata/RHSA-2026:91639
-https://access.redhat.com/errata/RHSA-2026:91650
-https://access.redhat.com/errata/RHSA-2026:92061
-https://access.redhat.com/errata/RHSA-2026:92062
-https://access.redhat.com/errata/RHSA-2026:92063"
-Red Hat update for kpatch-patch-6_12_0,CVE-2026-53266,8.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:91638
-https://access.redhat.com/errata/RHSA-2026:91639
-https://access.redhat.com/errata/RHSA-2026:91650
-https://access.redhat.com/errata/RHSA-2026:92061
-https://access.redhat.com/errata/RHSA-2026:92062
-https://access.redhat.com/errata/RHSA-2026:92063"
-Red Hat update for kpatch-patch-6_12_0,CVE-2026-74582,7.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:91638
-https://access.redhat.com/errata/RHSA-2026:91639
-https://access.redhat.com/errata/RHSA-2026:91650
-https://access.redhat.com/errata/RHSA-2026:92061
-https://access.redhat.com/errata/RHSA-2026:92062
-https://access.redhat.com/errata/RHSA-2026:92063"
-Red Hat update for kpatch-patch-6_12_0,CVE-2026-68121,7.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:91638
-https://access.redhat.com/errata/RHSA-2026:91639
-https://access.redhat.com/errata/RHSA-2026:91650
-https://access.redhat.com/errata/RHSA-2026:92061
-https://access.redhat.com/errata/RHSA-2026:92062
-https://access.redhat.com/errata/RHSA-2026:92063"
-Red Hat update for kpatch-patch-6_12_0,CVE-2026-74480,9.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:91638
-https://access.redhat.com/errata/RHSA-2026:91639
-https://access.redhat.com/errata/RHSA-2026:91650
-https://access.redhat.com/errata/RHSA-2026:92061
-https://access.redhat.com/errata/RHSA-2026:92062
-https://access.redhat.com/errata/RHSA-2026:92063"
-Red Hat update for java-17-openjdk,CVE-2026-91382,6.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:88352
-Red Hat update for java-17-openjdk,CVE-2026-87294,6.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-91463,5.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-91394,5.9,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-91397,3.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-83400,5.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-83376,3.7,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-91380,4,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-91334,3.7,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-91335,2.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-91464,5.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-83381,4.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-91453,5.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-83374,5.9,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-83380,5.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-91373,5.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-91461,3.7,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-91487,4.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-91375,4.7,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-91451,5.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-91418,5.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-91374,4.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-91415,7,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-83395,6.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-101516,6.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-87367,3.7,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-91332,5.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-87290,5.9,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-91462,5.9,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-83387,5.9,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-91398,6.8,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-91400,3.1,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-91452,5.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-91379,4.7,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-87292,3.7,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-17-openjdk,CVE-2026-91410,5.3,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88347
-https://access.redhat.com/errata/RHSA-2026:88352"
-Red Hat update for java-25-openjdk,CVE-2026-87255,3.7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:88347
-Red Hat update for java-25-openjdk,CVE-2026-87291,5.3,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:88347
-Red Hat update for java-25-openjdk,CVE-2026-91333,3.7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:88347
-Red Hat update for java-25-openjdk,CVE-2026-83378,4.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:88347
-Red Hat update for kernel,CVE-2026-72288,9.3,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:92209
-Red Hat update for kernel,CVE-2026-90011,8.1,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:92209
-Red Hat update for kernel,CVE-2026-98222,7,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:90365
-https://access.redhat.com/errata/RHSA-2026:92209"
-Red Hat update for kernel,CVE-2026-72289,7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:92209
-Red Hat update for kernel,CVE-2026-53388,7.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
-Red Hat update for kernel,CVE-2026-68476,7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
-Red Hat update for kernel,CVE-2026-64523,9.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
-Red Hat update for kernel,CVE-2026-98320,7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
-Red Hat update for kernel,CVE-2026-89638,7.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
-Red Hat update for kernel,CVE-2026-74515,6.1,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
-Red Hat update for kernel,CVE-2026-72242,7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
-Red Hat update for kernel,CVE-2026-64266,7.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
-Red Hat update for kernel,CVE-2026-63979,9.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
-Red Hat update for kernel,CVE-2026-80824,7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
-Red Hat update for kernel,CVE-2026-89777,7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
-Red Hat update for kernel,CVE-2026-93262,7.3,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
-Red Hat update for kernel,CVE-2024-57974,4.7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
-Red Hat update for kernel,CVE-2026-63978,9.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:90365
-Red Hat update for kernel,CVE-2026-43020,7.3,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
-Red Hat update for kernel,CVE-2026-63831,8.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
-Red Hat update for kernel,CVE-2025-39797,5.3,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
-Red Hat update for kernel,CVE-2026-63802,7.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
-Red Hat update for kernel,CVE-2026-89846,7.1,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
-Red Hat update for kernel,CVE-2026-74641,7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
-Red Hat update for kernel,CVE-2026-52972,7,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
-Red Hat update for kernel,CVE-2026-72243,7.3,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
-Red Hat update for kernel,CVE-2026-46259,7.1,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
-Red Hat update for kernel,CVE-2026-64017,7.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
-Red Hat update for kernel,CVE-2026-43023,7.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
-Red Hat update for kernel,CVE-2026-43450,7.1,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
-Red Hat update for kernel,CVE-2025-68745,9.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
-Red Hat update for kernel,CVE-2026-46149,7.1,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
-Red Hat update for kernel,CVE-2026-63993,9.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
-Red Hat update for kernel,CVE-2026-43493,9.8,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
-Red Hat update for kernel,CVE-2026-64319,9.1,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:91489
-Microsoft Visual Studio Multiple Arbitrary Code Execution Vulnerabilities,CVE-2026-70197,8.1,,,,10/29 CH - No Exploit/POC known,"https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-102870
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-111497
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70197"
-Microsoft Visual Studio Multiple Arbitrary Code Execution Vulnerabilities,CVE-2026-102870,8.8,,,,10/29 CH - No Exploit/POC known,"https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-102870
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-111497
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-70197"
-Grafana Multiple Vulnerabilities,CVE-2026-33374,6.5,,,,10/29 CH - No Exploit/POC known,"https://grafana.com/security/security-advisories/cve-2026-13719
-https://grafana.com/security/security-advisories/cve-2026-13720
-https://grafana.com/security/security-advisories/cve-2026-15577
-https://grafana.com/security/security-advisories/cve-2026-33374
-https://grafana.com/security/security-advisories/cve-2026-81841
-https://grafana.com/security/security-advisories/cve-2026-81842
-https://grafana.com/security/security-advisories/cve-2026-93294"
-Grafana Multiple Vulnerabilities,CVE-2026-13719,4.3,,,,10/29 CH - No Exploit/POC known,"https://grafana.com/security/security-advisories/cve-2026-13719
-https://grafana.com/security/security-advisories/cve-2026-13720
-https://grafana.com/security/security-advisories/cve-2026-15577
-https://grafana.com/security/security-advisories/cve-2026-33374
-https://grafana.com/security/security-advisories/cve-2026-81841
-https://grafana.com/security/security-advisories/cve-2026-81842
-https://grafana.com/security/security-advisories/cve-2026-93294"
-Grafana Multiple Vulnerabilities,CVE-2026-93294,6.3,,,,10/29 CH - No Exploit/POC known,"https://grafana.com/security/security-advisories/cve-2026-13719
-https://grafana.com/security/security-advisories/cve-2026-13720
-https://grafana.com/security/security-advisories/cve-2026-15577
-https://grafana.com/security/security-advisories/cve-2026-33374
-https://grafana.com/security/security-advisories/cve-2026-81841
-https://grafana.com/security/security-advisories/cve-2026-81842
-https://grafana.com/security/security-advisories/cve-2026-93294"
-Grafana Multiple Vulnerabilities,CVE-2026-81841,5.3,,,,10/29 CH - No Exploit/POC known,"https://grafana.com/security/security-advisories/cve-2026-13719
-https://grafana.com/security/security-advisories/cve-2026-13720
-https://grafana.com/security/security-advisories/cve-2026-15577
-https://grafana.com/security/security-advisories/cve-2026-33374
-https://grafana.com/security/security-advisories/cve-2026-81841
-https://grafana.com/security/security-advisories/cve-2026-81842
-https://grafana.com/security/security-advisories/cve-2026-93294"
-Grafana Multiple Vulnerabilities,CVE-2026-81842,4.3,,,,10/29 CH - No Exploit/POC known,"https://grafana.com/security/security-advisories/cve-2026-13719
-https://grafana.com/security/security-advisories/cve-2026-13720
-https://grafana.com/security/security-advisories/cve-2026-15577
-https://grafana.com/security/security-advisories/cve-2026-33374
-https://grafana.com/security/security-advisories/cve-2026-81841
-https://grafana.com/security/security-advisories/cve-2026-81842
-https://grafana.com/security/security-advisories/cve-2026-93294"
-Grafana Multiple Vulnerabilities,CVE-2026-13720,5.4,,,,10/29 CH - No Exploit/POC known,"https://grafana.com/security/security-advisories/cve-2026-13719
-https://grafana.com/security/security-advisories/cve-2026-13720
-https://grafana.com/security/security-advisories/cve-2026-15577
-https://grafana.com/security/security-advisories/cve-2026-33374
-https://grafana.com/security/security-advisories/cve-2026-81841
-https://grafana.com/security/security-advisories/cve-2026-81842
-https://grafana.com/security/security-advisories/cve-2026-93294"
-Grafana Multiple Vulnerabilities,CVE-2026-15577,6.5,,,,10/29 CH - No Exploit/POC known,"https://grafana.com/security/security-advisories/cve-2026-13719
-https://grafana.com/security/security-advisories/cve-2026-13720
-https://grafana.com/security/security-advisories/cve-2026-15577
-https://grafana.com/security/security-advisories/cve-2026-33374
-https://grafana.com/security/security-advisories/cve-2026-81841
-https://grafana.com/security/security-advisories/cve-2026-81842
-https://grafana.com/security/security-advisories/cve-2026-93294"
-Red Hat update for grafana,CVE-2026-32283,7.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
-https://access.redhat.com/errata/RHSA-2026:88395"
-Red Hat update for grafana,CVE-2026-56853,7.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
-https://access.redhat.com/errata/RHSA-2026:88395"
-Red Hat update for grafana,CVE-2026-39821,9.6,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
-https://access.redhat.com/errata/RHSA-2026:88395"
-Red Hat update for grafana,CVE-2026-56862,7.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
-https://access.redhat.com/errata/RHSA-2026:88395"
-Red Hat update for grafana,CVE-2026-33818,7.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
-https://access.redhat.com/errata/RHSA-2026:88395"
-Red Hat update for grafana,CVE-2026-56858,6.1,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
-https://access.redhat.com/errata/RHSA-2026:88395"
-Red Hat update for grafana,CVE-2026-56859,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:88340
-Red Hat update for grafana,CVE-2025-68121,10,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
-https://access.redhat.com/errata/RHSA-2026:88395"
-Red Hat update for grafana,CVE-2026-32281,7.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
-https://access.redhat.com/errata/RHSA-2026:88395"
-Red Hat update for grafana,CVE-2025-22866,4,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
-https://access.redhat.com/errata/RHSA-2026:88395"
-Red Hat update for grafana,CVE-2026-27137,7.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
-https://access.redhat.com/errata/RHSA-2026:88395"
-Red Hat update for grafana,CVE-2026-32280,7.5,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
-https://access.redhat.com/errata/RHSA-2026:88395"
-Red Hat update for grafana,CVE-2026-32282,6.4,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
-https://access.redhat.com/errata/RHSA-2026:88395"
-Red Hat update for grafana,CVE-2024-45336,6.1,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
-https://access.redhat.com/errata/RHSA-2026:88395"
-Red Hat update for grafana,CVE-2026-39820,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:88340
-Red Hat update for grafana,CVE-2026-33810,8.2,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
-https://access.redhat.com/errata/RHSA-2026:88395"
-Red Hat update for grafana,CVE-2026-56860,5.9,,,,10/29 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:88340
-https://access.redhat.com/errata/RHSA-2026:88395"
-Red Hat update for grafana,CVE-2026-42499,7.5,,,,10/29 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:88340
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119270,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-76028,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119266,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119263,9.6,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-76029,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-76026,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119268,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119264,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119265,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119267,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119269,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119262,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-76027,4.3,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119272,4.3,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119261,9.6,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119260,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-76024,6.5,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-76030,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119271,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-76025,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
+Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-76031,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
+Red Hat update for cockpit-machines,CVE-2026-92768,5.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:86970
+https://access.redhat.com/errata/RHSA-2026:86971"
+Red Hat update for cockpit-machines,CVE-2026-92745,5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:86970
+https://access.redhat.com/errata/RHSA-2026:86971"
+Red Hat update for cockpit-machines,CVE-2026-92747,5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:86970
+https://access.redhat.com/errata/RHSA-2026:86971"
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-83380,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91410,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91462,5.9,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91382,6.5,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91397,3.6,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91453,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91411,6.5,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91394,5.9,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91417,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-83374,5.9,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-83395,6.5,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91379,4.7,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91334,3.7,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-83387,5.9,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91400,3.1,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91463,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-87290,5.9,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-114820,9.1,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+https://www.oracle.com/security-alerts/alert-cve-2026-114820.html"
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91487,4.8,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91398,6.8,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91461,3.7,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-87367,3.7,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91418,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91464,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-87292,3.7,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91380,4,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91374,4.8,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-83381,4.8,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-83400,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91332,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-83376,3.7,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91373,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91395,6.5,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-87294,6.5,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91333,3.7,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91451,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-87291,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91381,3.7,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91415,7,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-87293,5.4,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91452,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91375,4.7,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-83378,4.8,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91396,6.5,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91335,2.6,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
+Red Hat update for opentelemetry-collector,CVE-2026-78669,7.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93596
+Red Hat update for opentelemetry-collector,CVE-2026-97031,7.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93596
+Red Hat update for opentelemetry-collector,CVE-2026-111943,6.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93596
+Red Hat update for opentelemetry-collector,CVE-2026-94440,7.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93596
+Red Hat update for opentelemetry-collector,CVE-2026-78667,7.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93596
+Red Hat update for gimp,CVE-2026-18307,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
+Red Hat update for gimp,CVE-2026-18305,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
+Red Hat update for gimp,CVE-2026-18304,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
+Red Hat update for gimp,CVE-2026-58379,7.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
+Red Hat update for gimp,CVE-2026-90948,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
+Red Hat update for gimp,CVE-2026-58384,7.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
+Red Hat update for gimp,CVE-2026-59090,8.4,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
+Red Hat update for gimp,CVE-2026-90947,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
+Red Hat update for gimp,CVE-2026-92248,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
+Red Hat update for gimp,CVE-2026-42169,7.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
+Red Hat update for gimp,CVE-2026-97185,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
+Red Hat update for gimp,CVE-2026-18306,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
+Red Hat update for gimp,CVE-2026-18301,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
+Red Hat update for gimp,CVE-2026-18302,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
+Red Hat update for gimp,CVE-2026-18303,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
+Red Hat update for gimp,CVE-2026-58380,7.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
+Red Hat update for gimp,CVE-2026-66758,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
+Red Hat update for dotnet10.0,CVE-2026-114148,7.8,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:92420
+https://access.redhat.com/errata/RHSA-2026:92427
+https://access.redhat.com/errata/RHSA-2026:92428
+https://access.redhat.com/errata/RHSA-2026:92430
+https://access.redhat.com/errata/RHSA-2026:92431
+https://access.redhat.com/errata/RHSA-2026:92438
+https://access.redhat.com/errata/RHSA-2026:92511
+https://access.redhat.com/errata/RHSA-2026:93457
+https://access.redhat.com/errata/RHSA-2026:93459"
+Red Hat update for dotnet11.0,CVE-2026-62909,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:92511
+Red Hat update for firefox,CVE-2026-109740,8.3,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109709,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109712,9.6,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109720,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109724,7.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109708,9.6,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109728,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109706,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109730,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109716,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109729,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109725,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109717,7.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109707,9.6,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109704,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109705,9.6,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-77214,8.2,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89758
+Red Hat update for firefox,CVE-2026-109711,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109732,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109723,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-45186,7.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109719,4.2,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109727,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109718,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109726,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109713,7.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:89758
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109736,4.3,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109744,4.3,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109751,4.3,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109733,8.1,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109738,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109737,4.3,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109745,8.3,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109782,4.3,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109752,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109753,8.1,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109742,4.3,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109741,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109743,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109760,3.1,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109763,4.3,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109754,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109762,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109757,not available,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109756,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109759,4.2,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for libXi,CVE-2026-109089,7.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93438
+https://access.redhat.com/errata/RHSA-2026:93441"
+Red Hat update for libXi,CVE-2026-109090,7.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93438
+https://access.redhat.com/errata/RHSA-2026:93441"
+Red Hat update for thunderbird,CVE-2026-109778,8.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
+Red Hat update for thunderbird,CVE-2026-109765,4.2,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
+Red Hat update for thunderbird,CVE-2026-109766,4.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
+Red Hat update for thunderbird,CVE-2026-109710,5.4,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
+Red Hat update for thunderbird,CVE-2026-109776,4.2,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
+Red Hat update for thunderbird,CVE-2026-109783,4.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
+Red Hat update for thunderbird,CVE-2026-109775,6.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
+Red Hat update for thunderbird,CVE-2026-109734,4.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
+Red Hat update for thunderbird,CVE-2026-109767,4.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
+Red Hat update for thunderbird,CVE-2026-109764,4.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
+Red Hat update for thunderbird,CVE-2026-109781,6.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
+Red Hat update for thunderbird,CVE-2026-109731,8.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
+Red Hat update for thunderbird,CVE-2026-109770,4.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
+Red Hat update for thunderbird,CVE-2026-109777,4.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
+Red Hat update for libxml2,CVE-2026-74860,8.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93463
+Red Hat update for libxml2,CVE-2026-11979,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93463
+Red Hat update for libxml2,CVE-2026-86140,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93463
+Red Hat update for libxml2,CVE-2026-86142,6.9,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93463
+Red Hat update for libxml2,CVE-2026-86138,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93463
+Red Hat update for libxml2,CVE-2026-6653,5.9,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93463
+Red Hat update for libxml2,CVE-2026-86144,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93463
+Red Hat update for libxml2,CVE-2026-86143,7.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93463
+Red Hat update for podman,CVE-2025-11395,5.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93464
+Red Hat update for freerdp,CVE-2026-91953,6.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93537
+https://access.redhat.com/errata/RHSA-2026:93559"
+Red Hat update for freerdp,CVE-2026-91959,6.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93537
+https://access.redhat.com/errata/RHSA-2026:93559"
+Red Hat update for freerdp,CVE-2026-91964,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93537
+https://access.redhat.com/errata/RHSA-2026:93559"
+Red Hat update for freerdp,CVE-2026-91954,6.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93537
+https://access.redhat.com/errata/RHSA-2026:93559"
+Red Hat update for freerdp,CVE-2026-91956,6.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93537
+https://access.redhat.com/errata/RHSA-2026:93559"
+Red Hat update for freerdp,CVE-2026-91963,6.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93537
+https://access.redhat.com/errata/RHSA-2026:93559"
+Red Hat update for libkcapi,CVE-2026-71226,7.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93453
+Red Hat update for kernel,CVE-2026-64109,8.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93436
+Red Hat update for kernel,CVE-2026-72083,9.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93436
+Red Hat update for kernel,CVE-2026-93787,8.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93436
+Red Hat update for kernel,CVE-2026-74283,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93436
+Red Hat update for kernel,CVE-2026-63924,9.8,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93047
+https://access.redhat.com/errata/RHSA-2026:93436"
+Red Hat update for kernel,CVE-2026-63922,9.8,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93047
+https://access.redhat.com/errata/RHSA-2026:93436"
+Red Hat update for tomcat,CVE-2026-65927,7.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93469
+Red Hat update for tomcat,CVE-2026-68569,8.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93469
+Red Hat update for tomcat,CVE-2026-68763,7.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93469
+Red Hat update for tomcat,CVE-2026-65637,9.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93469
+Red Hat update for tomcat,CVE-2026-65905,9.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93469
+Red Hat update for tomcat,CVE-2026-65182,9.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93469
+Red Hat update for tomcat,CVE-2026-68525,9.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93469
+Red Hat update for curl,CVE-2026-1965,6.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93454
+Red Hat update for curl,CVE-2026-8458,6.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93454
+Red Hat update for curl,CVE-2026-8924,9.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93454
+Red Hat update for curl,CVE-2026-11856,9.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93454
+Red Hat update for curl,CVE-2026-8286,8.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93454
+Red Hat update for curl,CVE-2026-3783,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93454
+Red Hat update for curl,CVE-2026-9547,7.4,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93454
+Red Hat update for curl,CVE-2026-8927,9.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93454
+Red Hat update for util-linux,CVE-2026-53612,7,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93461
+Red Hat update for util-linux,CVE-2026-78410,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93461
+Red Hat update for util-linux,CVE-2026-53615,8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93461
+Red Hat update for util-linux,CVE-2026-53614,7,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93461
+Red Hat update for util-linux,CVE-2026-27456,4.7,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93461
+Red Hat update for util-linux,CVE-2026-76642,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93461
+Red Hat update for util-linux,CVE-2026-78408,7.9,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93461
+Red Hat update for util-linux,CVE-2026-13595,6.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93461
+Red Hat update for nginx,CVE-2026-60005,8.2,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93467
+https://access.redhat.com/errata/RHSA-2026:93468
+https://access.redhat.com/errata/RHSA-2026:93472"
+Red Hat update for nginx,CVE-2026-56434,6.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93467
+https://access.redhat.com/errata/RHSA-2026:93468
+https://access.redhat.com/errata/RHSA-2026:93472"
+Red Hat update for postgresql:16,CVE-2026-103484,8.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93460
+Red Hat update for freerdp,CVE-2026-91947,7.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93559
+Red Hat update for freerdp,CVE-2026-91946,6.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93559
+Red Hat update for kernel-rt,CVE-2022-50315,4.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
+Red Hat update for kernel-rt,CVE-2026-89846,7.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
+Red Hat update for kernel-rt,CVE-2026-63984,9.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
+Red Hat update for kernel-rt,CVE-2026-53246,7,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
+Red Hat update for kernel-rt,CVE-2026-63802,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
+Red Hat update for kernel-rt,CVE-2026-80792,7,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
+Red Hat update for kernel-rt,CVE-2026-52972,7,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
+Red Hat update for kernel-rt,CVE-2026-64319,9.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
+Red Hat update for kernel-rt,CVE-2026-43450,7.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
+Red Hat update for kernel-rt,CVE-2026-72243,7.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
+Red Hat update for kernel-rt,CVE-2026-74641,7,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
+Red Hat update for kernel-rt,CVE-2026-63993,9.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
+Red Hat update for kernel-rt,CVE-2025-68745,9.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
+Red Hat update for kernel-rt,CVE-2026-63831,8.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
+Red Hat update for kernel-rt,CVE-2026-43020,7.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
+Red Hat update for kernel-rt,CVE-2026-53224,9.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
+Red Hat update for kernel-rt,CVE-2026-63920,7,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
+Red Hat update for kernel-rt,CVE-2026-72098,9.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
+Red Hat update for kernel-rt,CVE-2026-64017,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
+Red Hat update for kernel-rt,CVE-2026-43493,9.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
+Red Hat update for kernel-rt,CVE-2026-46149,7.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
+Red Hat update for ipa,CVE-2026-19550,8.2,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93071
+Red Hat update for ipa,CVE-2026-11861,9.6,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93071
+Red Hat update for ipa,CVE-2026-18147,8.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93071
+Red Hat update for ipa,CVE-2026-13097,8.7,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93071
+Red Hat update for ipa,CVE-2026-73197,7.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93071
