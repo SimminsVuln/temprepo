@@ -1,387 +1,893 @@
 Title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,https://lists.apache.org/thread/fgggbv3sjjqw7p6q0j88gspt9b2rb728
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119270,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+Google Chrome Multiple Vulnerabilities,CVE-2026-119265,Critical,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
 https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-76028,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+Google Chrome Multiple Vulnerabilities,CVE-2026-121112,Critical,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121130,Critical,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121187,Critical,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121215,Critical,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121232,Critical,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121233,Critical,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121250,Critical,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121251,Critical,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-119262,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
 https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119266,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+Google Chrome Multiple Vulnerabilities,CVE-2026-119264,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
 https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119263,9.6,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+Google Chrome Multiple Vulnerabilities,CVE-2026-119266,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
 https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-76029,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+Google Chrome Multiple Vulnerabilities,CVE-2026-119267,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
 https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-76026,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+Google Chrome Multiple Vulnerabilities,CVE-2026-119268,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
 https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119268,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+Google Chrome Multiple Vulnerabilities,CVE-2026-121030,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121033,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121037,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121038,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121042,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121044,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121045,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121052,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121055,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121060,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121062,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121064,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121065,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121066,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121068,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121069,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121070,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121072,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121073,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121075,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121076,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121080,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121081,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121083,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121084,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121086,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121090,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121093,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121098,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121099,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121100,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121103,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121104,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121105,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121109,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121110,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121113,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121115,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121117,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121119,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121123,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121125,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121128,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121129,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121134,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121141,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121159,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121160,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121164,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121165,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121166,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121167,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121168,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121171,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121174,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121181,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121185,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121193,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121194,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121196,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121197,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121199,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121200,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121207,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121210,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121212,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121213,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121214,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121219,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121227,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121235,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121236,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121245,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121253,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121254,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-76029,High,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
 https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119264,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+Google Chrome Multiple Vulnerabilities,CVE-2026-118306,Low,,,,11/3 CH - No Exploit/POC known,https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-119271,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
 https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119265,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+Google Chrome Multiple Vulnerabilities,CVE-2026-121029,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121031,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121032,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121036,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121039,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121040,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121041,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121048,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121053,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121059,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121067,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121071,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121078,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121079,Low,,,,11/3 CH - No Exploit/POC known,https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html
+Google Chrome Multiple Vulnerabilities,CVE-2026-121087,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121095,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121097,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121107,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121111,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121116,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121120,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121124,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121126,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121127,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121131,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121133,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121136,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121140,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121143,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121148,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121158,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121161,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121175,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121176,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121179,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121182,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121188,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121189,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121190,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121195,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121203,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121208,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121211,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121216,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121218,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121221,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121222,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121226,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121229,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121237,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121238,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121239,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121244,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121247,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121255,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121256,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121257,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-76028,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
 https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119267,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+Google Chrome Multiple Vulnerabilities,CVE-2026-76031,Low,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
 https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119269,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+Google Chrome Multiple Vulnerabilities,CVE-2026-119260,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
 https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119262,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+Google Chrome Multiple Vulnerabilities,CVE-2026-119261,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
 https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-76027,4.3,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+Google Chrome Multiple Vulnerabilities,CVE-2026-119263,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
 https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119272,4.3,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+Google Chrome Multiple Vulnerabilities,CVE-2026-119269,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
 https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119261,9.6,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+Google Chrome Multiple Vulnerabilities,CVE-2026-119270,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
 https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119260,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+Google Chrome Multiple Vulnerabilities,CVE-2026-119272,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
 https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-76024,6.5,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+Google Chrome Multiple Vulnerabilities,CVE-2026-121034,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121035,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121043,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121046,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121047,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121049,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121050,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121051,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121054,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121057,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121061,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121063,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121074,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121077,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121082,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121085,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121088,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121089,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121091,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121092,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121094,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121096,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121101,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121102,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121106,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121108,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121114,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121118,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121121,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121122,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121132,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121135,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121137,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121138,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121142,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121156,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121157,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121162,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121163,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121169,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121170,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121172,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121173,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121177,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121178,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121180,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121183,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121184,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121186,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121198,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121201,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121202,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121204,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121205,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121206,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121209,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121217,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121220,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121223,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121224,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121225,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121228,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121230,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121231,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121234,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121240,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121241,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121242,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121243,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121246,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121248,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121249,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-121252,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/chrome-for-android-update.html
+https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop.html"
+Google Chrome Multiple Vulnerabilities,CVE-2026-76024,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
 https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-76030,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+Google Chrome Multiple Vulnerabilities,CVE-2026-76025,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
 https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-119271,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+Google Chrome Multiple Vulnerabilities,CVE-2026-76026,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
 https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-76025,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+Google Chrome Multiple Vulnerabilities,CVE-2026-76027,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
 https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
-Microsoft Edge (Chromium-Based) Multiple Vulnerabilities,CVE-2026-76031,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
+Google Chrome Multiple Vulnerabilities,CVE-2026-76030,Medium,,,,11/3 CH - No Exploit/POC known,"https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html
+https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#november-02-2026
 https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-30-2026"
-Red Hat update for cockpit-machines,CVE-2026-92768,5.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:86970
+Jenkins Multiple Vulnerabilities,CVE-2026-117625,7.1,,,,11/3 CH - No Exploit/POC known,https://www.jenkins.io/security/advisory/2026-10-28
+Jenkins Multiple Vulnerabilities,CVE-2026-117626,7.1,,,,11/3 CH - No Exploit/POC known,https://www.jenkins.io/security/advisory/2026-10-28
+Jenkins Multiple Vulnerabilities,CVE-2026-117613,8,,,,11/3 CH - No Exploit/POC known,https://www.jenkins.io/security/advisory/2026-10-28
+Jenkins Multiple Vulnerabilities,CVE-2026-117620,8,,,,11/3 CH - No Exploit/POC known,https://www.jenkins.io/security/advisory/2026-10-28
+Jenkins Multiple Vulnerabilities,CVE-2026-117623,8,,,,11/3 CH - No Exploit/POC known,https://www.jenkins.io/security/advisory/2026-10-28
+Jenkins Multiple Vulnerabilities,CVE-2026-117621,8,,,,11/3 CH - No Exploit/POC known,https://www.jenkins.io/security/advisory/2026-10-28
+Jenkins Multiple Vulnerabilities,CVE-2026-117622,8,,,,11/3 CH - No Exploit/POC known,https://www.jenkins.io/security/advisory/2026-10-28
+Jenkins Multiple Vulnerabilities,CVE-2026-117619,8.1,,,,11/3 CH - No Exploit/POC known,https://www.jenkins.io/security/advisory/2026-10-28
+Jenkins Multiple Vulnerabilities,CVE-2026-117618,8.1,,,,11/3 CH - No Exploit/POC known,https://www.jenkins.io/security/advisory/2026-10-28
+Jenkins Multiple Vulnerabilities,CVE-2026-117616,8.8,,,,11/3 CH - No Exploit/POC known,https://www.jenkins.io/security/advisory/2026-10-28
+Jenkins Multiple Vulnerabilities,CVE-2026-117614,8.8,,,,11/3 CH - No Exploit/POC known,https://www.jenkins.io/security/advisory/2026-10-28
+Jenkins Multiple Vulnerabilities,CVE-2026-117612,8.8,,,,11/3 CH - No Exploit/POC known,https://www.jenkins.io/security/advisory/2026-10-28
+Jenkins Multiple Vulnerabilities,CVE-2026-117617,8.8,,,,11/3 CH - No Exploit/POC known,https://www.jenkins.io/security/advisory/2026-10-28
+Jenkins Multiple Vulnerabilities,CVE-2026-117615,8.8,,,,11/3 CH - No Exploit/POC known,https://www.jenkins.io/security/advisory/2026-10-28
+Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2026-66783,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:85227
+Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2026-66782,7.4,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:85227
+Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2026-32936,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:85227
+Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2026-66787,8.7,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:85227
+Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2026-66785,8.7,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:85227
+Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2026-66786,9.1,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:85227
+Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2026-35579,9.8,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:85227
+Red Hat Advanced Cluster Management for Kubernetes Multiple Vulnerabilities,CVE-2026-66788,9.9,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:85227
+Red Hat libXtst Rejection Notice,CVE-2026-94286,7.1,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93449
+https://access.redhat.com/errata/RHSA-2026:93450
+https://access.redhat.com/errata/RHSA-2026:93451"
+Red Hat pki-core:10.6 Rejection Notice,CVE-2026-76561,7.2,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93668
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-18508,7.1,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-18477,7.1,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-2575,7.1,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-59844,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-53789,7.1,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-59843,7.1,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-53802,7.1,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-53793,7.4,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-15563,7.4,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-59850,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-50010,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-3505,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-5588,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-42587,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-70464,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-4634,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-50193,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-7507,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2025-9784,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-48043,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-42578,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-45416,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2025-14813,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-7307,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-66046,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-59847,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-68494,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-93990,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-70453,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-2092,7.7,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-53803,7.8,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-70460,8.1,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-44249,8.1,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-53790,8.1,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-53783,8.1,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-70461,8.2,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-70458,8.2,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-70456,8.2,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-42579,9.1,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-42581,9.8,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-45674,10,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat Single Sign-On Multiple Vulnerabilities,CVE-2026-47691,10,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:76134
+Red Hat update for aspell,CVE-2026-103658,7.4,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:92615
+Red Hat update for cockpit-machines,CVE-2026-92745,7.1,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:86970
 https://access.redhat.com/errata/RHSA-2026:86971"
-Red Hat update for cockpit-machines,CVE-2026-92745,5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:86970
+Red Hat update for cockpit-machines,CVE-2026-92747,7.1,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:86970
 https://access.redhat.com/errata/RHSA-2026:86971"
-Red Hat update for cockpit-machines,CVE-2026-92747,5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:86970
+Red Hat update for cockpit-machines,CVE-2026-92768,7.4,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:86970
 https://access.redhat.com/errata/RHSA-2026:86971"
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-83380,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91410,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91462,5.9,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91382,6.5,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91397,3.6,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91453,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91411,6.5,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91394,5.9,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91417,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-83374,5.9,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-83395,6.5,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91379,4.7,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91334,3.7,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-83387,5.9,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91400,3.1,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91463,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-87290,5.9,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-114820,9.1,No Known,,,11/2 CH - No Exploit/POC known,"https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-https://www.oracle.com/security-alerts/alert-cve-2026-114820.html"
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91487,4.8,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91398,6.8,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91461,3.7,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-87367,3.7,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91418,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91464,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-87292,3.7,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91380,4,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91374,4.8,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-83381,4.8,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-83400,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91332,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-83376,3.7,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91373,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91395,6.5,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-87294,6.5,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91333,3.7,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91451,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-87291,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91381,3.7,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91415,7,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-87293,5.4,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91452,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91375,4.7,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-83378,4.8,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91396,6.5,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Microsoft build of OpenJDK Multiple Vulnerabilities,CVE-2026-91335,2.6,No Known,,,11/2 CH - No Exploit/POC known,https://learn.microsoft.com/en-us/java/openjdk/release-notes#openjdk-1702102
-Red Hat update for opentelemetry-collector,CVE-2026-78669,7.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93596
-Red Hat update for opentelemetry-collector,CVE-2026-97031,7.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93596
-Red Hat update for opentelemetry-collector,CVE-2026-111943,6.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93596
-Red Hat update for opentelemetry-collector,CVE-2026-94440,7.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93596
-Red Hat update for opentelemetry-collector,CVE-2026-78667,7.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93596
-Red Hat update for gimp,CVE-2026-18307,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
-Red Hat update for gimp,CVE-2026-18305,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
-Red Hat update for gimp,CVE-2026-18304,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
-Red Hat update for gimp,CVE-2026-58379,7.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
-Red Hat update for gimp,CVE-2026-90948,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
-Red Hat update for gimp,CVE-2026-58384,7.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
-Red Hat update for gimp,CVE-2026-59090,8.4,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
-Red Hat update for gimp,CVE-2026-90947,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
-Red Hat update for gimp,CVE-2026-92248,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
-Red Hat update for gimp,CVE-2026-42169,7.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
-Red Hat update for gimp,CVE-2026-97185,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
-Red Hat update for gimp,CVE-2026-18306,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
-Red Hat update for gimp,CVE-2026-18301,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
-Red Hat update for gimp,CVE-2026-18302,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
-Red Hat update for gimp,CVE-2026-18303,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
-Red Hat update for gimp,CVE-2026-58380,7.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
-Red Hat update for gimp,CVE-2026-66758,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93589
-Red Hat update for dotnet10.0,CVE-2026-114148,7.8,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:92420
+Red Hat update for dotnet8.0,CVE-2026-114148,7.8,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:92420
 https://access.redhat.com/errata/RHSA-2026:92427
 https://access.redhat.com/errata/RHSA-2026:92428
 https://access.redhat.com/errata/RHSA-2026:92430
 https://access.redhat.com/errata/RHSA-2026:92431
 https://access.redhat.com/errata/RHSA-2026:92438
 https://access.redhat.com/errata/RHSA-2026:92511
+https://access.redhat.com/errata/RHSA-2026:93456
 https://access.redhat.com/errata/RHSA-2026:93457
 https://access.redhat.com/errata/RHSA-2026:93459"
-Red Hat update for dotnet11.0,CVE-2026-62909,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:92511
-Red Hat update for firefox,CVE-2026-109740,8.3,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for emacs,CVE-2026-77219,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:84591
+Red Hat update for emacs,CVE-2026-96442,7.8,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:84591
+https://access.redhat.com/errata/RHSA-2026:85245
+https://access.redhat.com/errata/RHSA-2026:90800"
+Red Hat update for emacs,CVE-2026-79992,7.8,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:84591
+Red Hat update for firefox,CVE-2026-109760,7.1,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109719,7.1,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109709,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-109759,7.1,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109736,7.2,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109744,7.3,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109751,7.4,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109737,7.4,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109782,7.4,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109742,7.4,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109763,7.4,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109728,7.2,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109712,9.6,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-109706,7.3,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109720,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-109729,7.4,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109724,7.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-109725,7.4,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109708,9.6,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-109711,7.4,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109728,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-109732,7.4,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109706,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-109723,7.4,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109730,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-109727,7.5,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109716,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-109718,7.1,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109729,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-109726,7.1,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109725,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-109738,7.1,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109752,7.1,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109741,7.1,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109754,7.2,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109762,7.3,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109724,7.5,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109717,7.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-109717,7.5,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109707,9.6,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-45186,7.5,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109704,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-109713,7.5,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109705,9.6,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-109733,8.1,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109753,8.1,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109740,8.3,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-77214,8.2,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:89758
-Red Hat update for firefox,CVE-2026-109711,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-109745,8.3,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109709,8.8,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109732,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-109720,8.8,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109723,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-109730,8.8,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-45186,7.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-109716,8.8,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109719,4.2,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-109704,8.8,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109727,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-109743,8.8,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109757,8.8,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109756,8.8,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89757
+https://access.redhat.com/errata/RHSA-2026:93443"
+Red Hat update for firefox,CVE-2026-109712,9.6,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109718,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-109708,9.6,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109726,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-109707,9.6,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109713,7.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
+Red Hat update for firefox,CVE-2026-109705,9.6,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
 https://access.redhat.com/errata/RHSA-2026:89757
 https://access.redhat.com/errata/RHSA-2026:89758
 https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109736,4.3,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
-https://access.redhat.com/errata/RHSA-2026:89757
-https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109744,4.3,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
-https://access.redhat.com/errata/RHSA-2026:89757
-https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109751,4.3,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
-https://access.redhat.com/errata/RHSA-2026:89757
-https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109733,8.1,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
-https://access.redhat.com/errata/RHSA-2026:89757
-https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109738,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
-https://access.redhat.com/errata/RHSA-2026:89757
-https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109737,4.3,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
-https://access.redhat.com/errata/RHSA-2026:89757
-https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109745,8.3,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
-https://access.redhat.com/errata/RHSA-2026:89757
-https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109782,4.3,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
-https://access.redhat.com/errata/RHSA-2026:89757
-https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109752,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
-https://access.redhat.com/errata/RHSA-2026:89757
-https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109753,8.1,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
-https://access.redhat.com/errata/RHSA-2026:89757
-https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109742,4.3,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
-https://access.redhat.com/errata/RHSA-2026:89757
-https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109741,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
-https://access.redhat.com/errata/RHSA-2026:89757
-https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109743,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89756
-https://access.redhat.com/errata/RHSA-2026:89757
-https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109760,3.1,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89757
-https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109763,4.3,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89757
-https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109754,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89757
-https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109762,5.4,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89757
-https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109757,not available,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89757
-https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109756,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89757
-https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for firefox,CVE-2026-109759,4.2,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89757
-https://access.redhat.com/errata/RHSA-2026:93443"
-Red Hat update for libXi,CVE-2026-109089,7.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93438
-https://access.redhat.com/errata/RHSA-2026:93441"
-Red Hat update for libXi,CVE-2026-109090,7.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93438
-https://access.redhat.com/errata/RHSA-2026:93441"
-Red Hat update for thunderbird,CVE-2026-109778,8.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
-Red Hat update for thunderbird,CVE-2026-109765,4.2,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
-Red Hat update for thunderbird,CVE-2026-109766,4.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
-Red Hat update for thunderbird,CVE-2026-109710,5.4,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
-Red Hat update for thunderbird,CVE-2026-109776,4.2,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
-Red Hat update for thunderbird,CVE-2026-109783,4.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
-Red Hat update for thunderbird,CVE-2026-109775,6.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
-Red Hat update for thunderbird,CVE-2026-109734,4.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
-Red Hat update for thunderbird,CVE-2026-109767,4.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
-Red Hat update for thunderbird,CVE-2026-109764,4.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
-Red Hat update for thunderbird,CVE-2026-109781,6.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
-Red Hat update for thunderbird,CVE-2026-109731,8.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
-Red Hat update for thunderbird,CVE-2026-109770,4.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
-Red Hat update for thunderbird,CVE-2026-109777,4.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93443
-Red Hat update for libxml2,CVE-2026-74860,8.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93463
-Red Hat update for libxml2,CVE-2026-11979,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93463
-Red Hat update for libxml2,CVE-2026-86140,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93463
-Red Hat update for libxml2,CVE-2026-86142,6.9,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93463
-Red Hat update for libxml2,CVE-2026-86138,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93463
-Red Hat update for libxml2,CVE-2026-6653,5.9,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93463
-Red Hat update for libxml2,CVE-2026-86144,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93463
-Red Hat update for libxml2,CVE-2026-86143,7.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93463
-Red Hat update for podman,CVE-2025-11395,5.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93464
-Red Hat update for freerdp,CVE-2026-91953,6.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93537
+Red Hat update for flatpak,CVE-2026-97024,7.4,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89849
+https://access.redhat.com/errata/RHSA-2026:89850
+https://access.redhat.com/errata/RHSA-2026:89859"
+Red Hat update for flatpak,CVE-2026-97023,7.4,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:89849
+https://access.redhat.com/errata/RHSA-2026:89850
+https://access.redhat.com/errata/RHSA-2026:89859"
+Red Hat update for flatpak,CVE-2026-90616,7.4,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:80497
+https://access.redhat.com/errata/RHSA-2026:80498"
+Red Hat update for flatpak,CVE-2026-96808,7.4,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:80497
+https://access.redhat.com/errata/RHSA-2026:80498"
+Red Hat update for flatpak,CVE-2026-96280,7.5,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:80497
+https://access.redhat.com/errata/RHSA-2026:80498"
+Red Hat update for flatpak,CVE-2026-96275,8.8,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:80497
+https://access.redhat.com/errata/RHSA-2026:80498"
+Red Hat update for freerdp,CVE-2026-91953,7.1,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93537
 https://access.redhat.com/errata/RHSA-2026:93559"
-Red Hat update for freerdp,CVE-2026-91959,6.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93537
+Red Hat update for freerdp,CVE-2026-91959,7.1,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93537
 https://access.redhat.com/errata/RHSA-2026:93559"
-Red Hat update for freerdp,CVE-2026-91964,8.8,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93537
+Red Hat update for freerdp,CVE-2026-91954,7.1,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93537
 https://access.redhat.com/errata/RHSA-2026:93559"
-Red Hat update for freerdp,CVE-2026-91954,6.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93537
+Red Hat update for freerdp,CVE-2026-91956,7.2,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93537
 https://access.redhat.com/errata/RHSA-2026:93559"
-Red Hat update for freerdp,CVE-2026-91956,6.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93537
+Red Hat update for freerdp,CVE-2026-91963,7.3,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93537
 https://access.redhat.com/errata/RHSA-2026:93559"
-Red Hat update for freerdp,CVE-2026-91963,6.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93537
+Red Hat update for freerdp,CVE-2026-91964,8.8,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93537
 https://access.redhat.com/errata/RHSA-2026:93559"
-Red Hat update for libkcapi,CVE-2026-71226,7.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93453
-Red Hat update for kernel,CVE-2026-64109,8.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93436
-Red Hat update for kernel,CVE-2026-72083,9.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93436
-Red Hat update for kernel,CVE-2026-93787,8.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93436
-Red Hat update for kernel,CVE-2026-74283,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93436
-Red Hat update for kernel,CVE-2026-63924,9.8,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93047
+Red Hat update for kernel,CVE-2026-63996,7.8,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93911
+https://access.redhat.com/errata/RHSA-2026:93930"
+Red Hat update for kernel,CVE-2026-63987,7.8,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93930
+Red Hat update for kernel,CVE-2026-63924,9.8,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93047
 https://access.redhat.com/errata/RHSA-2026:93436"
-Red Hat update for kernel,CVE-2026-63922,9.8,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93047
+Red Hat update for kernel,CVE-2026-63922,9.8,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93047
 https://access.redhat.com/errata/RHSA-2026:93436"
-Red Hat update for tomcat,CVE-2026-65927,7.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93469
-Red Hat update for tomcat,CVE-2026-68569,8.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93469
-Red Hat update for tomcat,CVE-2026-68763,7.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93469
-Red Hat update for tomcat,CVE-2026-65637,9.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93469
-Red Hat update for tomcat,CVE-2026-65905,9.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93469
-Red Hat update for tomcat,CVE-2026-65182,9.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93469
-Red Hat update for tomcat,CVE-2026-68525,9.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93469
-Red Hat update for curl,CVE-2026-1965,6.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93454
-Red Hat update for curl,CVE-2026-8458,6.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93454
-Red Hat update for curl,CVE-2026-8924,9.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93454
-Red Hat update for curl,CVE-2026-11856,9.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93454
-Red Hat update for curl,CVE-2026-8286,8.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93454
-Red Hat update for curl,CVE-2026-3783,5.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93454
-Red Hat update for curl,CVE-2026-9547,7.4,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93454
-Red Hat update for curl,CVE-2026-8927,9.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93454
-Red Hat update for util-linux,CVE-2026-53612,7,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93461
-Red Hat update for util-linux,CVE-2026-78410,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93461
-Red Hat update for util-linux,CVE-2026-53615,8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93461
-Red Hat update for util-linux,CVE-2026-53614,7,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93461
-Red Hat update for util-linux,CVE-2026-27456,4.7,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93461
-Red Hat update for util-linux,CVE-2026-76642,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93461
-Red Hat update for util-linux,CVE-2026-78408,7.9,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93461
-Red Hat update for util-linux,CVE-2026-13595,6.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93461
-Red Hat update for nginx,CVE-2026-60005,8.2,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93467
+Red Hat update for libsoup3,CVE-2026-102555,8.2,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:83618
+Red Hat update for libsoup3,CVE-2026-102557,8.6,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:83384
+https://access.redhat.com/errata/RHSA-2026:83618
+https://access.redhat.com/errata/RHSA-2026:84586
+https://access.redhat.com/errata/RHSA-2026:93445
+https://access.redhat.com/errata/RHSA-2026:93446
+https://access.redhat.com/errata/RHSA-2026:93447
+https://access.redhat.com/errata/RHSA-2026:93465
+https://access.redhat.com/errata/RHSA-2026:93466"
+Red Hat update for libsoup3,CVE-2026-102558,8.6,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:83384
+https://access.redhat.com/errata/RHSA-2026:83618
+https://access.redhat.com/errata/RHSA-2026:84586
+https://access.redhat.com/errata/RHSA-2026:93445
+https://access.redhat.com/errata/RHSA-2026:93446
+https://access.redhat.com/errata/RHSA-2026:93447
+https://access.redhat.com/errata/RHSA-2026:93465
+https://access.redhat.com/errata/RHSA-2026:93466"
+Red Hat update for libsoup3,CVE-2026-102560,8.6,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:83384
+https://access.redhat.com/errata/RHSA-2026:83618
+https://access.redhat.com/errata/RHSA-2026:93445
+https://access.redhat.com/errata/RHSA-2026:93446
+https://access.redhat.com/errata/RHSA-2026:93447"
+Red Hat update for libsoup3,CVE-2026-102559,8.6,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:83384
+https://access.redhat.com/errata/RHSA-2026:83618
+https://access.redhat.com/errata/RHSA-2026:84586
+https://access.redhat.com/errata/RHSA-2026:93445
+https://access.redhat.com/errata/RHSA-2026:93446
+https://access.redhat.com/errata/RHSA-2026:93447
+https://access.redhat.com/errata/RHSA-2026:93465
+https://access.redhat.com/errata/RHSA-2026:93466"
+Red Hat update for libsoup3,CVE-2026-102556,8.6,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:83384
+https://access.redhat.com/errata/RHSA-2026:83618
+https://access.redhat.com/errata/RHSA-2026:84586
+https://access.redhat.com/errata/RHSA-2026:93445
+https://access.redhat.com/errata/RHSA-2026:93446
+https://access.redhat.com/errata/RHSA-2026:93447
+https://access.redhat.com/errata/RHSA-2026:93465
+https://access.redhat.com/errata/RHSA-2026:93466"
+Red Hat update for libXi,CVE-2026-109089,7.5,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93438
+https://access.redhat.com/errata/RHSA-2026:93439
+https://access.redhat.com/errata/RHSA-2026:93441"
+Red Hat update for libXi,CVE-2026-109090,7.5,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93438
+https://access.redhat.com/errata/RHSA-2026:93439
+https://access.redhat.com/errata/RHSA-2026:93441"
+Red Hat update for libxml2,CVE-2026-86142,7.4,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93791
+Red Hat update for libxml2,CVE-2026-86143,7.3,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:76134
+https://access.redhat.com/errata/RHSA-2026:93791"
+Red Hat update for libxml2,CVE-2026-86138,7.8,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:76134
+https://access.redhat.com/errata/RHSA-2026:93791"
+Red Hat update for libxml2,CVE-2026-86140,7.8,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:76134
+https://access.redhat.com/errata/RHSA-2026:93791"
+Red Hat update for libxml2,CVE-2026-86144,7.8,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:76134
+https://access.redhat.com/errata/RHSA-2026:93791"
+Red Hat update for libxml2,CVE-2026-74860,8.5,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:76134
+https://access.redhat.com/errata/RHSA-2026:93791"
+Red Hat update for mariadb11.8,CVE-2026-89161,7.4,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:84799
+Red Hat update for mariadb11.8,CVE-2026-103111,7.6,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:84799
+Red Hat update for mariadb11.8,CVE-2026-86145,8.2,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:84799
+Red Hat update for nginx,CVE-2026-56434,7.4,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93467
 https://access.redhat.com/errata/RHSA-2026:93468
 https://access.redhat.com/errata/RHSA-2026:93472"
-Red Hat update for nginx,CVE-2026-56434,6.5,No Known,,,11/2 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93467
+Red Hat update for nginx,CVE-2026-9256,8.1,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93467
 https://access.redhat.com/errata/RHSA-2026:93468
 https://access.redhat.com/errata/RHSA-2026:93472"
-Red Hat update for postgresql:16,CVE-2026-103484,8.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93460
-Red Hat update for freerdp,CVE-2026-91947,7.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93559
-Red Hat update for freerdp,CVE-2026-91946,6.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93559
-Red Hat update for kernel-rt,CVE-2022-50315,4.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
-Red Hat update for kernel-rt,CVE-2026-89846,7.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
-Red Hat update for kernel-rt,CVE-2026-63984,9.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
-Red Hat update for kernel-rt,CVE-2026-53246,7,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
-Red Hat update for kernel-rt,CVE-2026-63802,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
-Red Hat update for kernel-rt,CVE-2026-80792,7,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
-Red Hat update for kernel-rt,CVE-2026-52972,7,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
-Red Hat update for kernel-rt,CVE-2026-64319,9.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
-Red Hat update for kernel-rt,CVE-2026-43450,7.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
-Red Hat update for kernel-rt,CVE-2026-72243,7.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
-Red Hat update for kernel-rt,CVE-2026-74641,7,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
-Red Hat update for kernel-rt,CVE-2026-63993,9.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
-Red Hat update for kernel-rt,CVE-2025-68745,9.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
-Red Hat update for kernel-rt,CVE-2026-63831,8.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
-Red Hat update for kernel-rt,CVE-2026-43020,7.3,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
-Red Hat update for kernel-rt,CVE-2026-53224,9.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
-Red Hat update for kernel-rt,CVE-2026-63920,7,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
-Red Hat update for kernel-rt,CVE-2026-72098,9.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
-Red Hat update for kernel-rt,CVE-2026-64017,7.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
-Red Hat update for kernel-rt,CVE-2026-43493,9.8,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
-Red Hat update for kernel-rt,CVE-2026-46149,7.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93047
-Red Hat update for ipa,CVE-2026-19550,8.2,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93071
-Red Hat update for ipa,CVE-2026-11861,9.6,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93071
-Red Hat update for ipa,CVE-2026-18147,8.1,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93071
-Red Hat update for ipa,CVE-2026-13097,8.7,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93071
-Red Hat update for ipa,CVE-2026-73197,7.5,No Known,,,11/2 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93071
+Red Hat update for nginx,CVE-2026-42533,8.1,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93467
+https://access.redhat.com/errata/RHSA-2026:93468
+https://access.redhat.com/errata/RHSA-2026:93472"
+Red Hat update for nginx,CVE-2026-60005,8.2,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93467
+https://access.redhat.com/errata/RHSA-2026:93468
+https://access.redhat.com/errata/RHSA-2026:93472"
+Red Hat update for opentelemetry-collector,CVE-2026-111943,7.4,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:86203
+https://access.redhat.com/errata/RHSA-2026:93617"
+Red Hat update for opentelemetry-collector,CVE-2026-78667,7.5,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:86203
+https://access.redhat.com/errata/RHSA-2026:93617"
+Red Hat update for opentelemetry-collector,CVE-2026-97031,7.5,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:86203
+https://access.redhat.com/errata/RHSA-2026:93617"
+Red Hat update for opentelemetry-collector,CVE-2026-94440,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93617
+Red Hat update for opentelemetry-collector,CVE-2026-78669,7.5,,,,11/3 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:86203
+https://access.redhat.com/errata/RHSA-2026:93617"
+Red Hat update for perl:5.32,CVE-2026-19953,7.4,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:85917
+Red Hat update for python36:3.6,CVE-2026-88029,8.3,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:82858
+Red Hat update for python-jwt,CVE-2026-32597,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93624
+Red Hat update for python-pillow,CVE-2026-112406,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:92639
+Red Hat update for python-pillow,CVE-2026-112391,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:92639
+Red Hat update for python-pillow,CVE-2026-112892,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:92639
+Red Hat update for python-pillow,CVE-2026-112894,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:92639
+Red Hat update for python-pillow,CVE-2026-112405,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:92639
+Red Hat update for python-pillow,CVE-2026-112402,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:92639
+Red Hat update for python-pillow,CVE-2026-112895,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:92639
+Red Hat update for python-pillow,CVE-2026-112392,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:92639
+Red Hat update for python-pillow,CVE-2026-96640,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:92639
+Red Hat update for python-pillow,CVE-2026-112397,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:92639
+Red Hat update for qt5-qtbase,CVE-2026-19248,7.4,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93924
+Red Hat update for qt5-qtbase,CVE-2026-11573,7.5,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93924
+Red Hat update for wireshark,CVE-2026-95387,8.1,,,,11/3 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:93627
