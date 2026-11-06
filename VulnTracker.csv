@@ -1,322 +1,86 @@
 Title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,https://lists.apache.org/thread/fgggbv3sjjqw7p6q0j88gspt9b2rb728
-Apache ActiveMQ Multiple Vulnerabilities,CVE-2026-108949,6.5,,,,11/4 CH - No Exploit/POC known,"https://lists.apache.org/thread/0oh4k4ty6hv56d4sydjp26l95f4bsnxt
-https://lists.apache.org/thread/0spj0m846vhw3cjyfmzsy3l8vxh6f5t6
-https://lists.apache.org/thread/2l1jbc8j88w1n9bd44vm9bjtj9t3o80n
-https://lists.apache.org/thread/b5gop0kwsm4sr1pgdrfcd14q8hx942j5
-https://lists.apache.org/thread/p8gxq66lmztkrls74wkz3xh9chqd0pwl"
-Apache ActiveMQ Multiple Vulnerabilities,CVE-2026-111822,7.3,,,,11/4 CH - No Exploit/POC known,"https://lists.apache.org/thread/0oh4k4ty6hv56d4sydjp26l95f4bsnxt
-https://lists.apache.org/thread/0spj0m846vhw3cjyfmzsy3l8vxh6f5t6
-https://lists.apache.org/thread/2l1jbc8j88w1n9bd44vm9bjtj9t3o80n
-https://lists.apache.org/thread/b5gop0kwsm4sr1pgdrfcd14q8hx942j5
-https://lists.apache.org/thread/p8gxq66lmztkrls74wkz3xh9chqd0pwl"
-Apache ActiveMQ Multiple Vulnerabilities,CVE-2026-108946,7.3,,,,11/4 CH - No Exploit/POC known,"https://lists.apache.org/thread/0oh4k4ty6hv56d4sydjp26l95f4bsnxt
-https://lists.apache.org/thread/0spj0m846vhw3cjyfmzsy3l8vxh6f5t6
-https://lists.apache.org/thread/2l1jbc8j88w1n9bd44vm9bjtj9t3o80n
-https://lists.apache.org/thread/b5gop0kwsm4sr1pgdrfcd14q8hx942j5
-https://lists.apache.org/thread/p8gxq66lmztkrls74wkz3xh9chqd0pwl"
-Apache ActiveMQ Multiple Vulnerabilities,CVE-2026-111821,7.3,,,,11/4 CH - No Exploit/POC known,"https://lists.apache.org/thread/0oh4k4ty6hv56d4sydjp26l95f4bsnxt
-https://lists.apache.org/thread/0spj0m846vhw3cjyfmzsy3l8vxh6f5t6
-https://lists.apache.org/thread/2l1jbc8j88w1n9bd44vm9bjtj9t3o80n
-https://lists.apache.org/thread/b5gop0kwsm4sr1pgdrfcd14q8hx942j5
-https://lists.apache.org/thread/p8gxq66lmztkrls74wkz3xh9chqd0pwl"
-Apache ActiveMQ Multiple Vulnerabilities,CVE-2026-108500,7.3,,,,11/4 CH - No Exploit/POC known,"https://lists.apache.org/thread/0oh4k4ty6hv56d4sydjp26l95f4bsnxt
-https://lists.apache.org/thread/0spj0m846vhw3cjyfmzsy3l8vxh6f5t6
-https://lists.apache.org/thread/2l1jbc8j88w1n9bd44vm9bjtj9t3o80n
-https://lists.apache.org/thread/b5gop0kwsm4sr1pgdrfcd14q8hx942j5
-https://lists.apache.org/thread/p8gxq66lmztkrls74wkz3xh9chqd0pwl"
-Atlassian Jira axios Update,CVE-2026-101909,8.2,,,,11/4 CH - No Exploit/POC known,https://jira.atlassian.com/browse/JSWSERVER-26999
-Atlassian Jira Service Management Bouncy Castle Update,CVE-2026-59651,7.5,,,,11/4 CH - No Exploit/POC known,https://jira.atlassian.com/browse/JSDSERVER-16790
-Red Hat update for dotnet8.0,CVE-2026-111497,8.1,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93456
-https://access.redhat.com/errata/RHSA-2026:94100
-https://access.redhat.com/errata/RHSA-2026:94101
-https://access.redhat.com/errata/RHSA-2026:94108"
-Red Hat update for firefox,CVE-2026-117977,4.2,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117998,4.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117960,4.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117967,4.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117999,5.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117965,5.4,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117928,5.4,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117957,5.4,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117912,5.4,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117980,6.1,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117865,6.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117880,6.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117878,6.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117906,6.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117913,6.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117885,6.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117875,6.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117877,6.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117927,6.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117916,6.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117902,6.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117863,6.5,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117981,6.5,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117959,6.5,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117958,6.5,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117966,6.5,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117941,6.5,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117951,6.5,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117976,6.5,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117891,7.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117866,7.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117892,7.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117972,7.5,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117963,7.5,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117952,7.5,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117956,7.5,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117922,7.5,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117949,7.5,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117983,7.5,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117946,7.5,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117986,7.5,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117907,7.5,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117873,8.1,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117860,8.1,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117990,8.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117997,8.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117971,8.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117973,8.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117975,8.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117962,8.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117861,8.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117985,8.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117868,8.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117864,8.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117947,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117945,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117887,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117984,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117994,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117893,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117933,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117909,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117987,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117944,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117931,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117989,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117882,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117924,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117934,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117937,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117953,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117926,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117968,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-118000,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117900,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-118003,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117881,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117955,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117915,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117886,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117950,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117943,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117884,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117904,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117879,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117932,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117918,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117979,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117948,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117938,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117942,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117899,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117911,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117914,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117910,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117874,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117991,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-100801,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117982,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117872,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117908,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117894,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117925,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117876,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117940,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117930,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117939,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117993,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117867,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117896,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117919,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117871,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117889,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117870,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117996,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117901,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117898,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117929,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117969,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117869,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117890,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117923,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117978,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117883,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117895,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117905,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117921,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117936,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117888,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117903,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117897,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117954,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117961,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-118004,8.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117988,9.6,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117920,9.6,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117862,9.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117917,9.8,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117970,7.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117992,7.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117935,7.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117995,7.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117964,7.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-117974,7.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
-Red Hat update for firefox,CVE-2026-118002,7.3,,,,11/4 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:93956
-https://access.redhat.com/errata/RHSA-2026:94405"
+Red Hat update for webkit2gtk3,CVE-2026-106399,7,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95194
+Red Hat update for webkit2gtk3,CVE-2026-103629,7,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95194
+Red Hat update for webkit2gtk3,CVE-2026-102325,7,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95194
+Red Hat update for webkit2gtk3,CVE-2026-93387,7,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95194
+Red Hat update for webkit2gtk3,CVE-2026-118319,7,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95194
+Red Hat update for webkit2gtk3,CVE-2026-106379,7,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95194
+Red Hat update for fetchmail,CVE-2026-94184,7,,,,11/5 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:86981
+https://access.redhat.com/errata/RHSA-2026:86982"
+Red Hat update for dnsmasq,CVE-2026-4893,7,,,,11/5 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:95088
+https://access.redhat.com/errata/RHSA-2026:95093
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AHV-11.0.1.8
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AHV-11.0.2
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AHV-11.2.0.2"
+Red Hat update for webkit2gtk3,CVE-2026-113106,7,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95194
+Red Hat update for webkit2gtk3,CVE-2026-91740,7,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95194
+Red Hat update for webkit2gtk3,CVE-2026-91747,7,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95194
+Red Hat update for webkit2gtk3,CVE-2026-91733,7,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95194
+Red Hat update for kernel,CVE-2026-98403,7,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95370
+Red Hat update for kernel,CVE-2026-80571,7,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95370
+Red Hat update for kernel,CVE-2026-80864,7,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95212
+Red Hat update for flatpak,CVE-2026-97024,7.1,,,,11/5 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:95061
+https://access.redhat.com/errata/RHSA-2026:95063
+https://access.redhat.com/errata/RHSA-2026:95064"
+Red Hat update for flatpak,CVE-2026-97023,7.1,,,,11/5 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:95061
+https://access.redhat.com/errata/RHSA-2026:95063
+https://access.redhat.com/errata/RHSA-2026:95064"
+Red Hat pki-core Rejection Notice,CVE-2026-76561,7.2,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95182
+Red Hat update for kernel,CVE-2026-80863,7.3,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95212
+Red Hat update for osbuild-composer,CVE-2026-84445,7.5,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95272
+Red Hat update for dnsmasq,CVE-2026-4890,7.5,,,,11/5 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:95088
+https://access.redhat.com/errata/RHSA-2026:95093
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AHV-11.0.1.8
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AHV-11.0.2
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AHV-11.2.0.2"
+Red Hat update for dnsmasq,CVE-2026-4891,7.5,,,,11/5 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:95088
+https://access.redhat.com/errata/RHSA-2026:95093
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AHV-11.0.1.8
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AHV-11.0.2
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AHV-11.2.0.2"
+Red Hat update for pcre2,CVE-2026-103111,7.6,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95371
+Red Hat update for kernel,CVE-2026-68162,7.8,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95370
+Red Hat update for kernel,CVE-2026-68451,7.8,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95370
+Red Hat update for kernel,CVE-2026-89488,7.8,,,,11/5 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:95212
+https://access.redhat.com/errata/RHSA-2026:95367
+https://access.redhat.com/errata/RHSA-2026:95370"
+Red Hat update for kernel,CVE-2026-72080,7.8,,,,11/5 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:95367
+https://access.redhat.com/errata/RHSA-2026:95370"
+Red Hat update for kernel,CVE-2026-68452,7.8,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95370
+Red Hat update for kernel,CVE-2026-98974,7.8,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95367
+Red Hat update for kernel,CVE-2026-64378,7.8,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95367
+Red Hat update for kernel,CVE-2026-52929,7.8,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95212
+Red Hat update for dnsmasq,CVE-2026-2291,8.1,,,,11/5 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:95088
+https://access.redhat.com/errata/RHSA-2026:95093
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AHV-11.0.1.8
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AHV-11.0.2
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AHV-11.2.0.2"
+Red Hat update for kernel,CVE-2026-80584,8.4,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95370
+Red Hat update for kernel,CVE-2026-74588,8.8,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95370
+Red Hat update for kernel,CVE-2026-80553,8.8,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95370
+Red Hat update for dnsmasq,CVE-2026-4892,8.8,,,,11/5 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:95088
+https://access.redhat.com/errata/RHSA-2026:95093
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AHV-11.0.1.8
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AHV-11.0.2
+https://portal.nutanix.com/page/security/security-advisories/release-advisories/details?id=NXSA-AHV-11.2.0.2"
+Red Hat update for webkit2gtk3,CVE-2026-118348,8.8,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95194
+Red Hat update for webkit2gtk3,CVE-2026-118351,8.8,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95194
+Red Hat update for webkit2gtk3,CVE-2026-119271,8.8,,,,11/5 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:95194
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html"
+Red Hat update for webkit2gtk3,CVE-2026-118354,8.8,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95194
+Red Hat update for webkit2gtk3,CVE-2026-85049,8.8,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95194
+Red Hat update for webkit2gtk3,CVE-2026-119261,9.6,,,,11/5 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:95194
+https://chromereleases.googleblog.com/2026/11/extended-stable-update-for-desktop.html"
+Red Hat update for webkit2gtk3,CVE-2026-118340,9.6,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95194
+Red Hat update for kernel,CVE-2026-74586,9.8,,,,11/5 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:95212
+https://access.redhat.com/errata/RHSA-2026:95367
+https://access.redhat.com/errata/RHSA-2026:95370"
+Red Hat update for kernel,CVE-2026-74752,9.8,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95370
+Red Hat update for kernel,CVE-2026-89479,9.8,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95370
+Red Hat update for kernel,CVE-2026-72221,9.8,,,,11/5 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:95367
+https://access.redhat.com/errata/RHSA-2026:95370"
+Red Hat update for kernel,CVE-2026-64541,9.8,,,,11/5 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:95212
+https://access.redhat.com/errata/RHSA-2026:95370"
+Red Hat update for kernel,CVE-2026-72222,9.8,,,,11/5 CH - No Exploit/POC known,"https://access.redhat.com/errata/RHSA-2026:95367
+https://access.redhat.com/errata/RHSA-2026:95370"
+Red Hat update for kernel,CVE-2026-90315,not available,,,,11/5 CH - No Exploit/POC known,https://access.redhat.com/errata/RHSA-2026:95367
