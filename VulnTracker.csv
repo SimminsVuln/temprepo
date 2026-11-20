@@ -1,57 +1,308 @@
 Title,cve_ids,cvss_v3,"Risk,Score",QID,Detection,Comment,https://lists.apache.org/thread/fgggbv3sjjqw7p6q0j88gspt9b2rb728
-Red Hat update for python-pillow,CVE-2026-112900,9.8,,,,,https://access.redhat.com/errata/RHSA-2026:93077
-Red Hat update for python-pillow,CVE-2026-112398,8.1,,,,,https://access.redhat.com/errata/RHSA-2026:93077
-Red Hat update for python-pillow,CVE-2026-112393,8.1,,,,,https://access.redhat.com/errata/RHSA-2026:93077
-IBM AIX OpenSSL Multiple Vulnerabilities,CVE-2026-35189,5.3,,,,,"https://aix.software.ibm.com/aix/efixes/security/openssl_advisory50.asc
-https://security.netapp.com/advisory/NTAP-20261006-0011/
-https://www.ibm.com/support/pages/node/7294197
-https://www.oracle.com/security-alerts/cspunov2026.html#AppendixDB
-https://www.oracle.com/security-alerts/cspunov2026verbose.html"
-IBM AIX OpenSSL Multiple Vulnerabilities,CVE-2026-54872,3.7,,,,,"https://aix.software.ibm.com/aix/efixes/security/openssl_advisory50.asc
-https://www.ibm.com/support/pages/node/7294197
-https://www.oracle.com/security-alerts/cspunov2026.html#AppendixDB
-https://www.oracle.com/security-alerts/cspunov2026verbose.html"
-IBM AIX OpenSSL Multiple Vulnerabilities,CVE-2026-77696,3.7,,,,,"https://aix.software.ibm.com/aix/efixes/security/openssl_advisory50.asc
-https://www.ibm.com/support/pages/node/7294197
-https://www.oracle.com/security-alerts/cspunov2026.html#AppendixDB
-https://www.oracle.com/security-alerts/cspunov2026verbose.html"
-IBM AIX OpenSSL Multiple Vulnerabilities,CVE-2026-84782,8.2,,,,,"https://aix.software.ibm.com/aix/efixes/security/openssl_advisory50.asc
-https://www.ibm.com/support/pages/node/7294197
-https://www.oracle.com/security-alerts/cspunov2026.html#AppendixDB
-https://www.oracle.com/security-alerts/cspunov2026verbose.html"
-IBM AIX OpenSSL Multiple Vulnerabilities,CVE-2026-75806,5.3,,,,,"https://aix.software.ibm.com/aix/efixes/security/openssl_advisory50.asc
-https://www.ibm.com/support/pages/node/7294197
-https://www.oracle.com/security-alerts/cspunov2026.html#AppendixDB
-https://www.oracle.com/security-alerts/cspunov2026verbose.html"
-IBM AIX Python Multiple Vulnerabilities,CVE-2026-17084,8.1,,,,,"https://aix.software.ibm.com/aix/efixes/security/python_advisory22.asc
-https://www.ibm.com/support/pages/node/7293240"
-IBM AIX Python Multiple Vulnerabilities,CVE-2026-19445,8.1,,,,,"https://aix.software.ibm.com/aix/efixes/security/python_advisory22.asc
-https://www.ibm.com/support/pages/node/7293240"
-IBM AIX Python Multiple Vulnerabilities,CVE-2026-82049,8.1,,,,,"https://aix.software.ibm.com/aix/efixes/security/python_advisory22.asc
-https://www.ibm.com/support/pages/node/7293240"
-IBM AIX Python Multiple Vulnerabilities,CVE-2026-102633,5.9,,,,,"https://aix.software.ibm.com/aix/efixes/security/python_advisory22.asc
-https://www.ibm.com/support/pages/node/7293240
-https://www.oracle.com/security-alerts/cspunov2026.html#AppendixDB
-https://www.oracle.com/security-alerts/cspunov2026verbose.html"
-IBM AIX Python Multiple Vulnerabilities,CVE-2026-93990,7.5,,,,,"https://aix.software.ibm.com/aix/efixes/security/python_advisory22.asc
-https://www.ibm.com/support/pages/node/7293240"
-IBM AIX Python Multiple Vulnerabilities,CVE-2026-19553,7.4,,,,,"https://aix.software.ibm.com/aix/efixes/security/python_advisory22.asc
-https://www.ibm.com/support/pages/node/7293240"
-IBM AIX Python Multiple Vulnerabilities,CVE-2026-15806,7.4,,,,,"https://aix.software.ibm.com/aix/efixes/security/python_advisory22.asc
-https://www.ibm.com/support/pages/node/7293240"
-IBM AIX Python Multiple Vulnerabilities,CVE-2026-87910,7.4,,,,,"https://aix.software.ibm.com/aix/efixes/security/python_advisory22.asc
-https://www.ibm.com/support/pages/node/7293240"
-IBM AIX Python Multiple Vulnerabilities,CVE-2026-15310,7.4,,,,,"https://aix.software.ibm.com/aix/efixes/security/python_advisory22.asc
-https://www.ibm.com/support/pages/node/7293240"
-NGINX ngx_http_v2_module Arbitrary Code Execution Vulnerability,CVE-2026-123007,8.1,,,,,"https://my.f5.com/manage/s/article/K000163926
-https://www.rapid7.com/blog/post/ve-cve-2026-123007-critical-nginx-http-2-integer-underflow-leads-to-rce-fixed/
-https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities
-https://xint.io/blog/nginx2root-remote-code-execution"
-NGINX ngx_http_v2_module Arbitrary Code Execution Vulnerability,CVE-2026-123633,8.1,,,,,"https://my.f5.com/manage/s/article/K000163928
-https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities
-https://xint.io/blog/nginx2root-remote-code-execution"
-Red Hat update for ghostscript,CVE-2026-112177,7.3,,,,,https://access.redhat.com/errata/RHSA-2026:93978
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-130021,8.8,,,,,https://www.mozilla.org/en-US/security/advisories/mfsa2026-130
-Mozilla Firefox Multiple Vulnerabilities,CVE-2026-130020,9.8,,,,,https://www.mozilla.org/en-US/security/advisories/mfsa2026-130
-Splunk Enterprise RapidDiag REST API,CVE-2026-76535,9.1,,,,,
-Splunk SOAR App Wizard RCE ,CVE-2026-131253,9.9,,,,,
+Atlassian Jira Service Management Apache Tomcat Security Bypass Vulnerability,CVE-2026-65637,9.8,,,,11/20 CH - No POC/Exploit Available,https://jira.atlassian.com/browse/JSDSERVER-16788
+F5 BIG-IP Access Policy Manager (APM) Denial of Service Vulnerability,CVE-2026-126336,7.5,,,,11/20 CH - No POC/Exploit Available,https://my.f5.com/manage/s/article/K000163943
+F5 BIG-IP Access Policy Manager (APM) Stack-Based Buffer Overflow Vulnerability,CVE-2026-123637,9.8,,,,11/20 CH - No POC/Exploit Available,https://my.f5.com/manage/s/article/K000163937
+F5 BIG-IP Access Policy Manager (APM) TMM Denial of Service Vulnerability,CVE-2026-125272,7.5,,,,11/20 CH - No POC/Exploit Available,https://my.f5.com/manage/s/article/K000163938
+F5 BIG-IP Access Policy Manager (APM) TMM Denial of Service Vulnerability,CVE-2026-126822,7.5,,,,11/20 CH - No POC/Exploit Available,https://my.f5.com/manage/s/article/K000163942
+F5 BIG-IP Access Policy Manager (APM) TMM Denial of Service Vulnerability,CVE-2026-121812,7.5,,,,11/20 CH - No POC/Exploit Available,https://my.f5.com/manage/s/article/K000163944
+F5 BIG-IP Policy Enforcement Manager (PEM) TMM Arbitrary Code Execution Vulnerability,CVE-2026-121805,9.8,,,,11/20 CH - No POC/Exploit Available,https://my.f5.com/manage/s/article/K000163946
+F5 Multiple BIG-IP Products iControl REST Rejection Notice,CVE-2026-120718,8.1,,,,11/20 CH - No POC/Exploit Available,https://my.f5.com/manage/s/article/K000163929
+F5 Multiple BIG-IP Products iControl SOAP Security Bypass Vulnerability,CVE-2026-125274,8.8,,,,11/20 CH - No POC/Exploit Available,https://my.f5.com/manage/s/article/K000163936
+F5 Multiple BIG-IP Products TMM Arbitrary Code Execution Vulnerability,CVE-2026-120285,9.8,,,,11/20 CH - No POC/Exploit Available,https://my.f5.com/manage/s/article/K000163939
+F5 Multiple BIG-IP Products TMM Arbitrary Code Execution Vulnerability,CVE-2026-116953,9.8,,,,11/20 CH - No POC/Exploit Available,https://my.f5.com/manage/s/article/K000163941
+F5 Multiple BIG-IP Products TMM Arbitrary Code Execution Vulnerability,CVE-2026-120292,9.8,,,,11/20 CH - No POC/Exploit Available,https://my.f5.com/manage/s/article/K000163940
+F5 Multiple BIG-IP Products TMM Arbitrary Code Execution Vulnerability,CVE-2026-120722,9.8,,,,11/20 CH - No POC/Exploit Available,https://my.f5.com/manage/s/article/K000163945
+GitLab Multiple Vulnerabilities,CVE-2026-110750,8.2,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-122226,8.2,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-121948,8.2,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-101358,8.2,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-111747,8.2,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-126141,7.1,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-129252,8.2,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-115219,8.8,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-104934,7,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-108150,7,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-128849,8.2,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-104717,8.2,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-108155,8.2,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-129253,8.2,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-115218,8.2,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-108154,7.1,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-123142,8.2,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-125920,8.8,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-102907,7,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-104902,7,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-115736,7,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-122045,8.2,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-129321,8.2,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-18491,8.2,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-16545,8.2,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-121533,8.2,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-118961,7.1,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-16609,8.2,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-11768,8.8,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-112203,7,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-85778,7,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-115428,7,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-97187,7.6,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-18241,8.2,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-105739,8.7,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+GitLab Multiple Vulnerabilities,CVE-2026-108153,8.7,,,,11/20 CH - No POC/Exploit Available,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-6-released
+IBM AIX OpenSSL Multiple Vulnerabilities,CVE-2026-35189,7,,,,11/20 CH - No POC/Exploit Available,"https://aix.software.ibm.com/aix/efixes/security/openssl_advisory50.asc
+https://www.ibm.com/support/pages/node/7294197"
+PHP Multiple Vulnerabilities,CVE-2026-129182,8.1,,,,11/20 CH - No POC/Exploit Available,"https://www.php.net/ChangeLog-8.php#8.2.36
+https://www.php.net/ChangeLog-8.php#8.3.37
+https://www.php.net/ChangeLog-8.php#8.4.28
+https://www.php.net/ChangeLog-8.php#8.5.13"
+PHP Multiple Vulnerabilities,CVE-2026-129289,9.8,,,,11/20 CH - No POC/Exploit Available,"https://www.php.net/ChangeLog-8.php#8.2.36
+https://www.php.net/ChangeLog-8.php#8.3.37
+https://www.php.net/ChangeLog-8.php#8.4.28
+https://www.php.net/ChangeLog-8.php#8.5.13"
+PHP Multiple Vulnerabilities,CVE-2026-126714,8.2,,,,11/20 CH - No POC/Exploit Available,"https://www.php.net/ChangeLog-8.php#8.2.36
+https://www.php.net/ChangeLog-8.php#8.3.37
+https://www.php.net/ChangeLog-8.php#8.4.28
+https://www.php.net/ChangeLog-8.php#8.5.13"
+PHP Multiple Vulnerabilities,CVE-2026-48841,8.2,,,,11/20 CH - No POC/Exploit Available,"https://www.php.net/ChangeLog-8.php#8.2.36
+https://www.php.net/ChangeLog-8.php#8.3.37
+https://www.php.net/ChangeLog-8.php#8.4.28
+https://www.php.net/ChangeLog-8.php#8.5.13"
+PHP Multiple Vulnerabilities,CVE-2026-129481,8.2,,,,11/20 CH - No POC/Exploit Available,"https://www.php.net/ChangeLog-8.php#8.2.36
+https://www.php.net/ChangeLog-8.php#8.3.37
+https://www.php.net/ChangeLog-8.php#8.4.28
+https://www.php.net/ChangeLog-8.php#8.5.13"
+PHP Multiple Vulnerabilities,CVE-2026-129538,8.2,,,,11/20 CH - No POC/Exploit Available,"https://www.php.net/ChangeLog-8.php#8.2.36
+https://www.php.net/ChangeLog-8.php#8.3.37
+https://www.php.net/ChangeLog-8.php#8.4.28
+https://www.php.net/ChangeLog-8.php#8.5.13"
+PHP Multiple Vulnerabilities,CVE-2026-15353,8.2,,,,11/20 CH - No POC/Exploit Available,"https://www.php.net/ChangeLog-8.php#8.2.36
+https://www.php.net/ChangeLog-8.php#8.3.37
+https://www.php.net/ChangeLog-8.php#8.4.28
+https://www.php.net/ChangeLog-8.php#8.5.13"
+PHP Multiple Vulnerabilities,CVE-2026-129501,8.2,,,,11/20 CH - No POC/Exploit Available,"https://www.php.net/ChangeLog-8.php#8.2.36
+https://www.php.net/ChangeLog-8.php#8.3.37
+https://www.php.net/ChangeLog-8.php#8.4.28
+https://www.php.net/ChangeLog-8.php#8.5.13"
+PHP Multiple Vulnerabilities,CVE-2026-129506,8.2,,,,11/20 CH - No POC/Exploit Available,"https://www.php.net/ChangeLog-8.php#8.2.36
+https://www.php.net/ChangeLog-8.php#8.3.37
+https://www.php.net/ChangeLog-8.php#8.4.28
+https://www.php.net/ChangeLog-8.php#8.5.13"
+PHP Multiple Vulnerabilities,CVE-2026-128090,8.2,,,,11/20 CH - No POC/Exploit Available,"https://www.php.net/ChangeLog-8.php#8.2.36
+https://www.php.net/ChangeLog-8.php#8.3.37
+https://www.php.net/ChangeLog-8.php#8.4.28
+https://www.php.net/ChangeLog-8.php#8.5.13"
+PHP Multiple Vulnerabilities,CVE-2026-128064,8.2,,,,11/20 CH - No POC/Exploit Available,"https://www.php.net/ChangeLog-8.php#8.2.36
+https://www.php.net/ChangeLog-8.php#8.3.37
+https://www.php.net/ChangeLog-8.php#8.4.28
+https://www.php.net/ChangeLog-8.php#8.5.13"
+PHP Multiple Vulnerabilities,CVE-2026-127960,8.2,,,,11/20 CH - No POC/Exploit Available,"https://www.php.net/ChangeLog-8.php#8.2.36
+https://www.php.net/ChangeLog-8.php#8.3.37
+https://www.php.net/ChangeLog-8.php#8.4.28
+https://www.php.net/ChangeLog-8.php#8.5.13"
+PHP Multiple Vulnerabilities,CVE-2026-129291,8.2,,,,11/20 CH - No POC/Exploit Available,"https://www.php.net/ChangeLog-8.php#8.2.36
+https://www.php.net/ChangeLog-8.php#8.3.37
+https://www.php.net/ChangeLog-8.php#8.4.28
+https://www.php.net/ChangeLog-8.php#8.5.13"
+PHP Multiple Vulnerabilities,CVE-2026-129292,8.2,,,,11/20 CH - No POC/Exploit Available,"https://www.php.net/ChangeLog-8.php#8.2.36
+https://www.php.net/ChangeLog-8.php#8.3.37
+https://www.php.net/ChangeLog-8.php#8.4.28
+https://www.php.net/ChangeLog-8.php#8.5.13"
+PHP Multiple Vulnerabilities,CVE-2026-129474,8.2,,,,11/20 CH - No POC/Exploit Available,"https://www.php.net/ChangeLog-8.php#8.2.36
+https://www.php.net/ChangeLog-8.php#8.3.37
+https://www.php.net/ChangeLog-8.php#8.4.28
+https://www.php.net/ChangeLog-8.php#8.5.13"
+PHP Multiple Vulnerabilities,CVE-2026-129496,8.2,,,,11/20 CH - No POC/Exploit Available,"https://www.php.net/ChangeLog-8.php#8.2.36
+https://www.php.net/ChangeLog-8.php#8.3.37
+https://www.php.net/ChangeLog-8.php#8.4.28
+https://www.php.net/ChangeLog-8.php#8.5.13"
+Red Hat libXtst Rejection Notice,CVE-2026-94286,7.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99745
+Red Hat update for compat-openssl10,CVE-2026-84782,8.2,,,,11/20 CH - No POC/Exploit Available,"https://access.redhat.com/errata/RHSA-2026:99724
+https://aix.software.ibm.com/aix/efixes/security/openssl_advisory50.asc
+https://www.ibm.com/support/pages/node/7294197"
+Red Hat update for libX11,CVE-2026-88806,8.8,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99754
+Red Hat update for mysql8.4,CVE-2026-101779,7,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101612,8.2,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101611,8.2,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101766,8.2,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101754,8.2,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101627,8.2,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101609,7.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101750,8.2,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101731,8.8,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101724,7,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101760,7,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101787,7,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101610,7,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101798,8.2,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101621,8.2,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101727,8.2,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101607,7.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101624,7.5,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101776,8.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101784,8.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101732,7.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101751,7.5,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101622,7.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101623,7.5,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101729,8.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101613,8.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101730,8.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101721,7,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101801,7,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101762,7.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101788,7.5,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101761,8.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101733,7.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101803,7.5,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101616,8.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101728,8.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101789,8.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101774,8.2,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101726,7.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101780,7.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101748,7.5,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101799,8.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101778,8.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101795,8.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101800,7,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101773,7.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101797,7.5,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101772,8.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101770,8.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101771,8.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101785,8.3,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for mysql8.4,CVE-2026-101781,8.8,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99720
+Red Hat update for perl-CGI,CVE-2026-120650,7,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99849
+Red Hat update for perl-CGI,CVE-2026-120641,8.8,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99849
+Red Hat update for perl-CGI,CVE-2026-120642,9.1,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99849
+Red Hat update for rhc,CVE-2026-56852,7.5,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99826
+Red Hat update for rhc,CVE-2026-84445,7.5,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:99826
+Red Hat update for rust-sequoia-sq,CVE-2026-93657,7.5,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:85848
+Red Hat update for rust-sequoia-sq,CVE-2026-93599,7.5,,,,11/20 CH - No POC/Exploit Available,https://access.redhat.com/errata/RHSA-2026:85848
+Red Hat update for xorg-x11-server-Xwayland,CVE-2026-93516,7,,,,11/20 CH - No POC/Exploit Available,"https://access.redhat.com/errata/RHSA-2026:84574
+https://access.redhat.com/errata/RHSA-2026:85191
+https://access.redhat.com/errata/RHSA-2026:85193
+https://access.redhat.com/errata/RHSA-2026:86907
+https://access.redhat.com/errata/RHSA-2026:89747
+https://access.redhat.com/errata/RHSA-2026:98476
+https://access.redhat.com/errata/RHSA-2026:98487
+https://access.redhat.com/errata/RHSA-2026:98547
+https://access.redhat.com/errata/RHSA-2026:98548
+https://access.redhat.com/errata/RHSA-2026:98549
+https://access.redhat.com/errata/RHSA-2026:98581
+https://access.redhat.com/errata/RHSA-2026:98658
+https://access.redhat.com/errata/RHSA-2026:98659
+https://access.redhat.com/errata/RHSA-2026:98660
+https://access.redhat.com/errata/RHSA-2026:99515"
+Red Hat update for xorg-x11-server-Xwayland,CVE-2026-88812,7.8,,,,11/20 CH - No POC/Exploit Available,"https://access.redhat.com/errata/RHSA-2026:82015
+https://access.redhat.com/errata/RHSA-2026:85191
+https://access.redhat.com/errata/RHSA-2026:85193
+https://access.redhat.com/errata/RHSA-2026:86907
+https://access.redhat.com/errata/RHSA-2026:89747
+https://access.redhat.com/errata/RHSA-2026:98476
+https://access.redhat.com/errata/RHSA-2026:98487
+https://access.redhat.com/errata/RHSA-2026:98547
+https://access.redhat.com/errata/RHSA-2026:98548
+https://access.redhat.com/errata/RHSA-2026:98549
+https://access.redhat.com/errata/RHSA-2026:98581
+https://access.redhat.com/errata/RHSA-2026:98658
+https://access.redhat.com/errata/RHSA-2026:98659
+https://access.redhat.com/errata/RHSA-2026:98660
+https://access.redhat.com/errata/RHSA-2026:99515"
+Red Hat update for xorg-x11-server-Xwayland,CVE-2026-93520,7.8,,,,11/20 CH - No POC/Exploit Available,"https://access.redhat.com/errata/RHSA-2026:84574
+https://access.redhat.com/errata/RHSA-2026:85191
+https://access.redhat.com/errata/RHSA-2026:85193
+https://access.redhat.com/errata/RHSA-2026:86907
+https://access.redhat.com/errata/RHSA-2026:89747
+https://access.redhat.com/errata/RHSA-2026:95281
+https://access.redhat.com/errata/RHSA-2026:98476
+https://access.redhat.com/errata/RHSA-2026:98487
+https://access.redhat.com/errata/RHSA-2026:98547
+https://access.redhat.com/errata/RHSA-2026:98548
+https://access.redhat.com/errata/RHSA-2026:98549
+https://access.redhat.com/errata/RHSA-2026:98581
+https://access.redhat.com/errata/RHSA-2026:98658
+https://access.redhat.com/errata/RHSA-2026:98659
+https://access.redhat.com/errata/RHSA-2026:98660
+https://access.redhat.com/errata/RHSA-2026:99515
+https://access.redhat.com/errata/RHSA-2026:99611
+https://access.redhat.com/errata/RHSA-2026:99865"
+Red Hat update for xorg-x11-server-Xwayland,CVE-2026-93519,7.8,,,,11/20 CH - No POC/Exploit Available,"https://access.redhat.com/errata/RHSA-2026:84574
+https://access.redhat.com/errata/RHSA-2026:85191
+https://access.redhat.com/errata/RHSA-2026:85193
+https://access.redhat.com/errata/RHSA-2026:86907
+https://access.redhat.com/errata/RHSA-2026:89747
+https://access.redhat.com/errata/RHSA-2026:98476
+https://access.redhat.com/errata/RHSA-2026:98487
+https://access.redhat.com/errata/RHSA-2026:98547
+https://access.redhat.com/errata/RHSA-2026:98548
+https://access.redhat.com/errata/RHSA-2026:98549
+https://access.redhat.com/errata/RHSA-2026:98581
+https://access.redhat.com/errata/RHSA-2026:98658
+https://access.redhat.com/errata/RHSA-2026:98659
+https://access.redhat.com/errata/RHSA-2026:98660
+https://access.redhat.com/errata/RHSA-2026:99515"
+Red Hat update for xorg-x11-server-Xwayland,CVE-2026-93517,7.8,,,,11/20 CH - No POC/Exploit Available,"https://access.redhat.com/errata/RHSA-2026:84574
+https://access.redhat.com/errata/RHSA-2026:85191
+https://access.redhat.com/errata/RHSA-2026:85193
+https://access.redhat.com/errata/RHSA-2026:86907
+https://access.redhat.com/errata/RHSA-2026:89747
+https://access.redhat.com/errata/RHSA-2026:98476
+https://access.redhat.com/errata/RHSA-2026:98487
+https://access.redhat.com/errata/RHSA-2026:98547
+https://access.redhat.com/errata/RHSA-2026:98548
+https://access.redhat.com/errata/RHSA-2026:98549
+https://access.redhat.com/errata/RHSA-2026:98581
+https://access.redhat.com/errata/RHSA-2026:98658
+https://access.redhat.com/errata/RHSA-2026:98659
+https://access.redhat.com/errata/RHSA-2026:98660
+https://access.redhat.com/errata/RHSA-2026:99515"
+Red Hat update for xorg-x11-server-Xwayland,CVE-2026-93521,7.8,,,,11/20 CH - No POC/Exploit Available,"https://access.redhat.com/errata/RHSA-2026:82015
+https://access.redhat.com/errata/RHSA-2026:85191
+https://access.redhat.com/errata/RHSA-2026:85193
+https://access.redhat.com/errata/RHSA-2026:86907
+https://access.redhat.com/errata/RHSA-2026:89747
+https://access.redhat.com/errata/RHSA-2026:98476
+https://access.redhat.com/errata/RHSA-2026:98487
+https://access.redhat.com/errata/RHSA-2026:98547
+https://access.redhat.com/errata/RHSA-2026:98548
+https://access.redhat.com/errata/RHSA-2026:98549
+https://access.redhat.com/errata/RHSA-2026:98581
+https://access.redhat.com/errata/RHSA-2026:98658
+https://access.redhat.com/errata/RHSA-2026:98659
+https://access.redhat.com/errata/RHSA-2026:98660
+https://access.redhat.com/errata/RHSA-2026:99515"
+Red Hat update for xorg-x11-server-Xwayland,CVE-2026-93523,7.8,,,,11/20 CH - No POC/Exploit Available,"https://access.redhat.com/errata/RHSA-2026:82015
+https://access.redhat.com/errata/RHSA-2026:85191
+https://access.redhat.com/errata/RHSA-2026:85193
+https://access.redhat.com/errata/RHSA-2026:86907
+https://access.redhat.com/errata/RHSA-2026:89747
+https://access.redhat.com/errata/RHSA-2026:98476
+https://access.redhat.com/errata/RHSA-2026:98487
+https://access.redhat.com/errata/RHSA-2026:98547
+https://access.redhat.com/errata/RHSA-2026:98548
+https://access.redhat.com/errata/RHSA-2026:98549
+https://access.redhat.com/errata/RHSA-2026:98581
+https://access.redhat.com/errata/RHSA-2026:98658
+https://access.redhat.com/errata/RHSA-2026:98659
+https://access.redhat.com/errata/RHSA-2026:98660
+https://access.redhat.com/errata/RHSA-2026:99515"
+Red Hat update for xorg-x11-server-Xwayland,CVE-2026-93518,7.8,,,,11/20 CH - No POC/Exploit Available,"https://access.redhat.com/errata/RHSA-2026:84574
+https://access.redhat.com/errata/RHSA-2026:85191
+https://access.redhat.com/errata/RHSA-2026:85193
+https://access.redhat.com/errata/RHSA-2026:86907
+https://access.redhat.com/errata/RHSA-2026:89747
+https://access.redhat.com/errata/RHSA-2026:98476
+https://access.redhat.com/errata/RHSA-2026:98487
+https://access.redhat.com/errata/RHSA-2026:98547
+https://access.redhat.com/errata/RHSA-2026:98548
+https://access.redhat.com/errata/RHSA-2026:98549
+https://access.redhat.com/errata/RHSA-2026:98581
+https://access.redhat.com/errata/RHSA-2026:98658
+https://access.redhat.com/errata/RHSA-2026:98659
+https://access.redhat.com/errata/RHSA-2026:98660
+https://access.redhat.com/errata/RHSA-2026:99515"
+Red Hat update for xorg-x11-server-Xwayland,CVE-2026-93522,7.8,,,,11/20 CH - No POC/Exploit Available,"https://access.redhat.com/errata/RHSA-2026:85191
+https://access.redhat.com/errata/RHSA-2026:85193
+https://access.redhat.com/errata/RHSA-2026:98476
+https://access.redhat.com/errata/RHSA-2026:98548
+https://access.redhat.com/errata/RHSA-2026:98581"
